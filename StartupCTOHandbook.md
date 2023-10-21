@@ -55,38 +55,53 @@ When I was stumbling around in the dark trying to figure this out for myself and
 
 # CONTENTS
 
-1. [INTRODUCTION](#introduction)
-1. [PEOPLE & CULTURE](#people--culture)
- 1. MANAGEMENT FUNDAMENTALS
- 2. HIRING AND INTERVIEWING
- 3. ONBOARDING
- 4. PERFORMANCE MANAGEMENT
- 5. TEAM MAKEUP
- 6. LEADERSHIP RESPONSIBILITIES
- 7. WHICH TYPE OF STARTUP CTO ARE YOU?
-
-1. TECHNICAL TEAM MANAGEMENT
- 1. TECH CULTUR AND GENERAL PHILOSOPHY
- 2. TECH DEBT
- 3. TECHNOLOGY ROADMAP
- 4. TECH PROCESS
- 5. DEVELOPER EXPERIENCE (DX)
-
-1. TECH ARCHITECTURE
- 1. ARCHITECTURE
- 2. TOOLS
- 3. DEVOPS
- 4. TESTING
- 5. SOURCE CONTROL
- 6. PRODCTION ESCALATIONS
- 7. IT
- 8. SECURITY AND COMPLIANCE
-
-1. CONCLUSION: MEASURING SUCCESS
-2. BOOK REFERENCES
-3. GLOSSARY
-4. ABOUT THE AUTHOR
-5. ABOUT THE PUBLISHER
+- [THE STARTUP CTO'S HANDBOOK](#the-startup-ctos-handbook)
+  - [ESSENTIAL SKILLS AND BEST PRACTICES FOR HIGH PERFORMING ENGINEERING TEAMS](#essential-skills-and-best-practices-for-high-performing-engineering-teams)
+  - [BY ZACH GOLDBERG](#by-zach-goldberg)
+- [DEDICATIONS](#dedications)
+- [PRAISE](#praise)
+- [CONTENTS](#contents)
+- [INTRODUCTION](#introduction)
+  - [The Author](#the-author)
+  - [Using this Book](#using-this-book)
+- [Business Processes](#business-processes)
+- [People \& Culture](#people--culture)
+  - [Management Fundamentals](#management-fundamentals)
+  - [Hiring and Interviewing](#hiring-and-interviewing)
+    - [Speed is Your Friend!](#speed-is-your-friend)
+    - [WHEN TO HIRE: HEADCOUNT PLANNING](#when-to-hire-headcount-planning)
+    - [SOURCING CANDIDATES!](#sourcing-candidates)
+  - [Onboarding](#onboarding)
+  - [Performance Management](#performance-management)
+  - [Team Makeup](#team-makeup)
+  - [Leadership Responsibilities](#leadership-responsibilities)
+  - [Which Type of Startup CTO Are You?](#which-type-of-startup-cto-are-you)
+    - [The Tech-Focused CTO *AKA The Chief Architect*](#the-tech-focused-cto-aka-the-chief-architect)
+- [Technical Team Management](#technical-team-management)
+  - [Tech Culture and General Philosophy](#tech-culture-and-general-philosophy)
+  - [Tech Debt](#tech-debt)
+  - [Technology Roadmap](#technology-roadmap)
+  - [Tech Process](#tech-process)
+    - [WORKFLOW](#workflow)
+  - [Developer Experience (DX)](#developer-experience-dx)
+- [Tech Architecture](#tech-architecture)
+  - [Architecture](#architecture)
+  - [Tools](#tools)
+    - [Boring Technology](#boring-technology)
+  - [DevOps](#devops)
+  - [Testing](#testing)
+  - [Source Control](#source-control)
+  - [Production Escalations](#production-escalations)
+    - [ROOT CAUSE ANALYSIS (RCA) EXERCISES](#root-cause-analysis-rca-exercises)
+      - [RCA DOCUMENTS](#rca-documents)
+  - [IT](#it)
+  - [Security and Compliance](#security-and-compliance)
+- [Conclusion: Measuring Success](#conclusion-measuring-success)
+- [Book References](#book-references)
+  - [Digital References](#digital-references)
+- [Glossary](#glossary)
+- [About the author](#about-the-author)
+- [About the publisher](#about-the-publisher)
 
 # INTRODUCTION
 
@@ -201,7 +216,7 @@ it's constituted now, and also to scale your approach as the needs and con - str
 
 Recommended Reading: *Managing Humans* by Michael Lopp
 
- e golden rule of management: do what it takes to get the best out of your team. In technical leadership as in any other leadership role, the best measure of your performance as a manager is the performance of the team itself. at means you should be thinking about and spending time doing everything necessary to help individual team members do their best work, both independently and collectively.
+The golden rule of management: do what it takes to get the best out of your team. In technical leadership as in any other leadership role, the best measure of your performance as a manager is the performance of the team itself. at means you should be thinking about and spending time doing everything necessary to help individual team members do their best work, both independently and collectively.
 
 Helping your team succeed requires humility, as it entails consistently putting the needs of your direct reports above your own. You will need to adjust and tweak your style, behavior, thinking, and actions to suit the needs of members of your engineering team. at will include being willing
 
@@ -254,7 +269,7 @@ In my first role as a business leader at WiFast (then Zenreach, now Adentro) we 
 
 I was eager to take advantage of every resource I could to become a better manager. My only problem was I hated most management advice. I found it either overly prescriptive (do X, then Y, then Z) with - out context or insight, or entirely devoid of substance fluff, if you will. at was until I met my first management coach, Jonathan.
 
- e story goes that one of our investors, First Round Capital, was hosting a management summit in San Francisco, about a thirty-min-
+The story goes that one of our investors, First Round Capital, was hosting a management summit in San Francisco, about a thirty-min-
 
 ute drive from our office. us far I d found First Round folks were high quality, so when I came across the invitation, their support temporarily muted my ever-present fluff allergy and I signed up.
 
@@ -262,9 +277,9 @@ When I drove up to the summit, I was encouraged that the audience ![](Aspose.Wor
 
  First Round Capital Management Summit at the top of the page. Sadly, that would be the only thing I wrote for the next four hours.
 
- e first half of the day had three or four speakers talk about various topics, every one of them lacking in any actionable advice or insight. As we broke for lunch, I contemplated driving back early and getting in half a workday at the office. I checked the agenda and noticed an entirely different roster of afternoon speakers, so I decided I d at least hear out the first one.
+The first half of the day had three or four speakers talk about various topics, every one of them lacking in any actionable advice or insight. As we broke for lunch, I contemplated driving back early and getting in half a workday at the office. I checked the agenda and noticed an entirely different roster of afternoon speakers, so I decided I d at least hear out the first one.
 
- e first speaker after lunch was Jonathan. Unlike prior present - ers, he had no slides and he seemed a little rushed, perhaps a tiny bit unprepared, or maybe just nervous, as he walked to the front of the class. e first words out of his mouth, however, told a different story:
+The first speaker after lunch was Jonathan. Unlike prior present - ers, he had no slides and he seemed a little rushed, perhaps a tiny bit unprepared, or maybe just nervous, as he walked to the front of the class. e first words out of his mouth, however, told a different story:
 
  Allow me to transparently manipulate you.
 
@@ -306,7 +321,7 @@ As your organization grows, you'll likely get to the point where you no longer h
 
 be obvious, then, that effective middle managers are critical to the perfor - mance of your organization. it's your job to make sure that your managers have the support, resources, training, and mentorship they need to enable them to do their best work coaching the engineers on their team.
 
- e biggest contributor to cultivating high-quality middle management
+The biggest contributor to cultivating high-quality middle management
 
 is, of course, hiring the right people, but second to that is ongoing training and support. If you re in a position to be overseeing a team of managers, I encourage you to build the following into your organization:
 
@@ -344,7 +359,7 @@ Your engineers should be venting at you regularly, so if they are, don t panic t
 
 With strong engineers, that will mean they re aware of imperfections in the world around them and they want to tell you about them. Your job is not to solve every problem they bring up; your job is to listen, to ask questions to clarify your understanding, and to convince them that you do understand, and then steer them toward solutions. From time to time, there may be a direct ask, or something you can directly help with, but that s not the norm.
 
- e value you re providing here is making your direct reports feel heard and coaching them to productively handle issues themselves.
+The value you re providing here is making your direct reports feel heard and coaching them to productively handle issues themselves.
 
 1:1 Content and Agenda
 
@@ -352,7 +367,7 @@ Ultimately, your goal in a 1:1 meeting is to build a relationship with another p
 
 so they better understand the purpose of your meetings and bring more substantive concerns to future sessions.
 
- e easiest way to bridge your agenda and theirs is to have a shared docu - ment, perhaps with some structure/template, to elicit the kinds of discussion topics you think are important. Having this document available prior to your meeting also gives you and your employee a shared place to capture ideas
+The easiest way to bridge your agenda and theirs is to have a shared docu - ment, perhaps with some structure/template, to elicit the kinds of discussion topics you think are important. Having this document available prior to your meeting also gives you and your employee a shared place to capture ideas
 
 in between meetings, to structure thoughts in advance of a meeting, all of which help make the meeting time more productive and efficient.
 
@@ -382,7 +397,7 @@ contributor s work relate to those goals/objectives
 
 Radical Candor![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.010.png)
 
- e phrase* Radical Candor* was defined by Kim Scott in her book *Radical Candor*. e book defines Radical Candor as communica - tion that incorporates both praise and criticism, and ensures that the delivery involves both caring personally while challenging directly. I think the point is best made in contrast to three other kinds of communication outlined in Scott s book:
+The phrase* Radical Candor* was defined by Kim Scott in her book *Radical Candor*. e book defines Radical Candor as communica - tion that incorporates both praise and criticism, and ensures that the delivery involves both caring personally while challenging directly. I think the point is best made in contrast to three other kinds of communication outlined in Scott s book:
 
 **Obnoxious Aggression:** Sometimes referred to as brutal hon - esty or front-stabbing, characterized by direct challenge but lack of individual caring, perhaps demonstrated by insincere praise or unkind criticism
 
@@ -448,7 +463,7 @@ SYNCHRONOUS CHAT
 
 Chances are high that your company has already adopted some form of synchronous chat platform; in the early 2000s it was commonly Google Chat or an MSN messenger product, while in the 2020s it's more com - monly Slack, Microsoft Teams, or Workspace from Meta. If you re not presently on one of these platforms, it's worth considering their adoption.
 
- e vast majority of companies ranging from day one startups to goliath companies of 100,000-plus have adopted them with great success.
+The vast majority of companies ranging from day one startups to goliath companies of 100,000-plus have adopted them with great success.
 
 Achieving that success means being mindful and planning around some inherent flaws: synchronous chat programs require both parties to stop what they re doing and engage, and they result in conversations that are poorly organized and do not produce lasting artifacts for your team to reference. You can and should recognize these downsides and compensate
 
@@ -502,7 +517,7 @@ A trite example is the dreaded the feature is broken bug report. In nearly all c
 
 Contrast that with a bug report that includes full written reproduction steps as well as a video of a user trying to use the feature and demonstrating the failure. More than likely, this approach will enable the engineer to pro - duce a fix without requiring any further follow-up.
 
- e bottom line is this: any time you send a message to somebody in
+The bottom line is this: any time you send a message to somebody in
 
 an asynchronous format, give that person all the information they need
 
@@ -912,7 +927,7 @@ Todd Jackson, Gmail Product Manager
 
 (see ctohb.com/umbrella and ctohb.com/keytogmail.)
 
-Questions, concerns, and ideas about your product, absent any strict pro - cess for directing them elsewhere, will find their way to management. at includes not just you but everyone in management in your organization. Managers are the default inbox, and the crux of Jackson s statement is that your team is the default outbox. You hear, Hey, there s a bug in X, and you think, OK, engineer Y wrote that feature, go send them the bug. at would be an example of funneling inbound directly at your team.
+Questions, concerns, and ideas about your product, absent any strict pro - cess for directing them elsewhere, will find their way to management. at includes not just you but everyone in management in your organization. Managers are the default inbox, and the crux of Jackson s statement is that your team is the default outbox. You hear, Hey, There'sa bug in X, and you think, OK, engineer Y wrote that feature, go send them the bug. at would be an example of funneling inbound directly at your team.
 
 A better strategy is instead to act as an umbrella for the team. Rather than directing all the inbound in real time to the team, a good manager organizes, prioritizes, and gives the team a structured queue to work with. Your goal is to help the team focus, limit distraction, and provide a place for where inbound should go so it can be efficiently processed.
 
@@ -944,7 +959,7 @@ or limit your investment in relationships with non-technical leaders. Your relat
 
 will give you credibility and enable you to guide the business to making good technical decisions as a whole. Building trust outside the technical team is built the same way any other trust relationship is built: great communica - tion, regular expectation setting by making and meeting commitments, and owning up to mistakes/failures if and when they occur.
 
- e technical leader or CTO who spends all their time deep in code with engineering and barely participates in the leadership team will have little credibility when trying to convince the other C-levels to invest further in engineering. Or worse, they won t even be asked for their input when the time comes to make a hard call. Other leaders will not have the context to understand the value of what the tech team is asking for or the perspective
+The technical leader or CTO who spends all their time deep in code with engineering and barely participates in the leadership team will have little credibility when trying to convince the other C-levels to invest further in engineering. Or worse, they won t even be asked for their input when the time comes to make a hard call. Other leaders will not have the context to understand the value of what the tech team is asking for or the perspective
 
 on how engineering is operating at that moment, and they ll lack the shared vision for what it can be in the future. Only by regularly engaging with the rest of the leadership team, sharing that context, and being part of the con - versation along the way can you, as the technical leader, ensure that the leadership team has a shared understanding of how engineering helps the organization and how it needs to grow over time.
 
@@ -957,7 +972,7 @@ Every CTO CEO relationship is different, though there are a few elements that ar
 
 ALIGNING SPECIFIC OBJECTIVES
 
- e CEO must have complete trust in your ability to lead the technical team to meet business objectives. Building that trust means you need to
+The CEO must have complete trust in your ability to lead the technical team to meet business objectives. Building that trust means you need to
 
 be able to communicate well with the CEO, both through proactive com - munication and making sure the CEO always has enough context to ask good questions.
 
@@ -1029,11 +1044,10 @@ Confirm understanding along the way. Ask questions of your audience during your 
 
 Don t assume you are in any way superior due to your mastery of technical language, or worse, make your audi - ence feel inferior for their lack of knowledge. I don t want to get too technical for you is a great way to turn off an audience.
 
-In general, try to keep your explanations as simple and con - cise as you can. Avoid going down rabbit holes that might be a distraction or otherwise disengage your audience.
+In general, try to keep your explanations as simple and concise as you can. Avoid going down rabbit holes that might be a distraction or otherwise disengage your audience.
 
-51
 
-2. Hiring and Interviewing
+## Hiring and Interviewing
 
 Hiring effectively is one of your highest-impact activities as a technical leader and one of the most challenging to get right. You will often find yourself trying to recruit talent in a supply-constrained market and com - peting against other companies that might have deeper pockets than yours. Your top candidates will likely receive other competing job offers, which means you not only need to qualify candidates but convince them that your opportunity is the right one for them.
 
@@ -1041,70 +1055,47 @@ In that way, hiring is as much a sales activity (where candidates qualify you/yo
 
  is section of the book covers the various sections of the hiring and inter - viewing journey, sequentially, from headcount planning to onboarding.
 
-**HIRE LIKE A STARTUP![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.032.png)**
+**HIRE LIKE A STARTUP!
 
 As a startup, you have several key advantages in hiring, and it's critical you leverage those in the process to ensure you can attract top talent. A few features that give you an edge:
 
- You re smaller, meaning you should also be more nimble, higher-touch,
+* You re smaller, meaning you should also be more nimble, higher-touch, and faster to hire than large competition.
 
-and faster to hire than large competition.
+* You can sell a highly compelling company and personal growth trajectory. You can sell a creative and inspiring workplace culture.
 
- You can sell a highly compelling company and personal growth trajectory. You can sell a creative and inspiring workplace culture.
+* You can sell the impact that successful candidates will make.
 
- You can sell the impact that successful candidates will make.
-
-
-1\.2HIRINAGNDINTERVIEWING
-
- You can offer meaningful equity ownership in the company and thus
-
-the ability to share in the upside of the company s success.
+* You can offer meaningful equity ownership in the company and thus the ability to share in the upside of the company s success.
 
 Here are some practical tips for leveraging these advantages:
 
- To move fast, train and enlist coworkers for interviews before posting
+* To move fast, train and enlist coworkers for interviews before posting the job description. Make sure that everyone understands the sched - uling process, the interview scripts, and scoring criteria, and how to use the Applicant Tracking Software (ATS) to read and leave feedback before you even get started (see Sourcing Candidates, page 59).
 
-the job description. Make sure that everyone understands the sched - uling process, the interview scripts, and scoring criteria, and how to use the Applicant Tracking Software (ATS) to read and leave feedback before you even get started (see Sourcing Candidates, page 59).
+* Schedule all the interviews with each candidate upfront. If your process includes four interviews, get all four on the calendar at the start, ideally within five business days. If your team is quick about leaving their interview feedback (and you should insist that they are), then you can give any candidates that fail out early notice and cancel any pending calendar invitations. e alternative scheduling sub - sequent interviews only after a candidate passes each round adds multiple days in between each step, easily turning what could be a week-long process into three weeks or more.
 
- Schedule all the interviews with each candidate upfront. If your
+* A good rule of thumb, especially at a startup: nobody is too busy or too important to make themselves available to meet with candidates if it makes sense for them to do so, especially for more senior hires. If a strong candidate asks to talk to your CEO and COO, then you should schedule meetings with them.
 
-process includes four interviews, get all four on the calendar at the start, ideally within five business days. If your team is quick about leaving their interview feedback (and you should insist that they are), then you can give any candidates that fail out early notice and cancel any pending calendar invitations. e alternative scheduling sub - sequent interviews only after a candidate passes each round adds multiple days in between each step, easily turning what could be a week-long process into three weeks or more.
+* Ensure that each interviewer has a unique script or guide that covers different material, or material from a different angle than other inter - views. (For more detail on this, see the Ask Only New Questions section of Interviewing Best Practices, page 63.)
 
- A good rule of thumb, especially at a startup: nobody is too busy or
+As ever, there is no free lunch, and the benefits of hiring as a startup also come with tradeoffs, primarily in the form of risk. Candidates are almost certain to ask you questions about your company s product market fit, cash on hand or runway, company culture, and work/life balance. I encour age you to be candid with candidates about these factors, work with your executive team on the facts on the ground, and have good answers to these questions when asked.
 
-too important to make themselves available to meet with candidates
-
-if it makes sense for them to do so, especially for more senior hires. If a strong candidate asks to talk to your CEO and COO, then you should schedule meetings with them.
-
- Ensure that each interviewer has a unique script or guide that covers
-
-different material, or material from a different angle than other inter - views. (For more detail on this, see the Ask Only New Questions section of Interviewing Best Practices, page 63.)
-
-As ever, there is no free lunch, and the benefits of hiring as a startup also come with tradeoffs, primarily in the form of risk. Candidates are almost certain to ask you questions about your company s product market fit, cash
-
-on hand or runway, company culture, and work/life balance. I encour -
-
-age you to be candid with candidates about these factors, work with your executive team on the facts on the ground, and have good answers to these questions when asked.
-
-Speed is Your Friend![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.033.png)
+### Speed is Your Friend!
 
 Remember, speed is your friend when recruiting top talent. If you can move somebody through your full process in a week, you give your startup a major advantage against larger companies whose processes often take months to arrive at a decision.
 
-**WHEN TO HIRE: HEADCOUNT PLANNING![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.034.jpeg)**
+### WHEN TO HIRE: HEADCOUNT PLANNING
 
 Cash is the lifeblood of a young and not-yet-profitable startup, so the deci - sion to commit to a recurring $100,000-plus a year expense in the form of a new engineer s salary should not be taken lightly. Several key factors contribute to headcount decisions, foremost among them need, prioriti - zation, timing, and budget.
 
 ROLE NEED/TEAM GAP
 
- e first step toward deciding to hire is identifying a gap in the team. Gaps come in several forms. Commonly, at an early stage in a company s devel - opment, it's simply a skill gap. For example, your business decides that mobile apps are going to be a key element of your go-to-market strategy, and your founding team has never worked in mobile before. Certainly, they could learn and become effective over time, but it would be far more efficient in both the short and long term to hire a senior engineer who has
+The first step toward deciding to hire is identifying a gap in the team. Gaps come in several forms. Commonly, at an early stage in a company s devel - opment, it's simply a skill gap. For example, your business decides that mobile apps are going to be a key element of your go-to-market strategy, and your founding team has never worked in mobile before. Certainly, they could learn and become effective over time, but it would be far more efficient in both the short and long term to hire a senior engineer who has
 
 experience in and desire to work on mobile to build and maintain that project.
 
 Other kinds of gaps include seniority gaps (not enough senior experi - ence to make good decisions, or not enough junior talent to handle less complex tasks), management gaps (one manager responsible for too many people), or subject matter expertise gaps (no one on the team who under - stands an area of the industry well enough to guide decision-making).
 
- e other major justification for a hire is to increase total bandwidth on
-
-a team. ese kinds of hires should be aligned with some kind of business objective, or product roadmap, that justifies bringing on a new permanent team member at a given time.
+The other major justification for a hire is to increase total bandwidth on a team. ese kinds of hires should be aligned with some kind of business objective, or product roadmap, that justifies bringing on a new permanent team member at a given time.
 
 ROLE PRIORITIZATION AND TIMING
 
@@ -1146,9 +1137,7 @@ your company after going through the process, regardless of whether they were hi
 
 a fair shot at being hired, and avoided unconscious bias as much as possible?
 
- **Scalability:** Can people other than you run the process and be as effec -
-
-tive/have a success rate similar to yours?
+ **Scalability:** Can people other than you run the process and be as effective/have a success rate similar to yours?
 
 EFFICIENCY
 
@@ -1164,15 +1153,13 @@ Not every hire is going to be a home run for your company. Some will be leveled 
 
 As Andy Grove discusses in *High Output Management*, even a world- class interview process is successful only about 70 percent of the time. Fundamentally, there are many risks in hiring: you re trying to predict how someone will perform forty hours a week, week in and week out, based on just a few conversations and data points gathered in an interview process.
 
- e best leaders track their success rate, aren t afraid of admitting hiring mistakes, and will hire slow, fire fast.
+The best leaders track their success rate, aren t afraid of admitting hiring mistakes, and will hire slow, fire fast.
 
- ere s no getting around it: firing a new employee who isn t working
+There's no getting around it: firing a new employee who isn t working
 
 out shortly after they were hired is socially awkward and uncomfortable
 
-for everyone. It is, however, the responsible thing to do for your team. Some practices to help provide transparency to new employees and assist man - agers in making good decisions include implementing a formal ninety-day
-
- probationary or introductory period and required new-employee/ manager check-ins every fifteen or thirty days, or using a contract-to-hire employment structure.
+for everyone. It is, however, the responsible thing to do for your team. Some practices to help provide transparency to new employees and assist man - agers in making good decisions include implementing a formal ninety-day probationary or introductory period and required new-employee/ manager check-ins every fifteen or thirty days, or using a contract-to-hire employment structure.
 
 CANDIDATE EXPERIENCE
 
@@ -1192,7 +1179,7 @@ it's all well and good if you, individually, are capable of hiring effectively. 
 
  at means that somebody else will need to be able to conduct the same interviews and draw the same conclusions at the end of that process that you likely would have if you d conducted the interviews yourself.
 
- e goal of the remainder of this section is to help you create a scalable system for interviewing and hiring that fits your organization s goals and can work seamlessly *without* your direct involvement (once you ve taken the time to calibrate it). By defining and deploying this kind of structure, creating thoughtful documentation, and templating, you enable others
+The goal of the remainder of this section is to help you create a scalable system for interviewing and hiring that fits your organization s goals and can work seamlessly *without* your direct involvement (once you ve taken the time to calibrate it). By defining and deploying this kind of structure, creating thoughtful documentation, and templating, you enable others
 
 to conduct interviews and produce candidate ranking scores that would closely mirror your own.
 
@@ -1208,7 +1195,7 @@ Often these posts can provide good inspiration and calibra - tion, especially wh
 
 CREATING CLARITY ON A ROLE
 
- e traditional job description has a brief description of what the role will do, followed by a bulleted list of requirements for the candidate. I encourage you to write more than that. Rather than focusing on what a successful candidate will do in a particular role, think through the purpose the role serves. What outcomes does the role drive? What kind of impact do you expect from this role in three, six, or twelve months? You may or may not want to publish the answer to these questions as part of the job description, but the exercise of going into detail on expectations will prove valuable nonetheless.
+The traditional job description has a brief description of what the role will do, followed by a bulleted list of requirements for the candidate. I encourage you to write more than that. Rather than focusing on what a successful candidate will do in a particular role, think through the purpose the role serves. What outcomes does the role drive? What kind of impact do you expect from this role in three, six, or twelve months? You may or may not want to publish the answer to these questions as part of the job description, but the exercise of going into detail on expectations will prove valuable nonetheless.
 
 Socialize the answers to these questions with other leaders at your organi - zation and ensure they agree with the answers. Don t be surprised if you get significant feedback on the first version of the responsibilities and outcomes
 
@@ -1246,7 +1233,7 @@ allowed and to what extent.
 
  Include time zone/working hour requirements.
 
-**SOURCING CANDIDATES![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.038.png)**
+### SOURCING CANDIDATES!
 
 When it comes to filling roles in your organization, you'll source quali - fied candidates in three ways: inbound recruiting, outbound recruiting, and referrals. An effective, scalable hiring process should be designed to leverage all three methods.
 
@@ -1310,7 +1297,7 @@ of dollars, which can help you justify a multi-thousand-dollar bonus to any empl
 
 **INTERVIEWING BEST PRACTICES![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.040.png)**
 
- e interview flow is where the rubber meets the road on your ability to deter - mine how well a candidate fits the role you re hiring for. Keep in mind that there is no perfect interview. e amount of data an interviewer collects in
+The interview flow is where the rubber meets the road on your ability to deter - mine how well a candidate fits the role you re hiring for. Keep in mind that there is no perfect interview. e amount of data an interviewer collects in
 
 a sparse few hours with a candidate, of course, cannot perfectly predict how well somebody will do full-time on the job for months and years to come.
 
@@ -1349,11 +1336,11 @@ Bias takes many forms. Most biases are unconscious and can surround gender, race
 To avoid anchoring or biasing subsequent interviewers, I encour - age interviewers to leave two different kinds of feedback on candidate conversations:
 
 1. Detailed notes and scores
-1. Suggested questions for subsequent conversations.
+2. Suggested questions for subsequent conversations.
 
 Most of the interview feedback should consist of detailed notes and scores against the job-specific scoring guide which has your interview questions planned out in advance (for more, see Technical Interviews, page 76). is feedback should ideally not be read by subsequent team members in advance of their interview to avoid bias. For example, if you know the prior interviewer scored the candidate poorly, you may experi - ence confirmation bias and overvalue any areas where a candidate does poorly in your interview.
 
- e second type of feedback, subsequent interview suggestions, should focus on areas for emphasis or more in-depth exploration in subsequent interviews and not reveal data that might overtly bias further interviews.
+The second type of feedback, subsequent interview suggestions, should focus on areas for emphasis or more in-depth exploration in subsequent interviews and not reveal data that might overtly bias further interviews.
 
 USAGE OF AN APPLICANT TRACKING SYSTEM (ATS)
 
@@ -1363,7 +1350,7 @@ it can require a substantial effort to manage the logistics of where can - didat
 
 logistics, it's easy for candidate experience to suffer and for hiring costs to rise. This is a universal problem, and several high-quality, off-the- shelf Applicant Tracking System (ATS) solutions have been developed at various price points and levels of sophistication to address this problem.
 
- e guidance here is simple: choose and onboard an ATS early. Don t wait until your process is already underwater to take action. Train your team, require widespread adoption of the system, and set expectations for its use with HR, hiring managers, and interviewers.
+The guidance here is simple: choose and onboard an ATS early. Don t wait until your process is already underwater to take action. Train your team, require widespread adoption of the system, and set expectations for its use with HR, hiring managers, and interviewers.
 
 SELLING CANDIDATES
 
@@ -1401,7 +1388,7 @@ feels the process was as fair and transparent as possible.
 
 **INTAKE FORMS![ref3]**
 
- e beginning of the interview funnel is a form that achieves two goals: it provides the candidate with some information about your company and its hiring process, and thus a sample of its culture; and it takes in a bunch of information from the candidate to act as an inexpensive, coarse- grained filter.
+The beginning of the interview funnel is a form that achieves two goals: it provides the candidate with some information about your company and its hiring process, and thus a sample of its culture; and it takes in a bunch of information from the candidate to act as an inexpensive, coarse- grained filter.
 
 Intake Form Preamble
 
@@ -1421,7 +1408,7 @@ steps there are, and generally what the process looks like.
 
 Intake Form Questionnaire
 
- e questionnaire should include a request for the candidate s rØsumØ
+The questionnaire should include a request for the candidate s rØsumØ
 
 (or LinkedIn profile URL), ask some questions required by legal and HR with respect to employment eligibility, and then ideally ask a few qual - ifying questions of the candidate. e qualifying questions should be light-touch, generally freeform, and possibly even technical questions to ensure the candidate is in the right ballpark for the role. For example, for
 
@@ -1455,7 +1442,7 @@ with [relevant programming language or tool] on a scale of 1 10?
 
 **PHONE SCREEN![ref3]**
 
- e initial phone screen, like everything in the interview process, serves a dual function: it's an opportunity to learn more about the candidate, and it's the candidate s first interaction with (and evaluation of) a human at your company.
+The initial phone screen, like everything in the interview process, serves a dual function: it's an opportunity to learn more about the candidate, and it's the candidate s first interaction with (and evaluation of) a human at your company.
 
 Given that this is the first person the candidate will have an interaction with at your company, it's worth thinking carefully about who conducts the interview. e questions at this point should not be very technical in nature and so it's not necessary that the interview be conducted by a member of the technical team. Often it is done by HR or a dedicated recruiting team.
 
@@ -1465,7 +1452,7 @@ Regardless of who runs the phone screen, ensure that person is a good cultural r
 
 target clients (e.g., mobile, desktop, etc.). e interviewer should have a rudimentary understanding of the words they are using here, and not just reading off a list.
 
- e size of the technical team, both at large in the company and that
+The size of the technical team, both at large in the company and that
 
 the candidate would be working with. is should also include general hiring forecasts and roughly how many people are being added over time.
 
@@ -1477,11 +1464,11 @@ ground on that manager, including their tenure at the company, maybe what they d
 
 work.
 
- e interviewer s goal should be to introduce the candidate to the com - pany, its culture, the role, and the hiring process. ey will also ask some
+The interviewer s goal should be to introduce the candidate to the com - pany, its culture, the role, and the hiring process. ey will also ask some
 
 high-level questions of the candidate to confirm their structural fit for the role. You want a candidate to walk away from this interview motivated to do well in the rest of the interview process and excited at the idea of working for your company.
 
- e exact questions asked in a phone screen are thus not super import - ant. Here is an outline of some areas you may want to cover:
+The exact questions asked in a phone screen are thus not super import - ant. Here is an outline of some areas you may want to cover:
 
  Do they have anything constraining their hiring timeline (e.g., other
 
@@ -1509,7 +1496,7 @@ I would refer you to *Team of Teams* by Stanley McChrystal, *Work Rules!* by Las
 
 Currently, there are few formally structured interview programs that are widely used. e one that does come up fairly regularly is called
 
- topgrading,* which refers to at least two different things: the topgrading method and the topgrading interview. e topgrading method (ctohb. com/topgrading) is an entire book hiring methodology that was purport - edly developed by General Electric in the 1980s/90s and written about in Verne Harnish s *Scaling Up*. e topgrading interview (ctohb.com/inter - view), which I call the culture interview, is a specific interview agenda, style, and structure designed to learn about a candidate s background and cultural fit.
+ topgrading,* which refers to at least two different things: the topgrading method and the topgrading interview. e topgrading method (ctohb. com/topgrading) is an entire book hiring methodology that was purport - edly developed by General Electric in the 1980s/90s and written about in Verne Harnish's *Scaling Up*. e topgrading interview (ctohb.com/inter - view), which I call the culture interview, is a specific interview agenda, style, and structure designed to learn about a candidate s background and cultural fit.
 
 As formally designed, the topgrading interview walks a candidate through their employment history and asks the same set of questions about each of the candidate s prior few roles. Depending on the candidate s his - tory and how long they spent at their past few roles, you should cover any - where from two to five past positions. You want to capture a long enough period of time to try and identify trends and see growth, but also not keep the candidate in the interview for three hours discussing internships they had in college twenty years ago.
 
@@ -1601,13 +1588,13 @@ Let candidates know how their submission will be evaluated. If your scoring rubr
 
 As controversial and varied as the methodologies for take-home coding interviews are, technical interviews themselves are even more varied. In general, I encourage you to follow the same fundamentals: ensure you re collecting signals relevant to the actual job, and be respectful and consid - erate of candidates themselves.
 
- e classic technical interview, practiced by many of the largest tech companies, involves some form of shared whiteboard experience where the candidate is asked to solve a technical problem in real time. e problems range from the academic, sort an array with some special conditions, to high-level/hand-wavy architecture, design a system to handle 100 million users posting news feed updates.
+The classic technical interview, practiced by many of the largest tech companies, involves some form of shared whiteboard experience where the candidate is asked to solve a technical problem in real time. e problems range from the academic, sort an array with some special conditions, to high-level/hand-wavy architecture, design a system to handle 100 million users posting news feed updates.
 
- e classic interview approach must work for the big companies, as they continue to use it year after year, but I don t see how they work at a startup. ey re often overly broad, or overly narrow, and thus difficult to score fairly. e academic questions are rarely correlated with the types of problems one solves on a daily basis on the job.
+The classic interview approach must work for the big companies, as they continue to use it year after year, but I don t see how they work at a startup. ey re often overly broad, or overly narrow, and thus difficult to score fairly. e academic questions are rarely correlated with the types of problems one solves on a daily basis on the job.
 
 Most damning, they re not setting candidates up to be successful in the interview environment. After all, I m sure there are very few engi - neers at the big companies writing array-sorting algorithms as part of their day job.
 
- e methodology I outline in this chapter represents an alternative approach I've seen and used myself successfully in a startup environment.
+The methodology I outline in this chapter represents an alternative approach I've seen and used myself successfully in a startup environment.
 
 METHODOLOGY
 
@@ -1619,7 +1606,7 @@ Technical Focus Interview Guide
 
 To find out where a candidate s strengths and weaknesses are, and how much that matters in the role you are hiring for, first you need to decide what topic areas matter for your role. You do this by creating a technical focus interview guide, which should include a list of anywhere from four to eight technical areas, and within each area a set of sample questions, best practice answers, and a scoring guide.
 
- e sample answers and scoring guide are included to ensure fairness
+The sample answers and scoring guide are included to ensure fairness
 
 and uniformity in scoring across multiple interviewers and across candi - dates. You re trying to differentiate where any given candidate has gaps vs. true expertise, so your questions should be designed to elicit one of three kinds of answers: bad, good, and amazing. us, they should lend them - selves to being scored as such. When it comes to scoring a question, to make the difference between a knowledge gap and true expertise obvious, I rec - ommend that a bad answer gets a score of 0‒2, a good answer gets a score of 3‒6, and only an amazing answer gets between 7‒10.
 
@@ -1637,7 +1624,7 @@ See https://ctohb.com/templates for an example focus guide from my own question 
 
 Hiring Juniors vs. Seniors
 
- e qualities you re looking for in a junior hire, with say one to two years
+The qualities you re looking for in a junior hire, with say one to two years
 
 of coding experience, should be very different from a senior hire with ten-plus years. e ideal junior hire should be curious, eager to learn,
 
@@ -1651,7 +1638,7 @@ For a senior hire, the focus interview where you deeply explore the candidate s 
 
 The Interview Itself
 
- e senior software engineer technical focus interview is typically a sixty
+The senior software engineer technical focus interview is typically a sixty
 
 to ninety-minute conversation between the candidate and a lead inter - viewer, ideally with a primarily silent second interviewer on hand to take
 
@@ -1753,13 +1740,13 @@ I've prepared a sample candidate offer spreadsheet at ctohb.com/ samples.
 
 PRESENTING THE OFFER
 
- e moment when you present the offer is when you need to be in super sales mode. Ideally, you ve been selling candidates all along the way so they re already very excited about the company and the opportunity for them. Regardless, this is a big deal for the candidate, so make sure to give the occasion the respect it deserves. roughout the process of explain - ing the offer, remember to be especially upbeat, congratulate the candi - date, and emphasize the fun you'll have and the great things you'll build together. it's also critical that you re transparent and outline all the key points of the offer upfront, especially anything they may not be expecting
+The moment when you present the offer is when you need to be in super sales mode. Ideally, you ve been selling candidates all along the way so they re already very excited about the company and the opportunity for them. Regardless, this is a big deal for the candidate, so make sure to give the occasion the respect it deserves. roughout the process of explain - ing the offer, remember to be especially upbeat, congratulate the candi - date, and emphasize the fun you'll have and the great things you'll build together. it's also critical that you re transparent and outline all the key points of the offer upfront, especially anything they may not be expecting
 
 or used to, such as equity compensation or probation/trial periods.
 
 I recommend making the offer in three parts: a phone call, an email, and a dinner. For the phone call, I suggest calling the candidate without
 
-prior scheduling. At this point you'll have already done a whole bunch of scheduling with the candidate, so there s no need to build up their anxi - ety further by scheduling yet another meeting. Alternatively, you could tell them in writing that you intend to extend an offer and schedule from there,
+prior scheduling. At this point you'll have already done a whole bunch of scheduling with the candidate, so There'sno need to build up their anxi - ety further by scheduling yet another meeting. Alternatively, you could tell them in writing that you intend to extend an offer and schedule from there,
 
 but you lose the impact of being on the line with them when they get the news. I find it's just simpler to call the person and share the news all at once.
 
@@ -1767,7 +1754,7 @@ On the call, you should express excitement, convey the key points of the offer, 
 
 87
 
-3. Onboarding
+## Onboarding
 
 Onboarding new engineers to the team, in most cases, doesn t strictly require a large investment from the team; a good engineer will figure it out eventually. at said, doing nothing will lead to a poor experience for your newest hire. It will slow down their time to productivity, and it may also make it harder to identify how well you ve hired. Stated another way, good onboarding optimizes for three goals:
 
@@ -1800,17 +1787,17 @@ of sharing documentation and setting onboarding milestones. You wouldn t want yo
 
 THE ENGINEERING GUIDEBOOK
 
- e Engineering Guidebook gathers in a single document all of the opin - ions, best practices, structural elements, and business operations of your engineering team. It should be the single source any engineer can rely on
+The Engineering Guidebook gathers in a single document all of the opin - ions, best practices, structural elements, and business operations of your engineering team. It should be the single source any engineer can rely on
 
 to learn about choices and decisions that are expected to be consistent across the engineering organization. Be deliberate and thoughtful about exactly what practices should remain uniform across the organization.
 
- e larger your team becomes, the more it will make sense for pieces of
+The larger your team becomes, the more it will make sense for pieces of
 
 the team to develop their own specialized way of getting work done. at said, for most small/medium startups of, say, less than seventy-five to one hundred developers, there is a ton of value and efficiency to be unlocked
 
 by adhering to a healthy and consistent set of best practices.
 
- e guidebook can take many forms, though my preference is as a slide deck/presentation. Some examples of practices your guidebook should outline:
+The guidebook can take many forms, though my preference is as a slide deck/presentation. Some examples of practices your guidebook should outline:
 
  Software Engineering
 
@@ -1841,7 +1828,7 @@ by adhering to a healthy and consistent set of best practices.
 - Expectations for how performance reviews are conducted, how individuals are evaluated/promoted
 - Expectations for contribution to onboarding/hiring processes.
 
- e guidebook should be clearly labeled as a living document, with a well-defined process in place for proposing, getting feedback on, and incor - porating changes to the guidebook. For example, I've used a Request for Comments (RFC) process for updates.
+The guidebook should be clearly labeled as a living document, with a well-defined process in place for proposing, getting feedback on, and incor - porating changes to the guidebook. For example, I've used a Request for Comments (RFC) process for updates.
 
 WELCOME TO [YOUR COMPANY NAME] ENGINEERING, DAY 1 GUIDE
 
@@ -1883,7 +1870,7 @@ team members to read
 
 As discussed in the hiring chapter, hiring is very hard. Even the most thoughtful hiring processes will not achieve a 100 percent success rate. Said another way, mis-hires are inevitable.
 
- e best way to handle the potential for unsuccessful hires is first to have the humility to acknowledge that your hiring process isn t perfect, and then to be thoughtful about how to measure the success of the new employ - ees and take swift action to correct any mistakes. e process should be transparent upfront to new employees, clearly explaining expectations. Managers should work with new employees to make sure their role is a mutual fit, that the new employee is starting to feel at home in the role, and that they are delivering at a level commensurate with what they were hired for. At sixty or ninety days, it should be clear to both the new employee and the manager whether those expectations are being met.
+The best way to handle the potential for unsuccessful hires is first to have the humility to acknowledge that your hiring process isn t perfect, and then to be thoughtful about how to measure the success of the new employ - ees and take swift action to correct any mistakes. e process should be transparent upfront to new employees, clearly explaining expectations. Managers should work with new employees to make sure their role is a mutual fit, that the new employee is starting to feel at home in the role, and that they are delivering at a level commensurate with what they were hired for. At sixty or ninety days, it should be clear to both the new employee and the manager whether those expectations are being met.
 
 If there is disagreement on whether the employee is being successful, that s a good sign that it's not working out, and you should consider relatively quickly whether there is another spot on the team where the new employee might be a better fit, or if both sides might be better off parting ways.
 
@@ -1909,7 +1896,7 @@ they ll be measured in their first ninety days.
 
 their role.
 
- e scorecard doesn t have to be lengthy or highly nuanced. e key thing is that, whatever form it takes, after ninety days the employee and manager can look at the scorecard and agree on how the employee has per - formed and have a shared feeling of confidence on whether this is going to
+The scorecard doesn t have to be lengthy or highly nuanced. e key thing is that, whatever form it takes, after ninety days the employee and manager can look at the scorecard and agree on how the employee has per - formed and have a shared feeling of confidence on whether this is going to
 
 be a good long-term fit.
 
@@ -1961,7 +1948,7 @@ the candidate to take ownership of any hiccups in their onboarding and contribut
 
 95
 
-4. Performance Management
+## Performance Management
 
 One of the keys to improving employee morale and promoting a positive workplace culture is ensuring that everyone has a clear understanding of how they are perceived in the workplace and has reliable guidance on how
 
@@ -1988,7 +1975,7 @@ Performance management and compensation design should not be done entirely by yo
 
 OVERVIEW
 
- e core of a performance management system is a document, spread - sheet, or other workable artifact here I ll call it a competency matrix (sometimes it's also called an impact matrix or an advancement plan)
+The core of a performance management system is a document, spread - sheet, or other workable artifact here I ll call it a competency matrix (sometimes it's also called an impact matrix or an advancement plan)
 
 that lists skills and areas of impact for each role. e competency matrix provides granularity, specificity, and expectations for what each skill/ impact area looks like at various levels.
 
@@ -2004,7 +1991,7 @@ to encourage managers to grow their skills beyond coding.
 
 CREATING THE COMPETENCY MATRIX
 
- e details of the competency matrix impact every member of the team,
+The details of the competency matrix impact every member of the team,
 
 so it stands to reason that the team should be included in specifying those details. Referring to the Team-Based Decisioning Models section of Mini Management Frameworks, page 33, this is definitely a job for either the straw man or the codevelopment model.
 
@@ -2036,7 +2023,7 @@ As for incentivizing high performance, tying compensation to leveling financiall
 
 Translating levels into fair compensation is slightly more nuanced than most might assume. e easiest thing to do is create a transparent spread - sheet that says everyone at Level X gets paid $Y per year, but a few issues arise from such a strict system: cost of living adjustments (also known as local rates) and non-performance-based compensation bonuses.
 
-GitLab published a great blog post explaining why they pay local rates (see ctohb.com/local. eir compensation calculator is also public at ctohb. com/gitlabcompcalc). at said, there s no one correct way to handle local rates, and you should consider whether or not paying them makes sense for
+GitLab published a great blog post explaining why they pay local rates (see ctohb.com/local. eir compensation calculator is also public at ctohb. com/gitlabcompcalc). at said, There'sno one correct way to handle local rates, and you should consider whether or not paying them makes sense for
 
 your business. If it does, calculate those rates in a way that is both transpar - ent and data-driven.
 
@@ -2084,7 +2071,7 @@ Management titling has more nuanced implications than individual con - tributors
 
 a single team of engineers, who in turn work on a single feature or product.
 
- e next level is typically a director of engineering. Directors are accountable for the performance, alignment, and output of multiple teams within single or highly adjacent products. In most organizations, a director
+The next level is typically a director of engineering. Directors are accountable for the performance, alignment, and output of multiple teams within single or highly adjacent products. In most organizations, a director
 
 is not expected to be a strategic role. In other words, a director isn t setting foundational technical direction or product strategy.
 
@@ -2098,7 +2085,7 @@ and strategic thinker.
 
 Not all skill areas in a competency matrix can be evaluated quantitatively by a manager or spreadsheet, so every team needs a performance review process that can also collect qualitative feedback from managers and peers.
 
- e challenge is to collect qualitative feedback in such a way that it can be used to align with your leveling. In this chapter, I present a methodology I've used to collect feedback that ultimately results in a relatively easy-to-un - derstand scoring system that can produce individual performance levels.
+The challenge is to collect qualitative feedback in such a way that it can be used to align with your leveling. In this chapter, I present a methodology I've used to collect feedback that ultimately results in a relatively easy-to-un - derstand scoring system that can produce individual performance levels.
 
 REVIEW CADENCE
 
@@ -2110,7 +2097,7 @@ of time between reviews is needed in order for individuals to grow and demonstra
 
 REVIEWER SELECTION
 
- e who reviews whom question has no easy answer. Many companies simply have the manager do the review, and that s it. While the manager s feedback is valuable, it can also leave too much room for bias and neglect the equally important perspective of peers and direct reports. e easiest (though slightly more costly) way to run a fair and comprehensive pro - cess is to have every employee receive multiple reviews that include these other perspectives, often called a 360 review.
+The who reviews whom question has no easy answer. Many companies simply have the manager do the review, and that s it. While the manager s feedback is valuable, it can also leave too much room for bias and neglect the equally important perspective of peers and direct reports. e easiest (though slightly more costly) way to run a fair and comprehensive pro - cess is to have every employee receive multiple reviews that include these other perspectives, often called a 360 review.
 
 Here I recommend using the straw man technique (see the Team-Based Decisioning Models section of Mini Management Frameworks, page 33): Each manager should create a list of direct reports and peers who have enough exposure to that team member to write a valuable review, then have a conversation with the employee and get feedback before finalizing the list. Managers should also keep track of how many reviews each employee is being asked to complete to keep the requests manageable.
 
@@ -2118,7 +2105,7 @@ REVIEW QUESTIONS
 
 Your questionnaire should mirror your competency matrix, and review - ers should be encouraged to make explicit references to the matrix.
 
- e same set of questions can apply to each matrix category:
+The same set of questions can apply to each matrix category:
 
  What are some examples of this person excelling in this area?
 
@@ -2154,7 +2141,7 @@ Once the reviews have been submitted, a set of scores should be reflected for ea
 
 ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.058.jpeg)
 
- e challenge now is how to aggregate those scores into a final job level calculation. Some key considerations in this calculation:
+The challenge now is how to aggregate those scores into a final job level calculation. Some key considerations in this calculation:
 
  Protect the integrity of the process (e.g., that an employee didn t collude
 
@@ -2184,14 +2171,14 @@ RESULT DISCUSSION
 
 I encourage managers to provide performance review data ahead of an actual 1:1 performance review meeting to maximize the value of the meeting itself. it's best to give the individual the data and some time to process, so they can be fully engaged when the meeting occurs.
 
- e agenda for the performance review meeting should be simple:
+The agenda for the performance review meeting should be simple:
 
 1. Discuss any strengths or weaknesses that were identified that are unex - pected or otherwise not regularly covered in 1:1s.
 1. Synthesize a small list of focus areas to work on before the next review
 
 period. Many leaders advocate for a single focus area, but I've seen sev - eral individuals grow in more than one way during the given period, so two or three focus areas is a reasonable upper limit, as applicable.
 
-3. Establish a schedule for the manager and employee to regularly check in on those focus areas and ensure there s advancement before the next review.
+3. Establish a schedule for the manager and employee to regularly check in on those focus areas and ensure There'sadvancement before the next review.
 
 COMPENSATION ADJUSTMENT ROLLOUT
 
@@ -2278,13 +2265,13 @@ an individual contributor up to two to three months for a senior execu - tive, w
 
 111
 
-5. Team Makeup
+## Team Makeup
 
- e key difference in impact between junior and senior talent is the con - sistency with which they can reliably solve different kinds of problems. As engineers become more experienced, their judgment and decision-mak - ing improve on larger and larger surface areas. Similarly, you should expect that more senior talent will develop solutions that have fewer defects, last longer, and are more durable to requirements change along
+The key difference in impact between junior and senior talent is the con - sistency with which they can reliably solve different kinds of problems. As engineers become more experienced, their judgment and decision-mak - ing improve on larger and larger surface areas. Similarly, you should expect that more senior talent will develop solutions that have fewer defects, last longer, and are more durable to requirements change along
 
 the way. at s not to say everyone has to be senior; in fact, it's rare that a majority of projects involve architecting brand-new greenfield solutions.
 
- e right blend for any given team considers the types of work to be done
+The right blend for any given team considers the types of work to be done
 
 and staffs the team thoughtfully as a result.
 
@@ -2370,7 +2357,7 @@ its effect on your team and architect a solution to help them be productive and 
 
 Microsoft has published a great article on this topic titled Building pro - ductive teams (ctohb.com/teams) describing what they call the two crews model. Thetwo crews model outlines a feature crew and a customer crew.
 
- e feature crew focuses on the future, building new features. e customer crew focuses on the present, working on active customer issues, diagnosing bugs, and prioritizing site health.
+The feature crew focuses on the future, building new features. e customer crew focuses on the present, working on active customer issues, diagnosing bugs, and prioritizing site health.
 
 Other names for customer crew might be a maintenance team, or a
 
@@ -2394,7 +2381,7 @@ building tooling and expertise at handling issues, making issues less expensive 
 
 junior engineers, to learn and level up on your team.
 
- e first question I get asked about the two crews approach is: how long does somebody stay in the customer crew? ere are four approaches to determining customer crew tenure:
+The first question I get asked about the two crews approach is: how long does somebody stay in the customer crew? ere are four approaches to determining customer crew tenure:
 
  Make the customer crew a permanent, distinct team or department.
 
@@ -2432,7 +2419,7 @@ of how to organize is moot it's one cross-functional team all working on
 
 the same product. By the time your team has grown to 12 or more people, you'll need to start being more deliberate about defining what a pod is, and finding a method that is easy to understand and grounded in your product reality, before breaking your team out into pods.
 
- e advantages of pods are greater team cohesion, autonomy owner - ship, accountability, and overall execution velocity. is approach is not without tradeoffs, however. Having a long-lived group of engineers work on one product can create knowledge silos. As organizations scale, it's also more likely for a product team to make architectural decisions that might optimize locally and lead to duplicate work or inefficient use of compute
+The advantages of pods are greater team cohesion, autonomy owner - ship, accountability, and overall execution velocity. is approach is not without tradeoffs, however. Having a long-lived group of engineers work on one product can create knowledge silos. As organizations scale, it's also more likely for a product team to make architectural decisions that might optimize locally and lead to duplicate work or inefficient use of compute
 
 resources. If you anticipate and plan for these issues arising, the pain they induce when well-managed will be far outweighed by the benefits of autonomous, high-performing pods.
 
@@ -2442,7 +2429,7 @@ resources. If you anticipate and plan for these issues arising, the pain they in
 
 DOCUMENTATION
 
-Being remote means that there s nobody sitting next to you to answer questions, but that doesn t mean the questions go away. ose questions still get asked, only now social context is lost and so perhaps the question goes unanswered for a while. Or, rather than holding questions until the other person takes a break, now they get asked immediately, prompting various kinds of notifications and distracting from focus work. Having a robust set of internal documentation with an effective search feature can speed up time-to-answer and reduce the number of one-on-one context switches that become barriers to getting work done.
+Being remote means that There'snobody sitting next to you to answer questions, but that doesn t mean the questions go away. ose questions still get asked, only now social context is lost and so perhaps the question goes unanswered for a while. Or, rather than holding questions until the other person takes a break, now they get asked immediately, prompting various kinds of notifications and distracting from focus work. Having a robust set of internal documentation with an effective search feature can speed up time-to-answer and reduce the number of one-on-one context switches that become barriers to getting work done.
 
 ASYNCHRONOUS WORK
 
@@ -2476,7 +2463,7 @@ CAMERA ON
 
 Depending on which article you read, 70 90 percent of communication is nonverbal. Using a webcam during a video call doesn t replace all of that 70 percent, but it is unquestionably an improvement over having no video
 
-at all. Since webcams are so cheap now, there s really no justification for not having that additional social communication bandwidth within your company. e common objection is that employees are worried that others may judge their appearance on camera. If that s a concern you are facing, I encourage you to walk through the business justification for wanting as high-quality communication as possible in a remote setting, and have a zero-tolerance policy for any employee who makes inappro - priate remarks on another s appearance. It can also be helpful to create
+at all. Since webcams are so cheap now, There'sreally no justification for not having that additional social communication bandwidth within your company. e common objection is that employees are worried that others may judge their appearance on camera. If that s a concern you are facing, I encourage you to walk through the business justification for wanting as high-quality communication as possible in a remote setting, and have a zero-tolerance policy for any employee who makes inappro - priate remarks on another s appearance. It can also be helpful to create
 
 a space for people to do whatever they feel appropriate to get themselves ready, such as allowing/encouraging background blurs, and occasional video-off to deal with something in reality or to tidy up.
 
@@ -2486,9 +2473,7 @@ Recorded meetings provide a great way to allow employees to get up to speed on a
 
 in the moment. For example, you may want a hiring team of four or five people to watch an interview with a candidate, but having five people in the room at the time may be intimidating. Making a recording of a 1:1 interview is an excellent way to ensure everyone has the opportunity to evaluate the candidate without creating an uncomfortable or unfair situ - ation by overloading the interview meeting itself.
 
-121
-
-6. Leadership Responsibilities
+## Leadership Responsibilities
 
 As an executive, your leadership responsibilities extend beyond the tech - nical components of developing and growing an engineering team. You should be looking to help the company be successful as a whole, with a particular bent toward how technology contributes to that success. Doing that means keeping an eye on how technology is working with the rest of the company by facilitating healthy collaboration with other teams, both in-house and external, as well as putting into place good process and man - agement practices surrounding technology and product development.
 
@@ -2565,7 +2550,7 @@ will mean formally assigning yourself that role, having the prod - uct manager d
 
 your middle managers. Theimplication is that, despite whatever strate - gies and processes executives put in place, it's the middle managers who ultimately have the highest impact on the quantity and quality of output. Middle managers hire individual contributors, set their day-to-day objec - tives, and hold them accountable for quality standards. e best middle managers are mini executives, focused on culture, building collaborative teams, and working to enable them to do their best work. It follows then that, as an executive, you should put a lot of effort into hiring, managing, and training those middle managers.
 
- e complicated topic of training managers deserves an entire book
+The complicated topic of training managers deserves an entire book
 
 on its own, and it's a skill that takes time to master. at said, the top two lessons I can offer you that will provide leverage to all other skills here is to set an example yourself and build a culture of continuous management learning. e minute you hire or promote somebody into management you should make it clear that your expectation is that they will commit to put - ting time and effort into refining their craft of management. you'll go out
 
@@ -2651,7 +2636,7 @@ In general, low-cycle teams are more efficient and able to iterate, inno - vate,
 
 WORK TIME ALLOCATION
 
- e idea of measuring work time allocation is that, while measuring how much work is done is difficult, it's comparatively easy to measure what
+The idea of measuring work time allocation is that, while measuring how much work is done is difficult, it's comparatively easy to measure what
 
 types of work team members are spending their time on. is resulting information is directionally useful. For example, if a team is spending the majority of its time addressing bugs, then it's a good hypothesis that improving software quality and bringing down that time percentage will result in more time allocated to developing new features, and thus an overall improvement in health and velocity.
 
@@ -2757,46 +2742,37 @@ Once you ve agreed on terms and exchanged paperwork, the next step is
 
 to find out who the authorized signers are for your company (assuming you re one of them), get the documentation signed, and keep it organized.
 
-Do not lose or misplace these contracts as they ll be useful for future nego - tiations or due diligence. Ensure you re tracking the costs in your budgets
-
-or with your SaaS management platform (SMP).
+Do not lose or misplace these contracts as they ll be useful for future nego - tiations or due diligence. Ensure you re tracking the costs in your budgets or with your SaaS management platform (SMP).
 
 Post-Sales
 
 After the deal is signed you will likely be handed off to a different repre - sentative at your vendor, someone whose title is similar to either post-sales support or customer service manager (CSM). ese individuals are incen - tivized by, measured by, and focused on customer retention or product upsells. ey re knowledgeable about the product, and at least somewhat technical. Going forward, they ll serve as your advocate for new features and getting defects resolved.
 
-135
-
-7. Which Type of Startup CTO Are You?
+## Which Type of Startup CTO Are You?
 
 Whether you re the CTO, a CEO playing the role of CTO, or a founder hoping to hire a CTO, it's helpful to have a clear understanding of what exactly it is a CTO does in a startup, and how that role differs from executive and leader - ship roles in more established companies. As with most things, the answer depends on context and will change over time. Calvin French-Owen has
 
 a great article (ctohb.com/founder2cto) breaking down the CTO into four archetypes: People Leader, Architect, R&D, and Marketing/Consumer- facing. I like this breakdown and will refine it a bit here to three types:
 
- Tech-Focused
+* Tech-Focused
 
- People-Focused
+* People-Focused
 
- Externally Focused
+* Externally Focused
 
-The Tech-Focused CTO *AKA The Chief Architect*
+### The Tech-Focused CTO *AKA The Chief Architect*
 
- e tech-focused CTO may also be the office of the CTO, leading an internal technical skunkworks whose primary output is forward-thinking strategy, architecture, and sometimes proof-of-concept implementation on how to help the business down the road. is CTO will have fewer reports, with the bulk of the engineering organization reporting to a separate vice president of engineering. In this case, it's not uncommon for the vice presi - dent of engineering (VPE) to report to somebody other than the CTO most commonly, directly to a CEO or to a chief product officer (CPO).
+The tech-focused CTO may also be the office of the CTO, leading an internal technical skunkworks whose primary output is forward-thinking strategy, architecture, and sometimes proof-of-concept implementation on how to help the business down the road. is CTO will have fewer reports, with the bulk of the engineering organization reporting to a separate vice president of engineering. In this case, it's not uncommon for the vice presi - dent of engineering (VPE) to report to somebody other than the CTO most commonly, directly to a CEO or to a chief product officer (CPO).
 
- e internal tech-focused CTO may also be the chief technical process architect, setting up tools, systems, and processes for how technical work gets done.
-
-137
-1\.7WHICTHYPEOFSTARTUCPEOAREYO?U
+The internal tech-focused CTO may also be the chief technical process architect, setting up tools, systems, and processes for how technical work gets done.
 
 As an internal tech-focused CTO, you may also function as a product manager if your company s product is highly technical in nature (i.e., devel - oper tools, API-as-a-service, etc.)
 
-The People-Focused CTO
-
-*AKA the VP of Engineering (VPE)*
+The People-Focused CTO *AKA the VP of Engineering (VPE)*
 
 A typical startup will not have both a VPE and a CTO, and so it often falls on the CTO to fill the VPE role. is is often also the hardest role for a cofounder CTO to fill, as the responsibilities of the day one technical cofounder don t much over - lap with the responsibilities of the internally people-focused technical leader.
 
- e people-focused CTO is responsible for setting internal technical culture, the hiring process, and overseeing internal processes. is CTO spends much of their time actually managing either independent con - tributors or other technical managers. is is the most critical of the three focus areas to get right. If a company isn t hiring well, or its technical staff is poorly managed, unmotivated, unfocused, or not aligned, it can impact productivity, and even lead to bad decision-making that will hurt the orga - nization in the long term.
+The people-focused CTO is responsible for setting internal technical culture, the hiring process, and overseeing internal processes. is CTO spends much of their time actually managing either independent con - tributors or other technical managers. is is the most critical of the three focus areas to get right. If a company isn t hiring well, or its technical staff is poorly managed, unmotivated, unfocused, or not aligned, it can impact productivity, and even lead to bad decision-making that will hurt the orga - nization in the long term.
 
 The Externally Focused CTO
 
@@ -2810,7 +2786,7 @@ the right time or place. Most often, you see this CTO at companies that build pr
 
 Transitioning Between Types
 
-Ideally, a startup CTO will prove adept in all three areas, though most people will specialize in just one or two. If your business needs a focus that isn t your expertise, it may be worth asking yourself if you can exe - cute that task more effectively by delegating it to a coworker. Especially at an early stage startup, most technical cofounder/cofounder CTOs will be internal tech-focused. Usually there s not much other work to be done at this stage!
+Ideally, a startup CTO will prove adept in all three areas, though most people will specialize in just one or two. If your business needs a focus that isn t your expertise, it may be worth asking yourself if you can exe - cute that task more effectively by delegating it to a coworker. Especially at an early stage startup, most technical cofounder/cofounder CTOs will be internal tech-focused. Usually There'snot much other work to be done at this stage!
 
 it's a very common pattern for that person to find themselves stretching into internal people or external focuses as the company grows, and that s not always a desirable transition for that person. it's not a personal failure
 
@@ -2876,7 +2852,7 @@ Your output as a technical leader is measured by the output of your team, so
 
 it falls on you to ensure the team as a whole is running well. What running well means will vary by team and circumstance, but there are general pat - terns and trends that correlate with high performance. In this section, my goal is to provide guidance on situations common to all tech leaders.
 
-1. Tech Culture and General Philosophy
+## Tech Culture and General Philosophy
 
 I encourage all leaders to adopt the general leadership style known as *servant leadership*. As a servant leader your main focus is on serving the needs of your team. is means focusing on empowering others, building
 
@@ -2975,7 +2951,7 @@ and invest only a modest amount of effort into long-term technical planning. Ins
 
 7. PARTICIPATE IN CONTINUOUS EDUCATION AND TECHNOLOGY CONFERENCES
 
-Technology conferences are ubiquitous nowadays, and there s a gathering
+Technology conferences are ubiquitous nowadays, and There'sa gathering
 
 of like-minded individuals for nearly every subspeciality of software engi - neering. Your team, if they haven t already, will likely ask at some point for
 
@@ -3023,7 +2999,7 @@ two ways to deal with this: you can do nothing, and on a daily basis you'll incr
 
 149
 
-2. Tech Debt
+## Tech Debt
 
 San Francisco s Golden Gate Bridge is made out of steel, which is not actu - ally golden in color. e bridge is painted, and maintaining the iconic color
 
@@ -3046,7 +3022,7 @@ a deliberate decision to take on debt, knowing the consequences (inter - est), t
 
 pay down that debt on a consistent basis over an extended period of time (monthly payments).
 
- e same happens with technology debt. Your startup may accumulate
+The same happens with technology debt. Your startup may accumulate
 
 it deliberately as part of a conscious tradeoff, and part of that tradeoff is establishing a realistic plan for paying it down. You should apply the same kind of logic you would to pay down financial debt to addressing your tech - nical debt: either pay it off upfront because you have extra resources (and
 
@@ -3056,7 +3032,7 @@ However you choose to pay down your tech debt, the key to doing so successfully 
 
 DEFINING TECH DEBT
 
-Another way to define technical debt is as a technical decision, implemen - tation, or nuance that actively reduces the efficiency or effectiveness of the business today or in the future. e point is that tech debt has a conse - quence that matters. Some of your code might be objectively ugly or ineffi - cient, but if that inefficiency has no impact on the business and there s no need to modify that code in the future to maintain quality, performance,
+Another way to define technical debt is as a technical decision, implemen - tation, or nuance that actively reduces the efficiency or effectiveness of the business today or in the future. e point is that tech debt has a conse - quence that matters. Some of your code might be objectively ugly or ineffi - cient, but if that inefficiency has no impact on the business and There'sno need to modify that code in the future to maintain quality, performance,
 
 or iteration, then that code isn t costly in terms of tech debt. After all, the goal of software development, especially at a startup, is not to write the perfect codebase, but to build software that enables the business.
 
@@ -3080,7 +3056,7 @@ provide the team confidence in the correctness of the codebase.
 
 and supporting systems are not robust or have been poorly maintained, leading to difficulty scaling or deploying updates, or poor uptime and reliability.
 
- **Documentation Debt** results when there s insufficient documentation,
+ **Documentation Debt** results when There'sinsufficient documentation,
 
 or the documentation is stale/inaccurate, which can make it difficult for team members to onboard a project.
 
@@ -3098,17 +3074,13 @@ If your startup neglects or ignores tech debt for long enough, it can become a m
 
 Some signs your team may be tech debt-bankrupt:
 
- You are regularly dealing with production outages to the point of mate -
+You are regularly dealing with production outages to the point of material business impact.
 
-rial business impact.
+You receive constant pushback or exaggerated timelines on new fea tures due to the need to deal with debt.
 
- You receive constant pushback or exaggerated timelines on new fea -
+The team complains that a codebase is too complex to get work done.
 
-tures due to the need to deal with debt.
-
-e team complains that a codebase is too complex to get work done.
-
- New features cannot be shipped without accidentally breaking old fea -
+New features cannot be shipped without accidentally breaking old fea -
 
 tures or introducing an unacceptably high level of defects.
 
@@ -3118,11 +3090,11 @@ If you ve been honest with your peers in leadership (see Delivering Bad News, pa
 
 MEASURING DEBT THE DEBT INVENTORY
 
-Unlike with a mortgage or car loan, there s no website you can visit that will give you a statement of your exact amount of tech debt and remaining payments. Some forms of debt can be measured quantitatively, but most
+Unlike with a mortgage or car loan, There'sno website you can visit that will give you a statement of your exact amount of tech debt and remaining payments. Some forms of debt can be measured quantitatively, but most
 
 of the analysis is qualitative. For healthy and responsible debt manage - ment at scale, I recommend a debt inventory survey.
 
- e survey should be taken at regular intervals. Somewhere from one
+The survey should be taken at regular intervals. Somewhere from one
 
 to four times per year, do a sober analysis across the varying kinds of debt,
 
@@ -3152,7 +3124,7 @@ If you are not in tech debt bankruptcy and your goal is to maintain a healthy le
 
 JUST-IN-TIME PAYMENT
 
- e most common way to handle tech debt is to pay it off on a Just-in- Time basis, meaning the debt is paid off as part of a business-driven proj - ect. is will often look like a team adding tech debt tickets that relate to
+The most common way to handle tech debt is to pay it off on a Just-in- Time basis, meaning the debt is paid off as part of a business-driven proj - ect. is will often look like a team adding tech debt tickets that relate to
 
 the stories that have been selected for a sprint in a planning meeting. is
 
@@ -3196,7 +3168,7 @@ When it comes to debt, that means clearly communicating your strat - egy for kee
 
 157
 
-3. Technology Roadmap
+## Technology Roadmap
 
 **TIMEFRAMES![ref10]**
 
@@ -3260,23 +3232,19 @@ Some examples of long-term initiatives:
 
 Every leader in sales, marketing, product, or support I've worked with has been appreciative of transparency in the technical process and techni - cal roadmap. By contrast, I've spoken to leaders at some companies who describe their technical teams as a black hole. It goes without saying that you don t want to be called a black hole. Not being a black hole is simple; it looks like somewhere in your organization having a regular pro - cess to provide transparency to other leaders. Ideally, you re also helping other departments feel heard by having a forum, or a mechanism, to take input and incorporate that into the roadmap process. You can also close
 
-the loop and your process communicates back to stakeholders where their request is in the development process and manages expectations for when
+the loop and your process communicates back to stakeholders where their request is in the development process and manages expectations for when it will be ready.
 
-it will be ready.
-
-161
-
-4. Tech Process
+## Tech Process
 
 Conway s Law states that Organizations, who design systems, are con - strained to produce designs which are copies of the communication struc - tures of these organizations. Said another way, how you structure your teams, and importantly the process of work within and between those teams, will have a significant impact on the product you make. Teams working in information silos are unlikely to produce products that beauti - fully integrate with another team s designs, so it's up to you, as the overseer and ultimate architect of these communication structures, to ensure those structures meet the needs of the product you re developing.
 
-**WORKFLOW![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.082.png)**
+### WORKFLOW
 
 Technical work is a highly nuanced matter with thousands of minute deci - sions that will affect how things ultimately interoperate and behave. To have any hope of maintaining productivity within your organization you need a
 
 set of standards and guiding principles to ensure the everyday technical decisions are broadly consistent and thus manageable for the team. at means you need to actually set those standards, train the team on them and have a day-to-day process to enforce and modify them as necessary.
 
- e pattern a team follows to determine how to decide what to build and
+The pattern a team follows to determine how to decide what to build and
 
 how work gets done is referred to as a workflow. e five most popular work - flow patterns are:
 
@@ -3309,7 +3277,7 @@ Generally, the goal of a workflow process is to ensure that a team is well organ
 
 WATERFALL
 
- e oldest workflow process, dating back to the 1950s, is waterfall (see ctohb.com/waterfall). e waterfall model breaks down project activities
+The oldest workflow process, dating back to the 1950s, is waterfall (see ctohb.com/waterfall). e waterfall model breaks down project activities
 
 into sequential steps, where each step is dependent on and starts after the prior step is completed. In software engineering that looks something like first having a product vision, then doing product concepting, then prod - uct design, then software development, and finally testing, deployment,
 
@@ -3319,7 +3287,7 @@ AGILE/SCRUM
 
 Agile and SCRUM process is a more nuanced and prescriptive method - ology than waterfall. ere are many great resources that cover these nuances in detail, including Sutherland s *Scrum*, *Agile Estimating and Planning* by Mike Cohn, *e Art of Agile Development* by James Shore & Shane Warders.
 
- e key thing to realize about these processes is that they are guidelines,
+The key thing to realize about these processes is that they are guidelines,
 
 not scripture. To get the best out of your engineering team, start with a pro - cess and see how well it works for your particular group of people with your particular type of technical challenges. Some teams have work that lends itself much more to estimation and story pointing, while others have much more ambiguous brownfield projects where estimation is near impossible. Pay attention to whether any particular ceremony from the process is really adding value to the engineering team, or if it's just a lengthy meeting every - one dreads.
 
@@ -3463,7 +3431,7 @@ TIME FOR PLANNING
 
 Your tech planning process should save you time in your initial implemen - tation. It should also save time in the future by minimizing tech debt and leaving behind documentation that can accelerate future improvements.
 
- e wrong amount of time to put into planning doesn t meet these goals, either because it's too short and doesn t save you time/produce good doc - umentation, or is so lengthy that it doesn t pay for itself in savings.
+The wrong amount of time to put into planning doesn t meet these goals, either because it's too short and doesn t save you time/produce good doc - umentation, or is so lengthy that it doesn t pay for itself in savings.
 
  ere is no universal formula for the correct amount of time, but I ll provide a rule of thumb: allocate one day to technical planning for every week of work you estimate the project to take. In general, this will lead to between half-day and three-day planning windows. If your project requires less than two days of work, it likely needs very minimal planning effort and has low risk. Conversely, if you re looking at a project that is expected to take more than three solid weeks of development effort, you may not be able to efficiently plan something that large all at once and should consider break - ing it down.
 
@@ -3569,7 +3537,7 @@ Once all open questions are resolved, document who contributed to the specificat
 
 LEADERS IN SPECIFICATION REVIEW MEETINGS
 
- e technical leader or manager does not have to be the approver for all technical documents. I encourage you to build a culture where the team
+The technical leader or manager does not have to be the approver for all technical documents. I encourage you to build a culture where the team
 
 as a whole feels safe to contribute and doesn t rely on you to provide tech - nical guardrails or support. Early on, when the department is relatively small, you should be heavily involved in most or all specifications, but that approach won t scale. As soon as you ve hired other senior individual contributors, architects, or managers, empower them to be lead reviewers and defer to them, allowing them to do the job you hired them for. If you find a senior member is not guiding the team well in these reviews, don t
 
@@ -3581,9 +3549,7 @@ Your tech team is now spending time creating thoughtful documents that cover how
 
 be making fewer mistakes as a result. e last way that technical speci - fications help you is by providing useful resources for future engineers who need to augment or modify the work that s been done. I recommend that you create a well-organized and searchable directory (e.g., an inter - nal wiki such as Confluence or Notion, or document storage like Google Drive), and that your team be diligent about ensuring all specification documents are added to the directory. It may also be helpful to link or refer to the specification in code comments to explain why something is implemented the way it is.
 
-177
-
-5. Developer Experience (DX)
+## Developer Experience (DX)
 
 DevOps tooling company Harness (harness.io) defines Developer Experience (DX) as the overall interactions and feelings that the developer feels when working towards a goal. It is similar to the definition of User Experience (UX), except in this case the primary user is a software engineer.
 
@@ -3607,7 +3573,7 @@ can help with #1. Most programming languages have an ecosystem with standardized
 
 2\.5DEVELOPEEXRPERIEN(DCX)E
 
- e lock file is not for concurrency management to avoid deadlocks; it's designed to lock in place a specific instance of the dependency graph. You should be committing these lock files and making sure other devel - opers and any build systems use them. e lock file helps guarantee that everyone on the team has installed an identical set of dependencies.
+The lock file is not for concurrency management to avoid deadlocks; it's designed to lock in place a specific instance of the dependency graph. You should be committing these lock files and making sure other devel - opers and any build systems use them. e lock file helps guarantee that everyone on the team has installed an identical set of dependencies.
 
 If your chosen programming language does not provide those tools, then
 
@@ -3665,19 +3631,15 @@ In 2022, Stripe, the fintech decacorn (i.e., a company valued at more than $10 b
 
 TypeScript, like Flow, is an optional type language built on top of JavaScript. TypeScript has seen far wider adoption than Flow, and thus has solved many of the problems the Stripe teams were encountering with Flow, which had become more painful to work with over time. It was increasingly clear that TypeScript offered a major DX improvement over Flow. e only problem is, how do you convert millions of lines of code from one language to another?
 
- e answer, it turns out, is an eighteen-month project by a team of engineers to prepare for a single, massive merge commit to update the entire codebase all at once. On Sunday, March 6, 2022, Stripe s mega- merge landed, and on Monday, March 7, the team came back to work and started using a new programming language. One developer described the change as the single biggest developer productivity boost in their time at Stripe.
+The answer, it turns out, is an eighteen-month project by a team of engineers to prepare for a single, massive merge commit to update the entire codebase all at once. On Sunday, March 6, 2022, Stripe s mega- merge landed, and on Monday, March 7, the team came back to work and started using a new programming language. One developer described the change as the single biggest developer productivity boost in their time at Stripe.
 
- e lesson here is that if the pain of poor developer experience is severe enough, then almost no cost is too high or any project out of reach to make improvements. Your team is almost certainly smaller than Stripe s, and you re likely not dealing with millions of lines of code, but the same calculus applies: if your team is encountering friction in DX that is slowing it down, you must invest the necessary developer time and effort to improve it to gain that efficiency back.
+The lesson here is that if the pain of poor developer experience is severe enough, then almost no cost is too high or any project out of reach to make improvements. Your team is almost certainly smaller than Stripe s, and you re likely not dealing with millions of lines of code, but the same calculus applies: if your team is encountering friction in DX that is slowing it down, you must invest the necessary developer time and effort to improve it to gain that efficiency back.
 
 Another problem teams often face is changing tooling too often. In certain tech ecosystems (particularly the JavaScript world), it seems something new and shiny comes out every month that could provide a productivity boost for your team. I encourage you to be disciplined about adopting new tools, make sure you ve spent the time to really understand
 
 the pain that exists, diligence the new tool, see if it meets *all* your require - ments not just the shiny headline and make decisions accordingly. For more on my recommended process here, see Implementing Internal Technology Radar, page 204.
 
-183
-
-**3**
-
-**Tech Architecture**
+# Tech Architecture
 
 One of your key responsibilities as a tech leader is to make good decisions on your architecture and tools. Good architecture aligns the strengths of the tools and patterns you choose with the needs of your organization now and in the foreseeable future. at requires understanding the strengths, weaknesses, and tradeoffs inherent in each choice. My goal in this section
 
@@ -3693,7 +3655,7 @@ More often than not, a more nuanced evaluation will reveal that a given tool isn
 
 
 
-1. Architecture
+## Architecture
 
  ere are many excellent resources that explore various architectural pat - terns deeply; one of my favorites is Martin Fowler s *Patterns of Enterprise Application Architecture*. In this chapter, I ll provide a summary of some key phrases you'll hear so you have context when exploring these topics in depth elsewhere.
 
@@ -3701,40 +3663,30 @@ More often than not, a more nuanced evaluation will reveal that a given tool isn
 
 Domain-driven design (DDD) is an approach to software development that focuses on understanding and modeling the problem domain in order to design better software solutions.
 
- e core concepts of DDD include:
+Thee core concepts of DDD include:
 
- **Domain model:** A representation of business concepts as objects in
+ **Domain model:** A representation of business concepts as objects in your technical system;
 
-your technical system;
+ **Ubiquitous language:** A common, consistent vocabulary and language that is used across your company to minimize confusion;
 
- **Ubiquitous language:** A common, consistent vocabulary and language
+ **Bounded context:** e boundary within which the domain model applies and where the ubiquitous language is used.
 
-that is used across your company to minimize confusion;
 
- **Bounded context:** e boundary within which the domain model
-
-applies and where the ubiquitous language is used.
-
-185
-3\.1ARCHITECTURE
-
-**HIGH-LEVEL PATTERNS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.091.png)**
+**HIGH-LEVEL PATTERNS**
 
 When somebody uses the phrase technical architecture, they are usually referring to how code is executed and how information moves around in a system. Most descriptions of architecture involve the phrases
 
  services, monoliths, or message transports. is is in contrast to coding patterns, in which phrases such as object-oriented, functional programming, or dependency injection appear frequently. Coding pat - terns may sometimes be called code architecture and are discussed in Coding Patterns, page 188.
 
- e highest-impact decision in technical architecture is whether code
+ The highest-impact decision in technical architecture is whether code
 
 runs as a monolith or as a set of services (commonly referred to as microser - vices). I ll start here with a description of what each pattern looks like, and then provide some guidance on the tradeoffs between them.
 
 MONOLITHIC ARCHITECTURE
 
- e monolithic architecture pattern is one in which all code is executed as
+ The monolithic architecture pattern is one in which all code is executed as a single process, where information moves between pieces of your system entirely in memory, modeled as simple function calls. If you ve ever sat down and built a simple application in an afternoon, chances are good it would fall into the category of the monolith. Monoliths come in all sorts of shapes and sizes, from very small to massive, multi-million-line projects.
 
-a single process, where information moves between pieces of your system entirely in memory, modeled as simple function calls. If you ve ever sat down and built a simple application in an afternoon, chances are good it would fall into the category of the monolith. Monoliths come in all sorts of shapes and sizes, from very small to massive, multi-million-line projects.
-
- e key to building a successful monolith is to carefully design the data flows within the application, using domain-driven design. You can measure this pretty easily; you want to ensure that when a developer goes to change the functionality of the application, it is obvious where in the monolith they should be working. ey should only need to change code in an obvious and well-defined or confined area to achieve their goal. Every additional area of the codebase that needs change to meet a functional requirement adds additional complexity or opportunity for error, and in general slows down development.
+The key to building a successful monolith is to carefully design the data flows within the application, using domain-driven design. You can measure this pretty easily; you want to ensure that when a developer goes to change the functionality of the application, it is obvious where in the monolith they should be working. ey should only need to change code in an obvious and well-defined or confined area to achieve their goal. Every additional area of the codebase that needs change to meet a functional requirement adds additional complexity or opportunity for error, and in general slows down development.
 
 Key features of a monolith:
 
@@ -3754,7 +3706,7 @@ enforced by the system, leaving it up to the engineers to do design well.
 
 SERVICE-ORIENTED ARCHITECTURE (SOA)/MICROSERVICES
 
- e phrase service-oriented architecture (SOA) originated in the 1990s
+The phrase service-oriented architecture (SOA) originated in the 1990s
 
 and is used to refer to some fairly specific technology choices. Nowadays, the phrase is used to more broadly describe a system where information moves between parts of the system over a network. e main tradeoff with
 
@@ -3824,7 +3776,7 @@ If you choose to manage multiple services as a monorepo you'll likely want to lo
 
 the monorepo and manyrepo approaches:
 
-**Pros and cons of monorepo![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.093.png)**
+**Pros and cons of monorepo!
 
 it's easy to ensure every service or package dependency is up to date with the latest version.
 
@@ -3902,13 +3854,13 @@ Brownfield software development refers to the opposite of greenfield, working wi
 
 are essentially inverted: for better or worse, you re stuck with the high-level decisions that have been made by those before you.
 
- e largest risk in brownfield development is not invented here syndrome. Not invented here is the tendency for individ - uals to avoid taking responsibility for or paying sufficient atten - tion to things they did not create themselves. In brownfield soft - ware development, this can lead to systematic underinvestment
+The largest risk in brownfield development is not invented here syndrome. Not invented here is the tendency for individ - uals to avoid taking responsibility for or paying sufficient atten - tion to things they did not create themselves. In brownfield soft - ware development, this can lead to systematic underinvestment
 
 in understanding existing work, causing frustration and ineffi - ciency in augmenting or modifying existing systems. I strongly encourage managers to make explicit space for a team to read and understand an existing system before asking them to modify it in any way. e time spent in comprehension upfront will be paid back by fewer surprises and faster velocity down the road.
 
 **CODING PATTERNS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.096.png)**
 
- e subject of what style of code to write is a religious discussion for many coders. My intention in this chapter is to provide a brief description of what the most common phrases in coding patterns mean, and refer you to more extensive resources on each practice.
+The subject of what style of code to write is a religious discussion for many coders. My intention in this chapter is to provide a brief description of what the most common phrases in coding patterns mean, and refer you to more extensive resources on each practice.
 
 If you re faced with what feels like an emotional conversation on this topic, keep in mind that many successful companies exist that use each of these patterns. Everything is a tradeoff. A bad programmer can make a mess with any tool, and conversely a great programmer will find a way to make a readable solution even with suboptimal tools.
 
@@ -3958,13 +3910,13 @@ Dependency injection is a pattern where the service dependencies of
 
 a particular object, module, or block of code are passed in, rather than instantiated. For example, a data object can instantiate its own connec - tion to a database by looking up a connection string in a configuration file and creating the database client. Alternatively, a parent-calling block of code can create the database service, then pass the single database ser - vice into each instance of the data object.
 
- e main advantage of dependency injection is that it decreases the coupling between a service and its dependencies, effectively adding a doc - umented interface between them. is interface allows, for example, other implementations of the interface to be used, such as a mock service in a testing context.
+The main advantage of dependency injection is that it decreases the coupling between a service and its dependencies, effectively adding a doc - umented interface between them. is interface allows, for example, other implementations of the interface to be used, such as a mock service in a testing context.
 
  ere are subtleties inherent to doing dependency injection cleanly. I encourage you to adopt frameworks or patterns that are commonly used and well thought out for your programming language.
 
 DOMAIN-DRIVEN DESIGN
 
- e term Domain-Driven Design comes from a book by Eric Evans, *Domain-Driven Design*, published in 2003. e core idea is to create a model be it for objects in object-oriented design or for a schema for your database that models the nouns in your business domain. is may seem simple and intuitive; however, with complex business domains, it's easy for code either to inconsistently model the domain, or to model it in a way that hinders comprehension by the team. Especially with larger and more complex problems, I always insist that the team sit down and agree on a consistent way to model the problem, using consistent terminology to refer to the same concepts across the entire system.
+The term Domain-Driven Design comes from a book by Eric Evans, *Domain-Driven Design*, published in 2003. e core idea is to create a model be it for objects in object-oriented design or for a schema for your database that models the nouns in your business domain. is may seem simple and intuitive; however, with complex business domains, it's easy for code either to inconsistently model the domain, or to model it in a way that hinders comprehension by the team. Especially with larger and more complex problems, I always insist that the team sit down and agree on a consistent way to model the problem, using consistent terminology to refer to the same concepts across the entire system.
 
 **API CONTRACTS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.097.png)**
 
@@ -4036,11 +3988,11 @@ Queueing systems often have a notion of *explicit* invocation, which is to say t
 
 *Publisher-Subscriber ( pub/sub ) Pattern*
 
- e publisher-subscriber pattern, abbreviated as pub/sub, allows for designing a system where messages are created by potentially multiple sources and delivered via various patterns to potentially multiple sub - scribers. Publisher-subscriber relationships are modeled as one-to-one (direct), one-to-many (fan-out), many-to-one (fan-in), and many-to- many. Various pub/sub implementations can provide guarantees that messages are delivered to all subscribers, at least one subscriber, at least one time, etc. Similar to queues, there are off-the-shelf solutions, such
+The publisher-subscriber pattern, abbreviated as pub/sub, allows for designing a system where messages are created by potentially multiple sources and delivered via various patterns to potentially multiple sub - scribers. Publisher-subscriber relationships are modeled as one-to-one (direct), one-to-many (fan-out), many-to-one (fan-in), and many-to- many. Various pub/sub implementations can provide guarantees that messages are delivered to all subscribers, at least one subscriber, at least one time, etc. Similar to queues, there are off-the-shelf solutions, such
 
 as RabbitMQ, as well as easily scaled cloud-hosted options like Amazon Simple Notification Service (SNS) or Google Cloud Pub/Sub.
 
- e pub/sub pattern and the guarantees it provides are extremely pow - erful. However, the tradeoff is that implementations require some care and attention to detail to realize the advertised guarantees. Implementing
+The pub/sub pattern and the guarantees it provides are extremely pow - erful. However, the tradeoff is that implementations require some care and attention to detail to realize the advertised guarantees. Implementing
 
 a subscriber, for example, requires paying close attention to message acknowledgement semantics and carefully managing topic subscriptions
 
@@ -4121,7 +4073,7 @@ Note that implementing an idempotency key is non-trivial, as it will require add
 
 you to adopt a backend API implementation that provides a robust idempo - tency system out of the box rather than building it yourself from scratch.
 
-**DATA AND ANALYTICS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.098.png)**
+**DATA AND ANALYTICS!**
 
 Most startups have at least three different kinds of data they use as part of their business:
 
@@ -4191,7 +4143,7 @@ One important distinction between behavioral data generated by your application 
 
 to derive those from your BI platform and your transactional data.
 
-**GENERAL TIPS AND BEST PRACTICES FOR ARCHITECTURE DESIGN![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.099.jpeg)**
+**GENERAL TIPS AND BEST PRACTICES FOR ARCHITECTURE DESIGN!**
 
 Let s close out this section with a few overall recommendations for design - ing your architecture.
 
@@ -4211,7 +4163,7 @@ can produce clients for multiple platforms that can leverage a single source for
 
 MAKE SERVICES EXTERNALIZABLE
 
- e APIs from your backend to other backends, or your backend to fron - tends, should be thought of as generic-purpose APIs that could be con - sumed by third parties. is forces you to maintain several good design habits, including ensuring that interfaces are comprehensible on their own (domain-driven design), and using sensible authentication mecha - nisms and appropriate high-level ownership abstractions in data design. And, on the off chance you do one day wish to externalize a service, the road to doing so will be much shorter.
+The APIs from your backend to other backends, or your backend to fron - tends, should be thought of as generic-purpose APIs that could be con - sumed by third parties. is forces you to maintain several good design habits, including ensuring that interfaces are comprehensible on their own (domain-driven design), and using sensible authentication mecha - nisms and appropriate high-level ownership abstractions in data design. And, on the off chance you do one day wish to externalize a service, the road to doing so will be much shorter.
 
 USE AS FEW LANGUAGES AS POSSIBLE
 
@@ -4223,22 +4175,17 @@ the benefits of the new language dwarf the operational and maintenance burdens t
 
 209
 
-2. Tools
+## Tools
 
- e tooling ecosystem and patterns for software engineering are constantly evolving and changing. You will inevitably be tempted either on your own or by members of your team to change something about how you re doing engineering, such as adopting a new library, framework, language, or pat - tern. Adopting each of these changes quickly leads to a patchwork quilt of poorly thought-out architecture. Conversely, ignoring all change leaves you with a stale codebase that, over time, will be less efficient and harder for newly hired talent to work on. e right approach is to formalize the process
+The tooling ecosystem and patterns for software engineering are constantly evolving and changing. You will inevitably be tempted either on your own or by members of your team to change something about how you re doing engineering, such as adopting a new library, framework, language, or pat - tern. Adopting each of these changes quickly leads to a patchwork quilt of poorly thought-out architecture. Conversely, ignoring all change leaves you with a stale codebase that, over time, will be less efficient and harder for newly hired talent to work on. e right approach is to formalize the process
 
 of changing your tech stack and provide some guardrails to motivate your team to be curious and thoughtful about tooling changes.
 
-
-3\.2TOOLS
-
 **IMPLEMENTING INTERNAL TECHNOLOGY RADAR![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.100.jpeg)**
 
- oughtworks, a leading software consultancy based out of San Francisco, publishes a tool called the Technology Radar (ctohb.com/radar) that eval - uates the hundreds of projects oughtworks sees every year. ey put
+ Thoughtworks, a leading software consultancy based out of San Francisco, publishes a tool called the Technology Radar (ctohb.com/radar) that evaluates the hundreds of projects oughtworks sees every year. They put new tools, techniques, patterns, and languages (which they call blips) in one of four categories based on how effective they are in the real world.
 
-new tools, techniques, patterns, and languages (which they call blips) in one of four categories based on how effective they are in the real world.
-
- e categories are hold, assess, trial, and adopt.
+The categories are hold, assess, trial, and adopt.
 
 If you ve never read through a oughtworks Radar, I highly recommend
 
@@ -4249,14 +4196,14 @@ My preferred way to balance the challenge of keeping engineers moti - vated and 
 lead and implement an internal technology radar. Rather than weigh some - thing new for its universal appeal as oughtworks does, my approach eval - uates blips for their fit and effectiveness for our organization using the same four levels. To be concrete:
 
 1. Somebody proposes using a new tool, technique, platform, or language (blip). at proposal at first is categorized as assess. Theproposer has to make the case in a technical document that the new blip would pro - vide a material benefit to the project that was already selected by the business (or as an experiment in an innovation sprint see Cooldown/ Innovation Sprints, page 163). en, if approved, it moves to a trial.
-1. e new blip is used by the developer in a project, either selected by the business or in their innovation sprint window. At the end of the project, the author produces a follow-up written document describing their experience with the blip, including pros and cons and how well the blip plays with the rest of the tooling ecosystem at the company.
-1. Based on the results of the trial, the team as a whole will move to either adopt the blip, unlocking that blip to be used by the rest of the team
+2. e new blip is used by the developer in a project, either selected by the business or in their innovation sprint window. At the end of the project, the author produces a follow-up written document describing their experience with the blip, including pros and cons and how well the blip plays with the rest of the tooling ecosystem at the company.
+3. Based on the results of the trial, the team as a whole will move to either adopt the blip, unlocking that blip to be used by the rest of the team
 
 without further ceremony, or move it to hold, which would require a new trial and a new evaluation for it to be used again. If a trial fails in a business project, the team is advised to think carefully about whether to remove the blip from that implementation to avoid future mainte - nance concerns.
 
 In most cases, I find that when a blip trial fails, it fails relatively early on and the engineer leading the project doesn t include the blip in the final delivered implementation.
 
-Boring Technology![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.101.png)
+### Boring Technology
 
  Boring Technology is a phrase coined by Dan McKinley and outlined at ctohb.com/boring. e key idea is that your team s job
 
@@ -4270,7 +4217,7 @@ A higher likelihood of encountering defects or missing functionality/features
 
 Additional training cost for members of your team to adopt the new tool
 
-Burden in keeping that tool or package up to date, patch - ing security holes, etc.
+Burden in keeping that tool or package up to date, patch ing security holes, etc.
 
 **TOOL COST ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.102.png)**
 
@@ -4278,23 +4225,20 @@ it's a fact of life that modern startups will spend a lot on SaaS. Your company 
 
 BUDGET
 
- ere are a handful of published benchmarks for SaaS and tool spend at vari - ous company stages as a percentage of either company revenue or total spend.
+There are a handful of published benchmarks for SaaS and tool spend at vari - ous company stages as a percentage of either company revenue or total spend.
 
- ere s not a single precise benchmark, but it seems that typical SaaS Costs
+There's not a single precise benchmark, but it seems that typical SaaS Costs of Goods Sold (COGS) fall somewhere between 10 and 30 percent of revenue.
 
-of Goods Sold (COGS) fall somewhere between 10 and 30 percent of revenue.
+Know your spend and keep an eye on cost growth. it's very easy to acci - dentally leave a couple of machines running in AWS and add $10,000 to your annual cloud hosting bills. Most cloud platforms have built-in budgeting features, so There'sno excuse to not use them. If you re using infrastruc - ture as code, it's easy to set up a module that, for every new cloud system deployed, will automatically apply a cloud budget at the same time that will monitor and alert on cost for that particular system.
 
-Know your spend and keep an eye on cost growth. it's very easy to acci - dentally leave a couple of machines running in AWS and add $10,000 to your annual cloud hosting bills. Most cloud platforms have built-in budgeting features, so there s no excuse to not use them. If you re using infrastruc - ture as code, it's easy to set up a module that, for every new cloud system deployed, will automatically apply a cloud budget at the same time that will monitor and alert on cost for that particular system.
-
-it's typical for SaaS costs to grow over time, be it because your infrastruc - ture is growing, or because you discover a new SaaS vendor that can save your team time. I recommend not using cost as a reason to avoid adopting a typical SaaS tool (with a cost range in the hundreds per month). Instead, I d advise factoring regular growth into your SaaS cost forecasts.
+It's typical for SaaS costs to grow over time, be it because your infrastruc - ture is growing, or because you discover a new SaaS vendor that can save your team time. I recommend not using cost as a reason to avoid adopting a typical SaaS tool (with a cost range in the hundreds per month). Instead, I d advise factoring regular growth into your SaaS cost forecasts.
 
 TRACKING
 
 You should be tracking how much your organization spends on engineering tools, including IDEs, SaaS, and infrastructure (cloud platforms). You can do this manually in a spreadsheet or using a SaaS Management Platform (SMP). Available from various vendors such as BetterCloud, Zluri, and Vendr, these solutions link with your credit card or bank and automatically categorize cash spend.
 
-213
 
-3. DevOps
+## DevOps
 
 Wikipedia describes DevOps as a set of practices that combines software development and IT operations. It aims to shorten the systems devel - opment lifecycle and provide continuous delivery with high software quality.
 
@@ -4302,34 +4246,24 @@ I translate that as follows: DevOps is all the work that goes into making sure t
 
 as well. it's not just my opinion; it's becoming widely accepted throughout tech industries that high-quality DevOps is a key driver of overall engineer - ing velocity.
 
-215
-3\.3DEVOPS
 
 **FOUR KEY METRICS (DORA)![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.103.png)**
 
- e highest-rated blip in 2022 of the oughtworks Technology Radar (ctohb.com/techradar) is the Four Key Metrics. ese metrics are described by a team within Google Cloud called DORA (DevOps Research and Assessment), and the system of metrics comes from a seven-plus-year research program validating the results and their impact on technology, process, culture, and quantitative results. e four metrics are as follows:
+The highest-rated blip in 2022 of the oughtworks Technology Radar (ctohb.com/techradar) is the Four Key Metrics. ese metrics are described by a team within Google Cloud called DORA (DevOps Research and Assessment), and the system of metrics comes from a seven-plus-year research program validating the results and their impact on technology, process, culture, and quantitative results. e four metrics are as follows:
 
- **Lead Time:** How long it takes for code to go from commit to running in
+ **Lead Time:** How long it takes for code to go from commit to running in production
 
-production
+ **Deployment Frequency:** How often code is released to production/end users
 
- **Deployment Frequency:** How often code is released to production/end
+ **Mean Time to Recovery (MTTR):** How long it takes to restore service after an incident/defect occurs
 
-users
-
- **Mean Time to Recovery (MTTR):** How long it takes to restore service
-
-after an incident/defect occurs
-
- **Change Fail Percentage:** What percentage of production releases need
-
-a hotfix, rollback, patch, etc
+ **Change Fail Percentage:** What percentage of production releases need a hotfix, rollback, patch, etc
 
 Together these metrics quantify the idea of how confidently your team can deploy software. Scoring high on all four metrics requires an invest - ment in automation, DevOps, testing, and culture. As oughtworks is quick to point out, drawing value from these metrics doesn t necessarily require highly detailed instrumentation, metrics, or dashboards. DORA publishes a quick check survey (ctohb.com/dora) that your team can take to track its progress at a coarse-grained level. ere are also plenty
 
 of tools that have fairly low barriers to entry that will yield data quality that s more than sufficient to inform your progress, such as LinearB or Code Climate.
 
- e following subsections on DevOps present concepts, disciplines, and focus areas that contribute in some way to improving these metrics.
+ The following subsections on DevOps present concepts, disciplines, and focus areas that contribute in some way to improving these metrics.
 
 **REPRODUCIBILITY![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.104.png)**
 
@@ -4341,15 +4275,15 @@ it was done the first time. Reproducibility in DevOps requires automation and to
 
 CONTAINERIZATION
 
- e most common way of explaining the role of containers in the DevOps context is to consider where the name originated: from shipping contain - ers. Prior to the standardization of shipping containers, if you wanted
+ The most common way of explaining the role of containers in the DevOps context is to consider where the name originated: from shipping contain - ers. Prior to the standardization of shipping containers, if you wanted
 
 to transport goods across the ocean, you would package your cargo in
 
-a variety of forms ranging from placing it on pallets, storing it in boxes or barrels, or simply wrapping it in cloth. Loading and unloading goods that arrived packaged in all these different ways was inefficient and error- prone, mainly because there s no single kind of crane or wheelbarrow that could effectively move all of the cargo.
+a variety of forms ranging from placing it on pallets, storing it in boxes or barrels, or simply wrapping it in cloth. Loading and unloading goods that arrived packaged in all these different ways was inefficient and error- prone, mainly because There'sno single kind of crane or wheelbarrow that could effectively move all of the cargo.
 
 Compare that haphazard approach to deploying a standardized ship - ping container where the boat and port operator can work with a single form factor, using standardized equipment and shippers and a single, flexible form of packaging for all of their goods. Historically, the usage of standardized shipping containers unlocked a paradigm shift that reduced costs of global shipping by orders of magnitude. Packaging software in a standardized container that can be run on any system in the same way pro - vides an analogous advancement in capability and efficiency.
 
- e most common way you'll interact with containers is through a soft - ware system called Docker. Docker provides a declarative programming language that lets you describe, in a file called Dockerfile, how you want the system set up i.e., what programs need to be installed, what files go where, what dependencies need to exist. en you build that file into a container image which provides a representation of the entire file system specified
+ The most common way you'll interact with containers is through a soft - ware system called Docker. Docker provides a declarative programming language that lets you describe, in a file called Dockerfile, how you want the system set up i.e., what programs need to be installed, what files go where, what dependencies need to exist. en you build that file into a container image which provides a representation of the entire file system specified
 
 by your Dockerfile. at image can then be moved to and run on any other machine with a Docker-compatible container runtime, with the guarantee
 
@@ -4413,7 +4347,7 @@ Some common hosted container platforms include Heroku, Google App Engine, Elasti
 
 Self-Managed/Kubernetes
 
- e most popular self-management solution for containers is called Kubernetes, often abbreviated K8s. Kubernetes is an extremely powerful and flexible, and thus complicated, system. e learning curve is steep,
+The most popular self-management solution for containers is called Kubernetes, often abbreviated K8s. Kubernetes is an extremely powerful and flexible, and thus complicated, system. e learning curve is steep,
 
 but the benefits and ROI are worthwhile if you re at the point of needing to self-manage your containers.
 
@@ -4461,11 +4395,11 @@ cloud secret manager, or build environment secrets where necessary, and try not 
 
 **CONTINUOUS DEPLOYMENT![ref12]**
 
-In the early stages of a project, it's comparatively simple to deploy new code. At that point, there s not much code or architectural complexity. Before long, however, the need to manage dependencies, dependent services, CDNs, firewalls, build artifacts, build configuration, secrets, and more leads to
+In the early stages of a project, it's comparatively simple to deploy new code. At that point, There'snot much code or architectural complexity. Before long, however, the need to manage dependencies, dependent services, CDNs, firewalls, build artifacts, build configuration, secrets, and more leads to
 
 a complex deploy process. As these requirements accumulate, it's easy to neglect automation, and simply rely on, for example, a dedicated and highly trusted individual as release manager. ere are countless teams out there following this pattern, and I guarantee you most of those release managers have release dates circled on their calendar in advance and dread the stress, long hours, and frustration that those days inevitably entail.
 
-Fortunately there s a cure for the error-prone stress concentration that is
+Fortunately There'sa cure for the error-prone stress concentration that is
 
 the monthly (or longer!) release day. it's to release every day, or heck, every hour! It follows logically from one of the Ten Pillars of Tech Culture (see page 138), Frequency Reduces Difficulty, that more frequent releases will force your release manager, and team, to automate the hard parts of deploy - ments. With enough iteration, releases can become entirely automated, and with sufficient testing giving you confidence in new changes, you can get to the point of triggering new releases for every code change set, referred to as
 
@@ -4520,7 +4454,7 @@ Knowing how the domain name system (DNS) works, and knowing how to manage DNS an
 
 You should also know how DNS is used for email in your organization. In particular, become familiar with Sender Policy Framework (SPF) records and DKIM/DMARC.
 
-You should also set up your DNS records using Infrastructure as Code (IaC). I've seen countless companies where DNS is managed exclusively by an executive whose two-factor authentication is the only one allowed to update a zone record, and when that person is on vacation there s no fall - back mechanism to manage the site.
+You should also set up your DNS records using Infrastructure as Code (IaC). I've seen countless companies where DNS is managed exclusively by an executive whose two-factor authentication is the only one allowed to update a zone record, and when that person is on vacation There'sno fall - back mechanism to manage the site.
 
 A better solution is to set up DNS with Terraform (which has integra - tions with all the major DNS providers) and then manage DNS records with source control, empowering individual developers to add new records in a responsible way that isn t gated on any one individual.
 
@@ -4528,7 +4462,7 @@ Decoupling Shipping Code from ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d
 
 At a high level, a feature toggle is a switch that allows you to change system behavior without changing the actual code. I strongly advo - cate using feature toggles, in particular because they allow your team to have separate processes and timelines for shipping code and shipping features. Pete Hodgson has a wonderful, in-depth explanation of feature toggles at ctohb.com/hodgson.
 
- e Four Key Metrics advocate for shipping code as frequently ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.112.png)
+The Four Key Metrics advocate for shipping code as frequently ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.112.png)
 
 as possible. Doing so leads to many great positive benefits for the health of your engineering process. A natural concern, however,
 
@@ -4538,17 +4472,14 @@ is that your business may not be ready for a particular feature to go live the s
 
 Application performance monitoring (APM) and real user monitoring (RUM) are two types of tools that help teams understand how an appli - cation is performing in production and identify or prevent user-facing outages.
 
-An APM tool usually sits inside or alongside your application in the production environment and provides analytics and insights into resource usage and request latency and throughput from the perspective of your backend. RUM is an external tool that pretends to be a user and provides analytics on latency from the frontend s perspective, or the perspective of
-
-a real user.
+An APM tool usually sits inside or alongside your application in the production environment and provides analytics and insights into resource usage and request latency and throughput from the perspective of your backend. RUM is an external tool that pretends to be a user and provides analytics on latency from the frontend s perspective, or the perspective of a real user.
 
 If you had to choose one (and these tools are often very expensive, so you may be forced to go with one or the other), choose the one that covers the blind spot more likely to be problematic for your application. If you have tons of users and you get inundated with real-time complaints for every minor bug or edge case, then an APM monitoring backend load may prove more valuable than a RUM producing redundant alerts to your users. For most startups in seed or growth stages, though, you'll likely have inconsis - tent application usage, especially covering your edge cases, in which case RUM may be more valuable than an APM on a mostly idle backend.
 
 Some common tools in this space are New Relic, Datadog, and Akamai mPulse.
 
-229
 
-4. Testing
+## Testing
 
 Imagine that, instead of testing software code, your job was to be the inspector for a municipal bridge. e bridge is built and now it's your job to inspect it and decide whether or not to allow it to open to the public. Do you inspect every single bolt and rivet on the bridge? Doing so would probably give you high confidence the bridge was safe, but it would also take a long time and derail the mayor s plans to open the bridge next week.
 
@@ -4558,8 +4489,6 @@ Similarly, in software engineering testing, the goal isn t coverage for coverage
 
 Effective software testing is not always about 100 percent code coverage. e bar for a good software test suite is that it gives your team confidence that, when the build is green and all tests pass, the software is ready to be released to end users. at may mean 100 percent code coverage, or it may mean 30 percent code coverage. e exact number is up to you to determine and monitor, and that amount of effort may change over time if you find the tests aren t providing the same confidence they once were (and, conversely, if you find you re overinvesting i.e., you re spending a lot of resources on a test suite, yet bugs are still making it out too often).
 
-
-3\.4TESTING
 
 **TESTING/QUALITY ASSURANCE TEAMS![ref11]**
 
@@ -4571,39 +4500,27 @@ Before jumping into the nuts and bolts of the different software testing paradig
 
 Defining bad tests is simple. Bad tests have a higher cost than benefit to your team. Some common characteristics of bad tests:
 
- It takes more time to maintain and fix tests for legitimate code changes
+* It takes more time to maintain and fix tests for legitimate code changes than the pain you save by bugs found.
 
-than the pain you save by bugs found.
+* The test has a high false positive rate or is inconsistent, which slows down CI and causes developers frustration and context-switching cost to re-run spurious failures.
 
- e test has a high false positive rate or is inconsistent, which slows
+* The test is poorly thought out and literally validates that the code does the wrong thing.
 
-down CI and causes developers frustration and context-switching cost to re-run spurious failures.
+* The suite tests that the code does the right thing and has low false positives, but it's so convoluted and hard to understand that only the person who wrote the test can add a new one, and every other engineer who looks at it gets a migraine.
 
- e test is poorly thought out and literally validates that the code does
-
-the wrong thing.
-
- e suite tests that the code does the right thing and has low false posi -
-
-tives, but it's so convoluted and hard to understand that only the person who wrote the test can add a new one, and every other engineer who looks at it gets a migraine.
-
- e test does not instill confidence that the code under evaluation is
-
-ready to be shipped to end users.
+* The test does not instill confidence that the code under evaluation is ready to be shipped to end users.
 
 With that picture in mind, it's relatively easy to see by contrast what attributes good tests should have. Good tests are:
 
- Easy and fast to run both locally and in a shared CI environment
+* Easy and fast to run both locally and in a shared CI environment
 
- Capable of running reliably and consistently producing the same result Easy to augment
+* Capable of running reliably and consistently producing the same result Easy to augment
 
- Easy to refactor or update for underlying logical changes
+* Easy to refactor or update for underlying logical changes
 
- Appropriately coupled to the underlying code patterns, testing at the
+* Appropriately coupled to the underlying code patterns, testing at the right altitude (so to speak) to capture breakages that matter
 
-right altitude (so to speak) to capture breakages that matter
-
- Easy for any engineer to understand and work on
+* Easy for any engineer to understand and work on
 
 One of the best ways to evaluate your testing approach is also the most obvious: ask how your team feels about the tests with a simple sentiment analysis. e results tend to be very binary either tests are a source of security that teams rely on, and naturally augment them because they obvi - ously are a net value-add; or teams passively, or even actively, hate their tests because they re a drain on productivity with not enough obvious value.
 
@@ -4611,11 +4528,11 @@ One of the best ways to evaluate your testing approach is also the most obvious:
 
 Your team should be adding testing in ways that boost confidence that the system works correctly while minimizing the additional burden of maintaining those tests long term in the face of organic system growth. A general pattern to minimize this pain is to test the public interface. Public interfaces should be well thought out and comparably stable over time.
 
- ey are also the happy path that consumers of the software will actually experience.
+They are also the happy path that consumers of the software will actually experience.
 
 Tests on public interfaces should therefore change little over time and also provide confidence that the parts of the code that matter are working correctly.
 
- e public interface for your software may vary from project to project. For many projects, it ll be an actual HTTP-based API; for some, it ll be a set of functions/classes in a library or internal service. For other projects it may be a user interface.
+The public interface for your software may vary from project to project. For many projects, it ll be an actual HTTP-based API; for some, it ll be a set of functions/classes in a library or internal service. For other projects it may be a user interface.
 
 **TESTING TYPE COMPARISON![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.115.png)**
 
@@ -4631,7 +4548,7 @@ Software testing can be broken down into the following categories/ paradigms:
 
  Semi-automated testing
 
- e attributes that differentiate these types of testing are as follows:
+The attributes that differentiate these types of testing are as follows:
 
  **Code planning:** How much forethought is required in the actual writ -
 
@@ -4653,7 +4570,7 @@ coverage.
 
  **Setup effort:** How much effort is necessary to set up an effective test suite.
 
- e following chart summarizes how the five paradigms map to these metrics. Note that there is no one perfect test paradigm; each has tradeoffs, and I encourage you to think carefully about which tradeoffs make sense for your company and codebase. e right answer is usually a blend of different test paradigms, using each type of test where it adds the most value in your application.
+The following chart summarizes how the five paradigms map to these metrics. Note that there is no one perfect test paradigm; each has tradeoffs, and I encourage you to think carefully about which tradeoffs make sense for your company and codebase. e right answer is usually a blend of different test paradigms, using each type of test where it adds the most value in your application.
 
 TABLE: 5 TESTING TYPE PARADIGMS
 
@@ -4667,7 +4584,7 @@ Unit tests run entirely in memory on a machine, in a shared memory space with th
 
 to run, test very small amounts of code at a time, and are relatively easy to get started with. Unit tests are usually also tightly coupled to your code contracts and often require new code in the form of mocks to enable code- under-test to execute without normally available external dependencies.
 
- e key tradeoff made by unit tests and their primary downside is that they are tightly coupled to the code under test. it's altogether too easy to have unit tests be deeply intertwined with actual function calls and internal data objects. is deep dependency means any refactor of the code even simple and benign changes will require considerable unit test updates as
+The key tradeoff made by unit tests and their primary downside is that they are tightly coupled to the code under test. it's altogether too easy to have unit tests be deeply intertwined with actual function calls and internal data objects. is deep dependency means any refactor of the code even simple and benign changes will require considerable unit test updates as
 
 well. e creation of mocks and test data fixtures often also requires a con - siderable amount of code to create and maintain to allow unit tests to run, adding unexpected cost to the unit testing framework.
 
@@ -4687,9 +4604,9 @@ An end-to-end (e2e) test exercises code in the same manner as the end user. For 
 
 a particularly gnarly problem that downloadable tools like Selenium, Cypress, and Puppeteer can take off your hands. For mobile, there are tools like HeadSpin and Detox.
 
- e key tradeoff of end-to-end tests, in the real world, is reliability. At least at the time of writing, reliable web end-to-end tests are still some - what elusive; the nature of how the browser renders means race conditions occur very easily by accident. Building a reliable web end-to-end test suite requires considerable care, attention to detail, and maintenance.
+The key tradeoff of end-to-end tests, in the real world, is reliability. At least at the time of writing, reliable web end-to-end tests are still some - what elusive; the nature of how the browser renders means race conditions occur very easily by accident. Building a reliable web end-to-end test suite requires considerable care, attention to detail, and maintenance.
 
- e payoff, though, is not insubstantial, as it's possible to create very high test coverage and very high confidence in functionality of user-facing
+The payoff, though, is not insubstantial, as it's possible to create very high test coverage and very high confidence in functionality of user-facing
 
 flows with e2e test suites. ere are several companies, including testim.
 
@@ -4731,13 +4648,11 @@ Unspecialized manual testing is often referred to as crowdsourced test - ing. er
 
 Semi-automated testing is a relatively new category of software testing. ese tests are created by non-technical staff perhaps your specialized manual testing team and then run in either a completely automated or supervised environment.
 
- e major pitfall of these tests is reliability. Because they re created by non-technical staff, they may not be quite as precise as fully automated tests, making them more prone to false positives and false negatives. at said, this space is rapidly evolving with new companies and tools launching every year, such as Rainforest QA and Testim, with strategies to improve reliability and lower overall cost.
+The major pitfall of these tests is reliability. Because they re created by non-technical staff, they may not be quite as precise as fully automated tests, making them more prone to false positives and false negatives. at said, this space is rapidly evolving with new companies and tools launching every year, such as Rainforest QA and Testim, with strategies to improve reliability and lower overall cost.
 
-239
+## Source Control
 
-5. Source Control
-
- e industry standard used by the vast majority of companies for man - aging source control is Git. ere would need to be a very compelling reason for your organization to use anything else; most of your current and future team members will arrive already knowing the basics of Git. By not using it, you d likely be inflicting an unnecessary learning curve on them by forcing them to learn your chosen alternative.
+The industry standard used by the vast majority of companies for man - aging source control is Git. ere would need to be a very compelling reason for your organization to use anything else; most of your current and future team members will arrive already knowing the basics of Git. By not using it, you d likely be inflicting an unnecessary learning curve on them by forcing them to learn your chosen alternative.
 
  ere are three main cloud Git hosting platforms: GitLab, GitHub, and Bitbucket. ese three have the lion s share of the market and, again, you should think carefully before deviating from these standards.
 
@@ -4778,7 +4693,7 @@ before asking others to review. A few well-placed comments from the author to gu
 
 **SHIP, SHOW, ASK![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.123.png)**
 
- e common wisdom is that every code change should be reviewed by
+The common wisdom is that every code change should be reviewed by
 
 two people before being shipped to customers. As with everything, there are tradeoffs. Manual code review is not free, nor is it a guarantee of soft - ware quality. Given that manual code review comes at a cost, it's worth thinking about when that cost provides the highest return and using code review as a tool for the highest-ROI scenarios. is general idea was pop - ularized by a 2021 blog post by Rouan Wilsenach titled Ship/Show/Ask (ctohb.com/ssa).
 
@@ -4860,7 +4775,7 @@ can be merged quickly and then features deployed/enabled at a later date when it
 
  Robust monitoring of production to detect changes.
 
- e ability to rapidly deploy, with zero downtime, code changes to the
+The ability to rapidly deploy, with zero downtime, code changes to the
 
 production environment. Similarly, an ability to rapidly revert individ - ual changes in response to an incident.
 
@@ -4870,7 +4785,7 @@ branches. e GitHub Flow model loses its efficiency and simplicity if feature bra
 
 **LONG-LIVED VS. SHORT-LIVED BRANCHES![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.125.jpeg)**
 
- e key to maintaining a smooth system of branches and merges with your team is to keep branches short-lived. Nearly all of the problems asso - ciated with code merging come from code branches being open too long
+The key to maintaining a smooth system of branches and merges with your team is to keep branches short-lived. Nearly all of the problems asso - ciated with code merging come from code branches being open too long
 
 or the branch containing too large a diff (ctohb.com/diffs). In general, a short-lived branch should be open just a few days, or two weeks at the absolute most.
 
@@ -4900,9 +4815,7 @@ tions sooner in the process of implementing features.
 
 system. Frequent merges will highlight deficiencies in your build/test environment, making it painful if the systems are unreliable and moti - vating improvements to those systems.
 
-247
-
-6. Production Escalations
+## Production Escalations
 
 An escalator is a tool that takes in incidents and manages an on-call rota - tion, paging the on-call engineer and then escalating to others if pages go unacknowledged. PagerDuty is likely the most popular of these tools.
 
@@ -4916,42 +4829,29 @@ you'll also want to ensure that you have adequate documentation in place, and th
 
 the page (maybe in the escalator tool itself or a shared group chat dedi - cated specifically to handling escalations).
 
- Enable easy access to the playbooks that are used to help diagnose par -
+Enable easy access to the playbooks that are used to help diagnose particular kinds of problems.
 
-ticular kinds of problems.
+Determine whether to, and where to, set up any kind of site down notice (e.g., a company status page needs updating).
 
- Determine whether to, and where to, set up any kind of site down
+Decide where and how often to post updates on the status of the inves tigation, impact estimate, and restoration estimate.
 
-notice (e.g., a company status page needs updating).
+Determine what to do once an incident is closed, scheduling a root cause analysis exercise and ensuring the particular incident does not recur.
 
- Decide where and how often to post updates on the status of the inves -
-
-tigation, impact estimate, and restoration estimate.
-
- Determine what to do once an incident is closed, scheduling a root cause
-
-analysis exercise and ensuring the particular incident does not recur.
-
-249
-3\.6PRODUCTEISOCNALATIONS
-
-**ROOT CAUSE ANALYSIS (RCA) EXERCISES![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.127.jpeg)**
+### ROOT CAUSE ANALYSIS (RCA) EXERCISES
 
 Any time there is a system issue that has measurable user impact, your team should perform some level of root cause analysis (RCA). e goal of
 
 an RCA is to understand where your systems had a failure that allowed an impactful defect to make it to production and to end users.
 
-To be crystal clear, the root cause analysis *must not* be about identify - ing fault or assigning blame. at needs to be true in every part of the RCA process and embedded into the culture of your team. e RCA attacks systemic problems (not human errors) in your system that allow a failure
-
-to occur.
+To be crystal clear, the root cause analysis *must not* be about identify - ing fault or assigning blame. at needs to be true in every part of the RCA process and embedded into the culture of your team. e RCA attacks systemic problems (not human errors) in your system that allow a failure to occur.
 
 Without that safety and willingness for team members to be forthright with their feedback and documentation, you'll miss out on key opportuni - ties to improve the system.
 
-RCA DOCUMENTS
+#### RCA DOCUMENTS
 
 Your team should produce documentation in some form for every RCA. Depending on how often issues occur with your system, and the nature of those issues, you may wish to create a classification system for RCAs, with low-impact incidents getting a lighter-weight RCA process than high-impact incidents. It should be acknowledged that a thorough RCA on a high-impact incident is an expensive effort, taking considerable time and thoughtful - ness, and that it may prove too heavy-handed for trivial defects.
 
- at said, for most companies it's better to err on the side of overspend - ing in this area and ensuring greater reliability. You should start with a thorough RCA on everything, and transition to a stratified RCA system once you ve got a good understanding of the landscape and impact of the kinds of issues your team will face.
+That said, for most companies it's better to err on the side of overspend - ing in this area and ensuring greater reliability. You should start with a thorough RCA on everything, and transition to a stratified RCA system once you ve got a good understanding of the landscape and impact of the kinds of issues your team will face.
 
 For issues that merit a full, thoughtful analysis, here is a template that will get you started and asking your team the right questions: ctohb.com/ rca. It is a good practice and in fact a requirement for most compliance
 
@@ -4963,13 +4863,13 @@ As soon as it is practical after you ve resolved an incident, designate an appro
 
 the template and begin filling in relevant data about the incident and beginning to explore the Five Whys (ctohb.com/5whys) for the incident.
 
- ey should complete an initial draft of the RCA and circulate it to rel - evant peers before scheduling a time as a group to explore and try and improve the analysis and future prevention steps.
+They should complete an initial draft of the RCA and circulate it to rel - evant peers before scheduling a time as a group to explore and try and improve the analysis and future prevention steps.
 
- e meeting attendees should read the RCA draft in advance and come prepared to explore the nuts and bolts of the incident and ideate on future prevention steps.
+The meeting attendees should read the RCA draft in advance and come prepared to explore the nuts and bolts of the incident and ideate on future prevention steps.
 
 Choosing the RCA Lead Author
 
- e RCA lead need not necessarily be the person who responded to the incident. e ideal RCA lead should be someone who is very familiar with
+The RCA lead need not necessarily be the person who responded to the incident. e ideal RCA lead should be someone who is very familiar with
 
 the systems involved and can ask insightful questions about where tools and processes failed and generate ideas for improvement.
 
@@ -4991,7 +4891,7 @@ be at its peak around the incident and the RCA meeting, and highly motivated eng
 
 on productive feature work and delivering consistent high velocity.
 
- e level of effort for many remedial issues is likely to vary widely. Some
+The level of effort for many remedial issues is likely to vary widely. Some
 
 typical tickets might be add more logging or change a setting in our CI provider to ensure PRs with failing builds cannot be merged. ese types of trivial tickets cost more to maintain and groom in a backlog than they d take just to do in the moment, so just do them. e chances they are the wrong thing to do are pretty low, and if negative conse - quences result, they can be easily reversed.
 
@@ -5003,9 +4903,7 @@ on day one may not be the ideal solution, and only by putting the issue through 
 
 less costly, solution emerge.
 
-251
-
-7. IT
+## IT
 
 Here I refer to IT, information technology, as internal company tooling and technology used to conduct business on a daily basis. is is in con - trast to the technology your company is building for its customer product.
 
@@ -5015,31 +4913,21 @@ if you make a few wise decisions, you should not need to spend very much time or
 
 Some key decisions that will help you minimize IT cost at most small tech companies:
 
- Use a cloud-based system for company email, data, and documents.
+Use a cloud-based system for company email, data, and documents.
 
 Most startups are using Google Workspace, but if your team members (and prospective future hires) are more comfortable with an alter - native, go with that. ere s no benefit at this stage in setting up your own in-house mail server, document storage, data access, network - ing, etc.
 
- Early on, unless required to by a compliance system, don t require
+Early on, unless required to by a compliance system, do't require
 
-employees to use company hardware. At small scale purchasing (espe - cially pre-product market fit), provisioning and managing company hardware is a non-trivial effort (and cost!) that provides only marginal
+employees to use company hardware. At small scale purchasing (espe - cially pre-product market fit), provisioning and managing company hardware is a non-trivial effort (and cost!) that provides only marginal or rare real-world benefits.
 
-or rare real-world benefits.
+It's perhaps painful to acknowledge, but properly securing your product and IT system is a considerable task, and unrealistic for a young startup to do exhaustively early on. I encourage you to be pragmatic
 
- it's perhaps painful to acknowledge, but properly securing your prod -
-
-uct and IT system is a considerable task, and unrealistic for a young startup to do exhaustively early on. I encourage you to be pragmatic
-
-and focus on securing your system from the most likely sources of breach or data theft: human error by your employees. it's far more
-
-253
-
-3\.7IT
-
-likely your engineering team forgot to put authentication in front of an API, or somebody leaves their laptop unlocked at a coffee shop, than an attacker manages to man in the middle your data or hack into your cloud infrastructure using an exploit.
+and focus on securing your system from the most likely sources of breach or data theft: human error by your employees. it's far more likely your engineering team forgot to put authentication in front of an API, or somebody leaves their laptop unlocked at a coffee shop, than an attacker manages to man in the middle your data or hack into your cloud infrastructure using an exploit.
 
 Even following best practices to minimize IT effort, you'll still have some IT tasks you cannot avoid, primarily around activating and deacti - vating user accounts and password recovery for employees. I encourage you to document for and train other coworkers, perhaps in HR, in how to do these tasks so they do not interrupt you or the engineering team on a regular basis.
 
-8. Security and Compliance
+## Security and Compliance
 
 In this section, I will provide a brief overview of the subject of security and compliance for startups. You can and should put in the effort to find in-depth resources beyond this book on these topics.
 
@@ -5084,7 +4972,7 @@ ing things like the OWASP Top Ten or various gamified security train - ing that 
 
 authentication or authorization.
 
- Don t waste time building a login page yourself; in 2023 there s really
+ Don t waste time building a login page yourself; in 2023 There'sreally
 
 no reason to. Tools like Auth0, SuperTokens, and AWS Cognito provide secure user signup, login, social login, forgotten password manage - ment, email authentication, two-factor authentication, and session management. Some of these tools also offer robust authorization sys - tems. Dealing with auth is a substantial project; it's very complex and mistakes are expensive. ere s no reason your startup needs to solve
 
@@ -5124,19 +5012,9 @@ ment, lean into that relationship. e more proactive you can be in
 
 sharing plans with a compliance department, and the earlier you incor - porate their feedback, the less costly and frustrating staying compliant will be.
 
-257
+# Conclusion: Measuring Success
 
-
-
-**4![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.131.png)**
-
-**Conclusion: Measuring Success**
-
-You ve put together a great hiring process, the team is happy, you re running sprints like a pro, and your architecture is withstanding the growing demands
-
-of the business. at feels good, but how do you know if it's enough? How do
-
-we measure our own success and performance as a technical leader or CTO?
+You ve put together a great hiring process, the team is happy, you re running sprints like a pro, and your architecture is withstanding the growing demands of the business. at feels good, but how do you know if it's enough? How do we measure our own success and performance as a technical leader or CTO?
 
 One way to look at defining greatness in this role might be from a CFO s perspective: how efficiently can a CTO deploy an R&D budget and convert that into engineering and product output?
 
@@ -5146,381 +5024,212 @@ Or, given how important people leadership is to excelling in this role, we could
 
 Or, rather than trying to define a single objective, maybe the best defi - nition of CTO greatness is a sum of all the skills that a CTO might exercise on a daily basis. Perhaps great is when you take the sum of architecture, performance management, vendor management, executive leadership, cultural contributions, public evangelism, mentorship, and DevOps, put it through a formula, and you end up with a number bigger than 42.
 
-CONCLUSION: MEASURINGSUCCESS
-
 Try as we might, it seems that great leadership even great *technical* leadership isn t something we can precisely quantify or measure. Smart minds will struggle to agree on a common description of greatness, but we will all agree that the role is diverse and ever-changing, requiring constant learning and adaptation.
 
- ere are few universal truths in engineering leadership, but one of them is that becoming a good engineering leader is a never-ending journey
-
-of self-improvement, discovery, and growth. Proceeding down this path requires humility, willingness to make mistakes, and, above all, curiosity and a desire to learn.
+There are few universal truths in engineering leadership, but one of them is that becoming a good engineering leader is a never-ending journey of self-improvement, discovery, and growth. Proceeding down this path requires humility, willingness to make mistakes, and, above all, curiosity and a desire to learn.
 
 I hope this handbook has been a helpful reference guide for you with the challenges you face on your leadership journey. e handbook covers many
 
 of the challenges that I myself have faced over the years as well as those of the many wonderful leaders I've had the pleasure of interacting with.
 
-I've done my best to provide some structure on meeting those challenges, though every situation is unique, and ultimately the path you take is yours
-
-to devise and the results are yours to own.
+I've done my best to provide some structure on meeting those challenges, though every situation is unique, and ultimately the path you take is yours to devise and the results are yours to own.
 
 At some point in life, one gets asked: What advice would you give to the younger version of yourself? is handbook is my answer to that question.
 
 I hope it helps you in your journey to build powerful technology, motivated and empowered teams, and successful businesses, and, most of all, have fun and do some good for the world.
 
-**5**
 
-**Book References**
 
- *Getting ings Done* by David Allen
+# Book References
 
- *Extreme Programming Explained* by Kent Beck
+*Getting Things Done* by David Allen
 
- *Work Rules!* by Laszlo Bock
+*Extreme Programming Explained* by Kent Beck
 
- *How to Win Friends and Influence People* by Dale Carnegie
+*Work Rules!* by Laszlo Bock
 
- *Agile Estimating and Planning* by Mike Cohn
+*How to Win Friends and Influence People* by Dale Carnegie
 
- *Good to Great* by Jim Collins
+*Agile Estimating and Planning* by Mike Cohn
 
- *e 7 Habits of Highly Effective People* by Stephen Covey
+*Good to Great* by Jim Collins
 
- *Domain-Driven Design* by Eric Evans
+*The 7 Habits of Highly Effective People* by Stephen Covey
 
- *Patterns of Enterprise Application Architecture* by Martin Fowler *High Output Management* by Andy Grove
+*Domain-Driven Design* by Eric Evans
 
- *Scaling Up* by Verne Harnish
+*Patterns of Enterprise Application Architecture* by Martin Fowler *High Output Management* by Andy Grove
 
- *e Hard ing About Hard ings* by Ben Horowitz
+*Scaling Up* by Verne Harnish
 
- *Immunity to Change* by Robert Kegan
+*The Hard ing About Hard ings* by Ben Horowitz
 
- *e Phoenix Project* by Gene Kim
+*Immunity to Change* by Robert Kegan
 
- *e Five Dysfunctions of a Team* by Patrick Lencioni
+*The Phoenix Project* by Gene Kim
 
- *Managing Humans* by Michael Lopp
+*The Five Dysfunctions of a Team* by Patrick Lencioni
 
-263
-BOOKREFERENCES
+*Managing Humans* by Michael Lopp
 
- *Team of Teams* by Stanley McChrystal
+*Team of Teams* by Stanley McChrystal
 
- *Escaping the Build Trap* by Melissa Perri
+*Escaping the Build Trap* by Melissa Perri
 
- *Good Authority* by Jonathan Raymond
+*Good Authority* by Jonathan Raymond
 
- *Good Strategy/Bad Strategy* by Richard Rumelt
+*Good Strategy/Bad Strategy* by Richard Rumelt
 
- *Radical Candor* by Kim Scott
+*Radical Candor* by Kim Scott
 
- *e Art of Agile Development* by James Shore and Shane Warden *Scrum: e Art of Doing Twice the Work in Half the Time* by Jeff
+*The Art of Agile Development* by James Shore and Shane Warden
 
-Sutherland
+*Scrum: The Art of Doing Twice the Work in Half the Time* by Jeff Sutherland
 
- *Extreme Ownership* by Jocko Willink and Leif Babin
+*Extreme Ownership* by Jocko Willink and Leif Babin
 
-**Digital References**
+## Digital References
 
- **VSCode s Setting Files** (ctohb.com/vscode): https://code.visualstudio.
+**VSCode s Setting Files** (ctohb.com/vscode): https://code.visualstudio.com/docs/getstarted/settings
 
-com/docs/getstarted/settings
+**Key to Gmail** (ctohb.com/keytogmail): https://techcrunch.com/2010/03/14/key-to-gmail
 
- **Key to Gmail** (ctohb.com/keytogmail): https://techcrunch.
+**Shit Umbrella** (ctohb.com/umbrella): https://medium.com/@ rajsarkar/word-of-the-month-shit-umbrella-33e3182a0f1b
 
-com/2010/03/14/key-to-gmail
+**Liar s Paradox** (ctohb.com/liarsparadox): https://en.wikipedia.org/wiki/Liar\_paradox
 
- **Shit Umbrella** (ctohb.com/umbrella): https://medium.com/@ rajsarkar/word-of-the-month-shit-umbrella-33e3182a0f1b
+**Gitlab Compensation Calculator** (ctohb.com/gitlabcompcalc): https://about.gitlab.com/handbook/total-rewards/compensation/
 
- **Liar s Paradox** (ctohb.com/liarsparadox): https://en.wikipedia.org/
+**Five Whys** (ctohb.com/5whys): https://en.wikipedia.org/wiki/Five\_whys
 
-wiki/Liar\_paradox
+**Take the DORA DevOps Quick Check** (ctohb.com/dora): https://www.devops-research.com/quickcheck.html#questions
 
- **Gitlab Compensation Calculator** (ctohb.com/gitlabcompcalc): https://
+**Netflix Keeper Test** (ctohb.com/keeper): https://empowerment.ee/wp-content/uploads/2021/05/NETFLIX-%E2%80%93-THE-KEEPER- TEST.pdf
 
-about.gitlab.com/handbook/total-rewards/compensation/
+**Why GitLab Pays Local Rates** (ctohb.com/local): https://about.gitlab.com/blog/2019/02/28/why-we-pay-local-rates/
 
- **Five Whys** (ctohb.com/5whys): https://en.wikipedia.org/wiki/
+**What is the topgrading interview process?** (ctohb.com/interview): https://www.greenhouse.io/blog/ what-is-the-topgrading-interview-process
 
-Five\_whys
+**Topgrading** (ctohb.com/topgrading): https://en.wikipedia.org/wiki/Topgrading
 
- **Take the DORA DevOps Quick Check** (ctohb.com/dora): https://www.
+**Painting the Bridge** (ctohb.com/painting): https://www.goldengate.org/bridge/bridge-maintenance/painting-the-bridge/
 
-devops-research.com/quickcheck.html#questions
+**Dare to Lead: e BRAVING Inventory** (ctohb.com/braving): https://brenebrown.com/resources/the-braving-inventory/
 
- **Netflix Keeper Test** (ctohb.com/keeper): https://empowerment.ee/
+**Root Cause Analysis Template** (ctohb.com/rca): https://docs.google.com/document/d/1GuRZgDpMVg\_Qf3sR7r8tZqRx6Re0oBrwIcnj-ekgJ60/ edit#
 
-wp-content/uploads/2021/05/NETFLIX-%E2%80%93-THE-KEEPER- TEST.pdf
+**Ship Small Diffs** (ctohb.com/diffs): https://blog.skyliner.io/ship-small-diffs-741308bec0d1
 
- **Why GitLab Pays Local Rates** (ctohb.com/local): https://about.gitlab.
+**GitHub Flow, Trunk-Based Development, and Code Reviews**(ctohb.com/branching): https://reviewpad.com/blog/ github-flow-trunk-based-development-and-code-reviews
 
-com/blog/2019/02/28/why-we-pay-local-rates/
+**Ship/Show/Ask** (ctohb.com/ssa): https://martinfowler.com/articles/ship-show-ask.html
 
- **What is the topgrading interview process?** (ctohb.
+**Thoughtworks Technology Radar 27** (ctohb.com/techradar): https://www.thoughtworks.com/en-us/radar
 
-com/interview): https://www.greenhouse.io/blog/ what-is-the-topgrading-interview-process
+**Feature Toggles (aka Feature Flags)** (ctohb.com/hodgson): https://martinfowler.com/articles/feature-toggles.html
 
- **Topgrading** (ctohb.com/topgrading): https://en.wikipedia.org/wiki/
+**Multi-stage Builds** (ctohb.com/docker): https://docs.docker.com/build/building/multi-stage/
 
-Topgrading
+**Choose Boring Technology** (ctohb.com/boring): https://boringtechnology.club/
 
- **Painting the Bridge** (ctohb.com/painting): https://www.goldengate.
+**Technology Radar** (ctohb.com/radar): https://www.thoughtworks.com/en-us/radar
 
-org/bridge/bridge-maintenance/painting-the-bridge/
+**e Waterfall Model** (ctohb.com/waterfall): https://en.wikipedia.org/wiki/Waterfall\_model#History
 
- **Dare to Lead: e BRAVING Inventory** (ctohb.com/braving): https://
+**e Pragmatic Programmer** (ctohb.com/tpp): https://en.wikipedia.org/wiki/ e\_Pragmatic\_Programmer
 
-brenebrown.com/resources/the-braving-inventory/
+**Rubber Duck Debugging** (ctohb.com/rdd): https://en.wikipedia.org/wiki/Rubber\_duck\_debugging
 
- **Root Cause Analysis Template** (ctohb.com/rca): https://docs.google.
+**FrequencyReducesDifficulty** (ctohb.com/fowler): https://martinfowler.com/bliki/FrequencyReducesDifficulty.html
 
-com/document/d/1GuRZgDpMVg\_Qf3sR7r8tZqRx6Re0oBrwIcnj-ekgJ60/ edit#
+**Figma Material Design** (ctohb.com/figma): https://www.figma.com/@materialdesign
 
- **Ship Small Diffs (**ctohb.com/diffs): https://blog.skyliner.io/
+**How to Design with the Atlassian Design System** (ctohb.com/design): https://atlassian.design/get-started/design
 
-ship-small-diffs-741308bec0d1
+**Building Productive Teams** (ctohb.com/teams): https://docs.microsoft.com/en-us/DevOps/plan/building-productive-teams
 
- **GitHub Flow, Trunk-Based Development, and Code Reviews**
+**GitHub Compensation Calculator** (ctohb.com/calc): https://about.gitlab.com/handbook/total-rewards/compensation/
 
-(ctohb.com/branching): https://reviewpad.com/blog/ github-flow-trunk-based-development-and-code-reviews
+**Codeacademy Engineering Competencies** (ctohb.com/competencies): https://github.com/Codecademy/engineering-competencies
 
- **Ship/Show/Ask** (ctohb.com/ssa): https://martinfowler.com/articles/
+**e Multitasking Myth** (ctohb.com/myth): https://blog.codinghorror.com/the-multi-tasking-myth
 
-ship-show-ask.html
+**Acronyms Seriously Suck: Elon Musk** (ctohb.com/acronyms): https://gist.github.com/klaaspieter/12cd68f54bb71a3940eae5cdd4ea1764
 
- **oughtworks Technology Radar 27** (ctohb.com/techradar): https://
+**How We Work Without Meetings at Levels** (ctohb.com/async): https://medium.com/levelshealth/ how-we-work-without-meetings-at-levels-a6a525e21aa5
 
-www.thoughtworks.com/en-us/radar
+**Collaborate with kindness: Consider these etiquette tips in Slack** (ctohb.com/slack): https://slack.com/blog/collaboration/etiquette-tips-in-slack
 
- **Feature Toggles (aka Feature Flags)** (ctohb.com/hodgson): https://
+**How to Use Skip-Level Meetings Effectively** (ctohb.com/skip): https://www.managementcenter.org/resources/skip-level-meeting-toolkit/
 
-martinfowler.com/articles/feature-toggles.html
+**From Founder to CTO** (ctohb.com/founder2cto): https://calv.info/founder-cto
 
- **Multi-stage Builds** (ctohb.com/docker): https://docs.docker.com/
+**How to Prioritize the Developer Experience and Improve Output** (ctohb.com/dx): https://www.harness.io/blog/developer-experience
 
-build/building/multi-stage/
 
- **Choose Boring Technology** (ctohb.com/boring): https://boringtech -
 
-nology.club/
+# Glossary
 
- **Technology Radar** (ctohb.com/radar): https://www.thoughtworks.
+**Agile ceremony**: Agile ceremonies are meetings where a development team comes together at various stages during the development process for discussions on planning future work, communicating ongoing work or reviewing and reflecting on past work.
 
-com/en-us/radar
+**Applicant Tracking System (ATS)**: An applicant tracking system (ATS) is software for recruiters and employers to track candidates throughout the recruiting and hiring process.
 
- **e Waterfall Model** (ctohb.com/waterfall): https://en.wikipedia.org/
+**Boy Scout Rule**: Leave things better than you found them. As applied to a technical team, whenever you work in an area of code, always make even a small improvement, maybe to tests, or documentation, or other - wise improve clarity, readability or maintainability.
 
-wiki/Waterfall\_model#History
+**Brownfield development**: e opposite of greenfield development: working with existing legacy systems, often heavily impacted by tech debt. You re stuck with the high-level decisions that have been made in the past and you have limited flexibility for large change.
 
- **e Pragmatic Programmer** (ctohb.com/tpp): https://en.wikipedia.
+**Business Intelligence (BI)**: Business intelligence (BI) is software that ingests business data and presents it in user-friendly views such as reports, dashboards, charts and graphs.
 
-org/wiki/ e\_Pragmatic\_Programmer
+**ClickOps**: ClickOps is the error-prone and time-consuming process of having people click-through various menu options in cloud providers websites, to select and configure the correct automated computing infrastructure.
 
- **Rubber Duck Debugging** (ctohb.com/rdd): https://en.wikipedia.org/
+**Containerization**: Containerization involves packaging software that contains all the necessary elements to run an application into a container environment. is allows organizations to run applications from any - where - in a private datacenter, public cloud or even a personal laptop.
 
-wiki/Rubber\_duck\_debugging
+**Context switching**: Changing from one task to another. For engineers that means setting aside the problem being worked on and starting to work on another. e act of switching is generally time consuming and less efficient than working on one problem at a time.
 
- **FrequencyReducesDifficulty** (ctohb.com/fowler): https://martinfowler.
+**Direct report**: Direct reports are employees who report directly to someone who is above them in the organization chart, often a manager, supervisor, or team leader.
 
-com/bliki/FrequencyReducesDifficulty.html
+**Engineering Product and Design (EPD)**: e idea of combining together into a single department what traditionally has been three separate departments: Design, Product and Engineering. e order of the acronym is often changed, EDP, PDE.
 
- **Figma Material Design** (ctohb.com/figma): https://www.figma.com/@
+**Greenfield solution**: Greenfield software development refers to development work in a new environment with minimal pre-existing legacy code and free choice on tools, patterns, and architecture.
 
-materialdesign
+**Horizon One/Two/Three**: Each horizon represents a different timescale. Horizon one is generally short term (days/weeks), two is medium (months) and three long term (years). Often used as a planning tool to ensure you re accommodating each horizon.
 
- **How to Design with the Atlassian Design System** (ctohb.com/design):
+**Idempotent**: A technical operation is idempotent if subsequent executions of the operation do not change the output.
 
-https://atlassian.design/get-started/design
+**Kaizen**: Kaizen is the philosophy of continuously improving all processes in an organization.
 
- **Building Productive Teams** (ctohb.com/teams): https://docs.micro -
+**Key Performance Indicator (KPI)**: KPIs are the critical quantifiable indicators of progress toward an intended result. Sometimes referred to as input metrics.
 
-soft.com/en-us/DevOps/plan/building-productive-teams
+**Objectives and Key Results (OKRs)**: Objectives and key results is a goal-setting framework, originating at Intel in the 1970s, used by indi - viduals, teams, and organizations to define measurable goals and track their outcomes.
 
- **GitHub Compensation Calculator** (ctohb.com/calc): https://about.
+**Pigeonhole principle**: Describes a circumstance where there is a fixed number of outcomes and a larger number of trials. If you flip a coin three times then at least one of heads or tails must come up twice.
 
-gitlab.com/handbook/total-rewards/compensation/
+**Product Requirements Document (PRD)**: A PRD is a document that gathers into one place the background, references, justification for and articulation of the requirements for a product.
 
- **Codeacademy Engineering Competencies** (ctohb.com/competencies):
+**Reproducibility**: The ability to reproduce a given outcome on demand. Generally in software development it takes the form of a user pushes button X, then the application crashes. If pushing the button is a complete and reliable description of how to cause the application crash then this is a reproducible crash with understood reproduction steps.
 
-https://github.com/Codecademy/engineering-competencies
+**Request for Comment (RFC)**: A document that outlines an idea, philosophy, proposal or methodology that is intended to collect feedback and ultimately become a long-lived reference material.
 
- **e Multitasking Myth** (ctohb.com/myth): https://blog.codinghorror.
+**Root Cause Analysis (RCA)**: An approach, and generally a document, that attempts to dig below the superficial to truly understand why an event occurred. Generally used as an investigative tool, and then reference documentation, for why an incident occurred in a software project.
 
-com/the-multi-tasking-myth
+**SaaS Management Platform (SMP)**: A SMP provides a single location to review, manage, optimize and govern SaaS tools used across an organization.
 
- **Acronyms Seriously Suck: Elon Musk** (ctohb.com/acronyms): https://
+**Service-Oriented Architecture (SOA)**: e phrase Service-Oriented Architecture (SOA) originated in the 1990s and is used to refer to some fairly specific technology choices. Nowadays, the phrase is used to more broadly describe a system where information moves between parts of the system over a network
 
-gist.github.com/klaaspieter/12cd68f54bb71a3940eae5cdd4ea1764
+**Standup meeting**: (aka Daily Scrum ) A regular meeting as part of the scrum/agile ceremonies. Generally intended to be short, less than 30 minutes, to facilitate communication, updates, conflict resolution and decision making within a team.
 
- **How We Work Without Meetings at Levels** (ctohb.
+**Straw Man Model**: A first draft proposition that can be put together rapidly with incomplete data. Often used as a starting place proposal with a team to accelerate the process of collecting feedback and getting to a solution.
 
-com/async): https://medium.com/levelshealth/ how-we-work-without-meetings-at-levels-a6a525e21aa5
+**Synchronous/Asynchronous Workplace Culture**: e idea of an asynchronous workplace culture is that communication flows are encouraged to asynchronously, that is, without needing both sides of the communication to participate at the same time. For example, a written document facilitates asynchronous communication, the author need not be present when the readers consume the document. Asynchronous cultures de-emphasize meetings and emphasize written or recorded audio/video documentation.
 
- **Collaborate with kindness: Consider these etiquette tips in**
 
-**Slack** (ctohb.com/slack): https://slack.com/blog/collaboration/ etiquette-tips-in-slack
-
- **How to Use Skip-Level Meetings Effectively** (ctohb.com/skip): https://
-
-www.managementcenter.org/resources/skip-level-meeting-toolkit/
-
- **From Founder to CTO** (ctohb.com/founder2cto): https://calv.info/
-
-founder-cto
-
- **How to Prioritize the Developer Experience and Improve Output** (ctohb.com/dx): https://www.harness.io/blog/developer-experience
-
-267
-
-
-
-**6![ref9]**
-
-**Glossary**
-
- **Agile ceremony**: Agile ceremonies are meetings where a development
-
-team comes together at various stages during the development process for discussions on planning future work, communicating ongoing work or reviewing and reflecting on past work.
-
- **Applicant Tracking System (ATS)**: An applicant tracking system (ATS)
-
-is software for recruiters and employers to track candidates throughout the recruiting and hiring process.
-
- **Boy Scout Rule**: Leave things better than you found them. As applied to
-
-a technical team, whenever you work in an area of code, always make even a small improvement, maybe to tests, or documentation, or other - wise improve clarity, readability or maintainability.
-
- **Brownfield development**: e opposite of greenfield development:
-
-working with existing legacy systems, often heavily impacted by tech debt. You re stuck with the high-level decisions that have been made in the past and you have limited flexibility for large change.
-
- **Business Intelligence (BI)**: Business intelligence (BI) is software that
-
-ingests business data and presents it in user-friendly views such as reports, dashboards, charts and graphs.
-
- **ClickOps**: ClickOps is the error-prone and time-consuming process of
-
-having people click-through various menu options in cloud providers
-
-269
-GLOSSARY
-
-websites, to select and configure the correct automated computing infrastructure.
-
- **Containerization**: Containerization involves packaging software that
-
-contains all the necessary elements to run an application into a container environment. is allows organizations to run applications from any - where - in a private datacenter, public cloud or even a personal laptop.
-
- **Context switching**: Changing from one task to another. For engineers
-
-that means setting aside the problem being worked on and starting to work on another. e act of switching is generally time consuming and less efficient than working on one problem at a time.
-
- **Direct report**: Direct reports are employees who report directly to
-
-someone who is above them in the organization chart, often a manager, supervisor, or team leader.
-
- **Engineering Product and Design (EPD)**: e idea of combining
-
-together into a single department what traditionally has been three separate departments: Design, Product and Engineering. e order of the acronym is often changed, EDP, PDE.
-
- **Greenfield solution**: Greenfield software development refers to devel -
-
-opment work in a new environment with minimal pre-existing legacy code and free choice on tools, patterns, and architecture.
-
- **Horizon One/Two/ ree**: Each horizon represents a different time
-
-scale. Horizon one is generally short term (days/weeks), two is medium (months) and three long term (years). Often used as a planning tool to ensure you re accommodating each horizon.
-
- **Idempotent**: A technical operation is idempotent if subsequent execu -
-
-tions of the operation do not change the output.
-
- **Kaizen**: Kaizen is the philosophy of continuously improving all pro -
-
-cesses in an organization.
-
- **Key Performance Indicator (KPI)**: KPIs are the critical quantifiable
-
-indicators of progress toward an intended result. Sometimes referred to as input metrics.
-
- **Objectives and Key Results (OKRs)**: Objectives and key results is a
-
-goal-setting framework, originating at Intel in the 1970s, used by indi - viduals, teams, and organizations to define measurable goals and track their outcomes.
-
- **Pigeonhole principle**: Describes a circumstance where there is a fixed
-
-number of outcomes and a larger number of trials. If you flip a coin three times then at least one of heads or tails must come up twice.
-
- **Product Requirements Document (PRD)**: A PRD is a document that
-
-gathers into one place the background, references, justification for and articulation of the requirements for a product.
-
- **Reproducibility**: e ability to reproduce a given outcome on
-
-demand. Generally in software development it takes the form of a user pushes button X, then the application crashes. If pushing the button is a complete and reliable description of how to cause the application crash then this is a reproducible crash with understood reproduction steps.
-
- **Request for Comment (RFC)**: A document that outlines an idea, phi -
-
-losophy, proposal or methodology that is intended to collect feedback and ultimately become a long-lived reference material.
-
- **Root Cause Analysis (RCA)**: An approach, and generally a document,
-
-that attempts to dig below the superficial to truly understand why
-
-an event occurred. Generally used as an investigative tool, and then reference documentation, for why an incident occurred in a software project.
-
- **SaaS Management Platform (SMP)**: A SMP provides a single location
-
-to review, manage, optimize and govern SaaS tools used across an organization.
-
- **Service-Oriented Architecture (SOA)**: e phrase Service-Oriented
-
-Architecture (SOA) originated in the 1990s and is used to refer to some fairly specific technology choices. Nowadays, the phrase is used to more broadly describe a system where information moves between parts of the system over a network
-
- **Standup meeting**: (aka Daily Scrum ) A regular meeting as part of the
-
-scrum/agile ceremonies. Generally intended to be short, less than 30 minutes, to facilitate communication, updates, conflict resolution and decision making within a team.
-
- **Straw Man Model**: A first draft proposition that can be put together
-
-rapidly with incomplete data. Often used as a starting place proposal with a team to accelerate the process of collecting feedback and getting to a solution.
-
- **Synchronous/Asynchronous Workplace Culture**: e idea of an
-
-asynchronous workplace culture is that communication flows are encouraged to asynchronously, that is, without needing both sides
-
-of the communication to participate at the same time. For example,
-
-a written document facilitates asynchronous communication, the author need not be present when the readers consume the document. Asynchronous cultures de-emphasize meetings and emphasize written or recorded audio/video documentation.
-
-271
-
-**About the author**
+# About the author
 
 Zach Goldberg graduated from the University of Pennsylvania magna cum laude with a degree in Computer Science and Engineering. He s been the CTO of six startups including WiFast, Sticks and Brains, AutoLotto, Trellis Technologies, GrowFlow (acq. Dama Financial, 2022), and Towards Equilibrium Inc, as well as an Entrepreneur-in-Residence at Tencent and an Associate Product Manager at Google. After Dama acquired GrowFlow in 2022, Zach sat down and poured all of his experience into this book. Learn more about Zach s work at zachgoldberg.com.
 
-273
 
-
-**About the publisher**
+# About the publisher
 
 Founded in 2021 by Bryna Haynes, WorldChangers Media is a boutique publishing company focused on Ideas for Impact. We know that great books change lives, topple outdated paradigms, and build movements. Our commitment is to deliver superior-quality transformational nonfic - tion by, and for, the next generation of thought leaders.
 
 Ready to write and publish your thought leadership book with us? Learn more at www.WorldChangers.Media.
-
-275
-
-![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.132.png)
-
-[ref1]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.011.png
-[ref2]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.025.png
-[ref3]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.041.png
-[ref4]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.045.png
-[ref5]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.063.png
-[ref6]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.066.png
-[ref7]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.070.png
-[ref8]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.073.png
-[ref9]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.074.png
-[ref10]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.079.png
-[ref11]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.087.jpeg
-[ref12]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.108.png
-[ref13]: Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.122.png
