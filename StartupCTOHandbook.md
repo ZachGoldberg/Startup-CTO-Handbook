@@ -668,84 +668,46 @@ You should prioritize your queues based on importance and urgency. If something 
 
 As a technical leader, your job is not just to manage the technical team; it also includes serving as the technical representative in the C-suite. Your role is to represent engineering and technology in all of the company s highest-level strategic discussions and to ensure that engineering and technology are on the right course for the business. At times, this means having difficult conversations with other leaders conversations that require vulnerability and humility, and conversations that enable you to work through conflict and are grounded in mutual trust. ese conversations are key to the job, and for them to be possible you must be deeply engaged with your leadership team, thinking of them as your first team.
 
-You're likely a highly technical person. You probably enjoy your technical meetings the most, or at least find solving technical problems with your team familiar and highly satisfying. So, it's easy to fall into a pattern where you spend most of your time with technical teams, and to adopt a my team
+You're likely a highly technical person. You probably enjoy your technical meetings the most, or at least find solving technical problems with your team familiar and highly satisfying. So, it's easy to fall into a pattern where you spend most of your time with technical teams, and to adopt a my team is the technical team mindset. is is a great way to build rapport within the tech team, and there are times when that is the most critical relationship to invest in.
 
-is the technical team mindset. is is a great way to build rapport within
+My guidance is simple: do not let the technical shiny objects distract you or limit your investment in relationships with non-technical leaders. Your relationships with other leaders and your trust with your non-technical peers will give you credibility and enable you to guide the business to making good technical decisions as a whole. Building trust outside the technical team is built the same way any other trust relationship is built: great communication, regular expectation setting by making and meeting commitments, and owning up to mistakes/failures if and when they occur.
 
-the tech team, and there are times when that is the most critical relationship to invest in.
-
-My guidance is simple: do not let the technical shiny objects distract you
-
-or limit your investment in relationships with non-technical leaders. Your relationships with other leaders and your trust with your non-technical peers
-
-45
-1\.1MANAGEMFEUNNTDAMENTALS
-
-will give you credibility and enable you to guide the business to making good technical decisions as a whole. Building trust outside the technical team is built the same way any other trust relationship is built: great communication, regular expectation setting by making and meeting commitments, and owning up to mistakes/failures if and when they occur.
-
-The technical leader or CTO who spends all their time deep in code with engineering and barely participates in the leadership team will have little credibility when trying to convince the other C-levels to invest further in engineering. Or worse, they won t even be asked for their input when the time comes to make a hard call. Other leaders will not have the context to understand the value of what the tech team is asking for or the perspective
-
-on how engineering is operating at that moment, and they ll lack the shared vision for what it can be in the future. Only by regularly engaging with the rest of the leadership team, sharing that context, and being part of the conversation along the way can you, as the technical leader, ensure that the leadership team has a shared understanding of how engineering helps the organization and how it needs to grow over time.
+The technical leader or CTO who spends all their time deep in code with engineering and barely participates in the leadership team will have little credibility when trying to convince the other C-levels to invest further in engineering. Or worse, they won t even be asked for their input when the time comes to make a hard call. Other leaders will not have the context to understand the value of what the tech team is asking for or the perspective on how engineering is operating at that moment, and they ll lack the shared vision for what it can be in the future. Only by regularly engaging with the rest of the leadership team, sharing that context, and being part of the conversation along the way can you, as the technical leader, ensure that the leadership team has a shared understanding of how engineering helps the organization and how it needs to grow over time.
 
 
-1\.1MANAGEMENTFUNDAMENTALS
-
-**WORKING WITH THE CEO![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.027.png)**
+### Working With The CEO
 
 Every CTO CEO relationship is different, though there are a few elements that are common to all such partnerships, as well as some key prerequisites for a healthy relationship.
 
-ALIGNING SPECIFIC OBJECTIVES
+#### ALIGNING SPECIFIC OBJECTIVES
 
-The CEO must have complete trust in your ability to lead the technical team to meet business objectives. Building that trust means you need to
+The CEO must have complete trust in your ability to lead the technical team to meet business objectives. Building that trust means you need to be able to communicate well with the CEO, both through proactive communication and making sure the CEO always has enough context to ask good questions.
 
-be able to communicate well with the CEO, both through proactive communication and making sure the CEO always has enough context to ask good questions.
+Communicating well means learning to speak business language and avoiding lapses into tech jargon during leadership conversations. You want to empower the CEO to communicate with you, and the more you speak their language (if they aren t technical), the more information you can get out of your interactions, and the better the two of you will get along.
 
-Communicating well means learning to speak business language and avoiding lapses into tech jargon during leadership conversations. You want
+#### ALIGNING BUSINESS DIRECTION
 
-to empower the CEO to communicate with you, and the more you speak their language (if they aren t technical), the more information you can get out of your interactions, and the better the two of you will get along.
+You and the CEO need to have a shared understanding of the direction of the business and be able to engage in constructive and perhaps even contentious conversations to ensure the depth of that understanding. Trust applies to overall business direction as well as specific objectives.
 
-ALIGNING BUSINESS DIRECTION
+There are many ways to build this, but you need to establish trust regardless of the approach you take. Engage in shared non-work activities, find areas where you share personal values, and use specific tools and exercises to build that trust (see Brene Brown's BRAVING Inventory at ctohb.com/braving).
 
-You and the CEO need to have a shared understanding of the direction
+#### ALIGNING CULTURE AND VALUES
 
-of the business and be able to engage in constructive and perhaps even contentious conversations to ensure the depth of that understanding. Trust applies to overall business direction as well as specific objectives.
-
- ere are many ways to build this, but you need to establish trust regardless of the approach you take. Engage in shared non-work activities, find areas where you share personal values, and use specific tools and exercises to build that trust (see BrenØ Brown s BRAVING Inventory at ctohb. com/braving).
-
-47
-1\.1MANAGEMFEUNNTDAMENTALS
-
-ALIGNING CULTURE AND VALUES
-
-As with all C-levels, the CTO and CEO should have strong alignment on company culture and values. it's particularly important that you focus on building a positive culture within engineering, and between engineering and the rest of the company. The technical team is often a very large if
-
-not the single largest line item in a startup company s budget. Technical staff are also often the most competitive roles to hire for, making recruiting and inevitable involuntary employee turnover more expensive in engineering than in other departments.
+As with all C-levels, the CTO and CEO should have strong alignment on company culture and values. it's particularly important that you focus on building a positive culture within engineering, and between engineering and the rest of the company. The technical team is often a very large if not the single largest line item in a startup company s budget. Technical staff are also often the most competitive roles to hire for, making recruiting and inevitable involuntary employee turnover more expensive in engineering than in other departments.
 
 Strong alignment between the CTO and other C-level executives on culture and values is a key factor in ensuring the technical team feels respected and included in the company, which should in turn help with retention.
 
-
-1\.1MANAGEMENTFUNDAMENTALS
-
-**DELIVERING BAD NEWS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.028.png)**
+### Delivering Bad News
 
 One general piece of advice for working with other leaders or executives is to not shy away from delivering bad news to your fellow leaders, especially the CEO. Since you are accountable for the performance of the team, you may be tempted to sugarcoat reality, to advertise that everything is fine. The problems with this approach are numerous:
 
- If things are not fine, meaning deadlines are consistently missed or
+* If things are not fine, meaning deadlines are consistently missed or quality is falling below expectations, your peers will know that and will wonder why you're not owning those failures and explaining how you'll improve. is disparity between reality and how you're representing it undermines trust in your leadership.
 
-quality is falling below expectations, your peers will know that and will wonder why you're not owning those failures and explaining how you'll improve. is disparity between reality and how you're representing it undermines trust in your leadership.
+* From time to time, you'll need to make time for the software engineering team to do non-user-facing engineering as an investment, either in tech debt or future architecture. you'll need to have the trust of other leaders and the credibility so that others believe you and understand the ROI on that time.
 
- From time to time, you'll need to make time for the software engineer -
+See the Principle section of Chapter 1 of Jocko Willink and Leif Babin's *Extreme Ownership: How U.S. Navy SEALs Lead and Win* for more on the importance of owning failure.
 
-ing team to do non-user-facing engineering as an investment, either in tech debt or future architecture. you'll need to have the trust of other leaders and the credibility so that others believe you and understand
-
-the ROI on that time.
-
-See the Principle section of Chapter 1 of Jocko Willink and Leif Babin s *Extreme Ownership: How U.S. Navy SEALs Lead and Win* for more on the importance of owning failure.
-
-49
-1\.1MANAGEMFEUNNTDAMENTALS
-
-**SPEAKING THE LANGUAGE OF YOUR AUDIENCE![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.029.jpeg)**
+### Speaking the Language of Your Audience
 
 Technical topics are often highly nuanced; the details matter. Technical jargon does a great job at helping to convey that nuance, so it's no surprise that when engineers explain technical subjects they often use language that is unintelligible to members of other departments. I'm sure you've witnessed the over-eager engineer trying, with energy, passion, and excitement, to explain their project to a non-engineer only to be met with a blank stare and no new shared understanding being created. As a technical leader, you must do better.
 
@@ -753,16 +715,13 @@ If, for example, you have a major area of tech debt and you want to advocate wit
 
 If, on the other hand, you frame that conversation around developer productivity and team morale, and explain the debt paydown in the context of team velocity over the next six months, your argument will be much more convincing.
 
-Technical Communication Best Practices![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.030.png)
+### Technical Communication Best Practices
 
 A few general tips for ensuring more successful discussions and presentations particularly with non-engineers when talking tech:
 
 Establish a shared language/vocabulary upfront. If you need to use any words the average high-school student wouldn t understand, make sure that your audience already knows them, or clearly define them before launching into the explanation.
 
-
-1\.1MANAGEMENTFUNDAMENTALS
-
-Use relatable concepts. Technical challenges are often ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.031.png)compared to other technical challenges: that does not work when talking to non-technical staff. Rather than describing your slow data transfer in bytes per second, compare it to traffic on a highway.
+Use relatable concepts. Technical challenges are often compared to other technical challenges: that does not work when talking to non-technical staff. Rather than describing your slow data transfer in bytes per second, compare it to traffic on a highway.
 
 Confirm understanding along the way. Ask questions of your audience during your explanation. If they can say the punchline before you then you know you're on the right track.
 
@@ -777,9 +736,9 @@ Hiring effectively is one of your highest-impact activities as a technical leade
 
 In that way, hiring is as much a sales activity (where candidates qualify you/your company) as it is a filtering process (you/your company qualifies the candidates). it's important to keep this in mind every step of the way as you define your team s hiring processes.
 
- is section of the book covers the various sections of the hiring and interviewing journey, sequentially, from headcount planning to onboarding.
+This section of the book covers the various sections of the hiring and interviewing journey, sequentially, from headcount planning to onboarding.
 
-**HIRE LIKE A STARTUP!
+### Hire like a Startup
 
 As a startup, you have several key advantages in hiring, and it's critical you leverage those in the process to ensure you can attract top talent. A few features that give you an edge:
 
@@ -811,67 +770,49 @@ Remember, speed is your friend when recruiting top talent. If you can move someb
 
 Cash is the lifeblood of a young and not-yet-profitable startup, so the decision to commit to a recurring $100,000-plus a year expense in the form of a new engineer s salary should not be taken lightly. Several key factors contribute to headcount decisions, foremost among them need, prioritization, timing, and budget.
 
-ROLE NEED/TEAM GAP
+#### ROLE NEED/TEAM GAP
 
-The first step toward deciding to hire is identifying a gap in the team. Gaps come in several forms. Commonly, at an early stage in a company s development, it's simply a skill gap. For example, your business decides that mobile apps are going to be a key element of your go-to-market strategy, and your founding team has never worked in mobile before. Certainly, they could learn and become effective over time, but it would be far more efficient in both the short and long term to hire a senior engineer who has
-
-experience in and desire to work on mobile to build and maintain that project.
+The first step toward deciding to hire is identifying a gap in the team. Gaps come in several forms. Commonly, at an early stage in a company s development, it's simply a skill gap. For example, your business decides that mobile apps are going to be a key element of your go-to-market strategy, and your founding team has never worked in mobile before. Certainly, they could learn and become effective over time, but it would be far more efficient in both the short and long term to hire a senior engineer who has experience in and desire to work on mobile to build and maintain that project.
 
 Other kinds of gaps include seniority gaps (not enough senior experience to make good decisions, or not enough junior talent to handle less complex tasks), management gaps (one manager responsible for too many people), or subject matter expertise gaps (no one on the team who understands an area of the industry well enough to guide decision-making).
 
 The other major justification for a hire is to increase total bandwidth on a team. ese kinds of hires should be aligned with some kind of business objective, or product roadmap, that justifies bringing on a new permanent team member at a given time.
 
-ROLE PRIORITIZATION AND TIMING
+#### ROLE PRIORITIZATION AND TIMING
 
 Once you've identified a gap, the next question to ask is when that gap needs to be filled. Taking into account the lead time required to get a great hire, when does it make sense to start the hiring process?
 
-Often though not always the answer is right now! Every new person you hire adds complexity and overhead to your team. Assuming the pain
-
-of having the gap isn t severe, if you can get away with a smaller team for another six months and delay the hire, that can be a good idea as it both reduces cost and gives you more time to build a case for the hire.
+Often though not always the answer is right now! Every new person you hire adds complexity and overhead to your team. Assuming the pain of having the gap isn t severe, if you can get away with a smaller team for another six months and delay the hire, that can be a good idea as it both reduces cost and gives you more time to build a case for the hire.
 
 Headcount or hiring requests from your team will often have to compete with requests from other teams, so it's useful to develop a common language across your company for discussing how urgent or important a hire is. is doesn t have to be very sophisticated; it could be a 0 5 ranking system, where a 0 represents an urgent need, and a 5 a hire that would be nice to have but can wait a few months or quarters before becoming urgent.
 
-BUDGETING FOR NEW HIRES
+#### BUDGETING FOR NEW HIRES
 
-At an unprofitable startup, you should have a financial model that rationalizes expenses vs. revenue and forecasts roughly how long your current cash on hand will last before you need another fundraising round. Most
+At an unprofitable startup, you should have a financial model that rationalizes expenses vs. revenue and forecasts roughly how long your current cash on hand will last before you need another fundraising round. Most CEOs and CFOs have a deep and intimate understanding of this model; as a tech leader, you won t need to spend nearly as much time with it.
 
-CEOs and CFOs have a deep and intimate understanding of this model; as
+However, it's essential that you maintain a clear picture of your department s contribution to that model, which will primarily come in the form of headcount expenses (current and future). is model should provide some level of constraint, in the form of either an annualized budget or an expense run-rate, that will guide the timing of your hires.
 
-a tech leader, you won t need to spend nearly as much time with it.
-
-However, it's essential that you maintain a clear picture of your department s contribution to that model, which will primarily come in the form
-
-of headcount expenses (current and future). is model should provide some level of constraint, in the form of either an annualized budget or an expense run-rate, that will guide the timing of your hires.
-
-**HIRING GOALS AND OBJECTIVES![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.035.png)**
+### Hiring Goals and Objectives
 
 Just as with designing software systems, when you sit down to design your interview process, you should begin by considering your requirements and goals. While every company should and will have its own requirements and perspective, here are some of the things I consider when designing an interview process:
 
- **Efficiency:** How much time and cost does it take to hire a candidate?
+**Efficiency:** How much time and cost does it take to hire a candidate?
 
- **Success rate:** How successful on the job are hired candidates and how
+**Success rate:** How successful on the job are hired candidates and how long do they stay with the firm?
 
-long do they stay with the firm?
+**Candidate experience:** Do candidates come away thinking highly of your company after going through the process, regardless of whether they were hired?
 
- **Candidate experience:** Do candidates come away thinking highly of
+**Equitable opportunities:** Have you ensured that every person has a fair shot at being hired, and avoided unconscious bias as much as possible?
 
-your company after going through the process, regardless of whether they were hired?
+**Scalability:** Can people other than you run the process and be as effective/have a success rate similar to yours?
 
- **Equitable opportunities:** Have you ensured that every person has
-
-a fair shot at being hired, and avoided unconscious bias as much as possible?
-
- **Scalability:** Can people other than you run the process and be as effective/have a success rate similar to yours?
-
-EFFICIENCY
+#### EFFICIENCY
 
 Hiring well is an expensive undertaking for your company. at cost comes in actual dollars, be it for recruiters, job board listings, or job advertisements. It also costs time, primarily in employee time spent conducting interviews. As you design your interview process, consider what your intention is with each step, what you are filtering for, and what is the most efficient way to accomplish that filtering.
 
-One way to reduce or at least spread out the time investment is to include other team members in the hiring process. Depending on the subject matter of a given interview, you don't always need your most senior engineers in the room. A hiring coordinator, with appropriate training, can
+One way to reduce or at least spread out the time investment is to include other team members in the hiring process. Depending on the subject matter of a given interview, you don't always need your most senior engineers in the room. A hiring coordinator, with appropriate training, can do a phone screen, a culture interview, or a reference check just as effectively as a senior engineer or executive.
 
-do a phone screen, a culture interview, or a reference check just as effectively as a senior engineer or executive.
-
-SUCCESS RATE
+#### SUCCESS RATE
 
 Not every hire is going to be a home run for your company. Some will be leveled incorrectly, some won t be a culture fit, and others will be fired or quit in the first year. Especially as you scale an interview process, you need to measure how many hires are successful. is is one of the few opportunities as a technical leader where you can calculate clear, consistent, and indicative metrics, so take advantage and ensure your process is top notch. Consider tracking time to hire (from posting a job description until a new hire start date), overall employee retention, new hire attrition (or down-leveling), as well as how many new hires are promoted in their first two years.
 
@@ -879,181 +820,133 @@ As Andy Grove discusses in *High Output Management*, even a world- class intervi
 
 The best leaders track their success rate, aren t afraid of admitting hiring mistakes, and will hire slow, fire fast.
 
-There's no getting around it: firing a new employee who isn t working
+There's no getting around it: firing a new employee who isn t working out shortly after they were hired is socially awkward and uncomfortable for everyone. It is, however, the responsible thing to do for your team. Some practices to help provide transparency to new employees and assist managers in making good decisions include implementing a formal ninety-day probationary or introductory period and required new-employee/ manager check-ins every fifteen or thirty days, or using a contract-to-hire employment structure.
 
-out shortly after they were hired is socially awkward and uncomfortable
-
-for everyone. It is, however, the responsible thing to do for your team. Some practices to help provide transparency to new employees and assist managers in making good decisions include implementing a formal ninety-day probationary or introductory period and required new-employee/ manager check-ins every fifteen or thirty days, or using a contract-to-hire employment structure.
-
-CANDIDATE EXPERIENCE
+#### CANDIDATE EXPERIENCE
 
 Candidate experience is how candidates feel about your company during and after they go through your hiring process. Many candidates will do due diligence on your company before applying or interviewing. They re likely to look at online forums and social media and see what other candidates or employees who went through your process have to say about you.
 
 You can t always control what people say about you, but nonetheless, you want to provide the sort of candidate experience that makes them more likely to read good things online, have a great experience themselves, and thus be more inclined to continue with your interviews and accept your offers.
 
-EQUITABLE OPPORTUNITIES
+#### EQUITABLE OPPORTUNITIES
 
- ere s a saying that people tend to hire people who look like themselves. is is often the result of unsophisticated interview scoring methods that simply rely on an interviewer s gut feeling, and gut feelings are often strongly influenced by unconscious bias. is bias can disadvantage candidates of other races, genders, ethnicities, etc.
+There's a saying that people tend to hire people who look like themselves. is is often the result of unsophisticated interview scoring methods that simply rely on an interviewer s gut feeling, and gut feelings are often strongly influenced by unconscious bias. is bias can disadvantage candidates of other races, genders, ethnicities, etc.
 
 As you design your interview process, you should focus on evaluations based on a rubric that aligns with requirements from a job description, not just an interviewer s gut feeling. See the Avoiding Bias section in Interviewing Best Practices, page 63, for more about avoiding biases.
 
-SCALABILITY
+#### SCALABILITY
 
-it's all well and good if you, individually, are capable of hiring effectively. At some point, there will be more open roles than you can hire yourself, and you'll need to scale the process and bring in other people. To do so effectively, you must build a repeatable system that others can leverage to identify top talent and hire with the same efficacy and success rate as you.
+It's all well and good if you, individually, are capable of hiring effectively. At some point, there will be more open roles than you can hire yourself, and you'll need to scale the process and bring in other people. To do so effectively, you must build a repeatable system that others can leverage to identify top talent and hire with the same efficacy and success rate as you.
 
- at means that somebody else will need to be able to conduct the same interviews and draw the same conclusions at the end of that process that you likely would have if you d conducted the interviews yourself.
+That means that somebody else will need to be able to conduct the same interviews and draw the same conclusions at the end of that process that you likely would have if you d conducted the interviews yourself.
 
-The goal of the remainder of this section is to help you create a scalable system for interviewing and hiring that fits your organization s goals and can work seamlessly *without* your direct involvement (once you've taken the time to calibrate it). By defining and deploying this kind of structure, creating thoughtful documentation, and templating, you enable others
+The goal of the remainder of this section is to help you create a scalable system for interviewing and hiring that fits your organization s goals and can work seamlessly *without* your direct involvement (once you've taken the time to calibrate it). By defining and deploying this kind of structure, creating thoughtful documentation, and templating, you enable others to conduct interviews and produce candidate ranking scores that would closely mirror your own.
 
-to conduct interviews and produce candidate ranking scores that would closely mirror your own.
-
-**THE JOB DESCRIPTION ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.036.png)**
+### The Job Description
 
 Many companies underestimate the value of a great job description. A really good job description does two main things for you: it helps you create clarity and alignment internally with your company on what the role does and the value it can offer, and it advertises your company and attracts the kind of applicants that could be a good fit.
 
-Surveying the Market![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.037.png)
+#### Surveying the Market
 
 Before starting to write a job description I encourage you to do a survey of the market. Look at competing or similar companies and the job descriptions they have for similar roles.
 
 Often these posts can provide good inspiration and calibration, especially when you're hiring for less common roles that may not be as well addressed by the scalable system you've put in place.
 
-CREATING CLARITY ON A ROLE
+#### Creating Clarity on a Role
 
 The traditional job description has a brief description of what the role will do, followed by a bulleted list of requirements for the candidate. I encourage you to write more than that. Rather than focusing on what a successful candidate will do in a particular role, think through the purpose the role serves. What outcomes does the role drive? What kind of impact do you expect from this role in three, six, or twelve months? You may or may not want to publish the answer to these questions as part of the job description, but the exercise of going into detail on expectations will prove valuable nonetheless.
 
-Socialize the answers to these questions with other leaders at your organization and ensure they agree with the answers. Don't be surprised if you get significant feedback on the first version of the responsibilities and outcomes
+Socialize the answers to these questions with other leaders at your organization and ensure they agree with the answers. Don't be surprised if you get significant feedback on the first version of the responsibilities and outcomes of a role. At most startups, before a headcount is formally opened, there is a high-level, unstructured conversation around a specific title. Oh, we need to hire a senior JavaScript backend engineer. Theact of writing and socializing the job description enables your team to get precise about what the company really needs, so it's natural that you'll need to do a few revisions.
 
-of a role. At most startups, before a headcount is formally opened, there is a high-level, unstructured conversation around a specific title. Oh, we need to hire a senior JavaScript backend engineer. Theact of writing and socializing
-
-the job description enables your team to get precise about what the company really needs, so it's natural that you'll need to do a few revisions.
-
-JOB DESCRIPTIONS AS AN ADVERTISEMENT
+#### Job Descriptions as an Advertisement
 
 Everything your company posts publicly is a reflection of your culture and brand. A job description is no exception. The job description targets the single most valuable customer of that culture and brand: your employees, present and future. Ideally, the right candidate someone who not only meets your job requirements but who is also a great culture fit reads your job description and is excited about both the role and the company itself.
 
 Some ways to help your job description reflect your culture:
 
- Include your company s core values, mission, or vision whatever you
+* Include your company s core values, mission, or vision whatever you have front and center.
 
-have front and center.
+* Include the impact that the role will have on your team, company, and customers.
 
- Include the impact that the role will have on your team, company, and
+* Advertise your team structure, working environment, and size.
 
-customers.
-
- Advertise your team structure, working environment, and size.
-
- Highlight your compensation and benefits (posting a salary range is
-
-legally required in some markets).
+* Highlight your compensation and benefits (posting a salary range is legally required in some markets).
 
 In addition to elements aimed to pique candidate interest, it's a good idea to include some often-overlooked details to help candidates self-tier:
 
- Include leveling and compensation brackets.
+* Include leveling and compensation brackets.
 
- Include location, on-site requirements, and whether remote work is
+* Include location, on-site requirements, and whether remote work is allowed and to what extent.
 
-allowed and to what extent.
+* Include time zone/working hour requirements.
 
- Include time zone/working hour requirements.
-
-### SOURCING CANDIDATES!
+### Sourcing Candidates
 
 When it comes to filling roles in your organization, you'll source qualified candidates in three ways: inbound recruiting, outbound recruiting, and referrals. An effective, scalable hiring process should be designed to leverage all three methods.
 
-INBOUND RECRUITING
+#### INBOUND RECRUITING
 
 Inbound recruiting is about marketing your job opening and collecting voluntary candidate applications. Much like any other marketing exercise, a one-channel approach may not be enough to drive results.
 
 As such, posting a job description on a job board is the bare minimum. Depending on the state of the market, how many roles you're hiring for, and the quality/clarity of your job description, the posting alone may be sufficient. Often you'll need to do more to draw in top talent, including actively promoting your roles in specialized tech communities and/or marketing your brand via conference attendance/sponsorship, a company blog, social media outreach, etc.
 
- ere is no universal best venue for placing classified ads that great employees turn to. Keep your ear to the ground for whatever platform/job site seems to be most common and post your job description accordingly.
+There is no universal best venue for placing classified ads that great employees turn to. Keep your ear to the ground for whatever platform/job site seems to be most common and post your job description accordingly. This is something a good Applicant Tracking System (ATS) will help you with, as it can track a referral source for every candidate and provide metrics around which job boards bring in better/more candidates that make it deeper into your process than others. When hiring designers in particular, it's important to talk to some working designers about where the most popular portfolio hosting sites are and maintain a presence on those job boards to find the best candidates.
 
- is is something a good Applicant Tracking System (ATS) will help you with, as it can track a referral source for every candidate and provide metrics around which job boards bring in better/more candidates that make it deeper into your process than others. When hiring designers in particular,
+You'll also want to monitor how many applications you're receiving for each role. At a minimum, your hiring manager(s) should be looking at the state of the funnel for their roles on a weekly basis and adjusting their approach accordingly. If a role isn t getting enough applicants (or is attracting the wrong applicants), then change something! Try tweaking the job title or posting the job description to new channels. A key element of a strong hiring process is the same as any other process you build for your team: a humble willingness to revisit past decisions and improve over time.
 
-it's important to talk to some working designers about where the most popular portfolio hosting sites are and maintain a presence on those job boards
+#### OUTBOUND RECRUITING
 
-to find the best candidates.
-
-you'll also want to monitor how many applications you're receiving for each role. At a minimum, your hiring manager(s) should be looking
-
-at the state of the funnel for their roles on a weekly basis and adjusting
-
-their approach accordingly. If a role isn t getting enough applicants (or is attracting the wrong applicants), then change something! Try tweaking the job title or posting the job description to new channels. A key element of a strong hiring process is the same as any other process you build for your team: a humble willingness to revisit past decisions and improve over time.
-
-OUTBOUND RECRUITING
-
-Outbound recruiting involves proactively reaching out to target candidates and encouraging them to apply for your role. is can be done
-
-by you, your team, an internal recruiter, and/or an external recruiter. I encourage teams to start their hiring process with inbound recruiting and in-house outbound recruiting first. By actually doing the recruiting, talking to the candidates, and listening to their reactions to your pitch, you'll learn a lot about the market and what top candidates think of what you're selling. you'll also get a sense of how competitive your offer is and how easy or hard it is to find candidates that match your job description, perhaps even leading you to tweak it. Once you've fine-tuned the role and know exactly whom and what you're looking for, you'll be ready to give optimized guidance to an external recruiter, which will help them source candidates more effectively on your behalf.
+Outbound recruiting involves proactively reaching out to target candidates and encouraging them to apply for your role. is can be done by you, your team, an internal recruiter, and/or an external recruiter. I encourage teams to start their hiring process with inbound recruiting and in-house outbound recruiting first. By actually doing the recruiting, talking to the candidates, and listening to their reactions to your pitch, you'll learn a lot about the market and what top candidates think of what you're selling. you'll also get a sense of how competitive your offer is and how easy or hard it is to find candidates that match your job description, perhaps even leading you to tweak it. Once you've fine-tuned the role and know exactly whom and what you're looking for, you'll be ready to give optimized guidance to an external recruiter, which will help them source candidates more effectively on your behalf.
 
 Not all external recruiters are the same. You want somebody who meets all of these criteria:
 
- Highly organized
+* Highly organized
 
- Able to effectively sell your role (it's your job to train and hold them
+* Able to effectively sell your role (it's your job to train and hold them accountable to do this well)
 
-accountable to do this well)
+* Motivated to follow up relentlessly without being pushy or obnoxious
 
- Motivated to follow up relentlessly without being pushy or obnoxious
+* Inclined to value the relationship with both you and the candidate more than the commission for a single placement
 
- Inclined to value the relationship with both you and the candidate
+#### REFERRALS
 
-more than the commission for a single placement
+The highest return on investment in hiring comes from internal referrals, i.e., referrals from your existing employees. People are much more likely to want to do business with a company that is spoken highly of by a current team member, and it's often easier to find a cultural fit when the candidate has already been vetted by someone familiar with your culture. You can encourage internal referrals by providing cash incentives (see sidebar) or having good communication with referees as to the status of their referrals.
 
-REFERRALS
+Given that referrals have such a high chance of success, you want to provide the best possible candidate experience. You may also want to consider an abbreviated (but fair) hiring process. Skipping or compressing any top- of-funnel coarse filters, such as phone screeners or qualification forms, may be appropriate. You may also want to encourage the referrer to contribute a paragraph or two, in writing, justifying their referral.
 
-The highest return on investment in hiring comes from internal referrals, i.e., referrals from your existing employees. People are much more likely to want to do business with a company that is spoken highly of by
+### A Note on the Mathematics of Incentivizing Referrals
 
-a current team member, and it's often easier to find a cultural fit when the candidate has already been vetted by someone familiar with your culture. You can encourage internal referrals by providing cash incentives (see sidebar) or having good communication with referees as to the status of their referrals.
+Based on the data you likely already have, it's relatively easy to approximate the cost (in both time and actual dollars spent) to hire a new engineer for your company. If you consider that referrals often have a substantially higher conversion rate to hire, it becomes clear that referrals save thousands to tens of thousands of dollars, which can help you justify a multi-thousand-dollar bonus to any employee who refers a candidate who is ultimately hired and stays in their role for more than a few months.
 
-Given that referrals have such a high chance of success, you want to provide the best possible candidate experience. You may also want to consider
+### Interviewing Best Practices
 
-an abbreviated (but fair) hiring process. Skipping or compressing any top- of-funnel coarse filters, such as phone screeners or qualification forms, may
-
-be appropriate. You may also want to encourage the referrer to contribute a paragraph or two, in writing, justifying their referral.
-
-A Note on the Mathematics ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.039.png)of Incentivizing Referrals
-
-Based on the data you likely already have, it's relatively easy to approximate the cost (in both time and actual dollars spent) to hire a new engineer for your company. If you consider that referrals often have a substantially higher conversion rate to hire, it becomes clear that referrals save thousands to tens of thousands
-
-of dollars, which can help you justify a multi-thousand-dollar bonus to any employee who refers a candidate who is ultimately hired and stays in their role for more than a few months.
-
-**INTERVIEWING BEST PRACTICES![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.040.png)**
-
-The interview flow is where the rubber meets the road on your ability to determine how well a candidate fits the role you're hiring for. Keep in mind that there is no perfect interview. The amount of data an interviewer collects in
-
-a sparse few hours with a candidate, of course, cannot perfectly predict how well somebody will do full-time on the job for months and years to come.
+The interview flow is where the rubber meets the road on your ability to determine how well a candidate fits the role you're hiring for. Keep in mind that there is no perfect interview. The amount of data an interviewer collects in a sparse few hours with a candidate, of course, cannot perfectly predict how well somebody will do full-time on the job for months and years to come.
 
 In this section, I cover some high-level interviewing best practices, and then provide some background and context on the various steps of interviewing, including candidate/rØsumØ intake forms, phone screens, culture interviews, technical interviews, coding assignments, or take-home assignments, executive interviews, and finally reference checks.
 
-REJECTED CANDIDATES OPINIONS MATTER
+#### REJECTED CANDIDATES OPINIONS MATTER
 
-When designing your interview process, your candidate experience should be top of mind and a top priority. Even if you choose not to hire a candidate, that person will walk away with an impression good or bad
-
-of you and your company. at impression may lead to them singing your praises to those in their professional network who may someday apply for your roles. Or that impression could lead them to rant negatively about you every chance they get.
+When designing your interview process, your candidate experience should be top of mind and a top priority. Even if you choose not to hire a candidate, that person will walk away with an impression good or bad of you and your company. at impression may lead to them singing your praises to those in their professional network who may someday apply for your roles. Or that impression could lead them to rant negatively about you every chance they get.
 
 Job boards and Google reviews are littered with the evidence of interviews running amok, and it's very difficult to undo the damage to your reputation once it's been done. While it's true that, for some candidates, no amount of respect and consideration on your part will prevent the bitter sting of rejection from poisoning their takeaway opinion of you, those people are in the minority. For most candidates who get to the interview stage, a respectful and thoughtful interviewing process will leave them with a neutral-to-positive feeling about your company and help you avoid negative press online.
 
-BE TIMELY AND MAKE SCHEDULING EASY
+#### BE TIMELY AND MAKE SCHEDULING EASY
 
-Ideally, you/your team will communicate the steps and scope of your hiring process to candidates upfront and leverage an easy, reliable solution for scheduling those steps in real time. For example, you can choose
-
-to (A) designate a hiring manager to handle all of the scheduling during business hours, (B) schedule all of the interviews in advance, or (C) provide an online tool that candidates can use to schedule their interviews asynchronously on their own time.
+Ideally, you/your team will communicate the steps and scope of your hiring process to candidates upfront and leverage an easy, reliable solution for scheduling those steps in real time. For example, you can choose to (A) designate a hiring manager to handle all of the scheduling during business hours, (B) schedule all of the interviews in advance, or (C) provide an online tool that candidates can use to schedule their interviews asynchronously on their own time.
 
 Truly, anything is better than requiring each interviewer to email each candidate before each interview to set up schedules sequentially, which can drag out an interview process over weeks or months.
 
-ASK ONLY NEW QUESTIONS
+#### ASK ONLY NEW QUESTIONS
 
 Every interview touchpoint should feel to the candidate like a continuation of the conversation, rather than a rehashing of details that were discussed in prior sessions. Avoiding the latter requires thoughtful structuring and careful planning in advance of your interviews.
 
 Ideally, subsequent interviews should be used to dive deeper and explore areas specific to a candidate or role, where both parties are looking to fully understand key strengths and weaknesses. Sharing suggested areas to focus on or new questions to ask with subsequent interviewers via an Applicant Tracking System (ATS) is a great way to ensure continuity, efficiency, and a great candidate experience that can reveal whether or not your potential hires are a true fit for your team.
 
-AVOID BIASES
+#### AVOID BIASES
 
 If you're unfamiliar with the phrase unconscious bias, I encourage you to read *inking Fast and Slow* by Daniel Kahneman. it's my go-to book for understanding many types of systematic errors our brains make.
 
-it's actually very easy to unintentionally advantage or disadvantage a candidate in ways that are not justified. Inevitably, this will result in worse hiring outcomes or potentially costly legal battles.
+It's actually very easy to unintentionally advantage or disadvantage a candidate in ways that are not justified. Inevitably, this will result in worse hiring outcomes or potentially costly legal battles.
 
 Bias takes many forms. Most biases are unconscious and can surround gender, race, alumni status, or socioeconomic background. But bias can also mean that the conclusions drawn by an interviewer about a candidate ahead of an interview are based solely on ranking scores from a prior interviewer. ere s no system that ensures eliminating all harmful biases, but there are certain steps you can take to minimize unconscious bias, such as blanking out candidate names or photos (which often hint at gender and ethnicity) during a rØsumØ screen.
 
@@ -1066,51 +959,28 @@ Most of the interview feedback should consist of detailed notes and scores again
 
 The second type of feedback, subsequent interview suggestions, should focus on areas for emphasis or more in-depth exploration in subsequent interviews and not reveal data that might overtly bias further interviews.
 
-USAGE OF AN APPLICANT TRACKING SYSTEM (ATS)
+#### USAGE OF AN APPLICANT TRACKING SYSTEM (ATS)
 
-When interviewing more than two or three candidates simultaneously,
-
-it can require a substantial effort to manage the logistics of where candidates stand in the process, coordinate notes from interviewers, and communicate consistently and promptly with candidates as they move through the funnel. Without a finely tuned system to manage all of these
-
-logistics, it's easy for candidate experience to suffer and for hiring costs to rise. This is a universal problem, and several high-quality, off-the- shelf Applicant Tracking System (ATS) solutions have been developed at various price points and levels of sophistication to address this problem.
+When interviewing more than two or three candidates simultaneously, it can require a substantial effort to manage the logistics of where candidates stand in the process, coordinate notes from interviewers, and communicate consistently and promptly with candidates as they move through the funnel. Without a finely tuned system to manage all of these logistics, it's easy for candidate experience to suffer and for hiring costs to rise. This is a universal problem, and several high-quality, off-the- shelf Applicant Tracking System (ATS) solutions have been developed at various price points and levels of sophistication to address this problem.
 
 The guidance here is simple: choose and onboard an ATS early. Don't wait until your process is already underwater to take action. Train your team, require widespread adoption of the system, and set expectations for its use with HR, hiring managers, and interviewers.
 
-SELLING CANDIDATES
+#### SELLING CANDIDATES
 
 As mentioned earlier, I highly encourage hiring managers to think of the interview process as a sales process. is naturally leads to several good habits that translate seamlessly from sales to interviews:
 
- During the sales process with a customer, you're always focused on
+* During the sales process with a customer, you're always focused on selling the prospect on the product, even when you're qualifying the customer. A good sales process regards qualifying candidates as a funnel, with light-touch qualification at the top and progressively more nuanced/time-intensive qualification down-funnel, along with a progressively more customized and tailored sales pitch.
 
-selling the prospect on the product, even when you're qualifying the customer. A good sales process regards qualifying candidates as a funnel, with light-touch qualification at the top and progressively more nuanced/time-intensive qualification down-funnel, along with a progressively more customized and tailored sales pitch.
+* You should always be selling your candidates on the advantages and positive benefits of joining your company and the role/opportunity you're offering. By the time they jump through all your interviewing hoops, they should be eager to work at your company and excited to take your job offer over others they have received (or may yet receive).
 
- You should always be selling your candidates on the advantages and
+* Ensure you're asking at least a couple of open-ended questions early on about what the candidate is looking for in their next role. is will help your interviewers synthesize how good a match the candidate s expectations are for the role you're hiring for. is information should be noted in the candidate s profile and used to tailor and customize the pitch to the candidate along the way.
+  * For example, a junior candidate coming from a mostly junior and mid-level team may be looking for the opportunity to work with more senior JavaScript engineers in an environment that promotes their growth. If your team offers senior support and your culture leans into mentorship, make sure you highlight that advantage, especially around the offer stage.
 
-positive benefits of joining your company and the role/opportunity you're offering. By the time they jump through all your interviewing hoops, they should be eager to work at your company and excited to take your job offer over others they have received (or may yet receive).
+* Always leave candidates some time (five or ten minutes) to ask questions at the end of the interview. Most qualified candidates come to interviews armed with questions, and you can learn a lot about what somebody cares about by what they choose to ask. is is a good opportunity for your interviewer to sell the benefits of your company in their responses.
 
- Ensure you're asking at least a couple of open-ended questions early
+* Along the way, ensure candidates feel respected and are progressively exposed to more of your company. Your best candidates need to feel like they were intelligently vetted *and* like they ve learned enough about the company to get excited. Ideally, you want even rejected candidates to be able to leave positive reviews on Google and Glassdoor. You can accomplish that by selling your company s benefits throughout the interview, respecting people's time as if it were your own, having consistent and timely communication, and ensuring that everyone feels the process was as fair and transparent as possible.
 
-on about what the candidate is looking for in their next role. is will help your interviewers synthesize how good a match the candidate s expectations are for the role you're hiring for. is information should be noted in the candidate s profile and used to tailor and customize the pitch to the candidate along the way.
-
-- For example, a junior candidate coming from a mostly junior and mid-level team may be looking for the opportunity to work
-
-with more senior JavaScript engineers in an environment that promotes their growth. If your team offers senior support and your culture leans into mentorship, make sure you highlight that advantage, especially around the offer stage.
-
- Always leave candidates some time (five or ten minutes) to ask ques -
-
-tions at the end of the interview. Most qualified candidates come to interviews armed with questions, and you can learn a lot about what somebody cares about by what they choose to ask. is is a good opportunity for your interviewer to sell the benefits of your company in their responses.
-
- Along the way, ensure candidates feel respected and are progressively
-
-exposed to more of your company. Your best candidates need to feel
-
-like they were intelligently vetted *and* like they ve learned enough
-
-about the company to get excited. Ideally, you want even rejected candidates to be able to leave positive reviews on Google and Glassdoor. You can accomplish that by selling your company s benefits throughout the interview, respecting people s time as if it were your own, having consistent and timely communication, and ensuring that everyone
-
-feels the process was as fair and transparent as possible.
-
-**INTAKE FORMS![ref3]**
+### Intake Forms
 
 The beginning of the interview funnel is a form that achieves two goals: it provides the candidate with some information about your company and its hiring process, and thus a sample of its culture; and it takes in a bunch of information from the candidate to act as an inexpensive, coarse- grained filter.
 
@@ -1118,53 +988,33 @@ Intake Form Preamble
 
 At the top of your intake form, you should outline several key pieces of information for candidates:
 
- Reiterate the role they are applying for and its key requirements and
+* Reiterate the role they are applying for and its key requirements and impact.
 
-impact.
+* Reiterate your company s core values and provide a sample of your culture.
 
- Reiterate your company s core values and provide a sample of your
+* Set expectations for the hiring process, how long it will take, how many steps there are, and generally what the process looks like.
 
-culture.
+#### Intake Form Questionnaire
 
- Set expectations for the hiring process, how long it will take, how many
+The questionnaire should include a request for the candidate's resume (or LinkedIn profile URL), ask some questions required by legal and HR with respect to employment eligibility, and then ideally ask a few qualifying questions of the candidate. The qualifying questions should be light-touch, generally freeform, and possibly even technical questions to ensure the candidate is in the right ballpark for the role. For example, for a role that requires experience in JavaScript, it's not unreasonable to confirm that experience in the questionnaire with a question like, Rate your comfort level working with JavaScript on a scale from not comfortable to extremely comfortable.
 
-steps there are, and generally what the process looks like.
+This may seem redundant to the requirements listed in the job description, and it is, though you d be surprised how many resumes will come through lacking basic qualifications. ese questions are quick/trivial for the candidate to answer and just as quick for a hiring manager to use to filter out applicants.
 
-Intake Form Questionnaire
-
-The questionnaire should include a request for the candidate s rØsumØ
-
-(or LinkedIn profile URL), ask some questions required by legal and HR with respect to employment eligibility, and then ideally ask a few qualifying questions of the candidate. The qualifying questions should be light-touch, generally freeform, and possibly even technical questions to ensure the candidate is in the right ballpark for the role. For example, for
-
-a role that requires experience in JavaScript, it's not unreasonable to confirm that experience in the questionnaire with a question like, Rate your comfort level working with JavaScript on a scale from not comfortable to
-
- extremely comfortable.
-
- is may seem redundant to the requirements listed in the job description, and it is, though you d be surprised how many rØsumØs will come through lacking basic qualifications. ese questions are quick/trivial for
-
-the candidate to answer and just as quick for a hiring manager to use to filter out applicants.
-
-If you're inundated with candidates and want to do a bit more filtering at this stage, the questionnaire can also include one or two more interesting
-
-or difficult questions. If you include these, be sure to still keep them brief; you don't want to lose candidates in this form because the questions were too arduous. If you're overwhelmed with applicants then bias towards more data to filter with here, otherwise maybe it's best to save more nuanced qualifications for further down the funnel.
+If you're inundated with candidates and want to do a bit more filtering at this stage, the questionnaire can also include one or two more interesting or difficult questions. If you include these, be sure to still keep them brief; you don't want to lose candidates in this form because the questions were too arduous. If you're overwhelmed with applicants then bias towards more data to filter with here, otherwise maybe it's best to save more nuanced qualifications for further down the funnel.
 
 Some example questions for an intake form covering broad compatibility and self-identified technical familiarity (I've included a sample at ctohb. com/templates):
 
- As a great candidate, you'll receive a ton of offers. Compensation and
+* As a great candidate, you'll receive a ton of offers. Compensation and benefits being equal, what will make you pick one company over another?
 
-benefits being equal, what will make you pick one company over another?
+* What are deal makers and deal breakers in your next move?
 
- What are deal makers and deal breakers in your next move?
+* What gives you energy in your work? What taxes your energy?
 
- What gives you energy in your work? What taxes your energy?
+* What are your geographic expectations (location, remote, on-site)?
 
- What are your geographic expectations (location, remote, on-site)?
+* How familiar are you with basic technical qualifiers: rank familiarity with [relevant programming language or tool] on a scale of 1-10?
 
- How familiar are you with basic technical qualifiers: rank familiarity
-
-with [relevant programming language or tool] on a scale of 1 10?
-
-**PHONE SCREEN![ref3]**
+#### Phone Screen
 
 The initial phone screen, like everything in the interview process, serves a dual function: it's an opportunity to learn more about the candidate, and it's the candidate s first interaction with (and evaluation of) a human at your company.
 
@@ -1172,45 +1022,28 @@ Given that this is the first person the candidate will have an interaction with 
 
 Regardless of who runs the phone screen, ensure that person is a good cultural representative for your team/company and is equipped with the information technical candidates are likely to ask for at this stage, including:
 
- What the software stack looks like, including key languages, tools, and
-
-target clients (e.g., mobile, desktop, etc.). The interviewer should have a rudimentary understanding of the words they are using here, and not just reading off a list.
+What the software stack looks like, including key languages, tools, and target clients (e.g., mobile, desktop, etc.). The interviewer should have a rudimentary understanding of the words they are using here, and not just reading off a list.
 
 The size of the technical team, both at large in the company and that
 
 the candidate would be working with. is should also include general hiring forecasts and roughly how many people are being added over time.
 
- Who the candidate would be reporting to. Provide some basic back -
+Who the candidate would be reporting to. Provide some basic background on that manager, including their tenure at the company, maybe what they did before working at the company.
 
-ground on that manager, including their tenure at the company, maybe what they did before working at the company.
+A great sense of the company s core values/culture and way of doing work.
 
- A great sense of the company s core values/culture and way of doing
-
-work.
-
-The interviewer s goal should be to introduce the candidate to the company, its culture, the role, and the hiring process. ey will also ask some
-
-high-level questions of the candidate to confirm their structural fit for the role. You want a candidate to walk away from this interview motivated to do well in the rest of the interview process and excited at the idea of working for your company.
+The interviewer s goal should be to introduce the candidate to the company, its culture, the role, and the hiring process. They will also ask some high-level questions of the candidate to confirm their structural fit for the role. You want a candidate to walk away from this interview motivated to do well in the rest of the interview process and excited at the idea of working for your company.
 
 The exact questions asked in a phone screen are thus not super important. Here is an outline of some areas you may want to cover:
 
- Do they have anything constraining their hiring timeline (e.g., other
-
-job offers)?
-
- Where is the candidate located, and are they willing to relocate if
-
-necessary?
-
- Roughly when can they start or are they looking to start?
-
- Confirm compensation expectations are aligned and explain benefits/
-
-perks.
+* Do they have anything constraining their hiring timeline (e.g., other job offers)?
+* Where is the candidate located, and are they willing to relocate if necessary?
+* Roughly when can they start or are they looking to start?
+* Confirm compensation expectations are aligned and explain benefits/perks.
 
 In addition to good answers to the questions, the interviewer should gauge their general fit for the role. Does the candidate communicate clearly, do they seem like a culture fit, does their claimed experience match what they have on their rØsumØ, and are they interested in the company and opportunity?
 
-**CULTURE INTERVIEW![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.042.png)**
+### Culture Interview
 
 One of the major criteria you're looking for in your interview process is culture fit. Culture fit is all the elements of a candidate s personality, beyond their experience and skills, that will enable them to be successful
 
