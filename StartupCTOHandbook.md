@@ -1051,81 +1051,54 @@ in your organization. In order to effectively screen candidates for culture fit,
 
 I would refer you to *Team of Teams* by Stanley McChrystal, *Work Rules!* by Laszlo Bock, and *Good Authority* by Jonathan Raymond.
 
-Currently, there are few formally structured interview programs that are widely used. The one that does come up fairly regularly is called
-
- topgrading,* which refers to at least two different things: the topgrading method and the topgrading interview. The topgrading method (ctohb. com/topgrading) is an entire book hiring methodology that was purportedly developed by General Electric in the 1980s/90s and written about in Verne Harnish's *Scaling Up*. The topgrading interview (ctohb.com/interview), which I call the culture interview, is a specific interview agenda, style, and structure designed to learn about a candidate s background and cultural fit.
+Currently, there are few formally structured interview programs that are widely used. The one that does come up fairly regularly is called *topgrading* which refers to at least two different things: the topgrading method and the topgrading interview. The topgrading method (ctohb. com/topgrading) is an entire book hiring methodology that was purportedly developed by General Electric in the 1980s/90s and written about in Verne Harnish's *Scaling Up*. The topgrading interview (ctohb.com/interview), which I call the culture interview, is a specific interview agenda, style, and structure designed to learn about a candidate s background and cultural fit.
 
 As formally designed, the topgrading interview walks a candidate through their employment history and asks the same set of questions about each of the candidate s prior few roles. Depending on the candidate s history and how long they spent at their past few roles, you should cover anywhere from two to five past positions. You want to capture a long enough period of time to try and identify trends and see growth, but also not keep the candidate in the interview for three hours discussing internships they had in college twenty years ago.
 
 For each role, topgrading has the interviewer ask the following questions:
 
- What were some notable successes or accomplishments in this
+* What were some notable successes or accomplishments in this position?
 
-position?
+* What were some mistakes or failures in this position? What was your supervisor s name and title?
 
- What were some mistakes or failures in this position? What was your supervisor s name and title?
+* What do you think the supervisor s honest assessment of your strengths and weaknesses would be?
 
- What do you think the supervisor s honest assessment of your strengths
-
-and weaknesses would be?
-
- What do you feel your supervisor s strengths and weaknesses were?
+* What do you feel your supervisor s strengths and weaknesses were?
 
 In addition to this interview formula, topgrading suggests a two-interviewer approach: the lead, who is actively engaging in conversation and getting curious with the candidate; and a dedicated notetaker.
 
 Whether you're using one or two interviewers, taking notes is critically important. To review candidates fairly, you will want to create a scorecard in advance of interviewing your first candidate which evaluates a candidate s answers, looking for alignment to your company culture. For example, if respectful challenge is a company core value, ask the candidate if they could identify any instances of challenging respectfully. Or did they speak disrespectfully about any past coworkers? Using notes after the interview to complete and justify scores on a scorecard is essential.
 
-**CODING CHALLENGE![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.043.png)**
+### Coding Challenge
 
-Requiring take-home assignments also referred to as coding challenges
-
-or interviewing homework is a controversial topic. Take-homes are often
-
-a significant investment of time for candidates and are thus a significant source of candidate drop-off in the hiring funnel. it's not hard to imagine in-demand candidates being asked to do several take-homes, each of them requiring many hours or days of work, adding up to weeks of work. When facing those requests, it's understandable that candidates will prioritize the assignments for companies they are most excited about and/or have the most tractable assignments.
+Requiring take-home assignments also referred to as coding challenges or interviewing homework is a controversial topic. Take-homes are often a significant investment of time for candidates and are thus a significant source of candidate drop-off in the hiring funnel. it's not hard to imagine in-demand candidates being asked to do several take-homes, each of them requiring many hours or days of work, adding up to weeks of work. When facing those requests, it's understandable that candidates will prioritize the assignments for companies they are most excited about and/or have the most tractable assignments.
 
 Despite these structural challenges, from a hiring manager s perspective, it's critical to have one. How can you hire a software engineer without having had them write code for you?
 
 To summarize, there are three competing factors:
 
- **Establish Predictive Ability:** Employers desire to have candidates
+**Establish Predictive Ability:** Employers desire to have candidates actually produce code in a software engineering interview process to try and predict on-the-job performance.
 
-actually produce code in a software engineering interview process to try and predict on-the-job performance.
+**Minimize Drop Off:** Employers desire to have candidates actually complete coding assignments and not fall out in the funnel.
 
- **Minimize Drop Off:** Employers desire to have candidates actually
+**Improve Candidate Experience:** Candidates desire to feel like their time is respected and the assigned tasks are reasonable. Ideally, a candidate should learn more about your company through this assignment and be even more excited about your opportunity.
 
-complete coding assignments and not fall out in the funnel.
+#### Predictive Ability
 
- **Improve Candidate Experience:** Candidates desire to feel like their
-
-time is respected and the assigned tasks are reasonable. Ideally, a candidate should learn more about your company through this assignment and be even more excited about your opportunity.
-
-Predictive Ability
-
- ere are several styles of coding interview or assignment. Assignments range from take-home projects with a prompt, to using an online platform for programming exercises (also sometimes known as code katas ), to
-
-live pair programming. Absent any empirical data about the predictive capability of these styles, I encourage you to design an exercise that looks as much like regular day-to-day work at your company as possible. If you don't do any pair programming at your company, then gauging how a candidate performs in an interview setting pair programming, intuitively, doesn t feel highly correlated/predictive. At the very least it's collecting tangential signals.
+There are several styles of coding interview or assignment. Assignments range from take-home projects with a prompt, to using an online platform for programming exercises (also sometimes known as code katas ), to live pair programming. Absent any empirical data about the predictive capability of these styles, I encourage you to design an exercise that looks as much like regular day-to-day work at your company as possible. If you don't do any pair programming at your company, then gauging how a candidate performs in an interview setting pair programming, intuitively, doesn t feel highly correlated/predictive. At the very least it's collecting tangential signals.
 
 As a manager, your aim is to get the best out of the people you work with. With that in mind, try and recall the last time you were interviewed and exercise your empathy muscle when designing your coding assignment. Being interviewed is, for most, a very stressful process, and being asked to be creative or problem-solve in that scenario doesn t always bring out the best performance. Some ways to help candidates do their best work on a coding assignment are:
 
- Provide flexibility in choice of language/tools where possible.
+* Provide flexibility in choice of language/tools where possible.
 
- Allow for work to be done asynchronously (i.e., take-home instead of
+* Allow for work to be done asynchronously (i.e., take-home instead of live coding).
+  * If you're indexing strongly on signals from the coding process such that take-homes aren t rich enough, consider asking the candidate to record themselves (via Loom or other similar tools) doing a part of the exercise.
 
-live coding).
+* Be explicit about what you're looking for in the candidate s output. For example, if your scoring rubric measures how well they ve documented their code, then ensure the prompt the candidate is given tells them to include documentation. Or if you plan to run the code, let the candidate know whether you'll just be evaluating correctness, or if other elements matter, such as performance, negative cases, etc.
 
- If you're indexing strongly on signals from the coding process such
+#### Candidate Experience and Drop-Off
 
-that take-homes aren t rich enough, consider asking the candidate to record themselves (via Loom or other similar tools) doing a part of the exercise.
-
- Be explicit about what you're looking for in the candidate s output. For
-
-example, if your scoring rubric measures how well they ve documented their code, then ensure the prompt the candidate is given tells them to include documentation. Or if you plan to run the code, let the candidate know whether you'll just be evaluating correctness, or if other elements matter, such as performance, negative cases, etc.
-
-Candidate Experience and Drop-Off
-
-Candidates are more likely to complete your take-home coding assignment if they find it interesting and easy to get started. The best assignments
-
-are topically related to your business and ideally expose the candidate to the kind of problems your company actually faces on a daily basis.
+Candidates are more likely to complete your take-home coding assignment if they find it interesting and easy to get started. The best assignments are topically related to your business and ideally expose the candidate to the kind of problems your company actually faces on a daily basis.
 
 **Bad example:** You're a web SaaS platform, and you assign a can![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.044.png)didate to do a challenge related to mobile phone development.
 
@@ -1133,15 +1106,13 @@ are topically related to your business and ideally expose the candidate to the k
 
 Providing candidates with existing code repositories that have working build systems/tests to start with can save the candidate time bootstrapping a build themselves.
 
-To be respectful of a candidate s time, I suggest providing a hard time limit for the take-home. The goal of a time limit is not to provide time pressure and force fast-paced delivery, but to ensure candidates are not overinvesting in the challenge and feel that the challenge is a reasonable request. To ensure candidates understand the time limit, you should
+To be respectful of a candidate s time, I suggest providing a hard time limit for the take-home. The goal of a time limit is not to provide time pressure and force fast-paced delivery, but to ensure candidates are not overinvesting in the challenge and feel that the challenge is a reasonable request. To ensure candidates understand the time limit, you should:
+* Provide ample explanation of the time limit
+* Ensure that the task is readily achievable in the time limit specified
+* Let candidates know how their submission will be evaluated. If your scoring rubric rates the candidate s README file, then let the candidate know they should spend time writing a README. If the code will be run either live with the candidate or by an interviewer asynchronously let them know that runtime will be judged. If you mostly care about architectural decisions and you're less concerned about runtime performance, let them know that, too, so they can spend time in the right way.
 
- Provide ample explanation of the time limit
 
- Ensure that the task is readily achievable in the time limit specified
-
-Let candidates know how their submission will be evaluated. If your scoring rubric rates the candidate s README file, then let the candidate know they should spend time writing a README. If the code will be run either live with the candidate or by an interviewer asynchronously let them know that runtime will be judged. If you mostly care about architectural decisions and you're less concerned about runtime performance, let them know that, too, so they can spend time in the right way.
-
-**TECHNICAL INTERVIEWS![ref4]**
+### Technical Interviews
 
 As controversial and varied as the methodologies for take-home coding interviews are, technical interviews themselves are even more varied. In general, I encourage you to follow the same fundamentals: ensure you're collecting signals relevant to the actual job, and be respectful and considerate of candidates themselves.
 
@@ -1153,25 +1124,17 @@ Most damning, they re not setting candidates up to be successful in the intervie
 
 The methodology I outline in this chapter represents an alternative approach I've seen and used myself successfully in a startup environment.
 
-METHODOLOGY
+#### METHODOLOGY
 
-What follows is a methodology I've used, derived from lessons in topgrading, to filter and hire senior software engineering candidates. In the spirit
+What follows is a methodology I've used, derived from lessons in topgrading, to filter and hire senior software engineering candidates. In the spirit of topgrading, I call it the technical focus interview.
 
-of topgrading, I call it the technical focus interview.
+#### Technical Focus Interview Guide
 
-Technical Focus Interview Guide
+To find out where a candidate's strengths and weaknesses are, and how much that matters in the role you are hiring for, first you need to decide what topic areas matter for your role. You do this by creating a technical focus interview guide, which should include a list of anywhere from four to eight technical areas, and within each area a set of sample questions, best practice answers, and a scoring guide.
 
-To find out where a candidate s strengths and weaknesses are, and how much that matters in the role you are hiring for, first you need to decide what topic areas matter for your role. You do this by creating a technical focus interview guide, which should include a list of anywhere from four to eight technical areas, and within each area a set of sample questions, best practice answers, and a scoring guide.
+The sample answers and scoring guide are included to ensure fairness and uniformity in scoring across multiple interviewers and across candidates. You're trying to differentiate where any given candidate has gaps vs. true expertise, so your questions should be designed to elicit one of three kinds of answers: bad, good, and amazing. us, they should lend themselves to being scored as such. When it comes to scoring a question, to make the difference between a knowledge gap and true expertise obvious, I recommend that a bad answer gets a score of 0‒2, a good answer gets a score of 3‒6, and only an amazing answer gets between 7‒10.
 
-The sample answers and scoring guide are included to ensure fairness
-
-and uniformity in scoring across multiple interviewers and across candidates. You're trying to differentiate where any given candidate has gaps vs. true expertise, so your questions should be designed to elicit one of three kinds of answers: bad, good, and amazing. us, they should lend themselves to being scored as such. When it comes to scoring a question, to make the difference between a knowledge gap and true expertise obvious, I recommend that a bad answer gets a score of 0‒2, a good answer gets a score of 3‒6, and only an amazing answer gets between 7‒10.
-
-When I say a bad answer, I mean a response to the question that demonstrates either little to no experience or expertise with the topic at hand. A good answer demonstrates competency, maybe even a very high level of competency, in the topic. An amazing answer demonstrates not only competency but true understanding and intellectual depth on the topic. For example, if the question concerns how the candidate thinks about designing a unit test suite, and their answer is they ve never thought about it, that s a 0 and you've found a gap. If their answer includes
-
-a description of some test suites they ve designed and some justification for it, that s good, perhaps a 5 or 6. If their answer includes a full outline of test suite design philosophies and the pros and cons of each and how
-
-to apply them in different scenarios, now you're looking at real expertise and a 7‒10 score.
+When I say a bad answer, I mean a response to the question that demonstrates either little to no experience or expertise with the topic at hand. A good answer demonstrates competency, maybe even a very high level of competency, in the topic. An amazing answer demonstrates not only competency but true understanding and intellectual depth on the topic. For example, if the question concerns how the candidate thinks about designing a unit test suite, and their answer is they ve never thought about it, that s a 0 and you've found a gap. If their answer includes a description of some test suites they ve designed and some justification for it, that s good, perhaps a 5 or 6. If their answer includes a full outline of test suite design philosophies and the pros and cons of each and how to apply them in different scenarios, now you're looking at real expertise and a 7‒10 score.
 
 In the spirit of giving candidates the best chance at success, I don't recommend scoring every question. Instead, provide a score on a topic area. This way you can try multiple questions within a topic, looking for areas of expertise with a candidate and scoring the net result for that topic.
 
@@ -1179,27 +1142,15 @@ Make no mistake, writing these questions, sample answers, and scoring guides is 
 
 See https://ctohb.com/templates for an example focus guide from my own question repository.
 
-Hiring Juniors vs. Seniors
+#### Hiring Juniors vs. Seniors
 
-The qualities you're looking for in a junior hire, with say one to two years
-
-of coding experience, should be very different from a senior hire with ten-plus years. The ideal junior hire should be curious, eager to learn,
-
-and have solid programming fundamentals to work in incremental feature development. A senior hire, by contrast, should come with not just programming fundamentals but deep thinking on architecture, opinions,
-
-and best practices across a wide range of tools and problems, and be able
-
-to develop trust that they can not only build incremental features but own and make good decisions in architecture for new greenfield projects. Since the key value these two types of roles offer is so different, it should follow that your interviews for them should be different.
+The qualities you're looking for in a junior hire, with say one to two years of coding experience, should be very different from a senior hire with ten-plus years. The ideal junior hire should be curious, eager to learn, and have solid programming fundamentals to work in incremental feature development. A senior hire, by contrast, should come with not just programming fundamentals but deep thinking on architecture, opinions, and best practices across a wide range of tools and problems, and be able to develop trust that they can not only build incremental features but own and make good decisions in architecture for new greenfield projects. Since the key value these two types of roles offer is so different, it should follow that your interviews for them should be different.
 
 For a senior hire, the focus interview where you deeply explore the candidate s decision-making skills, understanding of concepts, and architectural know-how is critical and should be weighed heavily. For a junior role, that knowledge deep-dive should be shorter, and weighed less heavily than a practical coding exercise.
 
-The Interview Itself
+#### The Interview Itself
 
-The senior software engineer technical focus interview is typically a sixty
-
-to ninety-minute conversation between the candidate and a lead interviewer, ideally with a primarily silent second interviewer on hand to take
-
-notes. Depending on the length of your focus guide and how many subjects you want to cover, you may consider splitting out the subjects into multiple focus interviews.
+The senior software engineer technical focus interview is typically a sixty to ninety-minute conversation between the candidate and a lead interviewer, ideally with a primarily silent second interviewer on hand to take notes. Depending on the length of your focus guide and how many subjects you want to cover, you may consider splitting out the subjects into multiple focus interviews.
 
 I emphasize that this interview should be conversational; you're looking to find out which areas of software engineering the candidate is most knowledgeable and passionate about, and in which areas they ve either never been held accountable or have historically delegated. Doing this does not require brainteasers, pair programming, or any problem-solving. Simply ask!
 
@@ -1211,81 +1162,58 @@ to narrow down a score from there. You should have a pretty good idea of where t
 
 If a candidate completely misses, or admits they aren t familiar with a topic, there is no need to keep going to every question; you've got your score and you can move on.
 
-On the other hand, if a candidate nails the first question, they may well
+On the other hand, if a candidate nails the first question, they may well be a true expert in that area, but you likely won t be confident of their mastery until they ve provided insightful answers to multiple questions across the subject. Typically, it takes more time and questioning to identify mastery than a lack of qualification.
 
-be a true expert in that area, but you likely won t be confident of their mastery until they ve provided insightful answers to multiple questions across the subject. Typically, it takes more time and questioning to identify mastery than a lack of qualification.
+Don't hesitate to politely cut off a candidate s answer and move on to the next category when you know you've heard enough. Your goal is to help the candidate demonstrate their skill and knowledge across all the topics that you've decided are important for this role and chosen to evaluate in this interview. Letting a candidate rabbit-hole and consume time on a single topic when you already have all the information you need for a score robs them of the opportunity to demonstrate their capabilities in other topics if you run out of time in the interview. It is your job, not the candidate s, to manage the pace of the interview.
 
-Don't hesitate to politely cut off a candidate s answer and move on to the next category when you know you've heard enough. Your goal is to help the candidate demonstrate their skill and knowledge across all the topics that you've decided are important for this role and chosen to evaluate in this
+### Executive interviews
 
-interview. Letting a candidate rabbit-hole and consume time on a single topic when you already have all the information you need for a score robs them of the opportunity to demonstrate their capabilities in other topics if you run out of time in the interview. It is your job, not the candidate s, to manage the pace of the interview.
-
-**EXECUTIVE INTERVIEWS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.046.png)**
-
-By the time a candidate gets to an executive round interview, you should have already confirmed that they have the skills required in your job description and will be a suitable culture fit for your company. The executive interview, in most scenarios, is less about an executive screening a candidate and more a chance for the candidate to meet and ask questions
-
-of the executive.
+By the time a candidate gets to an executive round interview, you should have already confirmed that they have the skills required in your job description and will be a suitable culture fit for your company. The executive interview, in most scenarios, is less about an executive screening a candidate and more a chance for the candidate to meet and ask questions of the executive.
 
 If, however, the candidate is applying for a very senior role, or is going to be reporting directly to the executive, then it may be appropriate for this last interview to be longer or more thorough than simply candidate Q&A.
 
-**REFERENCE CHECKS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.047.png)**
+### Reference Checks
 
-With reference checks, you need to strike a balance between scheduling them early enough in the interview process to ensure that they don't create
+With reference checks, you need to strike a balance between scheduling them early enough in the interview process to ensure that they don't create a bottleneck and not wasting time on reference checks for candidates who will not get offers. Keep in mind that candidates, rightfully, may be hesitant to provide references until they re at the end of a process to protect their own relationships with the references.
 
-a bottleneck and not wasting time on reference checks for candidates who will not get offers. Keep in mind that candidates, rightfully, may be hesitant to provide references until they re at the end of a process to protect their own relationships with the references.
-
-TIMING
+#### TIMING
 
 It follows then that reference checks almost always happen last in an interview process. To avoid having to delay an offer on completing reference checks, here are a few tips:
 
- Begin scheduling meetings, in parallel, with all references as soon as
+* Begin scheduling meetings, in parallel, with all references as soon as they are provided. Given their brief nature, the most efficient strategy may be able to call references without scheduling.
 
-they are provided. Given their brief nature, the most efficient strategy may be able to call references without scheduling.
+* Consider making an offer before completing references, but be clear with candidates that offer finalization is contingent on references coming back and meeting expectations. Reference checks, assuming you've done a good job with your filtering process up until this point, have a high success rate, so rarely will contingent offers have to be withdrawn due to failed reference interviews.
 
- Consider making an offer before completing references, but be clear
+* Be flexible on who conducts reference interviews, as it does not have to be a member of technical staff. It does need to be somebody who is highly responsive to email and has considerable availability in their calendar to accommodate references.
 
-with candidates that offer finalization is contingent on references coming back and meeting expectations. Reference checks, assuming you've done a good job with your filtering process up until this point, have a high success rate, so rarely will contingent offers have to be withdrawn due to failed reference interviews.
+#### CONTENT
 
- Be flexible on who conducts reference interviews, as it does not have
-
-to be a member of technical staff. It does need to be somebody who is highly responsive to email and has considerable availability in their calendar to accommodate references.
-
-CONTENT
-
-In general, reference interviews should be brief and respectful of the reference s time and willingness to help. Most reference interviews provide feedback ranging from neutral to enthusiastically positive. Very seldom will you receive overtly negative feedback, so your goal is to quickly differentiate between neutral and enthusiastically positive, confirm any strengths/weaknesses identified in the interview process, and move on. If you do get any overtly negative feedback in a reference interview, pay very close attention and try to get specific details on the criticism to bring back
-
-to the hiring manager.
+In general, reference interviews should be brief and respectful of the reference s time and willingness to help. Most reference interviews provide feedback ranging from neutral to enthusiastically positive. Very seldom will you receive overtly negative feedback, so your goal is to quickly differentiate between neutral and enthusiastically positive, confirm any strengths/weaknesses identified in the interview process, and move on. If you do get any overtly negative feedback in a reference interview, pay very close attention and try to get specific details on the criticism to bring back to the hiring manager.
 
 Some sample questions for a reference interview:
 
- In what context did you work with [name of candidate]?
+* In what context did you work with [name of candidate]?
 
- Qualify how credible the reference is: have you managed many other
+* Qualify how credible the reference is: have you managed many other engineers in your career?
 
-engineers in your career?
+* What were [name of candidate] s biggest strengths?
 
- What were [name of candidate] s biggest strengths?
+* What were [name of candidate] s biggest areas for improvement back then?
 
- What were [name of candidate] s biggest areas for improvement back
-
-then?
-
- How would you rate their job performance in that job on a 1 10 scale?
-
-What about their performance causes you to give that rating?
-
- [Name of candidate] mentioned that they struggled with \_\_\_\_\_\_\_ in that
-
+* How would you rate their job performance in that job on a 1 10 scale?
+* What about their performance causes you to give that rating?
+* [Name of candidate] mentioned that they struggled with \_\_\_\_\_\_\_ in that
 job. Can you tell me more about that?
 
- In what environment and under what management style would [name
+* In what environment and under what management style would [name
 
 of candidate] be most successful?
 
- How does [name of candidate] manage conflict?
+* How does [name of candidate] manage conflict?
 
- Would you rehire [name of candidate] given the chance?
+* Would you rehire [name of candidate] given the chance?
 
-**MAKING AN OFFER![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.048.png)**
+#### Making an Offer
 
 By the time you're ready to make somebody an offer you should have a strong opinion, based on the job description and feedback from your focus interviews, on the level at which you would be bringing in the candidate. From there it should be relatively straightforward to identify a salary/ bonus/equity amount using your predefined leveling bands. (See 1.4.2 Compensation and Leveling, for more on this.)
 
