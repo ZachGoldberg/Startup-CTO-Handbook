@@ -67,6 +67,7 @@ When I was stumbling around in the dark trying to figure this out for myself and
 - [Business Processes](#business-processes)
 - [People \& Culture](#people--culture)
   - [Management Fundamentals](#management-fundamentals)
+    - [The Professional Skill Tree](#the-professional-skill-tree)
   - [Hiring and Interviewing](#hiring-and-interviewing)
     - [Speed is Your Friend!](#speed-is-your-friend)
     - [WHEN TO HIRE: HEADCOUNT PLANNING](#when-to-hire-headcount-planning)
@@ -117,7 +118,7 @@ On the chosen day, having driven three hours from New York to Philadelphia, I sa
 
 Full of anticipation and ready to take instructions on how to polish my resume I took a sip of my coffee and asked him: how do I get into the dual degree program? The man I would soon come to know only as Max picked up a napkin and drew an X-Y axis on it, then looked me in the eye and asked me if I knew what special relativity was. I wish I had a video of that moment, as I imagine my face contorted into a rather amusing shape. Before I could finish my answer, Max was off to the races. For the next two hours he pro - ceeded to introduce me to Einstein s theories. By the time we had finished, my brain was broken, and not once did we get to discuss anything about Penn's dual degree programs.
 
-We had several more coffees over the coming months, and any time I d ask Max about an application or a rØsumØ, he d steer me right back into real science. Max wanted me to *learn* not just to absorb whatever topic he was lecturing about at the moment, but to get really good at learning, and learning hard things at that. Max couldn t care less what piece of paper his students were given at the end of their four years as long as each of them was prepared to continue learning for the rest of their lives.
+We had several more coffees over the coming months, and any time I d ask Max about an application or a resume, he d steer me right back into real science. Max wanted me to *learn* not just to absorb whatever topic he was lecturing about at the moment, but to get really good at learning, and learning hard things at that. Max couldn t care less what piece of paper his students were given at the end of their four years as long as each of them was prepared to continue learning for the rest of their lives.
 
 By the time I graduated college, Max had become a close friend and con - fidant, and he had fundamentally shaped the path of my education. Rather than give me fish, Max handed me a fishing pole and taught me how to attach bait and cast a line.
 
@@ -135,9 +136,7 @@ The most wonderful thing about tech is that our field is continuously evolving. 
 
 The Startup Technical Leader's Dilemma
 
-Most startups have a technical cofounder. This person writes the bulk of
-
-the initial codebase, hires the first few engineers, and runs the technical show for the startup at least through their first one or two rounds of funding.
+Most startups have a technical cofounder. This person writes the bulk of the initial codebase, hires the first few engineers, and runs the technical show for the startup at least through their first one or two rounds of funding.
 
 Somewhere between hiring the third and tenth engineer, this person will stop being hands on keyboard and start spending all their time man - aging the team. At this point, problems often arise: the team begins ship - ping features more slowly, the defect rate begins to climb, system stability may suffer, overall costs go up, and the other founders start to worry.
 
@@ -222,12 +221,7 @@ Helping your team succeed requires humility, as it entails consistently putting 
 
 to be wrong, being open-minded, and learning from your direct reports.
 
-If you buy into this journey, know that you will make mistakes. Own those mistakes with your team and they will trust you more for it. Also know that being a perfect manager is not an achievable goal; the best
-
-11
-1\.1MANAGEMENTFUNDAMENTALS
-
-you can hope for is to always be improving in small ways. After a career spent managing people, you'll have learned a lifetime of lessons about technology and human beings that will make you a more competent manager.
+If you buy into this journey, know that you will make mistakes. Own those mistakes with your team and they will trust you more for it. Also know that being a perfect manager is not an achievable goal; the best you can hope for is to always be improving in small ways. After a career spent managing people, you'll have learned a lifetime of lessons about technology and human beings that will make you a more competent manager.
 
 In *Managing Humans: Biting and Humorous Tales of a Software Engineering Manager*, Michael Lopp writes:
 
@@ -235,11 +229,10 @@ In *Managing Humans: Biting and Humorous Tales of a Software Engineering Manager
 
 In that one succinct paragraph, Lopp hits on all the key points of management. First and foremost, you are a listener, a personal and career development coach, and a shield against external forces in the world which might distract, stress, or otherwise prevent your team from doing their best work.
 
-**THE PROFESSIONAL SKILL TREE![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.004.png)**
 
-Many video games involve a concept of a skill tree. For those unfamil - iar, a skill tree is a sequence of skills or abilities that are unlocked as the player progresses through the game. Each skill is unlocked by spending
+### The Professional Skill Tree
 
- skill points. Here s the rub: at any given time, there are more skills to unlock than you have skill points to spend. e skill tree forces you to choose some skills before others. e skill tree provides a reasonable model for your career as well. At any given job, you re likely accumulating skill points toward some skills and not others.
+Many video games involve a concept of a skill tree. For those unfamil - iar, a skill tree is a sequence of skills or abilities that are unlocked as the player progresses through the game. Each skill is unlocked by spending skill points. Here s the rub: at any given time, there are more skills to unlock than you have skill points to spend. e skill tree forces you to choose some skills before others. e skill tree provides a reasonable model for your career as well. At any given job, you re likely accumulating skill points toward some skills and not others.
 
 In your journey to tech leadership, you ve already invested many skill points into the technical/engineering branch of the skill tree. My key insight for you is that the management branch of the skill tree is equally vast, and if you ve not been investing points in that area up to now even if you re a Level
 
