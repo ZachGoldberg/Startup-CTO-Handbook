@@ -127,7 +127,7 @@ As a technical leader, the desire, willingness, and aptitude to continue learnin
 
 The most wonderful thing about tech is that our field is continuously evolving. The people you work with will change. Thee tools you use will be updated or deprecated, and new techniques for doing your work will come and go. As you embark on your adventure in technical leadership, the only way to manage this change is to expect it, accept it, and embrace the opportunity to learn and grow with your team and the field itself.
 
-*I want people to be serious about learning. I want them to dig in. I want them to gain, most importantly. it's not RSA, it's not [nuanced algorithms]; those aren't important. it's that confidence in themselves they can grow and learn outside of academia: that means they don't need me. All they need is to be able to sit down with books or perhaps today the internet and go off and learn things on their own.*
+*I want people to be serious about learning. I want them to dig in. I want them to gain, most importantly. It's not RSA, it's not [nuanced algorithms]; those aren't important. It's that confidence in themselves they can grow and learn outside of academia: that means they don't need me. All they need is to be able to sit down with books or perhaps today the internet and go off and learn things on their own.*
 
 *Dr. Max Mintz, 1942 2022*
 
@@ -185,7 +185,7 @@ This book is written primarily for anybody who is presently or may in the future
 
 I've formatted this book as a collection of independent chapters covering a broad spectrum of topics. It is intended to be used as a reference guide, for the reader to pick up a chapter as it becomes helpful and not necessarily read sequentially from start to finish. For this reason, some material is repeated in various chapters to ensure that each chapter can stand on its own without the benefit of the prior sections as context.
 
-My goal in each chapter is not to provide an exhaustive discussion or review on the topic. Instead, the goal is to introduce the topic, provide an overview or a structure for thinking about it, offer some best practices, and suggest reference material to explore the subject more deeply. Think of this book as a breadth-first collection of topics related to technical leadership. it's up to the reader to determine which topics are most interesting to them, and, equipped with some context and perspective, do a deep dive on what s most relevant and put the knowledge into practice.
+My goal in each chapter is not to provide an exhaustive discussion or review on the topic. Instead, the goal is to introduce the topic, provide an overview or a structure for thinking about it, offer some best practices, and suggest reference material to explore the subject more deeply. Think of this book as a breadth-first collection of topics related to technical leadership. It's up to the reader to determine which topics are most interesting to them, and, equipped with some context and perspective, do a deep dive on what s most relevant and put the knowledge into practice.
 
 At the end of the day this book is a synthesis of my personal experience and the resources I've found helpful, interspersed with advice and input from peers, mentors, and advisors. If there are things in this book you disagree with or believe are incorrect that you d like to let me know about, or if you find this book helpful and would like to communicate with me directly, feel free to reach out at zach@ctohb.com. I'm also happy to discuss advising, coaching, and mentorship opportunities at the same address.
 
@@ -263,7 +263,7 @@ I managed to catch him just as he was getting into a yellow cab. Somewhat exaspe
 
 ### 1:1 MEETINGS
 
-A 1:1 meeting is a private meeting between you and a direct report. it's tempting to treat 1:1s as status check-in meetings, and for the agenda to focus entirely on business or technical topics immediately at hand. it's all right if the agenda includes those topics, but this is your opportunity to establish a coaching relationship with your direct report. You should use this time to really get to know and understand how your report thinks, draw out and identify their strengths, and recognize weaknesses you can address to help the person do their best work.
+A 1:1 meeting is a private meeting between you and a direct report. It's tempting to treat 1:1s as status check-in meetings, and for the agenda to focus entirely on business or technical topics immediately at hand. It's all right if the agenda includes those topics, but this is your opportunity to establish a coaching relationship with your direct report. You should use this time to really get to know and understand how your report thinks, draw out and identify their strengths, and recognize weaknesses you can address to help the person do their best work.
 
 ### SKIP-LEVEL MEETINGS
 
@@ -281,7 +281,7 @@ Some quick thoughts for agendas of skip-level meetings:
 
 ### COACHING MANAGERS
 
-As your organization grows, you'll likely get to the point where you no longer have any individual contributor direct reports. Every direct contributor who actually writes code is managed by a middle manager. It should be obvious, then, that effective middle managers are critical to the performance of your organization. it's your job to make sure that your managers have the support, resources, training, and mentorship they need to enable them to do their best work coaching the engineers on their team.
+As your organization grows, you'll likely get to the point where you no longer have any individual contributor direct reports. Every direct contributor who actually writes code is managed by a middle manager. It should be obvious, then, that effective middle managers are critical to the performance of your organization. It's your job to make sure that your managers have the support, resources, training, and mentorship they need to enable them to do their best work coaching the engineers on their team.
 
 The biggest contributor to cultivating high-quality middle management is, of course, hiring the right people, but second to that is ongoing training and support. If you're in a position to be overseeing a team of managers, I encourage you to build the following into your organization:
 
@@ -347,7 +347,7 @@ I encourage you to read Scott's book, but if you don't, then at least be aware o
 
 There's nothing worse for an employee than feeling like their manager doesn t communicate enough with them. In the absence of information, it's a natural instinct to assume the worst-case scenario; a lack of information can also be a prime source of anxiety and confusion.
 
-Overcommunication, by contrast, has very few consequences. The worst that can be said of overcommunication is that it can prove a distraction or become redundant, which are problems easily remedied with a bit of thoughtfulness as to the form of overcommunication. it's no surprise, then, that most startups invest heavily in building overcommunication into their culture, often including the phrase as a company core value.
+Overcommunication, by contrast, has very few consequences. The worst that can be said of overcommunication is that it can prove a distraction or become redundant, which are problems easily remedied with a bit of thoughtfulness as to the form of overcommunication. It's no surprise, then, that most startups invest heavily in building overcommunication into their culture, often including the phrase as a company core value.
 
 #### EMAIL
 
@@ -397,7 +397,7 @@ Here are a few recommendations for working with synchronous chat tools:
 * Try to include all the necessary information in a message to continue a conversation. If you're asking a coworker a question, provide sufficient context and information in the question to give them the best chance at being able to answer comprehensively. Doing this minimizes the number of notifications sent, reduces the amount of back-and-forth communication, and shortens time to resolution. Tools like loom.com are very helpful for this.
 * Use message formatting features, such as bullets and headings, to make longer messages easier to scan and relevant information easier to find.
 
-* Centralize conversations in specific channels or threads. it's unproductive and frustrating to try to follow a conversation with multiple people on more than one topic at a time.
+* Centralize conversations in specific channels or threads. It's unproductive and frustrating to try to follow a conversation with multiple people on more than one topic at a time.
 
 * Lean into notification schedules and do-not-disturb features. You should also encourage members of your team to set up a do-not-disturb schedule in any synchronous chat program to minimize interruptions in focus/flow time.
 
@@ -489,7 +489,7 @@ Consider this hypothetical week for a software engineer:
 
 In total, that's about thirteen to seventeen hours of the week used up for meetings and communication. If you add another few hours on top of that for time spent context switching and unplanned miscellaneous interruptions, quickly you're looking at at best half of a forty-hour work week available for actual focus time. If you're not careful about when meetings are scheduled, then not only will your engineers have only twenty hours left for their core tasks, but also they won t have them in contiguous blocks, further reducing productivity.
 
-I present this contrived example to drive home the point that providing engineers with large blocks of focus time to do engineering does not happen by accident. it's up to you as the leader who determines how their time is spent to develop a culture and process that consolidates and minimizes these distractions and maximizes time available for individual contributors to do actual engineering.
+I present this contrived example to drive home the point that providing engineers with large blocks of focus time to do engineering does not happen by accident. It's up to you as the leader who determines how their time is spent to develop a culture and process that consolidates and minimizes these distractions and maximizes time available for individual contributors to do actual engineering.
 
 ### The HIPPO
 
@@ -505,7 +505,7 @@ This has several advantages. It blocks off dedicated time for actually doing ite
 
 #### CALENDAR RETROSPECTIVES AND TIME BALANCE
 
-Every now and then say, once a month I encourage you to do a historic review of your calendar and measure how you've spent your time. For example, Google Calendar has built-in analytics and requires only very minimal adaptation of your calendaring habits to provide accurate summaries of how time was spent. When reviewing this data, ask yourself if the ratio of time spent on various types of activities makes sense for the goals you're trying to achieve. it's also good to check in and confirm that you're spending your time in ways that play to your strengths and bring you personal satisfaction. Often just having this kind of data presented matter-of-factly can provide good motivation for organization and productive change.
+Every now and then say, once a month I encourage you to do a historic review of your calendar and measure how you've spent your time. For example, Google Calendar has built-in analytics and requires only very minimal adaptation of your calendaring habits to provide accurate summaries of how time was spent. When reviewing this data, ask yourself if the ratio of time spent on various types of activities makes sense for the goals you're trying to achieve. It's also good to check in and confirm that you're spending your time in ways that play to your strengths and bring you personal satisfaction. Often just having this kind of data presented matter-of-factly can provide good motivation for organization and productive change.
 
 
 ### Mini Management Frameworks
@@ -693,7 +693,7 @@ There are many ways to build this, but you need to establish trust regardless of
 
 #### ALIGNING CULTURE AND VALUES
 
-As with all C-levels, the CTO and CEO should have strong alignment on company culture and values. it's particularly important that you focus on building a positive culture within engineering, and between engineering and the rest of the company. The technical team is often a very large if not the single largest line item in a startup company s budget. Technical staff are also often the most competitive roles to hire for, making recruiting and inevitable involuntary employee turnover more expensive in engineering than in other departments.
+As with all C-levels, the CTO and CEO should have strong alignment on company culture and values. It's particularly important that you focus on building a positive culture within engineering, and between engineering and the rest of the company. The technical team is often a very large if not the single largest line item in a startup company s budget. Technical staff are also often the most competitive roles to hire for, making recruiting and inevitable involuntary employee turnover more expensive in engineering than in other departments.
 
 Strong alignment between the CTO and other C-level executives on culture and values is a key factor in ensuring the technical team feels respected and included in the company, which should in turn help with retention.
 
@@ -734,7 +734,7 @@ In general, try to keep your explanations as simple and concise as you can. Avoi
 
 Hiring effectively is one of your highest-impact activities as a technical leader and one of the most challenging to get right. You will often find yourself trying to recruit talent in a supply-constrained market and competing against other companies that might have deeper pockets than yours. Your top candidates will likely receive other competing job offers, which means you not only need to qualify candidates but convince them that your opportunity is the right one for them.
 
-In that way, hiring is as much a sales activity (where candidates qualify you/your company) as it is a filtering process (you/your company qualifies the candidates). it's important to keep this in mind every step of the way as you define your team s hiring processes.
+In that way, hiring is as much a sales activity (where candidates qualify you/your company) as it is a filtering process (you/your company qualifies the candidates). It's important to keep this in mind every step of the way as you define your team s hiring processes.
 
 This section of the book covers the various sections of the hiring and interviewing journey, sequentially, from headcount planning to onboarding.
 
@@ -944,7 +944,7 @@ Ideally, subsequent interviews should be used to dive deeper and explore areas s
 
 #### AVOID BIASES
 
-If you're unfamiliar with the phrase unconscious bias, I encourage you to read *inking Fast and Slow* by Daniel Kahneman. it's my go-to book for understanding many types of systematic errors our brains make.
+If you're unfamiliar with the phrase unconscious bias, I encourage you to read *inking Fast and Slow* by Daniel Kahneman. It's my go-to book for understanding many types of systematic errors our brains make.
 
 It's actually very easy to unintentionally advantage or disadvantage a candidate in ways that are not justified. Inevitably, this will result in worse hiring outcomes or potentially costly legal battles.
 
@@ -1071,7 +1071,7 @@ Whether you're using one or two interviewers, taking notes is critically importa
 
 ### Coding Challenge
 
-Requiring take-home assignments also referred to as coding challenges or interviewing homework is a controversial topic. Take-homes are often a significant investment of time for candidates and are thus a significant source of candidate drop-off in the hiring funnel. it's not hard to imagine in-demand candidates being asked to do several take-homes, each of them requiring many hours or days of work, adding up to weeks of work. When facing those requests, it's understandable that candidates will prioritize the assignments for companies they are most excited about and/or have the most tractable assignments.
+Requiring take-home assignments also referred to as coding challenges or interviewing homework is a controversial topic. Take-homes are often a significant investment of time for candidates and are thus a significant source of candidate drop-off in the hiring funnel. It's not hard to imagine in-demand candidates being asked to do several take-homes, each of them requiring many hours or days of work, adding up to weeks of work. When facing those requests, it's understandable that candidates will prioritize the assignments for companies they are most excited about and/or have the most tractable assignments.
 
 Despite these structural challenges, from a hiring manager s perspective, it's critical to have one. How can you hire a software engineer without having had them write code for you?
 
@@ -1223,7 +1223,7 @@ I've prepared a sample candidate offer spreadsheet at ctohb.com/ samples.
 
 #### PRESENTING THE OFFER
 
-The moment when you present the offer is when you need to be in super sales mode. Ideally, you've been selling candidates all along the way so they're already very excited about the company and the opportunity for them. Regardless, this is a big deal for the candidate, so make sure to give the occasion the respect it deserves. roughout the process of explaining the offer, remember to be especially upbeat, congratulate the candidate, and emphasize the fun you'll have and the great things you'll build together. it's also critical that you're transparent and outline all the key points of the offer upfront, especially anything they may not be expecting or used to, such as equity compensation or probation/trial periods.
+The moment when you present the offer is when you need to be in super sales mode. Ideally, you've been selling candidates all along the way so they're already very excited about the company and the opportunity for them. Regardless, this is a big deal for the candidate, so make sure to give the occasion the respect it deserves. roughout the process of explaining the offer, remember to be especially upbeat, congratulate the candidate, and emphasize the fun you'll have and the great things you'll build together. It's also critical that you're transparent and outline all the key points of the offer upfront, especially anything they may not be expecting or used to, such as equity compensation or probation/trial periods.
 
 I recommend making the offer in three parts: a phone call, an email, and a dinner. For the phone call, I suggest calling the candidate without prior scheduling. At this point you'll have already done a whole bunch of scheduling with the candidate, so There'sno need to build up their anxiety further by scheduling yet another meeting. Alternatively, you could tell them in writing that you intend to extend an offer and schedule from there, but you lose the impact of being on the line with them when they get the news. I find it's just simpler to call the person and share the news all at once.
 
@@ -1484,7 +1484,7 @@ It may make sense to include some higher-level/softer questions at the end:
 
 ##### Review Format
 
-You can conduct reviews with or without the aid of a formal review tool (also known as performance or culture management tools, like Culture Amp and 15Five). Of course, a purpose-built tool will save time and scale this process quickly for larger teams. it's crucial to keep all individual feedback anonymous, with the exception of noting which scores came from management (we ll use those scores separately as a sanity check against peer reviews later in the process).
+You can conduct reviews with or without the aid of a formal review tool (also known as performance or culture management tools, like Culture Amp and 15Five). Of course, a purpose-built tool will save time and scale this process quickly for larger teams. It's crucial to keep all individual feedback anonymous, with the exception of noting which scores came from management (we ll use those scores separately as a sanity check against peer reviews later in the process).
 
 ##### Result Calculation
 
@@ -1510,7 +1510,7 @@ When you've completed your overall calculation, if you've managed to track a man
 
 ##### Result Discussion
 
-I encourage managers to provide performance review data ahead of an actual 1:1 performance review meeting to maximize the value of the meeting itself. it's best to give the individual the data and some time to process, so they can be fully engaged when the meeting occurs.
+I encourage managers to provide performance review data ahead of an actual 1:1 performance review meeting to maximize the value of the meeting itself. It's best to give the individual the data and some time to process, so they can be fully engaged when the meeting occurs.
 
 The agenda for the performance review meeting should be simple:
 
@@ -1885,7 +1885,7 @@ This is perhaps the easiest role for the founder CTO to step into, as they have 
 
 Ideally, a startup CTO will prove adept in all three areas, though most people will specialize in just one or two. If your business needs a focus that isn t your expertise, it may be worth asking yourself if you can execute that task more effectively by delegating it to a coworker. Especially at an early stage startup, most technical cofounder/cofounder CTOs will be internal tech-focused. Usually There'snot much other work to be done at this stage!
 
-It's a very common pattern for that person to find themselves stretching into internal people or external focuses as the company grows, and that s not always a desirable transition for that person. it's not a personal failure to admit that your specialty or your motivation is in tech and that people management isn t a great fit, but quite the opposite. Identifying your superpowers and architecting a role in the company to leverage that superpower is how you add the most value, and the company should hire somebody else whose superpower is, for example, people management to fill that role.
+It's a very common pattern for that person to find themselves stretching into internal people or external focuses as the company grows, and that s not always a desirable transition for that person. It's not a personal failure to admit that your specialty or your motivation is in tech and that people management isn t a great fit, but quite the opposite. Identifying your superpowers and architecting a role in the company to leverage that superpower is how you add the most value, and the company should hire somebody else whose superpower is, for example, people management to fill that role.
 
 If you find yourself stuck in a role you're unhappy with, it's vital that you acknowledge the mismatch both to yourself and to your CEO. is doesn t mean giving up your position as a founder or leader, or as a respected and high-impact person within the company.
 
@@ -2398,7 +2398,7 @@ be a great tool for measuring sprint productivity. However, estimates are imperf
 
 A burndown chart that burns up consistently, despite teams shipping and doing good work, is demoralizing and not achieving the intended benefit. If there are easy adjustments that will help you better capture data and
 
-fix the chart, make that change. But if you find a particular way of measuring output still isn t working, just get rid of it. it's okay to admit that your method of estimating these particular types of stories with this team isn t precise enough and move on to other methods of monitoring and improving performance.
+fix the chart, make that change. But if you find a particular way of measuring output still isn t working, just get rid of it. It's okay to admit that your method of estimating these particular types of stories with this team isn t precise enough and move on to other methods of monitoring and improving performance.
 
 In my experience, only a small percentage of teams find success with burndown charts, so don't be disheartened if that one technique isn t helpful for your engineering team.
 
@@ -2508,7 +2508,7 @@ up a structural engineering team designing a bridge by having them work longer h
 
 Conversely, an overly lengthy planning process where team members insist on getting every minute detail upfront can be an indicator of a serious cultural problem, where team members are paralyzed by fear of making
 
-a mistake. Effective planning won t eliminate risk, but thinking through important, high-level decisions in advance can minimize it. A team that obsesses over details may be afraid of making mistakes or unwilling to iterate on their work both symptoms of overly results-driven management. Individuals should not be punished for reasonable mistakes or planning oversights. it's fine if a tech spec isn t perfect upfront; expect your team to find mistakes or gaps during implementation, and update the spec when those issues are found.
+a mistake. Effective planning won t eliminate risk, but thinking through important, high-level decisions in advance can minimize it. A team that obsesses over details may be afraid of making mistakes or unwilling to iterate on their work both symptoms of overly results-driven management. Individuals should not be punished for reasonable mistakes or planning oversights. It's fine if a tech spec isn t perfect upfront; expect your team to find mistakes or gaps during implementation, and update the spec when those issues are found.
 
 Prototyping as Part of Spec Writing![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.085.png)
 
@@ -2633,7 +2633,7 @@ in direct time. Add in additional context-switching time spent bringing in other
 
  ankfully, nowadays, many readily available tools and ecosystems
 
-can help with #1. Most programming languages have an ecosystem with standardized tools for dependency management and reproducible environments. it's up to you to identify and use them (e.g., npm, pipfile, etc.). Many of these systems produce a file called a lock file.
+can help with #1. Most programming languages have an ecosystem with standardized tools for dependency management and reproducible environments. It's up to you to identify and use them (e.g., npm, pipfile, etc.). Many of these systems produce a file called a lock file.
 
 
 2\.5DEVELOPEEXRPERIEN(DCX)E
@@ -3085,7 +3085,7 @@ ensure that it
 
 - has logging for every job execution;
 - allows for configuring the retrying of jobs that fail;
-- provides notification when jobs fail. it's very common for engineers to set up a scheduled job, watch it work on day one, and then on day fifteen it fails and nobody notices until day thirty;
+- provides notification when jobs fail. It's very common for engineers to set up a scheduled job, watch it work on day one, and then on day fifteen it fails and nobody notices until day thirty;
 - provides an interface to view jobs and job status;
 - allows for job configuration to be stored as code or configuration in source control;
 - allows for jobs to be run inside your environment/private networks/security groups as necessary to access other internal system APIs/resources;
@@ -3294,7 +3294,7 @@ There are a handful of published benchmarks for SaaS and tool spend at various c
 
 There's not a single precise benchmark, but it seems that typical SaaS Costs of Goods Sold (COGS) fall somewhere between 10 and 30 percent of revenue.
 
-Know your spend and keep an eye on cost growth. it's very easy to accidentally leave a couple of machines running in AWS and add $10,000 to your annual cloud hosting bills. Most cloud platforms have built-in budgeting features, so There'sno excuse to not use them. If you're using infrastructure as code, it's easy to set up a module that, for every new cloud system deployed, will automatically apply a cloud budget at the same time that will monitor and alert on cost for that particular system.
+Know your spend and keep an eye on cost growth. It's very easy to accidentally leave a couple of machines running in AWS and add $10,000 to your annual cloud hosting bills. Most cloud platforms have built-in budgeting features, so There'sno excuse to not use them. If you're using infrastructure as code, it's easy to set up a module that, for every new cloud system deployed, will automatically apply a cloud budget at the same time that will monitor and alert on cost for that particular system.
 
 It's typical for SaaS costs to grow over time, be it because your infrastructure is growing, or because you discover a new SaaS vendor that can save your team time. I recommend not using cost as a reason to avoid adopting a typical SaaS tool (with a cost range in the hundreds per month). Instead, I d advise factoring regular growth into your SaaS cost forecasts.
 
@@ -3309,7 +3309,7 @@ Wikipedia describes DevOps as a set of practices that combines software developm
 
 I translate that as follows: DevOps is all the work that goes into making sure the business software runs in places other than your developers machines. Unless you've got a DevOps specialist on your team, you're probably deprioritizing DevOps to some degree, and have underinvested in it
 
-as well. it's not just my opinion; it's becoming widely accepted throughout tech industries that high-quality DevOps is a key driver of overall engineering velocity.
+as well. It's not just my opinion; it's becoming widely accepted throughout tech industries that high-quality DevOps is a key driver of overall engineering velocity.
 
 
 **FOUR KEY METRICS (DORA)![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.103.png)**
@@ -3418,7 +3418,7 @@ but the benefits and ROI are worthwhile if you're at the point of needing to sel
 
 If you're considering going this route, I strongly advise against learning Kubernetes on the job. Especially for a team leader, it's too much to take on and do well on an ad-hoc basis. Instead, I recommend buying a book
 
-on Kubernetes and committing a week or two to reading it and setting up your own sandbox to get up to speed before diving in for a professional project. it's also a good idea to seek out an advisor or mentor who has a good understanding of Kubernetes to act as an accelerator for your learning of the tool.
+on Kubernetes and committing a week or two to reading it and setting up your own sandbox to get up to speed before diving in for a professional project. It's also a good idea to seek out an advisor or mentor who has a good understanding of Kubernetes to act as an accelerator for your learning of the tool.
 
 ClickOps vs. IaC![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.106.png)
 
@@ -3466,7 +3466,7 @@ a complex deploy process. As these requirements accumulate, it's easy to neglect
 
 Fortunately There'sa cure for the error-prone stress concentration that is
 
-the monthly (or longer!) release day. it's to release every day, or heck, every hour! It follows logically from one of the Ten Pillars of Tech Culture (see page 138), Frequency Reduces Difficulty, that more frequent releases will force your release manager, and team, to automate the hard parts of deployments. With enough iteration, releases can become entirely automated, and with sufficient testing giving you confidence in new changes, you can get to the point of triggering new releases for every code change set, referred to as
+the monthly (or longer!) release day. It's to release every day, or heck, every hour! It follows logically from one of the Ten Pillars of Tech Culture (see page 138), Frequency Reduces Difficulty, that more frequent releases will force your release manager, and team, to automate the hard parts of deployments. With enough iteration, releases can become entirely automated, and with sufficient testing giving you confidence in new changes, you can get to the point of triggering new releases for every code change set, referred to as
 
  Continuous Deployment.
 
@@ -3478,7 +3478,7 @@ An automated release process tends to also imply an improved ability to roll bac
 
 In summary, automating releases means code goes out faster (reducing lead time*)*, means you can deploy more often (increasing deployment frequency), and improves MTTR. at s three of the four key DORA metrics (see page 208) with one initiative!
 
-In the companies I've worked with, either directly or in an advisory capacity, I've seen at least a dozen teams invest effort into either partially or fully moving to continuous deployment. it's not always a straightforward journey, it doesn t happen overnight, and often there are well-reasoned objections. Yet in every circumstance, when the team looks back on the time invested be it three weeks, three months, or two years later the difference is nothing short of transformational to the culture and overall output and velocity of the team by every metric.
+In the companies I've worked with, either directly or in an advisory capacity, I've seen at least a dozen teams invest effort into either partially or fully moving to continuous deployment. It's not always a straightforward journey, it doesn t happen overnight, and often there are well-reasoned objections. Yet in every circumstance, when the team looks back on the time invested be it three weeks, three months, or two years later the difference is nothing short of transformational to the culture and overall output and velocity of the team by every metric.
 
 **FEATURE BRANCH ENVIRONMENTS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.109.png)**
 
@@ -3643,13 +3643,13 @@ TABLE: 5 TESTING TYPE PARADIGMS
 
 **UNIT TESTS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.117.png)**
 
-Unit testing is often the first thing that comes to mind when somebody talks about software testing. it's widely what s taught in school and included in textbooks, and it usually gets the most effort in the real world. Given all this, you d think unit tests were the best type of test, though I d argue that s not always the case. Let s begin by clearly defining unit tests so as to differentiate them from other testing paradigms.
+Unit testing is often the first thing that comes to mind when somebody talks about software testing. It's widely what s taught in school and included in textbooks, and it usually gets the most effort in the real world. Given all this, you d think unit tests were the best type of test, though I d argue that s not always the case. Let s begin by clearly defining unit tests so as to differentiate them from other testing paradigms.
 
 Unit tests run entirely in memory on a machine, in a shared memory space with the code under evaluation, without requiring any network connectivity or dependency on external services. Most unit tests are very fast
 
 to run, test very small amounts of code at a time, and are relatively easy to get started with. Unit tests are usually also tightly coupled to your code contracts and often require new code in the form of mocks to enable code- under-test to execute without normally available external dependencies.
 
-The key tradeoff made by unit tests and their primary downside is that they are tightly coupled to the code under test. it's altogether too easy to have unit tests be deeply intertwined with actual function calls and internal data objects. is deep dependency means any refactor of the code even simple and benign changes will require considerable unit test updates as
+The key tradeoff made by unit tests and their primary downside is that they are tightly coupled to the code under test. It's altogether too easy to have unit tests be deeply intertwined with actual function calls and internal data objects. is deep dependency means any refactor of the code even simple and benign changes will require considerable unit test updates as
 
 well. The creation of mocks and test data fixtures often also requires a considerable amount of code to create and maintain to allow unit tests to run, adding unexpected cost to the unit testing framework.
 
@@ -3946,7 +3946,7 @@ A good RCA process will often identify many work items for the team to improve t
 
 There is no one right answer to the question, but here is some general guidance:
 
-Never let a good crisis go to waste. Motivation to remediate issues will be at its peak around the incident and the RCA meeting, and highly motivated engineers are often most efficient. it's also easy to underestimate the overall cost to your team of system reliability issues and thus under prioritize reliability improvements. The fact that a production incident occurred should remind you and your team that these investments are critical to limiting distractions and enabling teams to focus
+Never let a good crisis go to waste. Motivation to remediate issues will be at its peak around the incident and the RCA meeting, and highly motivated engineers are often most efficient. It's also easy to underestimate the overall cost to your team of system reliability issues and thus under prioritize reliability improvements. The fact that a production incident occurred should remind you and your team that these investments are critical to limiting distractions and enabling teams to focus
 
 on productive feature work and delivering consistent high velocity.
 
@@ -3982,7 +3982,7 @@ employees to use company hardware. At small scale purchasing (especially pre-pro
 
 It's perhaps painful to acknowledge, but properly securing your product and IT system is a considerable task, and unrealistic for a young startup to do exhaustively early on. I encourage you to be pragmatic
 
-and focus on securing your system from the most likely sources of breach or data theft: human error by your employees. it's far more likely your engineering team forgot to put authentication in front of an API, or somebody leaves their laptop unlocked at a coffee shop, than an attacker manages to man in the middle your data or hack into your cloud infrastructure using an exploit.
+and focus on securing your system from the most likely sources of breach or data theft: human error by your employees. It's far more likely your engineering team forgot to put authentication in front of an API, or somebody leaves their laptop unlocked at a coffee shop, than an attacker manages to man in the middle your data or hack into your cloud infrastructure using an exploit.
 
 Even following best practices to minimize IT effort, you'll still have some IT tasks you cannot avoid, primarily around activating and deactivating user accounts and password recovery for employees. I encourage you to document for and train other coworkers, perhaps in HR, in how to do these tasks so they do not interrupt you or the engineering team on a regular basis.
 
