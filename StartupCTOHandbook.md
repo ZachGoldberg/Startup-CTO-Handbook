@@ -127,9 +127,9 @@ As a technical leader, the desire, willingness, and aptitude to continue learnin
 
 The most wonderful thing about tech is that our field is continuously evolving. The people you work with will change. The tools you use will be updated or deprecated, and new techniques for doing your work will come and go. As you embark on your adventure in technical leadership, the only way to manage this change is to expect it, accept it, and embrace the opportunity to learn and grow with your team and the field itself.
 
-*I want people to be serious about learning. I want them to dig in. I want them to gain, most importantly. It's not RSA, it's not [nuanced algorithms]; those aren't important. It's that confidence in themselves they can grow and learn outside of academia: that means they don't need me. All they need is to be able to sit down with books or perhaps today the internet and go off and learn things on their own.*
-
-*Dr. Max Mintz, 1942 2022*
+> I want people to be serious about learning. I want them to dig in. I want them to gain, most importantly. It's not RSA, it's not [nuanced algorithms]; those aren't important. It's that confidence in themselves they can grow and learn outside of academia: that means they don't need me. All they need is to be able to sit down with books or perhaps today the internet and go off and learn things on their own.
+>
+> Dr. Max Mintz, 1942 2022
 
 The Startup Technical Leader's Dilemma
 
@@ -141,7 +141,7 @@ Chances are the technical cofounder, or any technical leader, has spent their en
 
 Regardless of your title and when you joined the company, if you've devoted most of your career and experience to technology and you're now assuming responsibility for people or a department, it's critical you realize that you're now in a leadership role; your technical background and talents won t be enough on their own to be successful. While some technical skills are table stakes for running a software engineering team, the reality is, to do a good job as a leader you need to focus on people leadership, management, architecture, and general decision-making skills.
 
-People leadership isn t for everyone. I'm sure you've heard stories of technical founders who stepped aside as their companies grew. Steve Wozniak, cofounder of Apple, is perhaps the most famous example of this pattern. There is no shame in stepping aside; Wozniak recognized that technical work was what he loved, and that is where he wanted to spend his time. You would do well to at least consider the same for yourself: decide if programming is your zone of genius and the work that gives you the most joy. If it is, you'll have a great career ahead climbing to the ranks of the most senior technical staff.
+People leadership isn't for everyone. I'm sure you've heard stories of technical founders who stepped aside as their companies grew. Steve Wozniak, cofounder of Apple, is perhaps the most famous example of this pattern. There is no shame in stepping aside; Wozniak recognized that technical work was what he loved, and that is where he wanted to spend his time. You would do well to at least consider the same for yourself: decide if programming is your zone of genius and the work that gives you the most joy. If it is, you'll have a great career ahead climbing to the ranks of the most senior technical staff.
 
 If, however, you or your circumstances have led you to conclude that managing or leading a team is the role you aspire to, then this handbook will provide a good starting point on how to broaden your skills on the journey to becoming a successful technical leader.
 
@@ -451,7 +451,7 @@ One element of the internal culture of technical organization that tends to get 
 
 In a January 2018 memo to SpaceX employees, Elon Musk called for a No Acronyms policy. I've put that same policy into practice ever since, and I wholeheartedly endorse it. The below came from an email titled Acronyms Seriously Suck (ctohb.com/acronyms):
 
-*There is a creeping tendency to use made-up acronyms at SpaceX. Excessive use of made-up acronyms is a significant impediment to communication and keeping communication good as we grow is incredibly important. Individually, a few acronyms here and there may not seem so bad, but if a thousand people are making these up, over time the result will be a huge glossary that we have to issue to new employees. [...] is is particularly tough on new employees. [...] e key test for an acronym is to ask whether it helps or hurts communication. An acronym that most engineers outside of SpaceX already know, such as GUI, is fine to use. In practice, most acronyms act as a barrier and not a benefit to clear communication. It makes it harder for new employees to understand what s being discussed. It requires effort for a team to maintain a list of acronym definitions someplace, and overall, it's less of a timesaver to both write and speak than it may seem at first glance.*
+> There is a creeping tendency to use made-up acronyms at SpaceX. Excessive use of made-up acronyms is a significant impediment to communication and keeping communication good as we grow is incredibly important. Individually, a few acronyms here and there may not seem so bad, but if a thousand people are making these up, over time the result will be a huge glossary that we have to issue to new employees. [...] is is particularly tough on new employees. [...] e key test for an acronym is to ask whether it helps or hurts communication. An acronym that most engineers outside of SpaceX already know, such as GUI, is fine to use. In practice, most acronyms act as a barrier and not a benefit to clear communication. It makes it harder for new employees to understand what s being discussed. It requires effort for a team to maintain a list of acronym definitions someplace, and overall, it's less of a timesaver to both write and speak than it may seem at first glance.*
 
 This may seem blasphemous, or an overbearing and silly rule to try and enforce in a culture. I'm not proposing you punish people for using acronyms or write it on the walls in the halls of your office. Quite the opposite; especially at a smaller organization, it takes only a very light touch to make no-new-acronyms a part of your culture. Get buy-in from your executive team to not create acronyms, and then encourage them to issue a gentle reminder to their managers to do the same, and you'll be amazed how quickly everyone kicks the habit. A sentence or two in your onboarding documentation is often a sufficient nudge for new employees who, due to the gentle note in onboarding and witnessing the lack of acronyms surrounding them, will be far less likely to create them themselves.
 
@@ -659,7 +659,7 @@ A better strategy is instead to act as an umbrella for the team. Rather than dir
 
 Only on rare occasions should you, as manager, highlight a bug to an individual engineer. If you have a bug queue and a process for working through that queue, you can largely eliminate regular one-off escalations.
 
-Management should be monitoring that bug queue process to ensure the queue stays at a manageable length, and adjusting staffing or process if product quality isn t meeting targets.
+Management should be monitoring that bug queue process to ensure the queue stays at a manageable length, and adjusting staffing or process if product quality isn't meeting targets.
 
 You should prioritize your queues based on importance and urgency. If something of critical importance with extreme time pressure arises, it should be put into the queue and escalated to the top. Then apply common sense as to how you handle it. If you need to call somebody to ensure they know it's there, then so be it, as long as this is the exception and not the rule.
 
@@ -782,7 +782,7 @@ The other major justification for a hire is to increase total bandwidth on a tea
 
 Once you've identified a gap, the next question to ask is when that gap needs to be filled. Taking into account the lead time required to get a great hire, when does it make sense to start the hiring process?
 
-Often though not always the answer is right now! Every new person you hire adds complexity and overhead to your team. Assuming the pain of having the gap isn t severe, if you can get away with a smaller team for another six months and delay the hire, that can be a good idea as it both reduces cost and gives you more time to build a case for the hire.
+Often though not always the answer is right now! Every new person you hire adds complexity and overhead to your team. Assuming the pain of having the gap isn't severe, if you can get away with a smaller team for another six months and delay the hire, that can be a good idea as it both reduces cost and gives you more time to build a case for the hire.
 
 Headcount or hiring requests from your team will often have to compete with requests from other teams, so it's useful to develop a common language across your company for discussing how urgent or important a hire is. is doesn t have to be very sophisticated; it could be a 0 5 ranking system, where a 0 represents an urgent need, and a 5 a hire that would be nice to have but can wait a few months or quarters before becoming urgent.
 
@@ -820,7 +820,7 @@ As Andy Grove discusses in *High Output Management*, even a world- class intervi
 
 The best leaders track their success rate, are not afraid of admitting hiring mistakes, and will hire slow, fire fast.
 
-There's no getting around it: firing a new employee who isn t working out shortly after they were hired is socially awkward and uncomfortable for everyone. It is, however, the responsible thing to do for your team. Some practices to help provide transparency to new employees and assist managers in making good decisions include implementing a formal ninety-day probationary or introductory period and required new-employee/ manager check-ins every fifteen or thirty days, or using a contract-to-hire employment structure.
+There's no getting around it: firing a new employee who isn't working out shortly after they were hired is socially awkward and uncomfortable for everyone. It is, however, the responsible thing to do for your team. Some practices to help provide transparency to new employees and assist managers in making good decisions include implementing a formal ninety-day probationary or introductory period and required new-employee/ manager check-ins every fifteen or thirty days, or using a contract-to-hire employment structure.
 
 #### CANDIDATE EXPERIENCE
 
@@ -892,7 +892,7 @@ As such, posting a job description on a job board is the bare minimum. Depending
 
 There is no universal best venue for placing classified ads that great employees turn to. Keep your ear to the ground for whatever platform/job site seems to be most common and post your job description accordingly. This is something a good Applicant Tracking System (ATS) will help you with, as it can track a referral source for every candidate and provide metrics around which job boards bring in better/more candidates that make it deeper into your process than others. When hiring designers in particular, it's important to talk to some working designers about where the most popular portfolio hosting sites are and maintain a presence on those job boards to find the best candidates.
 
-You'll also want to monitor how many applications you're receiving for each role. At a minimum, your hiring manager(s) should be looking at the state of the funnel for their roles on a weekly basis and adjusting their approach accordingly. If a role isn t getting enough applicants (or is attracting the wrong applicants), then change something! Try tweaking the job title or posting the job description to new channels. A key element of a strong hiring process is the same as any other process you build for your team: a humble willingness to revisit past decisions and improve over time.
+You'll also want to monitor how many applications you're receiving for each role. At a minimum, your hiring manager(s) should be looking at the state of the funnel for their roles on a weekly basis and adjusting their approach accordingly. If a role isn't getting enough applicants (or is attracting the wrong applicants), then change something! Try tweaking the job title or posting the job description to new channels. A key element of a strong hiring process is the same as any other process you build for your team: a humble willingness to revisit past decisions and improve over time.
 
 #### OUTBOUND RECRUITING
 
@@ -1320,7 +1320,7 @@ Instructions on how to get logins/access to required systems, including:
 
 As discussed in the hiring chapter, hiring is very hard. Even the most thoughtful hiring processes will not achieve a 100 percent success rate. Said another way, mis-hires are inevitable.
 
-The best way to handle the potential for unsuccessful hires is first to have the humility to acknowledge that your hiring process isn t perfect, and then to be thoughtful about how to measure the success of the new employees and take swift action to correct any mistakes. The process should be transparent upfront to new employees, clearly explaining expectations. Managers should work with new employees to make sure their role is a mutual fit, that the new employee is starting to feel at home in the role, and that they are delivering at a level commensurate with what they were hired for. At sixty or ninety days, it should be clear to both the new employee and the manager whether those expectations are being met.
+The best way to handle the potential for unsuccessful hires is first to have the humility to acknowledge that your hiring process isn't perfect, and then to be thoughtful about how to measure the success of the new employees and take swift action to correct any mistakes. The process should be transparent upfront to new employees, clearly explaining expectations. Managers should work with new employees to make sure their role is a mutual fit, that the new employee is starting to feel at home in the role, and that they are delivering at a level commensurate with what they were hired for. At sixty or ninety days, it should be clear to both the new employee and the manager whether those expectations are being met.
 
 If there is disagreement on whether the employee is being successful, that s a good sign that it's not working out, and you should consider relatively quickly whether there is another spot on the team where the new employee might be a better fit, or if both sides might be better off parting ways.
 
@@ -1338,7 +1338,7 @@ A quick word on the ninety-day length: ninety days is a commonly used timeframe 
 
 ##### HANDLING A SCORECARD FAILURE
 
-If, after ninety days, the manager and the employee agree things are not meeting expectations, or there isn t agreement on whether expectations are being met, something has to change. is doesn t mean you have to fire the new employee, but it does mean you have to do something. Consider the following options in this scenario:
+If, after ninety days, the manager and the employee agree things are not meeting expectations, or there isn't agreement on whether expectations are being met, something has to change. is doesn t mean you have to fire the new employee, but it does mean you have to do something. Consider the following options in this scenario:
 
 * Is the problem the manager? Would this person be more successful on another team or with a different manager?
 
@@ -1353,7 +1353,7 @@ If, after ninety days, the manager and the employee agree things are not meeting
 
 In general, if it's not clear after ninety days that a hire is going to work out, it likely won t magically become better after 120 or 150 days, and it's best to let them go. You should terminate this employee the same as any other, with a full severance package and as much kindness as possible.
 
-I encourage you to take full ownership of the mis-hire. If you hired them, take responsibility; it means your hiring process isn t perfect. Don't penalize the employee for it. An industry-standard severance package at a startup is four weeks salary, benefits if you can extend them, and assistance finding another job in any way you're comfortable offering.
+I encourage you to take full ownership of the mis-hire. If you hired them, take responsibility; it means your hiring process isn't perfect. Don't penalize the employee for it. An industry-standard severance package at a startup is four weeks salary, benefits if you can extend them, and assistance finding another job in any way you're comfortable offering.
 
 #### Onboarding Timeline
 
@@ -1440,9 +1440,9 @@ Senior individual contributors often have the informal title of tech lead. Tech 
 
 Management titling has more nuanced implications than individual contributors. The most common titles are software development manager (SDM) or software engineering manager (SEM), with appropriate seniority decorations e.g., mid-level software engineering manager or senior software engineering manager. An SDM or SEM is usually responsible for a single team of engineers, who in turn work on a single feature or product.
 
-The next level is typically a director of engineering. Directors are accountable for the performance, alignment, and output of multiple teams within single or highly adjacent products. In most organizations, a director is not expected to be a strategic role. In other words, a director isn t setting foundational technical direction or product strategy.
+The next level is typically a director of engineering. Directors are accountable for the performance, alignment, and output of multiple teams within single or highly adjacent products. In most organizations, a director is not expected to be a strategic role. In other words, a director isn't setting foundational technical direction or product strategy.
 
-Beyond director is the role of vice president of engineering (VPE). There isn t a universal implementation of VPE. It varies from being the organizational lead of all engineers at the company (in place of a CTO) to being the strategic technical lead across multiple product areas. Sometimes the VPE reports to the CTO, and other times the CEO. What VPEs have in common, though, is the expectation of being technically very senior, experienced, and skilled at people management a great communicator and strategic thinker.
+Beyond director is the role of vice president of engineering (VPE). There isn't a universal implementation of VPE. It varies from being the organizational lead of all engineers at the company (in place of a CTO) to being the strategic technical lead across multiple product areas. Sometimes the VPE reports to the CTO, and other times the CEO. What VPEs have in common, though, is the expectation of being technically very senior, experienced, and skilled at people management a great communicator and strategic thinker.
 
 #### Performance Reviews, Surveys and Promotions
 
@@ -1677,7 +1677,7 @@ My overall recommendation is for teams that are working on the same project to h
 
 #### Create Social Opportunities
 
-In general, people's default mode with video calls is to multitask during the call and then get off the call as fast as possible. Once a work conversation is over, everyone hangs up. at isn t how people interact in person; for example, the meeting ends and then you talk about sports in the hallway when walking back to your desks. at bit of social time before/after meetings is a valuable way for people to build relationships and trust, and it won t happen unless the leadership and culture actively support it. A cheap and easy way to do that on a regular basis is to ask a lighthearted, round-the-room, ice- breaker style question on a regular basis, such as What s one bit of good news personally, and professionally, you can share?
+In general, people's default mode with video calls is to multitask during the call and then get off the call as fast as possible. Once a work conversation is over, everyone hangs up. at isn't how people interact in person; for example, the meeting ends and then you talk about sports in the hallway when walking back to your desks. at bit of social time before/after meetings is a valuable way for people to build relationships and trust, and it won t happen unless the leadership and culture actively support it. A cheap and easy way to do that on a regular basis is to ask a lighthearted, round-the-room, ice- breaker style question on a regular basis, such as What s one bit of good news personally, and professionally, you can share?
 
 You can support remote social building with remote happy hours, or virtual team dinners and social activities. Post-COVID-19, there are many online social facilitators who run remote events ranging from digital casino nights to virtual escape rooms.
 
@@ -1695,7 +1695,7 @@ As an executive, your leadership responsibilities extend beyond the technical co
 
 ### Product and Design Teams
 
-It's your responsibility as a technical leader to ensure that your engineering team is working efficiently with the product and design teams, even if those teams report to somebody else. When designing this process, as a general rule, throwing things over walls between groups isn t efficient. Good interaction between product, engineering, and design teams requires empathy and understanding. What does the other team do, what challenges do they face, and how can you and your team make their lives easier? Below I'll provide a little background on these other functions and some concrete suggestions on how to work together efficiently.
+It's your responsibility as a technical leader to ensure that your engineering team is working efficiently with the product and design teams, even if those teams report to somebody else. When designing this process, as a general rule, throwing things over walls between groups isn't efficient. Good interaction between product, engineering, and design teams requires empathy and understanding. What does the other team do, what challenges do they face, and how can you and your team make their lives easier? Below I'll provide a little background on these other functions and some concrete suggestions on how to work together efficiently.
 
 ### Design Systems
 
@@ -1723,7 +1723,7 @@ EPD is an industry acronym for Engineering Product and Design. The implication i
 
 Product and project management are industry terms with distinct meanings. A product manager is accountable for the design and creation of the product as well as the key performance indicators (KPIs) the product should meet for the business. Melissa Perri s *Escaping the Build Trap* is a phenomenal resource that dives deeply into the role and impact a great product manager can have on your organization. A project manager is accountable for guiding the internal organization of the team, managing internal communication, and adhering to the roadmap and deadlines.
 
-Early on in your startup, as CTO you may be filling both of these roles. Very early in your hiring roadmap you should plan to have a great product manager who can take some of these responsibilities from you. Some product managers excel at project management, while others don't find joy in it and therefore don't put time and attention into it. Arguably, early on at your startup, it's okay either way; with a small team, the consequences of lax project management are minimal. However, as you get larger, formalizing project management becomes more important, and if your product manager isn t filling the role, you should aim to augment them with a project manager.
+Early on in your startup, as CTO you may be filling both of these roles. Very early in your hiring roadmap you should plan to have a great product manager who can take some of these responsibilities from you. Some product managers excel at project management, while others don't find joy in it and therefore don't put time and attention into it. Arguably, early on at your startup, it's okay either way; with a small team, the consequences of lax project management are minimal. However, as you get larger, formalizing project management becomes more important, and if your product manager isn't filling the role, you should aim to augment them with a project manager.
 
 My general recommendation is to formally delegate project management when EPD has grown to around twenty people. at will mean formally assigning yourself that role, having the product manager do it, or hiring a dedicated project manager. you'll want to be involved early on in setting up project management processes, ensure that the mechanisms being put in place for project management support the kind of culture you're looking to build, and are empathetic to all parties involved.
 
@@ -1873,7 +1873,7 @@ As an internal tech-focused CTO, you may also function as a product manager if y
 
 A typical startup will not have both a VPE and a CTO, and so it often falls on the CTO to fill the VPE role. is is often also the hardest role for a cofounder CTO to fill, as the responsibilities of the day one technical cofounder don't much overlap with the responsibilities of the internally people-focused technical leader.
 
-The people-focused CTO is responsible for setting internal technical culture, the hiring process, and overseeing internal processes. is CTO spends much of their time actually managing either independent contributors or other technical managers. is is the most critical of the three focus areas to get right. If a company isn t hiring well, or its technical staff is poorly managed, unmotivated, unfocused, or not aligned, it can impact productivity, and even lead to bad decision-making that will hurt the organization in the long term.
+The people-focused CTO is responsible for setting internal technical culture, the hiring process, and overseeing internal processes. is CTO spends much of their time actually managing either independent contributors or other technical managers. is is the most critical of the three focus areas to get right. If a company isn't hiring well, or its technical staff is poorly managed, unmotivated, unfocused, or not aligned, it can impact productivity, and even lead to bad decision-making that will hurt the organization in the long term.
 
 ### The Externally Focused CTO *AKA The Head of Technical Sales/Marketing*
 
@@ -1883,9 +1883,9 @@ This is perhaps the easiest role for the founder CTO to step into, as they have 
 
 #### Transitioning Between Types
 
-Ideally, a startup CTO will prove adept in all three areas, though most people will specialize in just one or two. If your business needs a focus that isn t your expertise, it may be worth asking yourself if you can execute that task more effectively by delegating it to a coworker. Especially at an early stage startup, most technical cofounder/cofounder CTOs will be internal tech-focused. Usually There'snot much other work to be done at this stage!
+Ideally, a startup CTO will prove adept in all three areas, though most people will specialize in just one or two. If your business needs a focus that isn't your expertise, it may be worth asking yourself if you can execute that task more effectively by delegating it to a coworker. Especially at an early stage startup, most technical cofounder/cofounder CTOs will be internal tech-focused. Usually There'snot much other work to be done at this stage!
 
-It's a very common pattern for that person to find themselves stretching into internal people or external focuses as the company grows, and that s not always a desirable transition for that person. It's not a personal failure to admit that your specialty or your motivation is in tech and that people management isn t a great fit, but quite the opposite. Identifying your superpowers and architecting a role in the company to leverage that superpower is how you add the most value, and the company should hire somebody else whose superpower is, for example, people management to fill that role.
+It's a very common pattern for that person to find themselves stretching into internal people or external focuses as the company grows, and that s not always a desirable transition for that person. It's not a personal failure to admit that your specialty or your motivation is in tech and that people management isn't a great fit, but quite the opposite. Identifying your superpowers and architecting a role in the company to leverage that superpower is how you add the most value, and the company should hire somebody else whose superpower is, for example, people management to fill that role.
 
 If you find yourself stuck in a role you're unhappy with, it's vital that you acknowledge the mismatch both to yourself and to your CEO. is doesn t mean giving up your position as a founder or leader, or as a respected and high-impact person within the company.
 
@@ -2027,7 +2027,7 @@ However you choose to pay down your tech debt, the key to doing so successfully 
 
 #### Defining Tech Debt
 
-Another way to define technical debt is as a technical decision, implementation, or nuance that actively reduces the efficiency or effectiveness of the business today or in the future. The point is that tech debt has a consequence that matters. Some of your code might be objectively ugly or inefficient, but if that inefficiency has no impact on the business and There'sno need to modify that code in the future to maintain quality, performance, or iteration, then that code isn t costly in terms of tech debt. After all, the goal of software development, especially at a startup, is not to write the perfect codebase, but to build software that enables the business.
+Another way to define technical debt is as a technical decision, implementation, or nuance that actively reduces the efficiency or effectiveness of the business today or in the future. The point is that tech debt has a consequence that matters. Some of your code might be objectively ugly or inefficient, but if that inefficiency has no impact on the business and There'sno need to modify that code in the future to maintain quality, performance, or iteration, then that code isn't costly in terms of tech debt. After all, the goal of software development, especially at a startup, is not to write the perfect codebase, but to build software that enables the business.
 
 Don't be afraid of debt. It can serve a purpose. For example, when building Version 1 of a product that s not yet been validated in the market, a technical team may decide on an architecture that will not scale past a hundred users. If that decision allows the team to rapidly validate the product and determine whether or not a hundred users will ever use the product, that path may be worthwhile especially given the fact that it may take several versions of these prototypes to find one that users love.
 
@@ -2090,7 +2090,7 @@ The most common way to handle tech debt is to pay it off on a Just-in- Time basi
 
 Periodic paydown is akin to how one might pay down a car loan or a mortgage. The team makes space to pay off debt on a fixed interval (e.g., a day per sprint, a couple of days per month, or a couple of weeks per quarter). Google famously allowed their engineers 20 percent time to work on whatever they wanted, including paying down debt or innovating on new projects and tools. The idea here is the same: as a manager, you explicitly make time and encourage the team to make investments into the tools and processes used to do engineering.
 
-For example, the Shape Up method (see Tech Process, page 157) describes a two-week cooldown period after a six-week cycle, or 25 percent of an eight-week period, for making technical investments. Keep in mind that 25 percent isn t a magic number; the right percentage will depend on your team s debt inventory.
+For example, the Shape Up method (see Tech Process, page 157) describes a two-week cooldown period after a six-week cycle, or 25 percent of an eight-week period, for making technical investments. Keep in mind that 25 percent isn't a magic number; the right percentage will depend on your team s debt inventory.
 
 #### Continuous Paydown
 
@@ -2217,9 +2217,9 @@ A final note on estimates: don't conflate missing estimates with poor total outp
 
 SCRUM burndown charts show team progress against estimates and can be a great tool for measuring sprint productivity. However, estimates are imperfect and, for various reasons, a burndown chart may show a flat line or even burn up. is can be because a team legitimately is not making progress, or it could be an artifact of estimation issues or bad data collection.
 
-A burndown chart that burns up consistently, despite teams shipping and doing good work, is demoralizing and not achieving the intended benefit. If there are easy adjustments that will help you better capture data and fix the chart, make that change. But if you find a particular way of measuring output still isn t working, just get rid of it. It's okay to admit that your method of estimating these particular types of stories with this team isn t precise enough and move on to other methods of monitoring and improving performance.
+A burndown chart that burns up consistently, despite teams shipping and doing good work, is demoralizing and not achieving the intended benefit. If there are easy adjustments that will help you better capture data and fix the chart, make that change. But if you find a particular way of measuring output still isn't working, just get rid of it. It's okay to admit that your method of estimating these particular types of stories with this team isn't precise enough and move on to other methods of monitoring and improving performance.
 
-In my experience, only a small percentage of teams find success with burndown charts, so don't be disheartened if that one technique isn t helpful for your engineering team.
+In my experience, only a small percentage of teams find success with burndown charts, so don't be disheartened if that one technique isn't helpful for your engineering team.
 
 ### Choosing A Workflow
 
@@ -2282,7 +2282,7 @@ There is no universal formula for the correct amount of time, but I'll provide a
 
 If your team refuses to invest time into planning, you're likely pushing too hard for results over process. The way to ensure the engineering process produces good results for the business is not to crack the whip harder, but to establish a healthy process that enables good results. You wouldn t speed up a structural engineering team designing a bridge by having them work longer hours. You would make sure they have the best bridge-designing tools available to them with the best possible information about the span being bridged. Software engineering is no different. But instead of using CAD software or real-world measurements of soil/rock, we have product specifications, design process, and software tools.
 
-Conversely, an overly lengthy planning process where team members insist on getting every minute detail upfront can be an indicator of a serious cultural problem, where team members are paralyzed by fear of making a mistake. Effective planning won t eliminate risk, but thinking through important, high-level decisions in advance can minimize it. A team that obsesses over details may be afraid of making mistakes or unwilling to iterate on their work both symptoms of overly results-driven management. Individuals should not be punished for reasonable mistakes or planning oversights. It's fine if a tech spec isn t perfect upfront; expect your team to find mistakes or gaps during implementation, and update the spec when those issues are found.
+Conversely, an overly lengthy planning process where team members insist on getting every minute detail upfront can be an indicator of a serious cultural problem, where team members are paralyzed by fear of making a mistake. Effective planning won t eliminate risk, but thinking through important, high-level decisions in advance can minimize it. A team that obsesses over details may be afraid of making mistakes or unwilling to iterate on their work both symptoms of overly results-driven management. Individuals should not be punished for reasonable mistakes or planning oversights. It's fine if a tech spec isn't perfect upfront; expect your team to find mistakes or gaps during implementation, and update the spec when those issues are found.
 
 ### Prototyping as Part of Spec Writing!
 
@@ -2405,7 +2405,7 @@ One of your key responsibilities as a tech leader is to make good decisions on y
 
 One thing to keep in mind when discussing tools and tool choice with your team: engineers can be emotional about tool choice. Tools are reviewed as good and bad, and people have personal likes, dislikes, and biases. As the leader and decision-maker, I strongly caution you against adopting this style of language when discussing tools. Not only can it potentially alienate team members if you're disparaging their personal favorite tool; it's also unproductive and can distract from the goal of identifying a good solution for your problem. Some individual tools are genuinely poorly designed and overshadowed by superior alternatives.
 
-More often than not, a more nuanced evaluation will reveal that a given tool isn t inherently bad, but rather appropriate or inappropriate for a particular company or project. Don't let one bad past experience of trying to use a tool that was inappropriate for solving one problem prevent you or your team from using it another time when it may prove a better fit.
+More often than not, a more nuanced evaluation will reveal that a given tool isn't inherently bad, but rather appropriate or inappropriate for a particular company or project. Don't let one bad past experience of trying to use a tool that was inappropriate for solving one problem prevent you or your team from using it another time when it may prove a better fit.
 
 
 ## Architecture
@@ -2539,7 +2539,7 @@ Having all the code in a single repository improves discoverability, making it e
 
 **Manyrepo, by contrast**
 
-Requires using a central package manager with version control. is isn t necessarily a bad thing, but it can lead to significant overhead when working on a project and its dependencies simultaneously.
+Requires using a central package manager with version control. is isn't necessarily a bad thing, but it can lead to significant overhead when working on a project and its dependencies simultaneously.
 
 Integrates cleanly with CI/CD pipeline systems (Bitbucket pipelines, GitHub actions, etc.).
 
@@ -2695,7 +2695,7 @@ Achieving these goals requires some form of governance system. is can range from
 
 API ARCHITECTURE
 
-Out in the wild you're likely to encounter two main types of APIs: HTTP- based and non-HTTP based. As with any tool, HTTP has its tradeoffs and isn t ideal for every job, so if your business requirements dictate ultra-low latency, or ultra-high throughput/low overhead, or real-time streaming applications, you'll likely be looking for something beyond HTTP. Below I discuss a handful of HTTP API types and then briefly cover some non- HTTP APIs you're likely to run into.
+Out in the wild you're likely to encounter two main types of APIs: HTTP- based and non-HTTP based. As with any tool, HTTP has its tradeoffs and isn't ideal for every job, so if your business requirements dictate ultra-low latency, or ultra-high throughput/low overhead, or real-time streaming applications, you'll likely be looking for something beyond HTTP. Below I discuss a handful of HTTP API types and then briefly cover some non- HTTP APIs you're likely to run into.
 
 HTTP-Based APIs
 
@@ -2707,7 +2707,7 @@ In the early 2000s, the most common API pattern was the XML-based Simple Object 
 
 *REST*
 
-REST (Representational State Transfer) is a generic phrase that describes using JSON over HTTP as an API. REST is sometimes augmented with a pattern called HATEOAS, which provides a more formal set of standards to the content/payloads of a REST API. Absent HATEOAS (which isn t all that
+REST (Representational State Transfer) is a generic phrase that describes using JSON over HTTP as an API. REST is sometimes augmented with a pattern called HATEOAS, which provides a more formal set of standards to the content/payloads of a REST API. Absent HATEOAS (which isn't all that
 
 common), REST does not include formal or branded guidance for how JSON data is modeled. REST APIs commonly model a single noun as an endpoint and use HTTP verbs (GET, PUT, POST, DELETE, etc.) to determine actions on nouns. For example, GET/users would list users, POST/users would create a new user, and DELETE/users/123 would delete the user with ID 123.
 
@@ -3207,7 +3207,7 @@ You should also know how DNS is used for email in your organization. In particul
 
 You should also set up your DNS records using Infrastructure as Code (IaC). I've seen countless companies where DNS is managed exclusively by an executive whose two-factor authentication is the only one allowed to update a zone record, and when that person is on vacation There'sno fallback mechanism to manage the site.
 
-A better solution is to set up DNS with Terraform (which has integrations with all the major DNS providers) and then manage DNS records with source control, empowering individual developers to add new records in a responsible way that isn t gated on any one individual.
+A better solution is to set up DNS with Terraform (which has integrations with all the major DNS providers) and then manage DNS records with source control, empowering individual developers to add new records in a responsible way that isn't gated on any one individual.
 
 Decoupling Shipping Code from ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.111.png)Shipping Features (Feature Toggles)
 
@@ -3236,7 +3236,7 @@ Imagine that, instead of testing software code, your job was to be the inspector
 
 Another reasonable strategy would be to decide exactly which elements of the bridge are essential to meet the designated safety factor and test/ inspect those. Maybe that s only every other rivet, plus all the cables and structural concrete.
 
-Similarly, in software engineering testing, the goal isn t coverage for coverage s sake, but coverage that provides confidence that the software does what it is intended to do.
+Similarly, in software engineering testing, the goal isn't coverage for coverage s sake, but coverage that provides confidence that the software does what it is intended to do.
 
 Effective software testing is not always about 100 percent code coverage. The bar for a good software test suite is that it gives your team confidence that, when the build is green and all tests pass, the software is ready to be released to end users. at may mean 100 percent code coverage, or it may mean 30 percent code coverage. The exact number is up to you to determine and monitor, and that amount of effort may change over time if you find the tests are not providing the same confidence they once were (and, conversely, if you find you're overinvesting i.e., you're spending a lot of resources on a test suite, yet bugs are still making it out too often).
 
@@ -3536,7 +3536,7 @@ Keep in mind that a feature doesn t necessarily have to be implemented
 
 in a single branch. For example, you can have an initial branch with just tests that is reviewed and merged, and then followed up by a branch with the implementation. Alternatively, you can build an implementation that
 
-isn t connected to the main application, have it reviewed and merged, then build the connection and tests in a subsequent branch.
+isn't connected to the main application, have it reviewed and merged, then build the connection and tests in a subsequent branch.
 
 With a bit of thought and practice most implementations can be broken down into independently mergeable pieces. is is a skill that with your guidance teams can develop over time.
 
@@ -3761,7 +3761,7 @@ Or, given how important people leadership is to excelling in this role, we could
 
 Or, rather than trying to define a single objective, maybe the best definition of CTO greatness is a sum of all the skills that a CTO might exercise on a daily basis. Perhaps great is when you take the sum of architecture, performance management, vendor management, executive leadership, cultural contributions, public evangelism, mentorship, and DevOps, put it through a formula, and you end up with a number bigger than 42.
 
-Try as we might, it seems that great leadership even great *technical* leadership isn t something we can precisely quantify or measure. Smart minds will struggle to agree on a common description of greatness, but we will all agree that the role is diverse and ever-changing, requiring constant learning and adaptation.
+Try as we might, it seems that great leadership even great *technical* leadership isn't something we can precisely quantify or measure. Smart minds will struggle to agree on a common description of greatness, but we will all agree that the role is diverse and ever-changing, requiring constant learning and adaptation.
 
 There are few universal truths in engineering leadership, but one of them is that becoming a good engineering leader is a never-ending journey of self-improvement, discovery, and growth. Proceeding down this path requires humility, willingness to make mistakes, and, above all, curiosity and a desire to learn.
 
