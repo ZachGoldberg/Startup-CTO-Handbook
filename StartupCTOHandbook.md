@@ -202,9 +202,9 @@ Depending on the size of your team and company, what is described here might app
 
 Recommended Reading: *Managing Humans* by Michael Lopp
 
-The golden rule of management: do what it takes to get the best out of your team. In technical leadership as in any other leadership role, the best measure of your performance as a manager is the performance of the team itself. at means you should be thinking about and spending time doing everything necessary to help individual team members do their best work, both independently and collectively.
+The golden rule of management: do what it takes to get the best out of your team. In technical leadership as in any other leadership role, the best measure of your performance as a manager is the performance of the team itself. That means you should be thinking about and spending time doing everything necessary to help individual team members do their best work, both independently and collectively.
 
-Helping your team succeed requires humility, as it entails consistently putting the needs of your direct reports above your own. You will need to adjust and tweak your style, behavior, thinking, and actions to suit the needs of members of your engineering team. at will include being willing to be wrong, being open-minded, and learning from your direct reports.
+Helping your team succeed requires humility, as it entails consistently putting the needs of your direct reports above your own. You will need to adjust and tweak your style, behavior, thinking, and actions to suit the needs of members of your engineering team. That will include being willing to be wrong, being open-minded, and learning from your direct reports.
 
 If you buy into this journey, know that you will make mistakes. Own those mistakes with your team and they will trust you more for it. Also know that being a perfect manager is not an achievable goal; the best you can hope for is to always be improving in small ways. After a career spent managing people, you'll have learned a lifetime of lessons about technology and human beings that will make you a more competent manager.
 
@@ -243,7 +243,7 @@ One way to jumpstart your leadership transition, coaching and managing others, i
 
 In my first role as a business leader at WiFast (then Zenreach, now Adentro) we quickly hired a team of ten full-time employees, mostly in engineering. As a first-time manager I knew I had a lot to learn, and
 
-I was eager to take advantage of every resource I could to become a better manager. My only problem was I hated most management advice. I found it either overly prescriptive (do X, then Y, then Z) without context or insight, or entirely devoid of substance fluff, if you will. at was until I met my first management coach, Jonathan.
+I was eager to take advantage of every resource I could to become a better manager. My only problem was I hated most management advice. I found it either overly prescriptive (do X, then Y, then Z) without context or insight, or entirely devoid of substance fluff, if you will. That was until I met my first management coach, Jonathan.
 
 The story goes that one of our investors, First Round Capital, was hosting a management summit in San Francisco, about a thirty-minute drive from our office. us far I d found First Round folks were high quality, so when I came across the invitation, their support temporarily muted my ever-present fluff allergy and I signed up.
 
@@ -470,7 +470,7 @@ As a leader at a startup, you'll quickly find your time is split between many ki
 
 One of the ways you can enable productivity in your team is by creating, or allowing for, large blocks of free time for your engineers. Context switching (our tendency to shift from one unrelated task to another) is expensive (see TheMultitasking Myth at ctohb.com/myth), so the more time you can create for engineers to do the work of engineering without switching to other tasks (email, phone calls, meetings), the less total context switching penalty you pay.
 
-I'm a fan of declaring an informal meeting hours window for the team. Encourage the engineering team, and cross-functional teams, to schedule meetings during this two or three hour window every day and try not to schedule engineers outside that window. at leaves a healthy amount of time *every single day* for your engineering team to focus on the core of their work and also make space for necessary informational and conflict resolution meetings. If your team is in more than three hours of meetings per day (fifteen hours per week, nearly half of their time!), you should take a close look at those meetings and ask yourself if they can be consolidated and reduced.
+I'm a fan of declaring an informal meeting hours window for the team. Encourage the engineering team, and cross-functional teams, to schedule meetings during this two or three hour window every day and try not to schedule engineers outside that window. That leaves a healthy amount of time *every single day* for your engineering team to focus on the core of their work and also make space for necessary informational and conflict resolution meetings. If your team is in more than three hours of meetings per day (fifteen hours per week, nearly half of their time!), you should take a close look at those meetings and ask yourself if they can be consolidated and reduced.
 
 Other teams have found success with no-meeting days setting aside one or more days each week when nobody schedules any recurring meetings. Just keep in mind that, in a forty-hour work week, your goal is to reserve as many of those hours as possible for your engineering team as contiguous blocks of focus time. A single no-meeting day implies an eight-hour block of focus time, but there are still thirty-two other hours to consider, so it doesn t solve the whole problem.
 
@@ -653,7 +653,7 @@ A quick note on advising non-technical founders: you're likely to get approached
 
 **You can either be a shit funnel or a shit umbrella.** - Todd Jackson, Gmail Product Manager (see ctohb.com/umbrella and ctohb.com/keytogmail)
 
-Questions, concerns, and ideas about your product, absent any strict process for directing them elsewhere, will find their way to management. at includes not just you but everyone in management in your organization. Managers are the default inbox, and the crux of Jackson s statement is that your team is the default outbox. You hear, Hey, There'sa bug in X, and you think, OK, engineer Y wrote that feature, go send them the bug. at would be an example of funneling inbound directly at your team.
+Questions, concerns, and ideas about your product, absent any strict process for directing them elsewhere, will find their way to management. That includes not just you but everyone in management in your organization. Managers are the default inbox, and the crux of Jackson s statement is that your team is the default outbox. You hear, Hey, There'sa bug in X, and you think, OK, engineer Y wrote that feature, go send them the bug. That would be an example of funneling inbound directly at your team.
 
 A better strategy is instead to act as an umbrella for the team. Rather than directing all the inbound in real time to the team, a good manager organizes, prioritizes, and gives the team a structured queue to work with. Your goal is to help the team focus, limit distraction, and provide a place for where inbound should go so it can be efficiently processed.
 
@@ -808,7 +808,7 @@ Just as with designing software systems, when you sit down to design your interv
 
 #### EFFICIENCY
 
-Hiring well is an expensive undertaking for your company. at cost comes in actual dollars, be it for recruiters, job board listings, or job advertisements. It also costs time, primarily in employee time spent conducting interviews. As you design your interview process, consider what your intention is with each step, what you are filtering for, and what is the most efficient way to accomplish that filtering.
+Hiring well is an expensive undertaking for your company. That cost comes in actual dollars, be it for recruiters, job board listings, or job advertisements. It also costs time, primarily in employee time spent conducting interviews. As you design your interview process, consider what your intention is with each step, what you are filtering for, and what is the most efficient way to accomplish that filtering.
 
 One way to reduce or at least spread out the time investment is to include other team members in the hiring process. Depending on the subject matter of a given interview, you don't always need your most senior engineers in the room. A hiring coordinator, with appropriate training, can do a phone screen, a culture interview, or a reference check just as effectively as a senior engineer or executive.
 
@@ -926,7 +926,7 @@ In this section, I cover some high-level interviewing best practices, and then p
 
 #### REJECTED CANDIDATES OPINIONS MATTER
 
-When designing your interview process, your candidate experience should be top of mind and a top priority. Even if you choose not to hire a candidate, that person will walk away with an impression good or bad of you and your company. at impression may lead to them singing your praises to those in their professional network who may someday apply for your roles. Or that impression could lead them to rant negatively about you every chance they get.
+When designing your interview process, your candidate experience should be top of mind and a top priority. Even if you choose not to hire a candidate, that person will walk away with an impression good or bad of you and your company. That impression may lead to them singing your praises to those in their professional network who may someday apply for your roles. Or that impression could lead them to rant negatively about you every chance they get.
 
 Job boards and Google reviews are littered with the evidence of interviews running amok, and it's very difficult to undo the damage to your reputation once it's been done. While it's true that, for some candidates, no amount of respect and consideration on your part will prevent the bitter sting of rejection from poisoning their takeaway opinion of you, those people are in the minority. For most candidates who get to the interview stage, a respectful and thoughtful interviewing process will leave them with a neutral-to-positive feeling about your company and help you avoid negative press online.
 
@@ -1232,7 +1232,7 @@ On the call, you should express excitement, convey the key points of the offer, 
 
 ## Onboarding
 
-Onboarding new engineers to the team, in most cases, doesn t strictly require a large investment from the team; a good engineer will figure it out eventually. at said, doing nothing will lead to a poor experience for your newest hire. It will slow down their time to productivity, and it may also make it harder to identify how well you've hired. Stated another way, good onboarding optimizes for three goals:
+Onboarding new engineers to the team, in most cases, doesn t strictly require a large investment from the team; a good engineer will figure it out eventually. That said, doing nothing will lead to a poor experience for your newest hire. It will slow down their time to productivity, and it may also make it harder to identify how well you've hired. Stated another way, good onboarding optimizes for three goals:
 
 1. **It respects the employee:** A good onboarding experience helps a new hire to feel integrated into your company and culture and become productive as quickly as possible.
 1. **It helps evaluate the quality of the hire:** Good onboarding provides structure for both the new employee and their manager, including clear goals that, when achieved, demonstrate that you've hired well for the role.
@@ -1261,7 +1261,7 @@ There are two key elements of getting a new engineer onboarded: teaching them ab
 
 The Engineering Guidebook gathers in a single document all of the opinions, best practices, structural elements, and business operations of your engineering team. It should be the single source any engineer can rely on to learn about choices and decisions that are expected to be consistent across the engineering organization. Be deliberate and thoughtful about exactly what practices should remain uniform across the organization.
 
-The larger your team becomes, the more it will make sense for pieces of the team to develop their own specialized way of getting work done. at said, for most small/medium startups of, say, less than seventy-five to one hundred developers, there is a ton of value and efficiency to be unlocked by adhering to a healthy and consistent set of best practices.
+The larger your team becomes, the more it will make sense for pieces of the team to develop their own specialized way of getting work done. That said, for most small/medium startups of, say, less than seventy-five to one hundred developers, there is a ton of value and efficiency to be unlocked by adhering to a healthy and consistent set of best practices.
 
 The guidebook can take many forms, though my preference is as a slide deck/presentation. Some examples of practices your guidebook should outline:
 
@@ -1414,7 +1414,7 @@ As for incentivizing high performance, tying compensation to leveling financiall
 
 Translating levels into fair compensation is slightly more nuanced than most might assume. The easiest thing to do is create a transparent spreadsheet that says everyone at Level X gets paid $Y per year, but a few issues arise from such a strict system: cost of living adjustments (also known as local rates) and non-performance-based compensation bonuses.
 
-GitLab published a great blog post explaining why they pay local rates (see ctohb.com/local. eir compensation calculator is also public at ctohb. com/gitlabcompcalc). at said, There'sno one correct way to handle local rates, and you should consider whether or not paying them makes sense for your business. If it does, calculate those rates in a way that is both transparent and data-driven.
+GitLab published a great blog post explaining why they pay local rates (see ctohb.com/local. eir compensation calculator is also public at ctohb. com/gitlabcompcalc). That said, There'sno one correct way to handle local rates, and you should consider whether or not paying them makes sense for your business. If it does, calculate those rates in a way that is both transparent and data-driven.
 
 Having a performance level translate to a specific pay range, rather than an exact compensation amount, solves many compensation problems. Any given job will want to be calibrated to market rate, but how are market rates determined? Generally speaking, the tools and data that are available to determine a market rate will be somewhat imprecise, and at best give a range within 10-20 percent. The reason it's not more precise is simple: a software engineering role at your company is unlikely to be 100 percent identical in requirements to the same role at a different company. After all, your codebase and tooling aren't 100 percent the same.
 
@@ -1426,7 +1426,7 @@ So, you've designed your competency matrix and decided to translate levels into 
 
 #### Job Titles
 
-Many startup founders will tell you their organization is very flat and that titles don't mean anything. at may actually be true from time to time in isolation, but it's the exception, not the norm. At the vast majority of companies, startups included, there are consistent trends in how titles are used. Assigning titles creates an expectation for level and scope of responsibility. Titles are also easily given and hard to take away, so it's worth being thoughtful and considerate about exactly what title you put on a job description or a promotion.
+Many startup founders will tell you their organization is very flat and that titles don't mean anything. That may actually be true from time to time in isolation, but it's the exception, not the norm. At the vast majority of companies, startups included, there are consistent trends in how titles are used. Assigning titles creates an expectation for level and scope of responsibility. Titles are also easily given and hard to take away, so it's worth being thoughtful and considerate about exactly what title you put on a job description or a promotion.
 
 For non-executive roles, before you decide on titles I first encourage you to decide what your levels are using only numbers, e.g., Level 1, Level 2, etc., via a competency matrix (See Competency Matrix and Leveling, page 95). Once you know what to expect from each of those levels, you can map levels to titles. Don't be afraid to add a numeric suffix to titles as well; it's easier and clearer to use titles like Junior Engineer 1 and Junior Engineer 2 than it is to invent a new adjective that means slightly more experienced than junior but not yet mid-level.
 
@@ -1504,7 +1504,7 @@ The challenge now is how to aggregate those scores into a final job level calcul
 
 Here s the method I recommend to determine a level: Assign the level at which the Cumulative Score is 66 percent or higher. The cumulative score for a given level is the percent of all scores that are at that level or higher. The lowest level will always have a cumulative score of 100 percent, Level 2 will be 100 percent minus the percentage of votes from Level 1. Level 3 is 100 percent minus the percentage from Level 2 and Level 1, and so on.
 
-In the example above, the individual would be a Level 2. At Level 2, their cumulative score is 90 percent. Using the 66 percent rule, they are very close to a Level 3 (which is at 60 percent) a mere two votes away. at they are so close can be used in coaching to encourage further improvement before promotion, or used to justify an adjustment within a pay band.
+In the example above, the individual would be a Level 2. At Level 2, their cumulative score is 90 percent. Using the 66 percent rule, they are very close to a Level 3 (which is at 60 percent) a mere two votes away. That they are so close can be used in coaching to encourage further improvement before promotion, or used to justify an adjustment within a pay band.
 
 When you've completed your overall calculation, if you've managed to track a manager s scores separately, you can apply the same formula to the manager s scores in isolation and calculate the difference between the level resulting from the cumulative score of the manager s reviews and the level from the cumulative score of all peer reviews. A large delta there anything more than one level warrants close attention and additional review as it means the manager and peers have significantly different perspectives on an individual s performance. Or it might indicate some irregularity in the voting/scoring process.
 
@@ -1567,7 +1567,7 @@ Your company should have a clear procedure for how to actually terminate an empl
 
 ## Team Makeup
 
-The key difference in impact between junior and senior talent is the consistency with which they can reliably solve different kinds of problems. As engineers become more experienced, their judgment and decision-making improve on larger and larger surface areas. Similarly, you should expect that more senior talent will develop solutions that have fewer defects, last longer, and are more durable to requirements change along the way. at s not to say everyone has to be senior; in fact, it's rare that a majority of projects involve architecting brand-new greenfield solutions.
+The key difference in impact between junior and senior talent is the consistency with which they can reliably solve different kinds of problems. As engineers become more experienced, their judgment and decision-making improve on larger and larger surface areas. Similarly, you should expect that more senior talent will develop solutions that have fewer defects, last longer, and are more durable to requirements change along the way. That s not to say everyone has to be senior; in fact, it's rare that a majority of projects involve architecting brand-new greenfield solutions.
 
 The right blend for any given team considers the types of work to be done and staffs the team thoughtfully as a result.
 
@@ -1657,7 +1657,7 @@ The advantages of pods are greater team cohesion, autonomy ownership, accountabi
 
 ### Managing Remote Teams
 
-There are a sufficient number of successful 100 percent remote software engineering teams that it is incontrovertible that remote organizations can work. at s not to say all remote teams are successful, or that it's necessarily easy to build an entirely remote culture. I've spent nearly a decade managing remote teams. Below are some recommendations that should apply to most remote management scenarios.
+There are a sufficient number of successful 100 percent remote software engineering teams that it is incontrovertible that remote organizations can work. That s not to say all remote teams are successful, or that it's necessarily easy to build an entirely remote culture. I've spent nearly a decade managing remote teams. Below are some recommendations that should apply to most remote management scenarios.
 
 #### Documentation
 
@@ -1673,11 +1673,11 @@ As useful as they are, video calls are no substitute for sitting down and having
 
 #### Time Zone Overlap
 
-My overall recommendation is for teams that are working on the same project to have a minimum of four working hours of overlap. at leaves a sufficient window for any regularly scheduled meetings and an opportunity for ad-hoc conversation and questions.
+My overall recommendation is for teams that are working on the same project to have a minimum of four working hours of overlap. That leaves a sufficient window for any regularly scheduled meetings and an opportunity for ad-hoc conversation and questions.
 
 #### Create Social Opportunities
 
-In general, people's default mode with video calls is to multitask during the call and then get off the call as fast as possible. Once a work conversation is over, everyone hangs up. at isn't how people interact in person; for example, the meeting ends and then you talk about sports in the hallway when walking back to your desks. at bit of social time before/after meetings is a valuable way for people to build relationships and trust, and it won t happen unless the leadership and culture actively support it. A cheap and easy way to do that on a regular basis is to ask a lighthearted, round-the-room, ice- breaker style question on a regular basis, such as What s one bit of good news personally, and professionally, you can share?
+In general, people's default mode with video calls is to multitask during the call and then get off the call as fast as possible. Once a work conversation is over, everyone hangs up. That isn't how people interact in person; for example, the meeting ends and then you talk about sports in the hallway when walking back to your desks. That bit of social time before/after meetings is a valuable way for people to build relationships and trust, and it won t happen unless the leadership and culture actively support it. A cheap and easy way to do that on a regular basis is to ask a lighthearted, round-the-room, ice- breaker style question on a regular basis, such as What s one bit of good news personally, and professionally, you can share?
 
 You can support remote social building with remote happy hours, or virtual team dinners and social activities. Post-COVID-19, there are many online social facilitators who run remote events ranging from digital casino nights to virtual escape rooms.
 
@@ -1725,13 +1725,13 @@ Product and project management are industry terms with distinct meanings. A prod
 
 Early on in your startup, as CTO you may be filling both of these roles. Very early in your hiring roadmap you should plan to have a great product manager who can take some of these responsibilities from you. Some product managers excel at project management, while others don't find joy in it and therefore don't put time and attention into it. Arguably, early on at your startup, it's okay either way; with a small team, the consequences of lax project management are minimal. However, as you get larger, formalizing project management becomes more important, and if your product manager isn't filling the role, you should aim to augment them with a project manager.
 
-My general recommendation is to formally delegate project management when EPD has grown to around twenty people. at will mean formally assigning yourself that role, having the product manager do it, or hiring a dedicated project manager. you'll want to be involved early on in setting up project management processes, ensure that the mechanisms being put in place for project management support the kind of culture you're looking to build, and are empathetic to all parties involved.
+My general recommendation is to formally delegate project management when EPD has grown to around twenty people. That will mean formally assigning yourself that role, having the product manager do it, or hiring a dedicated project manager. you'll want to be involved early on in setting up project management processes, ensure that the mechanisms being put in place for project management support the kind of culture you're looking to build, and are empathetic to all parties involved.
 
 ### Managing Managers and Manager Training
 
 There's an industry expression that your company is ultimately run by your middle managers. Theimplication is that, despite whatever strategies and processes executives put in place, it's the middle managers who ultimately have the highest impact on the quantity and quality of output. Middle managers hire individual contributors, set their day-to-day objectives, and hold them accountable for quality standards. The best middle managers are mini executives, focused on culture, building collaborative teams, and working to enable them to do their best work. It follows then that, as an executive, you should put a lot of effort into hiring, managing, and training those middle managers.
 
-The complicated topic of training managers deserves an entire book on its own, and it's a skill that takes time to master. at said, the top two lessons I can offer you that will provide leverage to all other skills here is to set an example yourself and build a culture of continuous management learning. The minute you hire or promote somebody into management you should make it clear that your expectation is that they will commit to putting time and effort into refining their craft of management. you'll go out of your way to make that easy for them by including management training in their personal goals and development plan, providing them resources to level up on management skills, helping them work through management problems, and teaching them everything you know.
+The complicated topic of training managers deserves an entire book on its own, and it's a skill that takes time to master. That said, the top two lessons I can offer you that will provide leverage to all other skills here is to set an example yourself and build a culture of continuous management learning. The minute you hire or promote somebody into management you should make it clear that your expectation is that they will commit to putting time and effort into refining their craft of management. you'll go out of your way to make that easy for them by including management training in their personal goals and development plan, providing them resources to level up on management skills, helping them work through management problems, and teaching them everything you know.
 
 Management training doesn t have to be over-the-top burdensome and expensive. If budgets permit, I highly recommend hiring outside management coaches for your managers. An internal manager monthly book reading/review can also be effective at kickstarting the continuous development flywheel.
 
@@ -2015,7 +2015,7 @@ Your team is continuously creating tribal knowledge, be it how to start a servic
 
 San Francisco s Golden Gate Bridge is made out of steel, which is not actually golden in color. The bridge is painted, and maintaining the iconic color of the bridge is so important to San Franciscans that they paint it continuously (ctohb.com/painting). Once repainting is finished, the process immediately restarts. is form of continuous investment or perpetual maintenance is what s required to keep the most important and sophisticated systems performing to expectations, from the Golden Gate Bridge to your team s software project. Only for your project, the maintenance doesn t require paint buckets; it comes in the form of technical debt.
 
-Every feature a software development team delivers brings with it some level of need for future work, or debt. at debt can take the form of bugs that need fixing, fast-follows to the feature to deliver incremental customer value, or sloppiness in the code that should be fixed to improve maintainability, performance, or security. A certain amount of debt naturally accrues even if your team is out on vacation: security vulnerabilities in dependent software are found, packages go out of date, new versions of tools are released, third-party APIs are deprecated or changed, etc. Debt is unavoidable and you need to account for it.
+Every feature a software development team delivers brings with it some level of need for future work, or debt. That debt can take the form of bugs that need fixing, fast-follows to the feature to deliver incremental customer value, or sloppiness in the code that should be fixed to improve maintainability, performance, or security. A certain amount of debt naturally accrues even if your team is out on vacation: security vulnerabilities in dependent software are found, packages go out of date, new versions of tools are released, third-party APIs are deprecated or changed, etc. Debt is unavoidable and you need to account for it.
 
 ### Tech Debt And The Product Lifecycle
 
@@ -2161,7 +2161,7 @@ Conway s Law states that Organizations, who design systems, are constrained to p
 
 ### Workflow
 
-Technical work is a highly nuanced matter with thousands of minute decisions that will affect how things ultimately interoperate and behave. To have any hope of maintaining productivity within your organization you need a set of standards and guiding principles to ensure the everyday technical decisions are broadly consistent and thus manageable for the team. at means you need to actually set those standards, train the team on them and have a day-to-day process to enforce and modify them as necessary.
+Technical work is a highly nuanced matter with thousands of minute decisions that will affect how things ultimately interoperate and behave. To have any hope of maintaining productivity within your organization you need a set of standards and guiding principles to ensure the everyday technical decisions are broadly consistent and thus manageable for the team. That means you need to actually set those standards, train the team on them and have a day-to-day process to enforce and modify them as necessary.
 
 The pattern a team follows to determine how to decide what to build and how work gets done is referred to as a workflow. The five most popular workflow patterns are:
 
@@ -2201,7 +2201,7 @@ Shape Up is a methodology formalized by the company Basecamp and published in an
 
 ### Engineering Estimates
 
-According to Google, the technical definition of accuracy is the degree to which the result of a measurement, calculation, or specification conforms to the correct value or a standard. at is to say, accuracy is an indicator of overall correctness. When you're throwing darts at a dartboard and aiming for the bullseye, an accurate set of throws is a set of throws that tends towards the center.
+According to Google, the technical definition of accuracy is the degree to which the result of a measurement, calculation, or specification conforms to the correct value or a standard. That is to say, accuracy is an indicator of overall correctness. When you're throwing darts at a dartboard and aiming for the bullseye, an accurate set of throws is a set of throws that tends towards the center.
 
 Precision, by contrast, is defined technically as refinement in a measurement, calculation, or specification, especially as represented by the number of digits given. In other words, precision indicates a level of exactness. When throwing darts, if all of your throws, regardless of their target, are tightly grouped together, that can be said to be a precise grouping.
 
@@ -2401,7 +2401,7 @@ Another problem teams often face is changing tooling too often. In certain tech 
 
 # Tech Architecture
 
-One of your key responsibilities as a tech leader is to make good decisions on your architecture and tools. Good architecture aligns the strengths of the tools and patterns you choose with the needs of your organization now and in the foreseeable future. at requires understanding the strengths, weaknesses, and tradeoffs inherent in each choice. My goal in this section of the book is to make you aware in general of the landscape of options in various domains, and help you recognize the general tradeoffs that different strategies entail.
+One of your key responsibilities as a tech leader is to make good decisions on your architecture and tools. Good architecture aligns the strengths of the tools and patterns you choose with the needs of your organization now and in the foreseeable future. That requires understanding the strengths, weaknesses, and tradeoffs inherent in each choice. My goal in this section of the book is to make you aware in general of the landscape of options in various domains, and help you recognize the general tradeoffs that different strategies entail.
 
 One thing to keep in mind when discussing tools and tool choice with your team: engineers can be emotional about tool choice. Tools are reviewed as good and bad, and people have personal likes, dislikes, and biases. As the leader and decision-maker, I strongly caution you against adopting this style of language when discussing tools. Not only can it potentially alienate team members if you're disparaging their personal favorite tool; it's also unproductive and can distract from the goal of identifying a good solution for your problem. Some individual tools are genuinely poorly designed and overshadowed by superior alternatives.
 
@@ -2467,7 +2467,7 @@ an SOA is that, in comparison to a monolith, it can be very complex to think abo
 
 to truly ensure that the benefits outweigh added complexity.
 
-Microservices are a subset of service-oriented architecture where each service is as the name suggests very small. There are system implementations with thousands of microservices, each of them only a few lines of code. at said, you do not need to have thousands of microservices to experience the benefits of a service-oriented architecture. Even breaking out a system into four or five smaller services, in the right circumstances, can provide major improvement to code health.
+Microservices are a subset of service-oriented architecture where each service is as the name suggests very small. There are system implementations with thousands of microservices, each of them only a few lines of code. That said, you do not need to have thousands of microservices to experience the benefits of a service-oriented architecture. Even breaking out a system into four or five smaller services, in the right circumstances, can provide major improvement to code health.
 
 You may have heard that microservices are the only good architecture pattern; this is untrue. The perception stems from the fact that many monoliths are poorly designed or haven t received the attention and investment
 
@@ -2549,7 +2549,7 @@ THE DISTRIBUTED MONOLITH
 
 A distributed monolith is a system deployed as multiple services that are not designed with sufficient independence or isolation and thus are not independently deployable. To be clear, this is the worst of both worlds. Rather than enabling a developer to go to any service and to work on it in isolation, not thinking about any other service, this setup requires that developer to reason about how that service affects other services. Not only that, but they have to then make changes potentially in multiple services and coordinate deployments in a particular order between services to ensure compatibility during releases. is development and deployment complexity negates the key benefits of a microservice system.
 
-If you notice your team falling into these patterns or complaining about coordinating releases between services, this should be a red flag for you to look closer and consider paying down some tech debt to get back to independently deployable services. at tech debt is usually located in your contracts, the design of your APIs, and how data is handled in your system.
+If you notice your team falling into these patterns or complaining about coordinating releases between services, this should be a red flag for you to look closer and consider paying down some tech debt to get back to independently deployable services. That tech debt is usually located in your contracts, the design of your APIs, and how data is handled in your system.
 
 **WRITING READABLE, GOOD CODE![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.094.png)**
 
@@ -2721,7 +2721,7 @@ I like to think of GraphQL as REST with types and a self-documenting schema. As 
 
 its schema system, allows for the composition of multiple schemas from multiple services to form a larger, more powerful, and more complex data graph, sometimes called a federated schema. The company Apollo provides sophisticated solutions for managing and scaling a graph.
 
- There's a lot to be said for the benefits of building a graph to model your company s data, and the good habits that being forced to design a schema bring about. at said, no system comes without tradeoffs. Because GraphQL forgoes standard HTTP verbs, it does not play nicely with some elements of the web stack. GET request caching and developer tooling are still catching up to deal nicely with GraphQL requests. If those drawbacks are not a significant concern for your business, I strongly encourage you to check out apollographql.com and consider using GraphQL especially for internal use cases for your APIs.
+ There's a lot to be said for the benefits of building a graph to model your company s data, and the good habits that being forced to design a schema bring about. That said, no system comes without tradeoffs. Because GraphQL forgoes standard HTTP verbs, it does not play nicely with some elements of the web stack. GET request caching and developer tooling are still catching up to deal nicely with GraphQL requests. If those drawbacks are not a significant concern for your business, I strongly encourage you to check out apollographql.com and consider using GraphQL especially for internal use cases for your APIs.
 
 Non-HTTP APIs
 
@@ -2892,7 +2892,7 @@ Behavioral data also called behavioral analytics events describes how users have
 
 Overall, you'll want behavioral data from your application to go to multiple sources. is presents a bit of a routing problem: you have a single data source (your application), but you want events to go to many places. The nearly universally adopted solution to this problem is Twilio s Segment platform, though there are some up-and-coming alternatives called Customer Data Platforms (CDP) such as RudderStack. A CDP can ingest data from your application, then send it to your data warehouse and to as many other SaaS platforms as you like.
 
-One important distinction between behavioral data generated by your application and transactional data is its precision. Most behavioral data is lossy users have ad blockers, requests get dropped, or firewalls get in the way. There are many reasons why events might not make it from a client device to your CDP. at doesn t mean behavioral data is not useful, but being aware of its lossiness should inform your expectations for the data and limit the use cases when querying it. If you need exact numbers, expect
+One important distinction between behavioral data generated by your application and transactional data is its precision. Most behavioral data is lossy users have ad blockers, requests get dropped, or firewalls get in the way. There are many reasons why events might not make it from a client device to your CDP. That doesn t mean behavioral data is not useful, but being aware of its lossiness should inform your expectations for the data and limit the use cases when querying it. If you need exact numbers, expect
 
 to derive those from your BI platform and your transactional data.
 
@@ -2948,7 +2948,7 @@ My preferred way to balance the challenge of keeping engineers motivated and a c
 
 lead and implement an internal technology radar. Rather than weigh something new for its universal appeal as oughtworks does, my approach evaluates blips for their fit and effectiveness for our organization using the same four levels. To be concrete:
 
-1. Somebody proposes using a new tool, technique, platform, or language (blip). at proposal at first is categorized as assess. Theproposer has to make the case in a technical document that the new blip would provide a material benefit to the project that was already selected by the business (or as an experiment in an innovation sprint see Cooldown/ Innovation Sprints, page 163). Then, if approved, it moves to a trial.
+1. Somebody proposes using a new tool, technique, platform, or language (blip). That proposal at first is categorized as assess. Theproposer has to make the case in a technical document that the new blip would provide a material benefit to the project that was already selected by the business (or as an experiment in an innovation sprint see Cooldown/ Innovation Sprints, page 163). Then, if approved, it moves to a trial.
 2. The new blip is used by the developer in a project, either selected by the business or in their innovation sprint window. At the end of the project, the author produces a follow-up written document describing their experience with the blip, including pros and cons and how well the blip plays with the rest of the tooling ecosystem at the company.
 3. Based on the results of the trial, the team as a whole will move to either adopt the blip, unlocking that blip to be used by the rest of the team
 
@@ -3036,7 +3036,7 @@ Compare that haphazard approach to deploying a standardized shipping container w
 
  The most common way you'll interact with containers is through a software system called Docker. Docker provides a declarative programming language that lets you describe, in a file called Dockerfile, how you want the system set up i.e., what programs need to be installed, what files go where, what dependencies need to exist. Then you build that file into a container image which provides a representation of the entire file system specified
 
-by your Dockerfile. at image can then be moved to and run on any other machine with a Docker-compatible container runtime, with the guarantee
+by your Dockerfile. That image can then be moved to and run on any other machine with a Docker-compatible container runtime, with the guarantee
 
 that it will start in an isolated environment with the exact same files and data, every time.
 
@@ -3062,7 +3062,7 @@ Many hosted registries will also provide vulnerability scanning and other securi
 
 Keep Image Sizes as Small as Possible
 
-Smaller Docker images upload faster from CI, download faster to application servers, and start up faster. The difference between uploading a 50MB image and a 5GB image, from an operational perspective, can be the difference between five seconds to start up a new application server and five minutes. at s five more minutes added to your time to deploy, Mean Time to Recovery/rollback, etc. It may not seem like much, but especially in a hotfix scenario, or when you're managing hundreds of application servers these delays add up and have real business impact.
+Smaller Docker images upload faster from CI, download faster to application servers, and start up faster. The difference between uploading a 50MB image and a 5GB image, from an operational perspective, can be the difference between five seconds to start up a new application server and five minutes. That s five more minutes added to your time to deploy, Mean Time to Recovery/rollback, etc. It may not seem like much, but especially in a hotfix scenario, or when you're managing hundreds of application servers these delays add up and have real business impact.
 
 Dockerfile Best Practices![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.105.png)
 
@@ -3118,7 +3118,7 @@ IaC. The leading one is HashiCorp s Terraform. Terraform uses HashiCorp Config L
 
 **CONTINUOUS INTEGRATION![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.107.png)**
 
-Continuous Integration is the process of automating the incorporation of new code into a project. at may include running static analysis on new code, running tests, building the code, and generating any required build artifacts (such as container images). Most startups use hosted CI platforms such as GitLab runners, GitHub actions, Bitbucket pipelines, Jenkins, or CircleCI to do continuous integration activities.
+Continuous Integration is the process of automating the incorporation of new code into a project. That may include running static analysis on new code, running tests, building the code, and generating any required build artifacts (such as container images). Most startups use hosted CI platforms such as GitLab runners, GitHub actions, Bitbucket pipelines, Jenkins, or CircleCI to do continuous integration activities.
 
 Some best practices for CI:
 
@@ -3162,7 +3162,7 @@ of code. Smaller code changes are easier for other developers to review. Smaller
 
 An automated release process tends to also imply an improved ability to roll back changes or recover from an issue in production. is is also measured as Mean Time to Recovery (MTTR).
 
-In summary, automating releases means code goes out faster (reducing lead time*)*, means you can deploy more often (increasing deployment frequency), and improves MTTR. at s three of the four key DORA metrics (see page 208) with one initiative!
+In summary, automating releases means code goes out faster (reducing lead time*)*, means you can deploy more often (increasing deployment frequency), and improves MTTR. That s three of the four key DORA metrics (see page 208) with one initiative!
 
 In the companies I've worked with, either directly or in an advisory capacity, I've seen at least a dozen teams invest effort into either partially or fully moving to continuous deployment. It's not always a straightforward journey, it doesn t happen overnight, and often there are well-reasoned objections. Yet in every circumstance, when the team looks back on the time invested be it three weeks, three months, or two years later the difference is nothing short of transformational to the culture and overall output and velocity of the team by every metric.
 
@@ -3238,7 +3238,7 @@ Another reasonable strategy would be to decide exactly which elements of the bri
 
 Similarly, in software engineering testing, the goal isn't coverage for coverage s sake, but coverage that provides confidence that the software does what it is intended to do.
 
-Effective software testing is not always about 100 percent code coverage. The bar for a good software test suite is that it gives your team confidence that, when the build is green and all tests pass, the software is ready to be released to end users. at may mean 100 percent code coverage, or it may mean 30 percent code coverage. The exact number is up to you to determine and monitor, and that amount of effort may change over time if you find the tests are not providing the same confidence they once were (and, conversely, if you find you're overinvesting i.e., you're spending a lot of resources on a test suite, yet bugs are still making it out too often).
+Effective software testing is not always about 100 percent code coverage. The bar for a good software test suite is that it gives your team confidence that, when the build is green and all tests pass, the software is ready to be released to end users. That may mean 100 percent code coverage, or it may mean 30 percent code coverage. The exact number is up to you to determine and monitor, and that amount of effort may change over time if you find the tests are not providing the same confidence they once were (and, conversely, if you find you're overinvesting i.e., you're spending a lot of resources on a test suite, yet bugs are still making it out too often).
 
 
 **TESTING/QUALITY ASSURANCE TEAMS![ref11]**
@@ -3399,7 +3399,7 @@ Unspecialized manual testing is often referred to as crowdsourced testing. There
 
 Semi-automated testing is a relatively new category of software testing. ese tests are created by non-technical staff perhaps your specialized manual testing team and then run in either a completely automated or supervised environment.
 
-The major pitfall of these tests is reliability. Because they're created by non-technical staff, they may not be quite as precise as fully automated tests, making them more prone to false positives and false negatives. at said, this space is rapidly evolving with new companies and tools launching every year, such as Rainforest QA and Testim, with strategies to improve reliability and lower overall cost.
+The major pitfall of these tests is reliability. Because they're created by non-technical staff, they may not be quite as precise as fully automated tests, making them more prone to false positives and false negatives. That said, this space is rapidly evolving with new companies and tools launching every year, such as Rainforest QA and Testim, with strategies to improve reliability and lower overall cost.
 
 ## Source Control
 
@@ -3504,7 +3504,7 @@ Trunk-based development, and its slightly more sophisticated cousin, GitHub Flow
 
 in common is that there is a single branch whose name varies and doesn t matter much. Here we ll call it production. Production is always deployable. In fact, I recommend that you set up automation so every commit to production can actually be deployed to production. Work can then be done
 
-in feature branches off of production, reviewed in the feature branch, and merged when ready. at s it one long-lived branch and many short-lived (and ideally small) feature branches.
+in feature branches off of production, reviewed in the feature branch, and merged when ready. That s it one long-lived branch and many short-lived (and ideally small) feature branches.
 
 For this model to work well, you need a handful of prerequisites:
 
@@ -3586,7 +3586,7 @@ Any time there is a system issue that has measurable user impact, your team shou
 
 an RCA is to understand where your systems had a failure that allowed an impactful defect to make it to production and to end users.
 
-To be crystal clear, the root cause analysis *must not* be about identifying fault or assigning blame. at needs to be true in every part of the RCA process and embedded into the culture of your team. The RCA attacks systemic problems (not human errors) in your system that allow a failure to occur.
+To be crystal clear, the root cause analysis *must not* be about identifying fault or assigning blame. That needs to be true in every part of the RCA process and embedded into the culture of your team. The RCA attacks systemic problems (not human errors) in your system that allow a failure to occur.
 
 Without that safety and willingness for team members to be forthright with their feedback and documentation, you'll miss out on key opportunities to improve the system.
 
@@ -3616,7 +3616,7 @@ The RCA lead need not necessarily be the person who responded to the incident. T
 
 the systems involved and can ask insightful questions about where tools and processes failed and generate ideas for improvement.
 
-Note that we re not throwing anyone who made a human error under the bus. at person may be the RCA lead if they fit the prior criteria, but their error does not on its own make them the right person to lead the RCA. They should certainly contribute and take the opportunity to learn through the process. But again, they are not punished for their mistake as part of the process. Authoring an RCA is not a punishment; it's an important responsibility and element of system maintenance.
+Note that we re not throwing anyone who made a human error under the bus. That person may be the RCA lead if they fit the prior criteria, but their error does not on its own make them the right person to lead the RCA. They should certainly contribute and take the opportunity to learn through the process. But again, they are not punished for their mistake as part of the process. Authoring an RCA is not a punishment; it's an important responsibility and element of system maintenance.
 
 Scheduling RCA Remediation Work
 
@@ -3751,7 +3751,7 @@ sharing plans with a compliance department, and the earlier you incorporate thei
 
 # Conclusion: Measuring Success
 
-You've put together a great hiring process, the team is happy, you're running sprints like a pro, and your architecture is withstanding the growing demands of the business. at feels good, but how do you know if it's enough? How do we measure our own success and performance as a technical leader or CTO?
+You've put together a great hiring process, the team is happy, you're running sprints like a pro, and your architecture is withstanding the growing demands of the business. That feels good, but how do you know if it's enough? How do we measure our own success and performance as a technical leader or CTO?
 
 One way to look at defining greatness in this role might be from a CFO s perspective: how efficiently can a CTO deploy an R&D budget and convert that into engineering and product output?
 
