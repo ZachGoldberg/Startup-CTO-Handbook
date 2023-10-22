@@ -117,7 +117,7 @@ On the chosen day, having driven three hours from New York to Philadelphia, I sa
 
 Full of anticipation and ready to take instructions on how to polish my resume I took a sip of my coffee and asked him: how do I get into the dual degree program? The man I would soon come to know only as Max picked up a napkin and drew an X-Y axis on it, then looked me in the eye and asked me if I knew what special relativity was. I wish I had a video of that moment, as I imagine my face contorted into a rather amusing shape. Before I could finish my answer, Max was off to the races. For the next two hours he proceeded to introduce me to Einstein's theories. By the time we had finished, my brain was broken, and not once did we get to discuss anything about Penn's dual degree programs.
 
-We had several more coffees over the coming months, and any time I'd ask Max about an application or a resume, he d steer me right back into real science. Max wanted me to *learn* not just to absorb whatever topic he was lecturing about at the moment, but to get really good at learning, and learning hard things at that. Max couldn't care less what piece of paper his students were given at the end of their four years as long as each of them was prepared to continue learning for the rest of their lives.
+We had several more coffees over the coming months, and any time I'd ask Max about an application or a resume, he'd steer me right back into real science. Max wanted me to *learn* not just to absorb whatever topic he was lecturing about at the moment, but to get really good at learning, and learning hard things at that. Max couldn't care less what piece of paper his students were given at the end of their four years as long as each of them was prepared to continue learning for the rest of their lives.
 
 By the time I graduated college, Max had become a close friend and confidant, and he had fundamentally shaped the path of my education. Rather than give me fish, Max handed me a fishing pole and taught me how to attach bait and cast a line.
 
@@ -187,7 +187,7 @@ I've formatted this book as a collection of independent chapters covering a broa
 
 My goal in each chapter is not to provide an exhaustive discussion or review on the topic. Instead, the goal is to introduce the topic, provide an overview or a structure for thinking about it, offer some best practices, and suggest reference material to explore the subject more deeply. Think of this book as a breadth-first collection of topics related to technical leadership. It's up to the reader to determine which topics are most interesting to them, and, equipped with some context and perspective, do a deep dive on what's most relevant and put the knowledge into practice.
 
-At the end of the day this book is a synthesis of my personal experience and the resources I've found helpful, interspersed with advice and input from peers, mentors, and advisors. If there are things in this book you disagree with or believe are incorrect that you d like to let me know about, or if you find this book helpful and would like to communicate with me directly, feel free to reach out at zach@ctohb.com. I'm also happy to discuss advising, coaching, and mentorship opportunities at the same address.
+At the end of the day this book is a synthesis of my personal experience and the resources I've found helpful, interspersed with advice and input from peers, mentors, and advisors. If there are things in this book you disagree with or believe are incorrect that you'd like to let me know about, or if you find this book helpful and would like to communicate with me directly, feel free to reach out at zach@ctohb.com. I'm also happy to discuss advising, coaching, and mentorship opportunities at the same address.
 
 # Business Processes
 
@@ -460,7 +460,7 @@ This may seem blasphemous, or an overbearing and silly rule to try and enforce i
 
 Broadly speaking, there are three types of meetings: regularly scheduled informational meetings, conflict resolution meetings, and spontaneous/ ad-hoc meetings. Your job as a manager is to set expectations for attendees based on which type of meeting it is. For informational meetings, ask yourself if a meeting is really the best way to communicate the information; sometimes it is, but not always. If it is, make sure the information is communicated in multiple ways, maybe with written materials provided in advance in your company's wiki. If it's a conflict resolution meeting, make sure you've identified the discussion points in advance so participants can come prepared to discuss and work through the issue. Ad-hoc meetings likely have a clearly defined purpose upfront and need no further introduction.
 
-Regardless of the type of meeting, any meeting you set should have a clear objective that is known to invitees in advance. Ideally, everyone will have enough information before the meeting to know if it ll be valuable for them to attend. Just as importantly, your culture should empower people to make the decision not to attend if they judge it not a good use of their time.
+Regardless of the type of meeting, any meeting you set should have a clear objective that is known to invitees in advance. Ideally, everyone will have enough information before the meeting to know if it'll be valuable for them to attend. Just as importantly, your culture should empower people to make the decision not to attend if they judge it not a good use of their time.
 
 #### TIME MANAGEMENT
 
@@ -567,7 +567,7 @@ As the leader of your team, ultimately you are accountable for achieving your te
 
 1. We'll go with my way because it's superior, and I'll explain why using the additional context I have as a result of being a manager with a broader scope of responsibility.
 
-1. We'll go with my way because we can't identify any objective reason why one way is better than another. In other words, it's a tie, and since ultimately I'm the accountable party for success here, we ll go with my approach. I will own the success or failure of this decision.
+1. We'll go with my way because we can't identify any objective reason why one way is better than another. In other words, it's a tie, and since ultimately I'm the accountable party for success here, we'll go with my approach. I will own the success or failure of this decision.
 
 #### Task Triage The Urgent/Important Matrix
 
@@ -672,7 +672,7 @@ You're likely a highly technical person. You probably enjoy your technical meeti
 
 My guidance is simple: do not let the technical shiny objects distract you or limit your investment in relationships with non-technical leaders. Your relationships with other leaders and your trust with your non-technical peers will give you credibility and enable you to guide the business to making good technical decisions as a whole. Building trust outside the technical team is built the same way any other trust relationship is built: great communication, regular expectation setting by making and meeting commitments, and owning up to mistakes/failures if and when they occur.
 
-The technical leader or CTO who spends all their time deep in code with engineering and barely participates in the leadership team will have little credibility when trying to convince the other C-levels to invest further in engineering. Or worse, they won't even be asked for their input when the time comes to make a hard call. Other leaders will not have the context to understand the value of what the tech team is asking for or the perspective on how engineering is operating at that moment, and they ll lack the shared vision for what it can be in the future. Only by regularly engaging with the rest of the leadership team, sharing that context, and being part of the conversation along the way can you, as the technical leader, ensure that the leadership team has a shared understanding of how engineering helps the organization and how it needs to grow over time.
+The technical leader or CTO who spends all their time deep in code with engineering and barely participates in the leadership team will have little credibility when trying to convince the other C-levels to invest further in engineering. Or worse, they won't even be asked for their input when the time comes to make a hard call. Other leaders will not have the context to understand the value of what the tech team is asking for or the perspective on how engineering is operating at that moment, and they'll lack the shared vision for what it can be in the future. Only by regularly engaging with the rest of the leadership team, sharing that context, and being part of the conversation along the way can you, as the technical leader, ensure that the leadership team has a shared understanding of how engineering helps the organization and how it needs to grow over time.
 
 
 ### Working With The CEO
@@ -838,7 +838,7 @@ As you design your interview process, you should focus on evaluations based on a
 
 It's all well and good if you, individually, are capable of hiring effectively. At some point, there will be more open roles than you can hire yourself, and you'll need to scale the process and bring in other people. To do so effectively, you must build a repeatable system that others can leverage to identify top talent and hire with the same efficacy and success rate as you.
 
-That means that somebody else will need to be able to conduct the same interviews and draw the same conclusions at the end of that process that you likely would have if you d conducted the interviews yourself.
+That means that somebody else will need to be able to conduct the same interviews and draw the same conclusions at the end of that process that you likely would have if you'd conducted the interviews yourself.
 
 The goal of the remainder of this section is to help you create a scalable system for interviewing and hiring that fits your organization's goals and can work seamlessly *without* your direct involvement (once you've taken the time to calibrate it). By defining and deploying this kind of structure, creating thoughtful documentation, and templating, you enable others to conduct interviews and produce candidate ranking scores that would closely mirror your own.
 
@@ -998,7 +998,7 @@ At the top of your intake form, you should outline several key pieces of informa
 
 The questionnaire should include a request for the candidate's resume (or LinkedIn profile URL), ask some questions required by legal and HR with respect to employment eligibility, and then ideally ask a few qualifying questions of the candidate. The qualifying questions should be light-touch, generally freeform, and possibly even technical questions to ensure the candidate is in the right ballpark for the role. For example, for a role that requires experience in JavaScript, it's not unreasonable to confirm that experience in the questionnaire with a question like, Rate your comfort level working with JavaScript on a scale from not comfortable to extremely comfortable.
 
-This may seem redundant to the requirements listed in the job description, and it is, though you d be surprised how many resumes will come through lacking basic qualifications. These questions are quick/trivial for the candidate to answer and just as quick for a hiring manager to use to filter out applicants.
+This may seem redundant to the requirements listed in the job description, and it is, though you'd be surprised how many resumes will come through lacking basic qualifications. These questions are quick/trivial for the candidate to answer and just as quick for a hiring manager to use to filter out applicants.
 
 If you're inundated with candidates and want to do a bit more filtering at this stage, the questionnaire can also include one or two more interesting or difficult questions. If you include these, be sure to still keep them brief; you don't want to lose candidates in this form because the questions were too arduous. If you're overwhelmed with applicants then bias towards more data to filter with here, otherwise maybe it's best to save more nuanced qualifications for further down the funnel.
 
@@ -1329,7 +1329,7 @@ If there is disagreement on whether the employee is being successful, that's a g
 It is the responsibility of the manager of the new employee to identify and document measurable milestones for any new role *before* the new employee starts. On Day 1 the manager should walk through the milestones with the new employee, collect feedback, and collaborate on those milestones to ensure they are fair and clearly measurable. For some roles, these milestones may be easy and clear, such as in a support role measuring escalation tickets with ticket throughput. For other roles you may need to get more creative, for example, features delivered or story points closed. Regardless of the milestones you choose, the scorecard should do the following:
 
 * Establish clear and transparent expectations between the manager and the new employee.
-* Provide guidance for the new employee on what they will do and how they ll be measured in their first ninety days.
+* Provide guidance for the new employee on what they will do and how they'll be measured in their first ninety days.
 * Provide obvious criteria for meeting or not meeting the expectations of their role.
 
 The scorecard doesn't have to be lengthy or highly nuanced. The key thing is that, whatever form it takes, after ninety days the employee and manager can look at the scorecard and agree on how the employee has performed and have a shared feeling of confidence on whether this is going to be a good long-term fit.
@@ -1373,7 +1373,7 @@ Person A is promoted and, as a result, Person B is surprised and feels skipped o
 
 Person X, having been at Level 4 for too long, feels exasperated and demoralized not knowing how to make it to Level 5 and get the associated raise.
 
-Your performance management system should give everyone clarity on exactly where they stand, what they need to improve upon (and how), when they ll be evaluated, and how those evaluations are considered for promotions and compensation adjustments.
+Your performance management system should give everyone clarity on exactly where they stand, what they need to improve upon (and how), when they'll be evaluated, and how those evaluations are considered for promotions and compensation adjustments.
 
 
 #### Competency Matrix and Leveling
@@ -1394,7 +1394,7 @@ Keep in mind that different roles should be evaluated for different contribution
 
 The details of the competency matrix impact every member of the team, so it stands to reason that the team should be included in specifying those details. Referring to the Team-Based Decisioning Models section of Mini Management Frameworks, page 33, this is definitely a job for either the straw man or the codevelopment model.
 
-I recommend the straw man model: Outline the key skills and impact areas you d like to see for any given role and take a stab at filling out most of the competency matrix. Then introduce the idea to your tech team and let them know you d like their input on how to flesh out that first draft. Set aside fixed time as a team and make it safe and encouraged to workshop the matrix together, perhaps using breakout groups to workshop individual categories.
+I recommend the straw man model: Outline the key skills and impact areas you'd like to see for any given role and take a stab at filling out most of the competency matrix. Then introduce the idea to your tech team and let them know you'd like their input on how to flesh out that first draft. Set aside fixed time as a team and make it safe and encouraged to workshop the matrix together, perhaps using breakout groups to workshop individual categories.
 
 Whatever structure you choose, make it explicit, provide at least a few hours of safeguarded time for working on it, and set a deadline by which to receive final feedback to incorporate and turn into a candidate final draft for the team.
 
@@ -1484,7 +1484,7 @@ It may make sense to include some higher-level/softer questions at the end:
 
 ##### Review Format
 
-You can conduct reviews with or without the aid of a formal review tool (also known as performance or culture management tools, like Culture Amp and 15Five). Of course, a purpose-built tool will save time and scale this process quickly for larger teams. It's crucial to keep all individual feedback anonymous, with the exception of noting which scores came from management (we ll use those scores separately as a sanity check against peer reviews later in the process).
+You can conduct reviews with or without the aid of a formal review tool (also known as performance or culture management tools, like Culture Amp and 15Five). Of course, a purpose-built tool will save time and scale this process quickly for larger teams. It's crucial to keep all individual feedback anonymous, with the exception of noting which scores came from management (we'll use those scores separately as a sanity check against peer reviews later in the process).
 
 ##### Result Calculation
 
@@ -1743,7 +1743,7 @@ In general, you'll find the two largest line items in a technical department are
 
 ### The Budget
 
-Most finance teams use sophisticated accounting and budgeting software to manage the company's books. If not, they ll have a company-wide spreadsheet that's far larger and more complex than you need as CTO. In my experience, finance departments are not usually willing to let people outside of finance make changes to the core budgeting system, so unless they give you something to start with, it's on you to make a financial model for your department.
+Most finance teams use sophisticated accounting and budgeting software to manage the company's books. If not, they'll have a company-wide spreadsheet that's far larger and more complex than you need as CTO. In my experience, finance departments are not usually willing to let people outside of finance make changes to the core budgeting system, so unless they give you something to start with, it's on you to make a financial model for your department.
 
 Given that your department's costs are fairly predictable, and centralized in a few line items, the model you make doesn't have to be very sophisticated. My recommendation is that you maintain a spreadsheet that includes the following:
 
@@ -1810,7 +1810,7 @@ In general, the responsibility for sourcing, negotiating with, and managing thir
 
 #### Self-Service Signup Tools
 
-Typically, either you or a member of your engineering team will highlight a need for a type of tool, and if it's one of your engineers or managers they ll ask either for you to approve the expenditure or for you to sign up for the tool. Many tools are inconsequential in cost and have trivial self-service signup flows. I recommend you work with your budget and finance team and set a threshold below which your managers are authorized to simply sign up for the tool independently. For tools that are above the cost threshold or don't have self-service signup, you'll need to enter into a discovery and negotiation process with an enterprise vendor, which typically has four steps.
+Typically, either you or a member of your engineering team will highlight a need for a type of tool, and if it's one of your engineers or managers they'll ask either for you to approve the expenditure or for you to sign up for the tool. Many tools are inconsequential in cost and have trivial self-service signup flows. I recommend you work with your budget and finance team and set a threshold below which your managers are authorized to simply sign up for the tool independently. For tools that are above the cost threshold or don't have self-service signup, you'll need to enter into a discovery and negotiation process with an enterprise vendor, which typically has four steps.
 
 #### Enterprise Tooling
 
@@ -1824,11 +1824,11 @@ Most SaaS sales companies will have frontline sales representatives take the ini
 
 ##### Negotiation
 
-Once the vendor has validated that you fit the mold of their target customer, they ll schedule a second meeting with more senior resources on their side. Typically, this would be a sales manager or perhaps a technical sales representative. This is the stage at which you'll start to get answers to more of the technical questions you have about the solution, and you'll get some transparency into the pricing models the vendor is authorized to use.
+Once the vendor has validated that you fit the mold of their target customer, they'll schedule a second meeting with more senior resources on their side. Typically, this would be a sales manager or perhaps a technical sales representative. This is the stage at which you'll start to get answers to more of the technical questions you have about the solution, and you'll get some transparency into the pricing models the vendor is authorized to use.
 
 Here are some general negotiating tips:
 
-* Keep in mind that, at the end of the day, a salesperson's job is to sell you the product, so you're on the same team when it comes to landing on terms that are mutually agreeable. The more transparent you can be about what matters to you, the better they ll be able to craft a sales agreement that meets those needs.
+* Keep in mind that, at the end of the day, a salesperson's job is to sell you the product, so you're on the same team when it comes to landing on terms that are mutually agreeable. The more transparent you can be about what matters to you, the better they'll be able to craft a sales agreement that meets those needs.
 
 * Don't undervalue factors other than total cost, such as total contract length (longer contracts should come with steep discounts), payment frequency, payment terms (e.g., net 30, net 90), or what happens to contracts in the event of a change in control of either company.
 
@@ -1843,11 +1843,11 @@ Here are some general negotiating tips:
 
 Once you've agreed on terms and exchanged paperwork, the next step is to find out who the authorized signers are for your company (assuming you're one of them), get the documentation signed, and keep it organized.
 
-Do not lose or misplace these contracts as they ll be useful for future negotiations or due diligence. Ensure you're tracking the costs in your budgets or with your SaaS management platform (SMP).
+Do not lose or misplace these contracts as they'll be useful for future negotiations or due diligence. Ensure you're tracking the costs in your budgets or with your SaaS management platform (SMP).
 
 ##### Post-Sales
 
-After the deal is signed you will likely be handed off to a different representative at your vendor, someone whose title is similar to either post-sales support or customer service manager (CSM). These individuals are incentivized by, measured by, and focused on customer retention or product upsells. They're knowledgeable about the product, and at least somewhat technical. Going forward, they ll serve as your advocate for new features and getting defects resolved.
+After the deal is signed you will likely be handed off to a different representative at your vendor, someone whose title is similar to either post-sales support or customer service manager (CSM). These individuals are incentivized by, measured by, and focused on customer retention or product upsells. They're knowledgeable about the product, and at least somewhat technical. Going forward, they'll serve as your advocate for new features and getting defects resolved.
 
 ## Which Type of Startup CTO Are You?
 
@@ -1981,7 +1981,7 @@ Here's a sample strategy for delivering high-velocity engineering:
 
 **Diagnosis:** We have an opportunity to minimize complexity and move quickly. Since we don't yet have product market fit, the value of what we ve built so far is minimal, so we need to ignore sunk cost and opt for fast rewrites while we re still unsure what our product will look like long term.
 
-**Action plan:** We will focus on hiring software engineering generalists, reinforce a culture of curiosity and scrappiness, leave ego at the door, and invest only a modest amount of effort into long-term technical planning. Instead, for now, we ll focus on our ability to ship MVP product experiments to the market.
+**Action plan:** We will focus on hiring software engineering generalists, reinforce a culture of curiosity and scrappiness, leave ego at the door, and invest only a modest amount of effort into long-term technical planning. Instead, for now, we'll focus on our ability to ship MVP product experiments to the market.
 
 *7. Participate In Continuous Education And Technology Conferences*
 
@@ -2790,7 +2790,7 @@ Having thorough, clear, and current documentation for your API is just as critic
 
  Easily read and navigated by other engineers
 
-it's always a good idea to build your API using a system that includes API documentation generation. Doing otherwise means it ll be practically impossible to meet all of these goals on a consistent basis. If you're building
+it's always a good idea to build your API using a system that includes API documentation generation. Doing otherwise means it'll be practically impossible to meet all of these goals on a consistent basis. If you're building
 
 a REST API, I strongly encourage you to design your API using OpenAPI (a YAML or JSON document that describes your API). In most languages there are SDKs to consume an OpenAPI spec and automatically generate controllers/routes to match the spec and/or generate a test harness to ensure the implemented API matches the spec. In addition, there are online tools, such
 
@@ -3170,7 +3170,7 @@ In the companies I've worked with, either directly or in an advisory capacity, I
 
 A feature branch environment is a hosted environment and set of infrastructure that is available internally to your company, running the code from a specific branch. Feature branch environments are incredibly useful for validating that code works in a production-like setting and for enabling team members
 
-at your company to use or test changes without having to build and run code themselves. Do not underestimate human laziness; every extra step it takes somebody to test and validate your code means that they ll do the testing that much less often. Checking out code, installing dependencies, and starting servers is significantly more work than going to an automatically generated feature branch URL, and thus the feature branch will get used far more.
+at your company to use or test changes without having to build and run code themselves. Do not underestimate human laziness; every extra step it takes somebody to test and validate your code means that they'll do the testing that much less often. Checking out code, installing dependencies, and starting servers is significantly more work than going to an automatically generated feature branch URL, and thus the feature branch will get used far more.
 
 Feature branch environments also solve the contention problem encountered by teams that have only a single staging environment. I advocate giving every branch its own staging environment.
 
@@ -3283,7 +3283,7 @@ They are also the happy path that consumers of the software will actually experi
 
 Tests on public interfaces should therefore change little over time and also provide confidence that the parts of the code that matter are working correctly.
 
-The public interface for your software may vary from project to project. For many projects, it ll be an actual HTTP-based API; for some, it ll be a set of functions/classes in a library or internal service. For other projects it may be a user interface.
+The public interface for your software may vary from project to project. For many projects, it'll be an actual HTTP-based API; for some, it'll be a set of functions/classes in a library or internal service. For other projects it may be a user interface.
 
 **TESTING TYPE COMPARISON![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.115.png)**
 
@@ -3329,7 +3329,7 @@ TABLE: 5 TESTING TYPE PARADIGMS
 
 **UNIT TESTS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.117.png)**
 
-Unit testing is often the first thing that comes to mind when somebody talks about software testing. It's widely what's taught in school and included in textbooks, and it usually gets the most effort in the real world. Given all this, you d think unit tests were the best type of test, though I'd argue that's not always the case. Let's begin by clearly defining unit tests so as to differentiate them from other testing paradigms.
+Unit testing is often the first thing that comes to mind when somebody talks about software testing. It's widely what's taught in school and included in textbooks, and it usually gets the most effort in the real world. Given all this, you'd think unit tests were the best type of test, though I'd argue that's not always the case. Let's begin by clearly defining unit tests so as to differentiate them from other testing paradigms.
 
 Unit tests run entirely in memory on a machine, in a shared memory space with the code under evaluation, without requiring any network connectivity or dependency on external services. Most unit tests are very fast
 
@@ -3403,7 +3403,7 @@ The major pitfall of these tests is reliability. Because they're created by non-
 
 ## Source Control
 
-The industry standard used by the vast majority of companies for managing source control is Git. There would need to be a very compelling reason for your organization to use anything else; most of your current and future team members will arrive already knowing the basics of Git. By not using it, you d likely be inflicting an unnecessary learning curve on them by forcing them to learn your chosen alternative.
+The industry standard used by the vast majority of companies for managing source control is Git. There would need to be a very compelling reason for your organization to use anything else; most of your current and future team members will arrive already knowing the basics of Git. By not using it, you'd likely be inflicting an unnecessary learning curve on them by forcing them to learn your chosen alternative.
 
  There are three main cloud Git hosting platforms: GitLab, GitHub, and Bitbucket. These three have the lion's share of the market and, again, you should think carefully before deviating from these standards.
 
@@ -3488,7 +3488,7 @@ Although I believe this system improves overall team efficiency, I concede that 
 
 **BRANCHING MODELS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.124.png)**
 
- There are many ways to deal with source control branching, though the industry as a whole is building momentum around the concept of trunk- based development. As this seems to be the most effective and commonly used pattern at this time, it's what we ll discuss here. If you're seriously considering a different pattern, you'll find plentiful resources online discussing methodologies and best practices for alternative approaches.
+ There are many ways to deal with source control branching, though the industry as a whole is building momentum around the concept of trunk- based development. As this seems to be the most effective and commonly used pattern at this time, it's what we'll discuss here. If you're seriously considering a different pattern, you'll find plentiful resources online discussing methodologies and best practices for alternative approaches.
 
  There are many blog posts with helpful graphics covering git branching models, such as this one from Reviewpad: ctohb.com/branching. If the following description doesn't make sense to you, I urge you to consult any of these posts and their associated visuals.
 
@@ -3502,7 +3502,7 @@ of favor and is no longer considered best practice.
 
 Trunk-based development, and its slightly more sophisticated cousin, GitHub Flow, are models of managing source code that aim to minimize the number and duration of branches. The exact implementation of GitHub Flow and trunk-based development will vary, but what they have
 
-in common is that there is a single branch whose name varies and doesn't matter much. Here we ll call it production. Production is always deployable. In fact, I recommend that you set up automation so every commit to production can actually be deployed to production. Work can then be done
+in common is that there is a single branch whose name varies and doesn't matter much. Here we'll call it production. Production is always deployable. In fact, I recommend that you set up automation so every commit to production can actually be deployed to production. Work can then be done
 
 in feature branches off of production, reviewed in the feature branch, and merged when ready. That's it one long-lived branch and many short-lived (and ideally small) feature branches.
 
@@ -3630,7 +3630,7 @@ on productive feature work and delivering consistent high velocity.
 
 The level of effort for many remedial issues is likely to vary widely. Some
 
-typical tickets might be add more logging or change a setting in our CI provider to ensure PRs with failing builds cannot be merged. These types of trivial tickets cost more to maintain and groom in a backlog than they d take just to do in the moment, so just do them. The chances they are the wrong thing to do are pretty low, and if negative consequences result, they can be easily reversed.
+typical tickets might be add more logging or change a setting in our CI provider to ensure PRs with failing builds cannot be merged. These types of trivial tickets cost more to maintain and groom in a backlog than they'd take just to do in the moment, so just do them. The chances they are the wrong thing to do are pretty low, and if negative consequences result, they can be easily reversed.
 
  For high-effort remediation steps, I encourage you to triage those and
 
