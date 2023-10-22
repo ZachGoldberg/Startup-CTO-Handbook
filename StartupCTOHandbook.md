@@ -217,7 +217,7 @@ In that one succinct paragraph, Lopp hits on all the key points of management. F
 
 ### The Professional Skill Tree
 
-Many video games involve a concept of a skill tree. For those unfamiliar, a skill tree is a sequence of skills or abilities that are unlocked as the player progresses through the game. Each skill is unlocked by spending skill points. Here s the rub: at any given time, there are more skills to unlock than you have skill points to spend. The skill tree forces you to choose some skills before others. The skill tree provides a reasonable model for your career as well. At any given job, you're likely accumulating skill points toward some skills and not others.
+Many video games involve a concept of a skill tree. For those unfamiliar, a skill tree is a sequence of skills or abilities that are unlocked as the player progresses through the game. Each skill is unlocked by spending skill points. Here's the rub: at any given time, there are more skills to unlock than you have skill points to spend. The skill tree forces you to choose some skills before others. The skill tree provides a reasonable model for your career as well. At any given job, you're likely accumulating skill points toward some skills and not others.
 
 In your journey to tech leadership, you've already invested many skill points into the technical/engineering branch of the skill tree. My key insight for you is that the management branch of the skill tree is equally vast, and if you've not been investing points in that area up to now even if you're a Level
 
@@ -277,7 +277,7 @@ Some quick thoughts for agendas of skip-level meetings:
 
 * Connect with the employee; ask questions and get curious.
 
-* There are many good actual templates/agendas for skip-levels on the internet. Here s one from managementcenter.org that I recommend: ctohb. com/skip.
+* There are many good actual templates/agendas for skip-levels on the internet. Here's one from managementcenter.org that I recommend: ctohb.com/skip.
 
 ### COACHING MANAGERS
 
@@ -1502,7 +1502,7 @@ The challenge now is how to aggregate those scores into a final job level calcul
 
 * Decide whether all categories in the matrix are weighted equally or unequally.
 
-Here s the method I recommend to determine a level: Assign the level at which the Cumulative Score is 66 percent or higher. The cumulative score for a given level is the percent of all scores that are at that level or higher. The lowest level will always have a cumulative score of 100 percent, Level 2 will be 100 percent minus the percentage of votes from Level 1. Level 3 is 100 percent minus the percentage from Level 2 and Level 1, and so on.
+Here's the method I recommend to determine a level: Assign the level at which the Cumulative Score is 66 percent or higher. The cumulative score for a given level is the percent of all scores that are at that level or higher. The lowest level will always have a cumulative score of 100 percent, Level 2 will be 100 percent minus the percentage of votes from Level 1. Level 3 is 100 percent minus the percentage from Level 2 and Level 1, and so on.
 
 In the example above, the individual would be a Level 2. At Level 2, their cumulative score is 90 percent. Using the 66 percent rule, they are very close to a Level 3 (which is at 60 percent) a mere two votes away. That they are so close can be used in coaching to encourage further improvement before promotion, or used to justify an adjustment within a pay band.
 
