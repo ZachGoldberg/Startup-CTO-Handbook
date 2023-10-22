@@ -659,7 +659,7 @@ Questions:
 
 After you've had some form of technical leadership on your rØsumØ for a while, you'll likely start to get friends, or friends of friends, reaching out for advice. For the most part, I recommend taking these phone calls, not only because the networking is valuable, but because the questions you are asked may force you to think through and put words to ideas you're subconsciously working on. They say teaching others is the best way to really learn something yourself.
 
-A quick note on advising non-technical founders: you're likely to get approached from time to time by somebody with a self-pro claimed billion-dollar idea. It costs very little to take these calls ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.024.png)and can be a great way to build some social/relationship capital. Be mindful however that brilliant ideas don't themselves make successful businesses. Between every great idea and success is a gigantic mountain of execution, and most climbers are not equipped to summit Everest. So be very careful about making commitments to someone with a good idea and no climbing gear.
+A quick note on advising non-technical founders: you're likely to get approached from time to time by somebody with a self-pro claimed billion-dollar idea. It costs very little to take these calls and can be a great way to build some social/relationship capital. Be mindful however that brilliant ideas don't themselves make successful businesses. Between every great idea and success is a gigantic mountain of execution, and most climbers are not equipped to summit Everest. So be very careful about making commitments to someone with a good idea and no climbing gear.
 
 #### Traffic: Funnels and Umbrellas
 
@@ -1112,7 +1112,7 @@ As a manager, your aim is to get the best out of the people you work with. With 
 
 Candidates are more likely to complete your take-home coding assignment if they find it interesting and easy to get started. The best assignments are topically related to your business and ideally expose the candidate to the kind of problems your company actually faces on a daily basis.
 
-**Bad example:** You're a web SaaS platform, and you assign a can![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.044.png)didate to do a challenge related to mobile phone development.
+**Bad example:** You're a web SaaS platform, and you assign a candidate to do a challenge related to mobile phone development.
 
 **Good example:** Your company integrates with many legacy third-party APIs, and your challenge is to build a limited integration with a Sandbox API with similar domain nouns/verbs to the real business.
 
@@ -2976,7 +2976,7 @@ You should also set up your DNS records using Infrastructure as Code (IaC). I've
 
 A better solution is to set up DNS with Terraform (which has integrations with all the major DNS providers) and then manage DNS records with source control, empowering individual developers to add new records in a responsible way that isn't gated on any one individual.
 
-Decoupling Shipping Code from ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.111.png)Shipping Features (Feature Toggles)
+### Decoupling Shipping Code from Shipping Features (Feature Toggles)
 
 At a high level, a feature toggle is a switch that allows you to change system behavior without changing the actual code. I strongly advocate using feature toggles, in particular because they allow your team to have separate processes and timelines for shipping code and shipping features. Pete Hodgson has a wonderful, in-depth explanation of feature toggles at ctohb.com/hodgson.
 
@@ -3003,11 +3003,11 @@ Similarly, in software engineering testing, the goal isn't coverage for coverage
 Effective software testing is not always about 100 percent code coverage. The bar for a good software test suite is that it gives your team confidence that, when the build is green and all tests pass, the software is ready to be released to end users. That may mean 100 percent code coverage, or it may mean 30 percent code coverage. The exact number is up to you to determine and monitor, and that amount of effort may change over time if you find the tests are not providing the same confidence they once were (and, conversely, if you find you're overinvesting i.e., you're spending a lot of resources on a test suite, yet bugs are still making it out too often).
 
 
-**TESTING/QUALITY ASSURANCE TEAMS![ref11]**
+### Testing/Quality Assurance Teams
 
 Depending on the size of your team, you'll either have no dedicated test team, one test team working on one or many types of tests, or many test teams working on various kinds of software testing. No matter who is doing the test it's important to recognize that software testing is a complicated process, and nuance matters. To test software effectively, the tester, whether they wrote the code or it was thrown over the fence to them, has to deeply understand what the code/software should be doing. Your role is to set up your teams so that they can empathize with each other. To do this, ensure that the teams share goals/KPIs, that your process has robust and continuous communication between the developer and tester, and monitor that the teams have a healthy, productive relationship.
 
-**TEST QUALITY![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.113.png)**
+### Test Quality
 
 Before jumping into the nuts and bolts of the different software testing paradigms, it's worth thinking about what the purpose of software testing is, and thus what makes a good test, and conversely what makes a bad test.
 
@@ -3037,7 +3037,7 @@ With that picture in mind, it's relatively easy to see by contrast what attribut
 
 One of the best ways to evaluate your testing approach is also the most obvious: ask how your team feels about the tests with a simple sentiment analysis. The results tend to be very binary either tests are a source of security that teams rely on, and naturally augment them because they obviously are a net value-add; or teams passively, or even actively, hate their tests because they're a drain on productivity with not enough obvious value.
 
-**WHAT TO TEST![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.114.png)**
+### What To Test
 
 Your team should be adding testing in ways that boost confidence that the system works correctly while minimizing the additional burden of maintaining those tests long term in the face of organic system growth. A general pattern to minimize this pain is to test the public interface. Public interfaces should be well thought out and comparably stable over time.
 
@@ -3047,117 +3047,80 @@ Tests on public interfaces should therefore change little over time and also pro
 
 The public interface for your software may vary from project to project. For many projects, it'll be an actual HTTP-based API; for some, it'll be a set of functions/classes in a library or internal service. For other projects it may be a user interface.
 
-**TESTING TYPE COMPARISON![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.115.png)**
+### Testing Type Comparison
 
 Software testing can be broken down into the following categories/ paradigms:
 
- Unit testing
-
- Integration testing
-
- End-to-end testing
-
- Manual testing
-
- Semi-automated testing
+* Unit testing
+* Integration testing
+* End-to-end testing
+* Manual testing
+* Semi-automated testing
 
 The attributes that differentiate these types of testing are as follows:
 
- **Code planning:** How much forethought is required in the actual writ -
+**Code planning:** How much forethought is required in the actual writing of the code to ensure it's testable under this test paradigm.
 
-ing of the code to ensure it's testable under this test paradigm.
+**Test scope:** How much each test can evaluate at once.
 
- **Test scope:** How much each test can evaluate at once.
+**Change granularity detection:** What size of, or type of, code change a test is likely to detect and cause a failure.
 
- **Change granularity detection:** What size of, or type of, code change a
+**Run cost:** How quickly or how costly it is to run the tests, in time or in dollars.
 
-test is likely to detect and cause a failure.
+**Addition effort:** How much effort is required to add additional coverage.
 
- **Run cost:** How quickly or how costly it is to run the tests, in time or in
-
-dollars.
-
- **Addition effort:** How much effort is required to add additional
-
-coverage.
-
- **Setup effort:** How much effort is necessary to set up an effective test suite.
+**Setup effort:** How much effort is necessary to set up an effective test suite.
 
 The following chart summarizes how the five paradigms map to these metrics. Note that there is no one perfect test paradigm; each has tradeoffs, and I encourage you to think carefully about which tradeoffs make sense for your company and codebase. The right answer is usually a blend of different test paradigms, using each type of test where it adds the most value in your application.
 
-TABLE: 5 TESTING TYPE PARADIGMS
+TODO: Insert the table from the book
 
-![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.116.jpeg)
 
-**UNIT TESTS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.117.png)**
+### Unit Tests
 
 Unit testing is often the first thing that comes to mind when somebody talks about software testing. It's widely what's taught in school and included in textbooks, and it usually gets the most effort in the real world. Given all this, you'd think unit tests were the best type of test, though I'd argue that's not always the case. Let's begin by clearly defining unit tests so as to differentiate them from other testing paradigms.
 
-Unit tests run entirely in memory on a machine, in a shared memory space with the code under evaluation, without requiring any network connectivity or dependency on external services. Most unit tests are very fast
+Unit tests run entirely in memory on a machine, in a shared memory space with the code under evaluation, without requiring any network connectivity or dependency on external services. Most unit tests are very fast to run, test very small amounts of code at a time, and are relatively easy to get started with. Unit tests are usually also tightly coupled to your code contracts and often require new code in the form of mocks to enable code- under-test to execute without normally available external dependencies.
 
-to run, test very small amounts of code at a time, and are relatively easy to get started with. Unit tests are usually also tightly coupled to your code contracts and often require new code in the form of mocks to enable code- under-test to execute without normally available external dependencies.
+The key tradeoff made by unit tests and their primary downside is that they are tightly coupled to the code under test. It's altogether too easy to have unit tests be deeply intertwined with actual function calls and internal data objects. is deep dependency means any refactor of the code even simple and benign changes will require considerable unit test updates as well. The creation of mocks and test data fixtures often also requires a considerable amount of code to create and maintain to allow unit tests to run, adding unexpected cost to the unit testing framework.
 
-The key tradeoff made by unit tests and their primary downside is that they are tightly coupled to the code under test. It's altogether too easy to have unit tests be deeply intertwined with actual function calls and internal data objects. is deep dependency means any refactor of the code even simple and benign changes will require considerable unit test updates as
+### Integration Tests
 
-well. The creation of mocks and test data fixtures often also requires a considerable amount of code to create and maintain to allow unit tests to run, adding unexpected cost to the unit testing framework.
-
-**INTEGRATION TESTS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.118.png)**
-
-An integration test relaxes the in-memory and zero-dependency constraints
-
-of unit tests. As a result, integration tests tend to run slower and integrate with code-under-test at a higher level. When they run in a different process from code under test, they're usually exercising an externally exposed contract, such as an API. is means that internal refactors that don't change
-
-API behavior tend to go unnoticed by an integration test, making these tests overall less brittle but also less likely to detect smaller side effects.
+An integration test relaxes the in-memory and zero-dependency constraints of unit tests. As a result, integration tests tend to run slower and integrate with code-under-test at a higher level. When they run in a different process from code under test, they're usually exercising an externally exposed contract, such as an API. is means that internal refactors that don't change API behavior tend to go unnoticed by an integration test, making these tests overall less brittle but also less likely to detect smaller side effects.
 
 In addition, integration tests require the creation of fewer or no mocks and, as a result, can be less code to implement.
 
-**END-TO-END TESTS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.119.png)**
+### End-To-End Tests
 
-An end-to-end (e2e) test exercises code in the same manner as the end user. For backend code, end-to-end tests and integration tests may function in the same way, running code via an external contract. For user-facing frontend code, an end-to-end test usually involves mechanizing the client interface, often a web browser or mobile phone. I would not encourage any tech leader to write their own client mechanizing code this is
-
-a particularly gnarly problem that downloadable tools like Selenium, Cypress, and Puppeteer can take off your hands. For mobile, there are tools like HeadSpin and Detox.
+An end-to-end (e2e) test exercises code in the same manner as the end user. For backend code, end-to-end tests and integration tests may function in the same way, running code via an external contract. For user-facing frontend code, an end-to-end test usually involves mechanizing the client interface, often a web browser or mobile phone. I would not encourage any tech leader to write their own client mechanizing code this is a particularly gnarly problem that downloadable tools like Selenium, Cypress, and Puppeteer can take off your hands. For mobile, there are tools like HeadSpin and Detox.
 
 The key tradeoff of end-to-end tests, in the real world, is reliability. At least at the time of writing, reliable web end-to-end tests are still somewhat elusive; the nature of how the browser renders means race conditions occur very easily by accident. Building a reliable web end-to-end test suite requires considerable care, attention to detail, and maintenance.
 
-The payoff, though, is not insubstantial, as it's possible to create very high test coverage and very high confidence in functionality of user-facing
+The payoff, though, is not insubstantial, as it's possible to create very high test coverage and very high confidence in functionality of user-facing flows with e2e test suites. There are several companies, including testim.io and rainforestqa.com, that are exploring using AI and ML to solve this problem. These solutions deploy fuzzy visual testing instead of relying on the presence or absence of CSS selectors, for example, to try and improve test reliability. Hopefully by the time you read this, the state of the art will have advanced a bit further, and the value proposition of end-to-end tests will be even stronger than at the time of this writing.
 
-flows with e2e test suites. There are several companies, including testim.
-
-io and rainforestqa.com, that are exploring using AI and ML to solve this problem. These solutions deploy fuzzy visual testing instead of relying on the presence or absence of CSS selectors, for example, to try and improve test reliability. Hopefully by the time you read this, the state of the art will have advanced a bit further, and the value proposition of end-to-end tests will be even stronger than at the time of this writing.
-
-VISUAL REGRESSION TESTING
+#### Visual Regression Testing
 
 Visual regression testing is a relatively new paradigm that aims to detect defects in user-facing applications by performing deltas on rendered visuals. There are frameworks that do that at various levels of granularity, ranging from capturing screenshots of entire pages to rendering individual components, and producing deltas to detect defects. The obvious drawback is that every intentional change to any visual tested component will require a change to a test.
 
-Fortunately, these test frameworks often make it simple and painless
+Fortunately, these test frameworks often make it simple and painless to reproduce the set of correct visuals for comparison, which opens up another pitfall: with easy tooling to overwrite the testing target, it becomes very easy to produce false negatives, accidentally accepting a visual delta that is, in fact, erroneous.
 
-to reproduce the set of correct visuals for comparison, which opens up another pitfall: with easy tooling to overwrite the testing target, it becomes very easy to produce false negatives, accidentally accepting a visual delta that is, in fact, erroneous.
-
-**MANUAL TESTING![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.120.png)**
+#### Manual Testing
 
 Manual testing, as the name implies, is run by humans and not machine code. For humans testing code, we can further subdivide this category into specialized and unspecialized testers.
 
-SPECIALIZED MANUAL TESTING
+#### Specialized Manual Testing
 
-Specialized manual testing is an in-house manual testing team. Beyond the traditional benefits of an in-house team, such as aligned incentives and a long-term working relationship, the value of being in-house is that the team can build expertise in your product and deeply understand your users. is allows the team to identify defects that an untrained or unfamiliar tester would miss. A high-quality testing team can not only serve as
-
-a resource for catching software defects but also contribute valuable feedback on a product level, identifying inconsistencies in design, and asking provocative questions about how or why something works the way it does.
+Specialized manual testing is an in-house manual testing team. Beyond the traditional benefits of an in-house team, such as aligned incentives and a long-term working relationship, the value of being in-house is that the team can build expertise in your product and deeply understand your users. is allows the team to identify defects that an untrained or unfamiliar tester would miss. A high-quality testing team can not only serve as a resource for catching software defects but also contribute valuable feedback on a product level, identifying inconsistencies in design, and asking provocative questions about how or why something works the way it does.
 
 A great in-house manual testing team can provide a huge improvement in overall software and product quality.
 
-Specialized manual testing teams should be creating detailed test plans
+Specialized manual testing teams should be creating detailed test plans for product functionality and storing those plans in an easy-to-retrieve/ repeat fashion, ideally with a tool like TestRail that allows creating full test suites of manual test plans which can be rerun by the team manually on demand. Another benefit of a tool like this is integration with other developer and product tools for example, linking a TestRail run to a Jira epic to show how many manual and regression tests were run for the release of a given feature. Not only is this valuable as a launch checklist item, but it also aids in retrospectives for any released defects, allowing you to revisit what manual tests were run before releasing any given feature, and adding additional manual tests to catch any defects that made it through.
 
-for product functionality and storing those plans in an easy-to-retrieve/ repeat fashion, ideally with a tool like TestRail that allows creating full test suites of manual test plans which can be rerun by the team manually on demand. Another benefit of a tool like this is integration with other developer and product tools for example, linking a TestRail run to a Jira epic
-
-to show how many manual and regression tests were run for the release of
-
-a given feature. Not only is this valuable as a launch checklist item, but it also aids in retrospectives for any released defects, allowing you to revisit what manual tests were run before releasing any given feature, and adding additional manual tests to catch any defects that made it through.
-
-UNSPECIALIZED MANUAL TESTING
+#### Unspecialized Manual Testing
 
 Unspecialized manual testing is often referred to as crowdsourced testing. There are several proprietary platforms for sourcing testers, such as Rainforest QA, Pay4Bugs, 99Tests, and Testlio. The pricing model for these platforms usually varies based on the number of validated bugs submitted. Depending on the nature of your product and the types of defects you're looking to optimize for, crowdsourced testing can be a very cost-effective and low-effort way to improve product quality.
 
-**SEMI-AUTOMATED TESTING![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.121.png)**
+### Semi-Automated Testing
 
 Semi-automated testing is a relatively new category of software testing. These tests are created by non-technical staff perhaps your specialized manual testing team and then run in either a completely automated or supervised environment.
 
@@ -3167,60 +3130,41 @@ The major pitfall of these tests is reliability. Because they're created by non-
 
 The industry standard used by the vast majority of companies for managing source control is Git. There would need to be a very compelling reason for your organization to use anything else; most of your current and future team members will arrive already knowing the basics of Git. By not using it, you'd likely be inflicting an unnecessary learning curve on them by forcing them to learn your chosen alternative.
 
- There are three main cloud Git hosting platforms: GitLab, GitHub, and Bitbucket. These three have the lion's share of the market and, again, you should think carefully before deviating from these standards.
+There are three main cloud Git hosting platforms: GitLab, GitHub, and Bitbucket. These three have the lion's share of the market and, again, you should think carefully before deviating from these standards.
 
-Git has an interestingly shaped learning curve. Most people reach a plateau where they operate with a rudimentary understanding that gets them by for most happy path testing scenarios. However, sometimes things
+Git has an interestingly shaped learning curve. Most people reach a plateau where they operate with a rudimentary understanding that gets them by for most happy path testing scenarios. However, sometimes things go wrong, and a developer loses a commit or makes a mess with a merge. When this happens, their failure to climb the rest of the Git learning curve will cause frustration and slowdown. I encourage you, as the team lead, to invest the effort to climb the back half of the curve. Use Git exclusively on the command line to become familiar with what is actually happening. Learn about the reflog, interactive rebases, bisect, and the various built-in merge strategies. Armed with this knowledge, you can bypass an entire class of productivity-draining problems and train your team to become Git experts as well.
 
-go wrong, and a developer loses a commit or makes a mess with a merge. When this happens, their failure to climb the rest of the Git learning curve will cause frustration and slowdown. I encourage you, as the team lead, to invest the effort to climb the back half of the curve. Use Git exclusively on the command line to become familiar with what is actually happening. Learn about the reflog, interactive rebases, bisect, and the various built-in merge strategies. Armed with this knowledge, you can bypass an entire class of productivity-draining problems and train your team to become Git experts as well.
 
-241
-3\.5SOURCCEONTROL
+### Peer Review
 
-**PEER REVIEW![ref13]**
+In general, experts recommend implementing a robust peer review process for all code changes. (As I write this in early 2023, there is a growing movement challenging this recommendation, or at the least adding nuance to it, which I'll discuss in the next section.) Most peer review is done with what is called depending on your code hosting solution a pull request, code review, or merge request. Here are some suggestions for keeping code review productive and efficient:
 
-In general, experts recommend implementing a robust peer review process for all code changes. (As I write this in early 2023, there is a growing movement challenging this recommendation, or at the least adding nuance to it, which I'll discuss in the next section.) Most peer review is done with what is called depending on your code hosting solution a
+* Keep reviews small! Set a maximum size for code reviews, something like ten files and 200 lines. Anything else should be broken out into multiple stacked/incremental reviews. (A stacked review is a code review that is based on or dependent on a prior review. When completed, the reviews are merged sequentially to add up to a complete change.)
 
-pull request, code review, or merge request. Here are some suggestions for keeping code review productive and efficient:
+* Establish the goals for code review upfront with your team and bake them into your culture. Code review is not for style or petty semantics; that's what your auto code formatter/linter and static analysis are for. Code review's purpose is to ensure clarity, identify architectural concerns, flag defects and deviations from patterns, note edge cases, and guarantee adherence to business rules.
 
- Keep reviews small! Set a maximum size for code reviews, something like
+* Require the author to make the reviewer's job easy. Authors should include a description of the change, a link to relevant requirements and tickets, and a video walkthrough (using a tool like loom.com) of the code and the code working as intended.
 
-ten files and 200 lines. Anything else should be broken out into multiple stacked/incremental reviews. (A stacked review is a code review that is based on or dependent on a prior review. When completed, the reviews
+* Encourage the author of any given code review to do a self-review before asking others to review. A few well-placed comments from the author to guide readers can save a lot of time.
 
-are merged sequentially to add up to a complete change.)
+* Set aside dedicated review times/windows to minimize disruptions.
 
- Establish the goals for code review upfront with your team and bake
 
-them into your culture. Code review is not for style or petty semantics; that's what your auto code formatter/linter and static analysis are for. Code review's purpose is to ensure clarity, identify architectural concerns, flag defects and deviations from patterns, note edge cases, and guarantee adherence to business rules.
+### Ship, Show, Ask
 
- Require the author to make the reviewer's job easy. Authors should
-
-include a description of the change, a link to relevant requirements and tickets, and a video walkthrough (using a tool like loom.com) of the code and the code working as intended.
-
- Encourage the author of any given code review to do a self-review
-
-before asking others to review. A few well-placed comments from the author to guide readers can save a lot of time.
-
- Set aside dedicated review times/windows to minimize disruptions.
-
-.
-
-**SHIP, SHOW, ASK![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.123.png)**
-
-The common wisdom is that every code change should be reviewed by
-
-two people before being shipped to customers. As with everything, there are tradeoffs. Manual code review is not free, nor is it a guarantee of software quality. Given that manual code review comes at a cost, it's worth thinking about when that cost provides the highest return and using code review as a tool for the highest-ROI scenarios. is general idea was popularized by a 2021 blog post by Rouan Wilsenach titled Ship/Show/Ask (ctohb.com/ssa).
+The common wisdom is that every code change should be reviewed by two people before being shipped to customers. As with everything, there are tradeoffs. Manual code review is not free, nor is it a guarantee of software quality. Given that manual code review comes at a cost, it's worth thinking about when that cost provides the highest return and using code review as a tool for the highest-ROI scenarios. is general idea was popularized by a 2021 blog post by Rouan Wilsenach titled Ship/Show/Ask (ctohb.com/ssa).
 
 Let's examine the cost of code review. A code review requires two people call them the Author and the Reviewer to experience a number of context switches. A common asynchronous code pattern might be as follows:
 
- **Context Switch #1:** Author stops coding on Project 1, sets up code review, and tags Reviewer. Author starts working on Project 2.
+**Context Switch #1:** Author stops coding on Project 1, sets up code review, and tags Reviewer. Author starts working on Project 2.
 
- **Context Switch #2:** Reviewer gets a notification, stops their work on Project 3, and begins review of Project 1. Reviewer leaves feedback for Author, resumes work on Project 3.
+**Context Switch #2:** Reviewer gets a notification, stops their work on Project 3, and begins review of Project 1. Reviewer leaves feedback for Author, resumes work on Project 3.
 
- **Context Switch #3:** Author is notified of feedback on Project 1, stops work on Project 2, and addresses comments from Reviewer. Then Author resumes work on Project 2.
+**Context Switch #3:** Author is notified of feedback on Project 1, stops work on Project 2, and addresses comments from Reviewer. Then Author resumes work on Project 2.
 
- **Context Switch #4:** Reviewer stops work on Project 3 and best-case scenario Reviewer is now satisfied with changes in Project 1 and approves the code review. Reviewer resumes work on Project 3. Worst case, Author and Reviewer must repeat Context Switches #3 and #4 several times.
+**Context Switch #4:** Reviewer stops work on Project 3 and best-case scenario Reviewer is now satisfied with changes in Project 1 and approves the code review. Reviewer resumes work on Project 3. Worst case, Author and Reviewer must repeat Context Switches #3 and #4 several times.
 
- **Context Switch #5:** Author is notified of approval, stops work on Project 2, merges Project 1, then resumes work on Project 2.
+**Context Switch #5:** Author is notified of approval, stops work on Project 2, merges Project 1, then resumes work on Project 2.
 
 There are ways to minimize these context switches, but they too involve tradeoffs. A common alternative is to do all code reviews as a synchronous pair programming exercise; however, that strategy trades context switches for synchronous meeting time, which is still a drag on productivity. No matter how you slice it, human code review is expensive.
 
@@ -3248,99 +3192,61 @@ My suggested alternative is to classify types of work by their level of risk, an
 
 Although I believe this system improves overall team efficiency, I concede that it's not an option for everyone. Many compliance regimes (such as PCI or SOC 2) require a policy of 100 percent human code review. The best you can do in that scenario is comply and perhaps carve out products or feature areas that are not governed by the compliance framework to experiment with a more nuanced and efficient process.
 
-**BRANCHING MODELS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.124.png)**
+### Branching Models
 
- There are many ways to deal with source control branching, though the industry as a whole is building momentum around the concept of trunk- based development. As this seems to be the most effective and commonly used pattern at this time, it's what we'll discuss here. If you're seriously considering a different pattern, you'll find plentiful resources online discussing methodologies and best practices for alternative approaches.
+There are many ways to deal with source control branching, though the industry as a whole is building momentum around the concept of trunk- based development. As this seems to be the most effective and commonly used pattern at this time, it's what we'll discuss here. If you're seriously considering a different pattern, you'll find plentiful resources online discussing methodologies and best practices for alternative approaches.
 
- There are many blog posts with helpful graphics covering git branching models, such as this one from Reviewpad: ctohb.com/branching. If the following description doesn't make sense to you, I urge you to consult any of these posts and their associated visuals.
+There are many blog posts with helpful graphics covering git branching models, such as this one from Reviewpad: ctohb.com/branching. If the following description doesn't make sense to you, I urge you to consult any of these posts and their associated visuals.
 
-In a traditional branching model sometimes referred to as GitFlow there are two long-lived branches, a main and a develop branch. Work
+In a traditional branching model sometimes referred to as GitFlow there are two long-lived branches, a main and a develop branch. Work is done based on develop in feature branches and then is often forked to another release branch for any given release, and then finally back merged to main. Hotfixes are then done off of main while further development is done off of develop. is system involves no less than four branches for every change to get to production, and involves maintaining many branches simultaneously. For these reasons and others, GitFlow has largely fallen out of favor and is no longer considered best practice.
 
-is done based on develop in feature branches and then is often forked to another release branch for any given release, and then finally back merged
-
-to main. Hotfixes are then done off of main while further development is done off of develop. is system involves no less than four branches for every change to get to production, and involves maintaining many branches simultaneously. For these reasons and others, GitFlow has largely fallen out
-
-of favor and is no longer considered best practice.
-
-Trunk-based development, and its slightly more sophisticated cousin, GitHub Flow, are models of managing source code that aim to minimize the number and duration of branches. The exact implementation of GitHub Flow and trunk-based development will vary, but what they have
-
-in common is that there is a single branch whose name varies and doesn't matter much. Here we'll call it production. Production is always deployable. In fact, I recommend that you set up automation so every commit to production can actually be deployed to production. Work can then be done
-
-in feature branches off of production, reviewed in the feature branch, and merged when ready. That's it one long-lived branch and many short-lived (and ideally small) feature branches.
+Trunk-based development, and its slightly more sophisticated cousin, GitHub Flow, are models of managing source code that aim to minimize the number and duration of branches. The exact implementation of GitHub Flow and trunk-based development will vary, but what they have in common is that there is a single branch whose name varies and doesn't matter much. Here we'll call it production. Production is always deployable. In fact, I recommend that you set up automation so every commit to production can actually be deployed to production. Work can then be done in feature branches off of production, reviewed in the feature branch, and merged when ready. That's it one long-lived branch and many short-lived (and ideally small) feature branches.
 
 For this model to work well, you need a handful of prerequisites:
 
- Continuous Integration that runs a robust test suite to ensure that fea -
+* Continuous Integration that runs a robust test suite to ensure that feature branches are safe to merge.
 
-ture branches are safe to merge.
+* A culture and an implementation of using feature toggles so branches can be merged quickly and then features deployed/enabled at a later date when it makes sense for the business.
 
- A culture and an implementation of using feature toggles so branches
+* Robust monitoring of production to detect changes.
 
-can be merged quickly and then features deployed/enabled at a later date when it makes sense for the business.
+* The ability to rapidly deploy, with zero downtime, code changes to the production environment. Similarly, an ability to rapidly revert individual changes in response to an incident.
 
- Robust monitoring of production to detect changes.
+* A culture that is disciplined about small and short-lived feature branches. The GitHub Flow model loses its efficiency and simplicity if feature branches become large, long-lived and unwieldy. As discussed in the 3.3.5 Feature Branch Environments, small commits, small branches. and small pull requests are a key driver of productivity.
 
-The ability to rapidly deploy, with zero downtime, code changes to the
+### Long-Lived Vs. Short-Lived Branches
 
-production environment. Similarly, an ability to rapidly revert individual changes in response to an incident.
+The key to maintaining a smooth system of branches and merges with your team is to keep branches short-lived. Nearly all of the problems associated with code merging come from code branches being open too long or the branch containing too large a diff (ctohb.com/diffs). In general, a short-lived branch should be open just a few days, or two weeks at the absolute most.
 
- A culture that is disciplined about small and short-lived feature
-
-branches. The GitHub Flow model loses its efficiency and simplicity if feature branches become large, long-lived and unwieldy. As discussed in the 3.3.5 Feature Branch Environments, small commits, small branches. and small pull requests are a key driver of productivity.
-
-**LONG-LIVED VS. SHORT-LIVED BRANCHES![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.125.jpeg)**
-
-The key to maintaining a smooth system of branches and merges with your team is to keep branches short-lived. Nearly all of the problems associated with code merging come from code branches being open too long
-
-or the branch containing too large a diff (ctohb.com/diffs). In general, a short-lived branch should be open just a few days, or two weeks at the absolute most.
-
-Keep in mind that a feature doesn't necessarily have to be implemented
-
-in a single branch. For example, you can have an initial branch with just tests that is reviewed and merged, and then followed up by a branch with the implementation. Alternatively, you can build an implementation that
-
-isn't connected to the main application, have it reviewed and merged, then build the connection and tests in a subsequent branch.
+Keep in mind that a feature doesn't necessarily have to be implemented in a single branch. For example, you can have an initial branch with just tests that is reviewed and merged, and then followed up by a branch with the implementation. Alternatively, you can build an implementation that isn't connected to the main application, have it reviewed and merged, then build the connection and tests in a subsequent branch.
 
 With a bit of thought and practice most implementations can be broken down into independently mergeable pieces. This is a skill that with your guidance teams can develop over time.
 
 Benefits of keeping branches short-lived:
 
- Limits the amount of time for new code from other branches to be
+* Limits the amount of time for new code from other branches to be merged into trunk, thus limiting the scope for code conflicts. Smaller branches also inherently have less surface area for conflicts.
 
-merged into trunk, thus limiting the scope for code conflicts. Smaller branches also inherently have less surface area for conflicts.
+* Keeps the feature branch code relatively small, thus making it easier for reviewers to read and limiting the scope for breakages.
 
- Keeps the feature branch code relatively small, thus making it easier for
+* Encourages faster feedback in reviews, and allows for course corrections sooner in the process of implementing features.
 
-reviewers to read and limiting the scope for breakages.
-
- Encourages faster feedback in reviews, and allows for course correc -
-
-tions sooner in the process of implementing features.
-
- Encourages your team to have a reliable Continuous Integration
-
-system. Frequent merges will highlight deficiencies in your build/test environment, making it painful if the systems are unreliable and motivating improvements to those systems.
+* Encourages your team to have a reliable Continuous Integration system. Frequent merges will highlight deficiencies in your build/test environment, making it painful if the systems are unreliable and motivating improvements to those systems.
 
 ## Production Escalations
 
 An escalator is a tool that takes in incidents and manages an on-call rotation, paging the on-call engineer and then escalating to others if pages go unacknowledged. PagerDuty is likely the most popular of these tools.
 
-**IMPLEMENTING ESCALATORS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.126.png)**
+### Implementing Escalators
 
 Before you implement an escalator and set up a rotation, make sure the engineers on your team have opted in to being on rotation, and that everyone knows and understands expectations for creating exceptions (e.g., trading an on-call window with somebody else during a vacation).
 
-you'll also want to ensure that you have adequate documentation in place, and that everyone understands the standard procedures for what to do when receiving a page. Some considerations for establishing these procedures:
+You'll also want to ensure that you have adequate documentation in place, and that everyone understands the standard procedures for what to do when receiving a page. Some considerations for establishing these procedures:
 
- Note where the recipient should post an acknowledgment of receipt of
-
-the page (maybe in the escalator tool itself or a shared group chat dedicated specifically to handling escalations).
-
-Enable easy access to the playbooks that are used to help diagnose particular kinds of problems.
-
-Determine whether to, and where to, set up any kind of site down notice (e.g., a company status page needs updating).
-
-Decide where and how often to post updates on the status of the inves tigation, impact estimate, and restoration estimate.
-
-Determine what to do once an incident is closed, scheduling a root cause analysis exercise and ensuring the particular incident does not recur.
+* Note where the recipient should post an acknowledgment of receipt of the page (maybe in the escalator tool itself or a shared group chat dedicated specifically to handling escalations).
+* Enable easy access to the playbooks that are used to help diagnose particular kinds of problems.
+* Determine whether to, and where to, set up any kind of site down notice (e.g., a company status page needs updating).
+* Decide where and how often to post updates on the status of the inves tigation, impact estimate, and restoration estimate.
+* Determine what to do once an incident is closed, scheduling a root cause analysis exercise and ensuring the particular incident does not recur.
 
 ### ROOT CAUSE ANALYSIS (RCA) EXERCISES
 
@@ -3352,77 +3258,53 @@ To be crystal clear, the root cause analysis *must not* be about identifying fau
 
 Without that safety and willingness for team members to be forthright with their feedback and documentation, you'll miss out on key opportunities to improve the system.
 
-#### RCA DOCUMENTS
+#### RCA Documents
 
 Your team should produce documentation in some form for every RCA. Depending on how often issues occur with your system, and the nature of those issues, you may wish to create a classification system for RCAs, with low-impact incidents getting a lighter-weight RCA process than high-impact incidents. It should be acknowledged that a thorough RCA on a high-impact incident is an expensive effort, taking considerable time and thoughtfulness, and that it may prove too heavy-handed for trivial defects.
 
 That said, for most companies it's better to err on the side of overspending in this area and ensuring greater reliability. You should start with a thorough RCA on everything, and transition to a stratified RCA system once you've got a good understanding of the landscape and impact of the kinds of issues your team will face.
 
-For issues that merit a full, thoughtful analysis, here is a template that will get you started and asking your team the right questions: ctohb.com/ rca. It is a good practice and in fact a requirement for most compliance
+For issues that merit a full, thoughtful analysis, here is a template that will get you started and asking your team the right questions: ctohb.com/ rca. It is a good practice and in fact a requirement for most compliance frameworks to create a new document like this for every incident and to organize them in an internal company document store for later reference.
 
-frameworks to create a new document like this for every incident and to organize them in an internal company document store for later reference.
+#### RCA Meetings And Timeline
 
-RCA MEETINGS AND TIMELINE
-
-As soon as it is practical after you've resolved an incident, designate an appropriate person to serve as the lead on an RCA. The lead should clone
-
-the template and begin filling in relevant data about the incident and beginning to explore the Five Whys (ctohb.com/5whys) for the incident.
+As soon as it is practical after you've resolved an incident, designate an appropriate person to serve as the lead on an RCA. The lead should clone the template and begin filling in relevant data about the incident and beginning to explore the Five Whys (ctohb.com/5whys) for the incident.
 
 They should complete an initial draft of the RCA and circulate it to relevant peers before scheduling a time as a group to explore and try and improve the analysis and future prevention steps.
 
 The meeting attendees should read the RCA draft in advance and come prepared to explore the nuts and bolts of the incident and ideate on future prevention steps.
 
-Choosing the RCA Lead Author
+#### Choosing the RCA Lead Author
 
-The RCA lead need not necessarily be the person who responded to the incident. The ideal RCA lead should be someone who is very familiar with
-
-the systems involved and can ask insightful questions about where tools and processes failed and generate ideas for improvement.
+The RCA lead need not necessarily be the person who responded to the incident. The ideal RCA lead should be someone who is very familiar with the systems involved and can ask insightful questions about where tools and processes failed and generate ideas for improvement.
 
 Note that we re not throwing anyone who made a human error under the bus. That person may be the RCA lead if they fit the prior criteria, but their error does not on its own make them the right person to lead the RCA. They should certainly contribute and take the opportunity to learn through the process. But again, they are not punished for their mistake as part of the process. Authoring an RCA is not a punishment; it's an important responsibility and element of system maintenance.
 
-Scheduling RCA Remediation Work
+#### Scheduling RCA Remediation Work
 
 A good RCA process will often identify many work items for the team to improve the system and make future incidents less likely. The natural next question is: do we do them now? For the engineers involved, the answer is likely yes; for a manager concerned about hitting deadlines and a roadmap, the answer will be less clear.
 
 There is no one right answer to the question, but here is some general guidance:
 
-Never let a good crisis go to waste. Motivation to remediate issues will be at its peak around the incident and the RCA meeting, and highly motivated engineers are often most efficient. It's also easy to underestimate the overall cost to your team of system reliability issues and thus under prioritize reliability improvements. The fact that a production incident occurred should remind you and your team that these investments are critical to limiting distractions and enabling teams to focus
+Never let a good crisis go to waste. Motivation to remediate issues will be at its peak around the incident and the RCA meeting, and highly motivated engineers are often most efficient. It's also easy to underestimate the overall cost to your team of system reliability issues and thus under prioritize reliability improvements. The fact that a production incident occurred should remind you and your team that these investments are critical to limiting distractions and enabling teams to focus on productive feature work and delivering consistent high velocity.
 
-on productive feature work and delivering consistent high velocity.
+The level of effort for many remedial issues is likely to vary widely. Some typical tickets might be add more logging or change a setting in our CI provider to ensure PRs with failing builds cannot be merged. These types of trivial tickets cost more to maintain and groom in a backlog than they'd take just to do in the moment, so just do them. The chances they are the wrong thing to do are pretty low, and if negative consequences result, they can be easily reversed.
 
-The level of effort for many remedial issues is likely to vary widely. Some
-
-typical tickets might be add more logging or change a setting in our CI provider to ensure PRs with failing builds cannot be merged. These types of trivial tickets cost more to maintain and groom in a backlog than they'd take just to do in the moment, so just do them. The chances they are the wrong thing to do are pretty low, and if negative consequences result, they can be easily reversed.
-
- For high-effort remediation steps, I encourage you to triage those and
-
-put them through your regular planning process. Often, high-effort remediation steps can be simplified with the benefit of time and planning. Said another way, the identified right way to solve the problem
-
-on day one may not be the ideal solution, and only by putting the issue through the regular paces of technical scrutiny can a better, perhaps
-
-less costly, solution emerge.
+For high-effort remediation steps, I encourage you to triage those and put them through your regular planning process. Often, high-effort remediation steps can be simplified with the benefit of time and planning. Said another way, the identified right way to solve the problem on day one may not be the ideal solution, and only by putting the issue through the regular paces of technical scrutiny can a better, perhaps less costly, solution emerge.
 
 ## IT
 
 Here I refer to IT, information technology, as internal company tooling and technology used to conduct business on a daily basis. This is in contrast to the technology your company is building for its customer product.
 
-IT usually comprises tools like company hardware (desktops, laptops, and phones), VPNs, email, antivirus and monitoring software, etc. As a startup in the modern world, whether you're an in-person or remote team,
-
-if you make a few wise decisions, you should not need to spend very much time or capital on IT.
+IT usually comprises tools like company hardware (desktops, laptops, and phones), VPNs, email, antivirus and monitoring software, etc. As a startup in the modern world, whether you're an in-person or remote team, if you make a few wise decisions, you should not need to spend very much time or capital on IT.
 
 Some key decisions that will help you minimize IT cost at most small tech companies:
 
-Use a cloud-based system for company email, data, and documents.
+Use a cloud-based system for company email, data, and documents. Most startups are using Google Workspace, but if your team members (and prospective future hires) are more comfortable with an alternative, go with that. There's no benefit at this stage in setting up your own in-house mail server, document storage, data access, networking, etc.
 
-Most startups are using Google Workspace, but if your team members (and prospective future hires) are more comfortable with an alternative, go with that. There's no benefit at this stage in setting up your own in-house mail server, document storage, data access, networking, etc.
+Early on, unless required to by a compliance system, don't requireemployees to use company hardware. At small scale purchasing (especially pre-product market fit), provisioning and managing company hardware is a non-trivial effort (and cost!) that provides only marginal or rare real-world benefits.
 
-Early on, unless required to by a compliance system, do't require
-
-employees to use company hardware. At small scale purchasing (especially pre-product market fit), provisioning and managing company hardware is a non-trivial effort (and cost!) that provides only marginal or rare real-world benefits.
-
-It's perhaps painful to acknowledge, but properly securing your product and IT system is a considerable task, and unrealistic for a young startup to do exhaustively early on. I encourage you to be pragmatic
-
-and focus on securing your system from the most likely sources of breach or data theft: human error by your employees. It's far more likely your engineering team forgot to put authentication in front of an API, or somebody leaves their laptop unlocked at a coffee shop, than an attacker manages to man in the middle your data or hack into your cloud infrastructure using an exploit.
+It's perhaps painful to acknowledge, but properly securing your product and IT system is a considerable task, and unrealistic for a young startup to do exhaustively early on. I encourage you to be pragmatic and focus on securing your system from the most likely sources of breach or data theft: human error by your employees. It's far more likely your engineering team forgot to put authentication in front of an API, or somebody leaves their laptop unlocked at a coffee shop, than an attacker manages to man in the middle your data or hack into your cloud infrastructure using an exploit.
 
 Even following best practices to minimize IT effort, you'll still have some IT tasks you cannot avoid, primarily around activating and deactivating user accounts and password recovery for employees. I encourage you to document for and train other coworkers, perhaps in HR, in how to do these tasks so they do not interrupt you or the engineering team on a regular basis.
 
@@ -3430,86 +3312,50 @@ Even following best practices to minimize IT effort, you'll still have some IT t
 
 In this section, I will provide a brief overview of the subject of security and compliance for startups. You can and should put in the effort to find in-depth resources beyond this book on these topics.
 
-**AUTH SECURITY TERMINOLOGY![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.128.png)**
+### Auth Security Terminology
 
 Especially with security, it's important to be precise and exact with language. Some definitions of commonly misused terms:
 
- **Authentication, or AuthN**: Validating that a user or client is who they
+**Authentication, or AuthN**: Validating that a user or client is who they say they are. Your login system performs user authentication.
 
-say they are. Your login system performs user authentication.
+**Authorization, or AuthZ**: Validating that a user or client has permission to do what they're trying to do. Your role-based access control (RBAC) or permission system does authorization.
 
- **Authorization, or AuthZ**: Validating that a user or client has permis -
+**2FA or MFA**: Two-factor authentication and multi-factor authentication is the process of authenticating with a service using more than one type of credential. This is typically done with a password (first factor) and some kind of proof-of-ownership, e.g., an emailed one-time password (proving you own the email), SMS (proving you own a phone number), or timed one-time-password (TOPT) (proving you own a device/ passkey). Note that due to the prevalence of SIM Porting attacks, where an attacker has the ability to intercept or reroute SMS, using SMS as a second factor is generally discouraged.
 
-sion to do what they're trying to do. Your role-based access control (RBAC) or permission system does authorization.
 
- **2FA or MFA**: Two-factor authentication and multi-factor authentication
-
-is the process of authenticating with a service using more than one type of credential. This is typically done with a password (first factor) and some kind of proof-of-ownership, e.g., an emailed one-time password (proving you own the email), SMS (proving you own a phone number), or timed one-time-password (TOPT) (proving you own a device/ passkey). Note that due to the prevalence of SIM Porting attacks, where an attacker has the ability to intercept or reroute SMS, using SMS as a second factor is generally discouraged.
-
-255
-3\.8SECURIATNYDCOMPLIANCE
-
-**SECURITY AT STARTUPS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.129.png)**
+### Security At Startups
 
 Startups are often defined by the extent to which they are resource-constrained. As a result, security posture and compliance are often the first things deprioritized on the to-do list, as they are less likely to represent an existential threat to the business than other pressing concerns. If you have no users or revenue, what is there for a hacker to steal?
 
-Taking security into account can also become a drag on productivity
-
-or an expensive task, especially if your mission is to secure a system that already exists. But if you're starting from day one, you have the opportunity to make good decisions at the start that create a strong security posture with minimal additional cost.
+Taking security into account can also become a drag on productivity or an expensive task, especially if your mission is to secure a system that already exists. But if you're starting from day one, you have the opportunity to make good decisions at the start that create a strong security posture with minimal additional cost.
 
 Some ways to incorporate security at your startup that won't cost you much:
 
- Establish security as a priority in the mindset of your team in your
+* Establish security as a priority in the mindset of your team in your onboarding and training materials.
 
-onboarding and training materials.
+* Enroll all engineers in onboarding and recurring basic security training things like the OWASP Top Ten or various gamified security training that take a few minutes a month to keep security top of mind.
 
- Enroll all engineers in onboarding and recurring basic security train -
+* Rely on proven and well-maintained tools for anything related to authentication or authorization.
 
-ing things like the OWASP Top Ten or various gamified security training that take a few minutes a month to keep security top of mind.
+* Don't waste time building a login page yourself; in 2023 There's really no reason to. Tools like Auth0, SuperTokens, and AWS Cognito provide secure user signup, login, social login, forgotten password management, email authentication, two-factor authentication, and session management. Some of these tools also offer robust authorization systems. Dealing with auth is a substantial project; it's very complex and mistakes are expensive. There's no reason your startup needs to solve that problem.
 
- Rely on proven and well-maintained tools for anything related to
+* Don't be lazy about IT security. Regardless of whether you're using Dropbox, Box, Google Drive, SharePoint, etc., take a few minutes and set policies to help avoid human error, such as default sharing permissions to being internal only. Set up regular data-sharing reports and appoint an employee to do a quarterly audit of permissions settings on any particularly sensitive documents or spreadsheets.
 
-authentication or authorization.
+* Use an enterprise password management solution, such as 1Password, and ensure all employees are using robust passwords for important tools. Similarly, use Single Sign-On (SSO) as often as possible and ensure your SSO provider is configured with high security (at least requiring Multi-Factor Authentication).
 
- Don't waste time building a login page yourself; in 2023 There'sreally
+* Don't commit secrets in your codebase. Leverage a secure secret manager such as Google Cloud Secret Manager or AWS Secret Manager, and commit the name/location of a secret in code and resolve that name to a value in production, either at bootup time using a tool like Berglas or Whisper, or at runtime directly with the secret manager APIs.
 
-no reason to. Tools like Auth0, SuperTokens, and AWS Cognito provide secure user signup, login, social login, forgotten password management, email authentication, two-factor authentication, and session management. Some of these tools also offer robust authorization systems. Dealing with auth is a substantial project; it's very complex and mistakes are expensive. There's no reason your startup needs to solve
-
-that problem.
-
- Don't be lazy about IT security. Regardless of whether you're using
-
-Dropbox, Box, Google Drive, SharePoint, etc., take a few minutes and
-
-set policies to help avoid human error, such as default sharing permissions to being internal only. Set up regular data-sharing reports and appoint an employee to do a quarterly audit of permissions settings on any particularly sensitive documents or spreadsheets.
-
- Use an enterprise password management solution, such as 1Password,
-
-and ensure all employees are using robust passwords for important tools. Similarly, use Single Sign-On (SSO) as often as possible and ensure your SSO provider is configured with high security (at least requiring Multi-Factor Authentication).
-
- Don't commit secrets in your codebase. Leverage a secure secret
-
-manager such as Google Cloud Secret Manager or AWS Secret Manager, and commit the name/location of a secret in code and resolve that name to a value in production, either at bootup time using a tool like Berglas or Whisper, or at runtime directly with the secret manager APIs.
-
-**COMPLIANCE![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.130.png)**
+### Compliance
 
 Whether it's due to the industry you are in, the size of your business, or the nature of your customers, most startups need to comply with at least one formal compliance framework. If your users are in Europe, then you need to comply with GDPR. If you're taking in user data, it's wise to understand the CCPA. If you're working with enterprise clients, you'll be asked for your SOC 2 or ISO 27001 certification. In healthcare, you've got HIPAA, and if you're in payments, you've likely heard of PCI DSS.
 
 For a startup, staying in compliance with any or all of these frameworks can be unacceptably expensive. Here are some tips for staying compliant and anticipating the cost:
 
- Don't try to get a compliance certificate at the last minute. Preparing
+* Don't try to get a compliance certificate at the last minute. Preparing for and conducting an audit such as for PCI DSS or SOC 2 from start to finish is a lengthy process, ranging from six to twelve months for most startups. Starting early and maintaining compliance is cheaper than starting late and doing rework.
 
-for and conducting an audit such as for PCI DSS or SOC 2 from start to finish is a lengthy process, ranging from six to twelve months for most startups. Starting early and maintaining compliance is cheaper than starting late and doing rework.
+* Use as much automation to enforce or provide evidence of compliance as possible. There is a thriving sector of SaaS companies who specialize in automating these compliance frameworks; companies like Vanta, Tugboat Logic, Secureframe, Laika, and Drata all have offerings that will reduce your time-to-certification and total cost significantly.
 
- Use as much automation to enforce or provide evidence of compliance
-
-as possible. There is a thriving sector of SaaS companies who specialize in automating these compliance frameworks; companies like Vanta, Tugboat Logic, Secureframe, Laika, and Drata all have offerings that will reduce your time-to-certification and total cost significantly.
-
- If you're lucky enough to have a formal compliance person or depart -
-
-ment, lean into that relationship. The more proactive you can be in
-
-sharing plans with a compliance department, and the earlier you incorporate their feedback, the less costly and frustrating staying compliant will be.
+* If you're lucky enough to have a formal compliance person or department, lean into that relationship. The more proactive you can be in sharing plans with a compliance department, and the earlier you incorporate their feedback, the less costly and frustrating staying compliant will be.
 
 # Conclusion: Measuring Success
 
@@ -3527,16 +3373,13 @@ Try as we might, it seems that great leadership even great *technical* leadershi
 
 There are few universal truths in engineering leadership, but one of them is that becoming a good engineering leader is a never-ending journey of self-improvement, discovery, and growth. Proceeding down this path requires humility, willingness to make mistakes, and, above all, curiosity and a desire to learn.
 
-I hope this handbook has been a helpful reference guide for you with the challenges you face on your leadership journey. The handbook covers many
-
-of the challenges that I myself have faced over the years as well as those of the many wonderful leaders I've had the pleasure of interacting with.
+I hope this handbook has been a helpful reference guide for you with the challenges you face on your leadership journey. The handbook covers many of the challenges that I myself have faced over the years as well as those of the many wonderful leaders I've had the pleasure of interacting with.
 
 I've done my best to provide some structure on meeting those challenges, though every situation is unique, and ultimately the path you take is yours to devise and the results are yours to own.
 
 At some point in life, one gets asked: What advice would you give to the younger version of yourself? is handbook is my answer to that question.
 
 I hope it helps you in your journey to build powerful technology, motivated and empowered teams, and successful businesses, and, most of all, have fun and do some good for the world.
-
 
 
 # Book References
