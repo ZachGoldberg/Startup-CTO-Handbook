@@ -661,7 +661,7 @@ Only on rare occasions should you, as manager, highlight a bug to an individual 
 
 Management should be monitoring that bug queue process to ensure the queue stays at a manageable length, and adjusting staffing or process if product quality isn t meeting targets.
 
-You should prioritize your queues based on importance and urgency. If something of critical importance with extreme time pressure arises, it should be put into the queue and escalated to the top. en apply common sense as to how you handle it. If you need to call somebody to ensure they know it's there, then so be it, as long as this is the exception and not the rule.
+You should prioritize your queues based on importance and urgency. If something of critical importance with extreme time pressure arises, it should be put into the queue and escalated to the top. Then apply common sense as to how you handle it. If you need to call somebody to ensure they know it's there, then so be it, as long as this is the exception and not the rule.
 
 
 #### Your First Team
@@ -1394,7 +1394,7 @@ Keep in mind that different roles should be evaluated for different contribution
 
 The details of the competency matrix impact every member of the team, so it stands to reason that the team should be included in specifying those details. Referring to the Team-Based Decisioning Models section of Mini Management Frameworks, page 33, this is definitely a job for either the straw man or the codevelopment model.
 
-I recommend the straw man model: Outline the key skills and impact areas you d like to see for any given role and take a stab at filling out most of the competency matrix. en introduce the idea to your tech team and let them know you d like their input on how to flesh out that first draft. Set aside fixed time as a team and make it safe and encouraged to workshop the matrix together, perhaps using breakout groups to workshop individual categories.
+I recommend the straw man model: Outline the key skills and impact areas you d like to see for any given role and take a stab at filling out most of the competency matrix. Then introduce the idea to your tech team and let them know you d like their input on how to flesh out that first draft. Set aside fixed time as a team and make it safe and encouraged to workshop the matrix together, perhaps using breakout groups to workshop individual categories.
 
 Whatever structure you choose, make it explicit, provide at least a few hours of safeguarded time for working on it, and set a deadline by which to receive final feedback to incorporate and turn into a candidate final draft for the team.
 
@@ -2948,7 +2948,7 @@ My preferred way to balance the challenge of keeping engineers motivated and a c
 
 lead and implement an internal technology radar. Rather than weigh something new for its universal appeal as oughtworks does, my approach evaluates blips for their fit and effectiveness for our organization using the same four levels. To be concrete:
 
-1. Somebody proposes using a new tool, technique, platform, or language (blip). at proposal at first is categorized as assess. Theproposer has to make the case in a technical document that the new blip would provide a material benefit to the project that was already selected by the business (or as an experiment in an innovation sprint see Cooldown/ Innovation Sprints, page 163). en, if approved, it moves to a trial.
+1. Somebody proposes using a new tool, technique, platform, or language (blip). at proposal at first is categorized as assess. Theproposer has to make the case in a technical document that the new blip would provide a material benefit to the project that was already selected by the business (or as an experiment in an innovation sprint see Cooldown/ Innovation Sprints, page 163). Then, if approved, it moves to a trial.
 2. The new blip is used by the developer in a project, either selected by the business or in their innovation sprint window. At the end of the project, the author produces a follow-up written document describing their experience with the blip, including pros and cons and how well the blip plays with the rest of the tooling ecosystem at the company.
 3. Based on the results of the trial, the team as a whole will move to either adopt the blip, unlocking that blip to be used by the rest of the team
 
@@ -3034,7 +3034,7 @@ a variety of forms ranging from placing it on pallets, storing it in boxes or ba
 
 Compare that haphazard approach to deploying a standardized shipping container where the boat and port operator can work with a single form factor, using standardized equipment and shippers and a single, flexible form of packaging for all of their goods. Historically, the usage of standardized shipping containers unlocked a paradigm shift that reduced costs of global shipping by orders of magnitude. Packaging software in a standardized container that can be run on any system in the same way provides an analogous advancement in capability and efficiency.
 
- The most common way you'll interact with containers is through a software system called Docker. Docker provides a declarative programming language that lets you describe, in a file called Dockerfile, how you want the system set up i.e., what programs need to be installed, what files go where, what dependencies need to exist. en you build that file into a container image which provides a representation of the entire file system specified
+ The most common way you'll interact with containers is through a software system called Docker. Docker provides a declarative programming language that lets you describe, in a file called Dockerfile, how you want the system set up i.e., what programs need to be installed, what files go where, what dependencies need to exist. Then you build that file into a container image which provides a representation of the entire file system specified
 
 by your Dockerfile. at image can then be moved to and run on any other machine with a Docker-compatible container runtime, with the guarantee
 
@@ -3452,23 +3452,15 @@ Let s examine the cost of code review. A code review requires two people call th
 
  **Context Switch #1:** Author stops coding on Project 1, sets up code review, and tags Reviewer. Author starts working on Project 2.
 
- **Context Switch #2:** Reviewer gets a notification, stops their work on
+ **Context Switch #2:** Reviewer gets a notification, stops their work on Project 3, and begins review of Project 1. Reviewer leaves feedback for Author, resumes work on Project 3.
 
-Project 3, and begins review of Project 1. Reviewer leaves feedback for Author, resumes work on Project 3.
+ **Context Switch #3:** Author is notified of feedback on Project 1, stops work on Project 2, and addresses comments from Reviewer. Then Author resumes work on Project 2.
 
- **Context Switch #3:** Author is notified of feedback on Project 1, stops
+ **Context Switch #4:** Reviewer stops work on Project 3 and best-case scenario Reviewer is now satisfied with changes in Project 1 and approves the code review. Reviewer resumes work on Project 3. Worst case, Author and Reviewer must repeat Context Switches #3 and #4 several times.
 
-work on Project 2, and addresses comments from Reviewer. en Author resumes work on Project 2.
+ **Context Switch #5:** Author is notified of approval, stops work on Project 2, merges Project 1, then resumes work on Project 2.
 
- **Context Switch #4:** Reviewer stops work on Project 3 and best-case
-
-scenario Reviewer is now satisfied with changes in Project 1 and approves the code review. Reviewer resumes work on Project 3. Worst case, Author and Reviewer must repeat Context Switches #3 and #4 several times.
-
- **Context Switch #5:** Author is notified of approval, stops work on Project 2,
-
-merges Project 1, then resumes work on Project 2.
-
- There are ways to minimize these context switches, but they too involve tradeoffs. A common alternative is to do all code reviews as a synchronous pair programming exercise; however, that strategy trades context switches for synchronous meeting time, which is still a drag on productivity. No matter how you slice it, human code review is expensive.
+There are ways to minimize these context switches, but they too involve tradeoffs. A common alternative is to do all code reviews as a synchronous pair programming exercise; however, that strategy trades context switches for synchronous meeting time, which is still a drag on productivity. No matter how you slice it, human code review is expensive.
 
 My suggested alternative is to classify types of work by their level of risk, and the expected benefit from code reviews. A sample classification system:
 
