@@ -2995,9 +2995,7 @@ You should be tracking how much your organization spends on engineering tools, i
 
 Wikipedia describes DevOps as a set of practices that combines software development and IT operations. It aims to shorten the systems development lifecycle and provide continuous delivery with high software quality.
 
-I translate that as follows: DevOps is all the work that goes into making sure the business software runs in places other than your developers machines. Unless you've got a DevOps specialist on your team, you're probably deprioritizing DevOps to some degree, and have underinvested in it
-
-as well. It's not just my opinion; it's becoming widely accepted throughout tech industries that high-quality DevOps is a key driver of overall engineering velocity.
+To me the key piece of this definition is that devops aims to shorten the software development lifecycle, in other words DevOps is an enabler of broader team productivity.  If you're not already specifically thinking about DevOps, you're likely underprioritizing or underinvesting in DevOps to some degree. It's not just my opinion; it's becoming widely accepted throughout tech industries that high-quality DevOps is a key driver of overall engineering velocity.
 
 
 **FOUR KEY METRICS (DORA)![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.103.png)**
