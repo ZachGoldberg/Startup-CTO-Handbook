@@ -13,7 +13,7 @@ The original manuscript (now outdated) can be found as a [google doc](https://do
 Hi, thanks for checking out the Startup CTO's Handbook!  This repository has the latest version of the content of the book. You're welcome and encouraged to contribute issues or pull requests for additions/changes/suggestions/criticisms to be included in future editions!  Please feel free to add your name to ACKNOWLEDGEMENTS if you do so.
 
 # The Author
-[Linkedin](https://www.linkedin.com/in/zachgoldberg/) / [Website](https://zachgoldberg.com) / [Email](zach@zachgoldberg.com)
+[Linkedin](https://www.linkedin.com/in/zachgoldberg/) / [Website](https://zachgoldberg.com) / [Email](mailto:zach@zachgoldberg.com)
 
 # Licensing
 See the LICENSE file, but tl;dr - you're welcome to make copys, changes, redistribute etc. so long as you're not reselling, you keep my name/attribution attached, and you keep future versions open under a similar/the same license..
