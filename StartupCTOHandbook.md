@@ -1,8 +1,8 @@
 ﻿# THE STARTUP CTO'S HANDBOOK
 
-## ESSENTIAL SKILLS AND BEST PRACTICES FOR HIGH PERFORMING ENGINEERING TEAMS
+## Essential Skills And Best Practices For High Performing Engineering Teams
 
-## BY ZACH GOLDBERG
+## By Zach Goldberg
 
 **Disclaimer**:
 
@@ -35,26 +35,41 @@ To every direct report I've ever had, thanks for your patience and looking past 
 
 To my wife, for tolerating and supporting my many pursuits, this book included.
 
-# PRAISE
+# Praise
 
-A foundational guide for any engineering leader!
+> Zach Goldberg’s CTO Handbook delivers a compelling daily resource for all engineering leaders. Whether it’s practical day-to-day frameworks or insightful perspectives, Goldberg’s book will instantly help you tackle the most complex issues in developing a high-performing engineering team.
+>
+> Michael Lopp, randsinrepose.com
 
-**Gordon Pretorius, CTO of Typeform**
 
-Zach's concise chapters of how-to wisdom artfully distill decades of on-the- job experience leading early-stage technical teams. Worth checking out!
+> Great tips for today’s fledgling engineering leaders!
+>
+> Matt Mochary, Executive Coach, Author "The Great CEO Within", mocharymethod.com
 
-**Daniel Demetri, CEO and 3x Start-Up Executive**
 
-The CTO Handbook is an inspired collection of practical, actionable recommendations for aspiring and experienced technology leaders alike. Whether you're in the process of building a world-class engineering team from the ground up, have ambitions of becoming a CTO, or have been in the role for years, this handbook serves as your indispensable guide.
+> Zach has done an amazing job creating a resource for CTOs in startup organizations (and beyond). He provides actionable advice across the real people, process, technology issues we face as technology leaders in early-stage companies.
+>
+> Tony Karrer, Ph.D. Cofounder of LA CTO Forum, Founder & CEO TechEmpower, Founder & CTO Aggregage
 
-**Eric Johannsen, CTO at Dama Financial, author of C# 8.0 in a Nutshell**
 
-When I was stumbling around in the dark trying to figure this out for myself and overwhelmed with several tech management books, this is the concise summary of all the things I needed.
+> A foundational guide for any engineering leader!
+>
+> Gordon Pretorius, CTO of Typeform
 
-**Charlie von Metzradt, cofounder of MetricFire/Hosted Graphite**
+>Zach's concise chapters of how-to wisdom artfully distill decades of on-the- job experience leading early-stage technical teams. Worth checking out!
+>
+> Daniel Demetri, CEO and 3x Start-Up Executive
 
-# CONTENTS
-- [INTRODUCTION](#introduction)
+> The CTO Handbook is an inspired collection of practical, actionable recommendations for aspiring and experienced technology leaders alike. Whether you're in the process of building a world-class engineering team from the ground up, have ambitions of becoming a CTO, or have been in the role for years, this handbook serves as your indispensable guide.
+>
+> Eric Johannsen, CTO at Dama Financial, author of C# 8.0 in a Nutshell
+
+> When I was stumbling around in the dark trying to figure this out for myself and overwhelmed with several tech management books, this is the concise summary of all the things I needed.
+>
+> Charlie von Metzradt, cofounder of MetricFire/Hosted Graphite
+
+# Contents
+- [Introduction](#introduction)
   - [The Author](#the-author)
   - [Using this Book](#using-this-book)
 - [Business Processes](#business-processes)
@@ -64,13 +79,13 @@ When I was stumbling around in the dark trying to figure this out for myself and
     - [Kaizen: Continuous Improvement](#kaizen-continuous-improvement)
     - [Coaching](#coaching)
     - [Find a Management Mentor](#find-a-management-mentor)
-    - [1:1 MEETINGS](#11-meetings)
-    - [SKIP-LEVEL MEETINGS](#skip-level-meetings)
-    - [COACHING MANAGERS](#coaching-managers)
+    - [1:1 Meetings](#11-meetings)
+    - [Skip-Level Meetings](#skip-level-meetings)
+    - [Coaching Managers](#coaching-managers)
   - [Hiring and Interviewing](#hiring-and-interviewing)
     - [Speed is Your Friend!](#speed-is-your-friend)
-    - [WHEN TO HIRE: HEADCOUNT PLANNING](#when-to-hire-headcount-planning)
-    - [SOURCING CANDIDATES!](#sourcing-candidates)
+    - [When To Hire: Headcount Planning](#when-to-hire-headcount-planning)
+    - [Sourcing Candidates](#sourcing-candidates)
   - [Onboarding](#onboarding)
   - [Performance Management](#performance-management)
   - [Team Makeup](#team-makeup)
@@ -82,7 +97,7 @@ When I was stumbling around in the dark trying to figure this out for myself and
   - [Tech Debt](#tech-debt)
   - [Technology Roadmap](#technology-roadmap)
   - [Tech Process](#tech-process)
-    - [WORKFLOW](#workflow)
+    - [Workflow](#workflow)
   - [Developer Experience (DX)](#developer-experience-dx)
 - [Tech Architecture](#tech-architecture)
   - [Architecture](#architecture)
@@ -92,8 +107,7 @@ When I was stumbling around in the dark trying to figure this out for myself and
   - [Testing](#testing)
   - [Source Control](#source-control)
   - [Production Escalations](#production-escalations)
-    - [ROOT CAUSE ANALYSIS (RCA) EXERCISES](#root-cause-analysis-rca-exercises)
-      - [RCA DOCUMENTS](#rca-documents)
+    - [Root Cause Analysis (RCA) Exercises](#root-cause-analysis-rca-exercises)
   - [IT](#it)
   - [Security and Compliance](#security-and-compliance)
 - [Conclusion: Measuring Success](#conclusion-measuring-success)
@@ -103,7 +117,7 @@ When I was stumbling around in the dark trying to figure this out for myself and
 - [About the author](#about-the-author)
 - [About the publisher](#about-the-publisher)
 
-# INTRODUCTION
+# Introduction
 
 Always Be Learning
 
@@ -462,7 +476,7 @@ Regardless of the type of meeting, any meeting you set should have a clear objec
 
 #### TIME MANAGEMENT
 
-As a leader at a startup, you'll quickly find your time is split between many kinds of work, and potentially dozens of hours of meetings every week. If you don't yet have a system in place that works for you, now is the time to invest in some good habits and get organized. I recommend both Stephen Covey's *The 7 Habits of Highly Effective People* and David Allen's *Getting ings Done* as places to start on this journey.
+As a leader at a startup, you'll quickly find your time is split between many kinds of work, and potentially dozens of hours of meetings every week. If you don't yet have a system in place that works for you, now is the time to invest in some good habits and get organized. I recommend both Stephen Covey's *The 7 Habits of Highly Effective People* and David Allen's *Getting things Done* as places to start on this journey.
 
 #### MEETING TIMING
 
@@ -2410,124 +2424,78 @@ More often than not, a more nuanced evaluation will reveal that a given tool isn
 
 There are many excellent resources that explore various architectural patterns deeply; one of my favorites is Martin Fowler's *Patterns of Enterprise Application Architecture*. In this chapter, I'll provide a summary of some key phrases you'll hear so you have context when exploring these topics in depth elsewhere.
 
-**DOMAIN-DRIVEN DESIGN![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.090.png)**
+### Domain-Driven Design
 
 Domain-driven design (DDD) is an approach to software development that focuses on understanding and modeling the problem domain in order to design better software solutions.
 
 The core concepts of DDD include:
 
- **Domain model:** A representation of business concepts as objects in your technical system;
+**Domain model:** A representation of business concepts as objects in your technical system;
 
- **Ubiquitous language:** A common, consistent vocabulary and language that is used across your company to minimize confusion;
+**Ubiquitous language:** A common, consistent vocabulary and language that is used across your company to minimize confusion;
 
- **Bounded context:** e boundary within which the domain model applies and where the ubiquitous language is used.
+**Bounded context:** The boundary within which the domain model applies and where the ubiquitous language is used.
 
 
-**HIGH-LEVEL PATTERNS**
+#### High-Level Patterns
 
-When somebody uses the phrase technical architecture, they are usually referring to how code is executed and how information moves around in a system. Most descriptions of architecture involve the phrases
+When somebody uses the phrase technical architecture, they are usually referring to how code is executed and how information moves around in a system. Most descriptions of architecture involve the phrases services, monoliths, or message transports. This is in contrast to coding patterns, in which phrases such as object-oriented, functional programming, or dependency injection appear frequently. Coding patterns may sometimes be called code architecture and are discussed in Coding Patterns, page 188.
 
- services, monoliths, or message transports. This is in contrast to coding patterns, in which phrases such as object-oriented, functional programming, or dependency injection appear frequently. Coding patterns may sometimes be called code architecture and are discussed in Coding Patterns, page 188.
+The highest-impact decision in technical architecture is whether code runs as a monolith or as a set of services (commonly referred to as microservices). I'll start here with a description of what each pattern looks like, and then provide some guidance on the tradeoffs between them.
 
- The highest-impact decision in technical architecture is whether code
+##### Monolithic Architecture
 
-runs as a monolith or as a set of services (commonly referred to as microservices). I'll start here with a description of what each pattern looks like, and then provide some guidance on the tradeoffs between them.
-
-MONOLITHIC ARCHITECTURE
-
- The monolithic architecture pattern is one in which all code is executed as a single process, where information moves between pieces of your system entirely in memory, modeled as simple function calls. If you've ever sat down and built a simple application in an afternoon, chances are good it would fall into the category of the monolith. Monoliths come in all sorts of shapes and sizes, from very small to massive, multi-million-line projects.
+The monolithic architecture pattern is one in which all code is executed as a single process, where information moves between pieces of your system entirely in memory, modeled as simple function calls. If you've ever sat down and built a simple application in an afternoon, chances are good it would fall into the category of the monolith. Monoliths come in all sorts of shapes and sizes, from very small to massive, multi-million-line projects.
 
 The key to building a successful monolith is to carefully design the data flows within the application, using domain-driven design. You can measure this pretty easily; you want to ensure that when a developer goes to change the functionality of the application, it is obvious where in the monolith they should be working. They should only need to change code in an obvious and well-defined or confined area to achieve their goal. Every additional area of the codebase that needs change to meet a functional requirement adds additional complexity or opportunity for error, and in general slows down development.
 
 Key features of a monolith:
 
- Code is deployed as a single unit.
+* Code is deployed as a single unit.
+* Code is managed in a single source-code repository.
+* Deployed code is scaled as a single unit up and down.
+* Information moves between parts of the system in memory, usually with function calls.
+* Domain-driven design and clear information flow design are not enforced by the system, leaving it up to the engineers to do design well.
 
- Code is managed in a single source-code repository.
+##### Service-Oriented Architecture (Soa)/Microservices
 
- Deployed code is scaled as a single unit up and down.
-
- Information moves between parts of the system in memory, usually
-
-with function calls.
-
- Domain-driven design and clear information flow design are not
-
-enforced by the system, leaving it up to the engineers to do design well.
-
-SERVICE-ORIENTED ARCHITECTURE (SOA)/MICROSERVICES
-
-The phrase service-oriented architecture (SOA) originated in the 1990s
-
-and is used to refer to some fairly specific technology choices. Nowadays, the phrase is used to more broadly describe a system where information moves between parts of the system over a network. The main tradeoff with
-
-an SOA is that, in comparison to a monolith, it can be very complex to think about and requires a team to do a lot of setup and thoughtful design
-
-to truly ensure that the benefits outweigh added complexity.
+The phrase service-oriented architecture (SOA) originated in the 1990s and is used to refer to some fairly specific technology choices. Nowadays, the phrase is used to more broadly describe a system where information moves between parts of the system over a network. The main tradeoff with an SOA is that, in comparison to a monolith, it can be very complex to think about and requires a team to do a lot of setup and thoughtful design to truly ensure that the benefits outweigh added complexity.
 
 Microservices are a subset of service-oriented architecture where each service is as the name suggests very small. There are system implementations with thousands of microservices, each of them only a few lines of code. That said, you do not need to have thousands of microservices to experience the benefits of a service-oriented architecture. Even breaking out a system into four or five smaller services, in the right circumstances, can provide major improvement to code health.
 
-You may have heard that microservices are the only good architecture pattern; this is untrue. The perception stems from the fact that many monoliths are poorly designed or haven't received the attention and investment
-
-in tech debt required to unlock productivity. The idea that all microservice architectures are a joy to work in is also untrue. There are many microservice implementations that for one reason or another fail to realize the benefits as well.
+You may have heard that microservices are the only good architecture pattern; this is untrue. The perception stems from the fact that many monoliths are poorly designed or haven't received the attention and investment in tech debt required to unlock productivity. The idea that all microservice architectures are a joy to work in is also untrue. There are many microservice implementations that for one reason or another fail to realize the benefits as well.
 
 Key features of an SOA or microservices system:
 
- Different services are independently deployable and scalable.
+* Different services are independently deployable and scalable.
+* Code is managed by either a single source-code repository or many code repositories.
+* Information moves between parts of the system over a network, often via HTTP, RPC (Remote Procedure Call), or queuing systems.
+* Data contracts must be intentionally designed and well thought out, as contracts are implemented as APIs and communicated over a network.
 
- Code is managed by either a single source-code repository or many
+##### Choosing Between A Service-Oriented Architecture And A Monolith
 
-code repositories.
+In general, a monolith is easier to set up than an SOA and requires considerably fewer technical logistics to manage. For this reason, a monolith is the right answer on day one for the vast majority of problems. If the team is very disciplined and thoughtful about designing a monolith, it can scale with the team forever. is won't be the case for everyone, however. For many teams/projects, a monolith's lack of enforced contracts, inability to scale as separate components, and lack of enforced separation of concerns will become a barrier to productivity.
 
- Information moves between parts of the system over a network, often
+If you do find yourself contending with an unruly monolith, this doesn't mean your engineers are bad at their jobs. The nature of software engineering is that requirements change and systems evolve. Maintaining a monolith may mean, at times, investing considerable resources into updating the system design to evolve as well, and it is when a team fails to make this investment that monolith complexity becomes a barrier to productivity.
 
-via HTTP, RPC (Remote Procedure Call), or queuing systems.
+There are some circumstances where moving to a service-oriented architecture is clearly the right choice:
 
- Data contracts must be intentionally designed and well thought out, as contracts are implemented as APIs and communicated over a network.
+Your service has elements that need to be scaled independently. For example, one feature consumes lots of CPU resources and you don't want that to interfere with other features, or you prefer not to pay to scale up all features when it's more cost-effective to scale that one piece independently.
 
-CHOOSING BETWEEN A SERVICE-ORIENTED ARCHITECTURE AND A MONOLITH
+You're working on functionality that needs to expose its own independent API and has its own exclusive data domain apart from the main system. Especially if this API is meant to serve external customers, then having this functionality live as its own service is an obvious good choice.
 
-In general, a monolith is easier to set up than an SOA and requires considerably fewer technical logistics to manage. For this reason, a monolith is the right answer on day one for the vast majority of problems. If the team
+For some reason, you need to use another programming language as part of your application. A good example might be because there is a robust and high-quality framework for solving a certain kind of problem in Python, but the rest of your application is in Java. Bridging these two languages in memory is possible, but clunky. The easier option is to bridge them via an API, leaving them naturally hosted as separate services.
 
-is very disciplined and thoughtful about designing a monolith, it can scale with the team forever. is won't be the case for everyone, however. For many teams/projects, a monolith's lack of enforced contracts, inability to scale as separate components, and lack of enforced separation of concerns will become a barrier to productivity.
+Deploying your monolith is overly expensive, slow, or risky. In this case, you can enable additional productivity and reduce time to deploy by deploying new code as an independent service. Just ensure that the new service operates independent of the monolith and you're not creating new deployment dependencies.
 
-If you do find yourself contending with an unruly monolith, this doesn't mean your engineers are bad at their jobs. The nature of software engineering is that requirements change and systems evolve. Maintaining a monolith may mean, at times, investing considerable resources into updating
-
-the system design to evolve as well, and it is when a team fails to make this investment that monolith complexity becomes a barrier to productivity.
-
- There are some circumstances where moving to a service-oriented architecture is clearly the right choice:
-
- Your service has elements that need to be scaled independently. For
-
-example, one feature consumes lots of CPU resources and you don't want that to interfere with other features, or you prefer not to pay to scale up all features when it's more cost-effective to scale that one piece independently.
-
- You're working on functionality that needs to expose its own independent
-
-API and has its own exclusive data domain apart from the main system. Especially if this API is meant to serve external customers, then having this functionality live as its own service is an obvious good choice.
-
- For some reason, you need to use another programming language as part
-
-of your application. A good example might be because there is a robust
-
-and high-quality framework for solving a certain kind of problem in Python, but the rest of your application is in Java. Bridging these two languages in memory is possible, but clunky. The easier option is to bridge
-
-them via an API, leaving them naturally hosted as separate services.
-
- Deploying your monolith is overly expensive, slow, or risky. In this case,
-
-you can enable additional productivity and reduce time to deploy by deploying new code as an independent service. Just ensure that the
-
-new service operates independent of the monolith and you're not creating new deployment dependencies.
-
-Source Control for Service-Oriented ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.092.png)Architectures: monorepo and manyrepo
+##### Source Control for Service-Oriented Architectures: monorepo and manyrepo
 
 Managing source code for a monolith is fairly straightforward because it lives in a single repository with a single-build system. Once you start to break out your code into different packages, projects, and services, you're faced with a decision: do you manage multiple services in a single code repository, or do you make multiple repositories? is tradeoff is referred to as monorepo vs. manyrepo.
 
-If you choose to manage multiple services as a monorepo you'll likely want to look for a workspace management solution (e.g., yarn workspaces for JavaScript ecosystem) to manage building the projects separately. Here are some basic differences between
+If you choose to manage multiple services as a monorepo you'll likely want to look for a workspace management solution (e.g., yarn workspaces for JavaScript ecosystem) to manage building the projects separately. Here are some basic differences between the monorepo and manyrepo approaches:
 
-the monorepo and manyrepo approaches:
-
-**Pros and cons of monorepo!
+**Pros and cons of monorepo
+TODO: Put the chart here
 
 it's easy to ensure every service or package dependency is up to date with the latest version.
 
@@ -2543,47 +2511,30 @@ Integrates cleanly with CI/CD pipeline systems (Bitbucket pipelines, GitHub acti
 
 My general advice is to keep things simple. For small-to- medium-sized projects, a monorepo will be simpler to set up and maintain. Transitioning to manyrepo means being willing to make an investment in tooling to ensure manyrepo works smoothly for your developers; it's a significant cost. For a small startup, that cost is likely not worth it. On the flip side, if you're growing rapidly or are passing fifty-plus developers, and monorepo is becoming unwieldy, and you've got a dedicated internal platform or DevOps team that can do the heavy lifting of making manyrepo easy to use, then transitioning to a manyrepo pattern may be the right choice.
 
-THE DISTRIBUTED MONOLITH
+##### The Distributed Monolith
 
 A distributed monolith is a system deployed as multiple services that are not designed with sufficient independence or isolation and thus are not independently deployable. To be clear, this is the worst of both worlds. Rather than enabling a developer to go to any service and to work on it in isolation, not thinking about any other service, this setup requires that developer to reason about how that service affects other services. Not only that, but they have to then make changes potentially in multiple services and coordinate deployments in a particular order between services to ensure compatibility during releases. is development and deployment complexity negates the key benefits of a microservice system.
 
 If you notice your team falling into these patterns or complaining about coordinating releases between services, this should be a red flag for you to look closer and consider paying down some tech debt to get back to independently deployable services. That tech debt is usually located in your contracts, the design of your APIs, and how data is handled in your system.
 
-**WRITING READABLE, GOOD CODE![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.094.png)**
+### Writing Readable, Good Code
 
 In a professional environment, the principal audience for any given line of code is not the computer but the developer who has to read that code at some point in the future for further development. This is the golden rule of programming: engineers should be writing code with the same level of readability that they expect of anyone else's code.
 
-CHOICE OF LANGUAGE AND ECOSYSTEM
+#### Choice Of Language And Ecosystem
 
-Per the golden rule of programming, your choice of language should enable your team to write code that is highly readable and maintainable. In general, a good engineer can do that in any language; however, some languages make it easier than others to do so consistently. Some other considerations
+Per the golden rule of programming, your choice of language should enable your team to write code that is highly readable and maintainable. In general, a good engineer can do that in any language; however, some languages make it easier than others to do so consistently. Some other considerations for what language or ecosystem to choose:
 
-for what language or ecosystem to choose:
+* How large is the talent pool that is familiar with that language, and more specifically is familiar with that environment and also interested in startups like yours?
+* Are there existing implementations that you can use as a starting point?
+* Do you have particular performance or scaling requirements? Some languages are much faster than others for specific types of tasks. Haskell is famously inefficient at string manipulation, and C is famously fast at most things, though there are other languages that, for certain problems, approach or exceed the speed of C while providing an easier and more friendly coding environment.
+* Is there a particular framework that might be a good starting point in a particular language? React Native, for example, is a powerful cross-platform mobile language that requires JavaScript or TypeScript.
 
- How large is the talent pool that is familiar with that language, and
+In the enterprise setting, I recommend languages with static type systems, such as Golang, TypeScript, Rust, etc., so that the compiler can do more heavy lifting for ensuring code correctness, so that those constraints are visible to other developers, and so you don't run into that category of issue at runtime. You should strive for a local development environment where the tools are finding errors before your code is executed, called compile time checks. Fixing a compile time check is in general much faster and cheaper than fixing a runtime issue, and also by virtue of the fact that it's automated is better equipped than a runtime check to reliably find problems.
 
-more specifically is familiar with that environment and also interested in startups like yours?
+#### Code Style And Formatting
 
- Are there existing implementations that you can use as a starting point?
-
- Do you have particular performance or scaling requirements? Some
-
-languages are much faster than others for specific types of tasks. Haskell is famously inefficient at string manipulation, and C is famously fast at most things, though there are other languages that, for certain problems, approach or exceed the speed of C while providing an easier and more friendly coding environment.
-
- Is there a particular framework that might be a good starting point
-
-in a particular language? React Native, for example, is a powerful cross-platform mobile language that requires JavaScript or TypeScript.
-
-In the enterprise setting, I recommend languages with static type systems, such as Golang, TypeScript, Rust, etc., so that the compiler can do more heavy lifting for ensuring code correctness, so that those constraints are visible to
-
-other developers, and so you don't run into that category of issue at runtime. You should strive for a local development environment where the tools are finding errors before your code is executed, called compile time checks. Fixing a compile time check is in general much faster and cheaper than fixing a runtime issue, and also by virtue of the fact that it's automated is better equipped than a runtime check to reliably find problems.
-
-CODE STYLE AND FORMATTING
-
-In any widely used language, there will be either a published standard for how code should be formatted (e.g., PEP8 in Python) or a configurable tool that can enforce a particular code style and formatting (e.g., ESLint or Prettier
-
-in JavaScript, or ReSharper in C#). Most of these tools are very good at ensuring that code, regardless of who wrote it, is stylistically identical. In the spirit of ensuring your codebase is readable, there is no excuse for not using one of these tools and ensuring 100 percent of your codebase is formatted according
-
-to the same rules. Which rules you use is entirely you and your team's preference, but just make sure it's consistent and produces a readable result.
+In any widely used language, there will be either a published standard for how code should be formatted (e.g., PEP8 in Python) or a configurable tool that can enforce a particular code style and formatting (e.g., ESLint or Prettier in JavaScript, or ReSharper in C#). Most of these tools are very good at ensuring that code, regardless of who wrote it, is stylistically identical. In the spirit of ensuring your codebase is readable, there is no excuse for not using one of these tools and ensuring 100 percent of your codebase is formatted according to the same rules. Which rules you use is entirely you and your team's preference, but just make sure it's consistent and produces a readable result.
 
 I recommend you have a set of configuration options or instructions for the integrated development environments (IDEs) your developers use on how to auto format code when a file is saved. You should then, in your continuous integration system, ensure that all new code is formatted correctly.
 
