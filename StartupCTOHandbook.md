@@ -219,9 +219,7 @@ In that one succinct paragraph, Lopp hits on all the key points of management. F
 
 Many video games involve a concept of a skill tree. For those unfamiliar, a skill tree is a sequence of skills or abilities that are unlocked as the player progresses through the game. Each skill is unlocked by spending skill points. Here s the rub: at any given time, there are more skills to unlock than you have skill points to spend. The skill tree forces you to choose some skills before others. The skill tree provides a reasonable model for your career as well. At any given job, you're likely accumulating skill points toward some skills and not others.
 
-In your journey to tech leadership, you've already invested many skill points into the technical/engineering branch of the skill tree. My key insight for you is that the management branch of the skill tree is equally vast, and if you've not been investing points in that area up to now even if you're a Level
-
-100 engineer you'll start your new leadership position as a Level 1 manager staring at a mighty oak tree of yet-to-be-unlocked crucial skills. Once your company has more than a small handful of engineers, these skills will make the difference in your ability to scale up with the team.
+In your journey to tech leadership, you've already invested many skill points into the technical/engineering branch of the skill tree. My key insight for you is that the management branch of the skill tree is equally vast, and if you've not been investing points in that area up to now, even if you're a Level 100 engineer you'll start your new leadership position as a Level 1 manager staring at a mighty oak tree of yet-to-be-unlocked crucial skills. Once your company has more than a small handful of engineers, these skills will make the difference in your ability to scale up with the team.
 
 ### Kaizen: Continuous Improvement
 
