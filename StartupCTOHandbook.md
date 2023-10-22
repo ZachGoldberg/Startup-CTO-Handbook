@@ -2252,145 +2252,80 @@ If you're doing two-week sprints, that might mean that one in four or five sprin
 
 When discussing the process for writing tech specs with engineers, I'm often asked, How do you have time to write specs? Usually I counter with, How do you have time *not* to write tech specs? Implied in my response is that taking time to think through what you're building before you build it is a net time saver.
 
-Software engineering is inherently a creative process, meaning we re not doing the same thing every time and there is more than one way to do any particular story. A great planning process recognizes that there is value to
-
-be gained in thinking through a story in advance but balances that emphasis on pre-planning with the knowledge that the only real way to truly know everything about a feature is to actually build it.
+Software engineering is inherently a creative process, meaning we re not doing the same thing every time and there is more than one way to do any particular story. A great planning process recognizes that there is value to be gained in thinking through a story in advance but balances that emphasis on pre-planning with the knowledge that the only real way to truly know everything about a feature is to actually build it.
 
 A great tech planning process can accomplish several goals:
 
- Reduce the amount of rework in a feature
+* Reduce the amount of rework in a feature
+* Identify ways to do less work to achieve the same functionality
+* Decrease the chance that important non-business visible considerations are forgotten, such as error handling/negative cases, testing, logging, monitoring, analytics, security, scalability, launch planning, and tech debt payoff
+* Increase the chance that work from multiple people/teams is done in a compatible way
+* Provide valuable documentation for how and why a feature was built a certain way for future maintenance, improvement, or expansion
+* Keep the team thoughtful and aligned on irreversible/expensive technical considerations (e.g., tooling and architecture), as well as unlikely-to-forget key details
+* Prove lightweight enough that it is completable in reasonable time and doesn't force decisions on minor details that either don't matter or don't have enough information upfront
 
- Identify ways to do less work to achieve the same functionality
-
- Decrease the chance that important non-business visible consider -
-
-ations are forgotten, such as error handling/negative cases, testing, logging, monitoring, analytics, security, scalability, launch planning, and tech debt payoff
-
- Increase the chance that work from multiple people/teams is done in a
-
-compatible way
-
- Provide valuable documentation for how and why a feature was built a
-
-certain way for future maintenance, improvement, or expansion
-
- Keep the team thoughtful and aligned on irreversible/expensive tech -
-
-nical considerations (e.g., tooling and architecture), as well as unlikely-to-forget key details
-
- Prove lightweight enough that it is completable in reasonable time and
-
-doesn t force decisions on minor details that either don't matter or don't have enough information upfront
-
-TECH SPEC LEADS
+#### Tech Spec Leads
 
 I recommend that you designate a lead for any project that needs planning: a single person to be accountable for producing the technical specification and getting that specification through your approval workflow.
 
- at doesn t mean they're the only contributor. On the contrary, if other team members are available during the planning window and have helpful knowledge, they can and should contribute.
+That doesn t mean they're the only contributor. On the contrary, if other team members are available during the planning window and have helpful knowledge, they can and should contribute.
 
 Planning can be synchronous (i.e., everyone is in a room for the whole time period) or asynchronous. I recommend asynchronous planning as much of the work in planning will involve research (e.g., reading product documentation, reading code, prototyping/proof of concepting, evaluating tools and APIs, etc.) which can be done fine independently.
 
-TIME FOR PLANNING
+#### Time For Planning
 
 Your tech planning process should save you time in your initial implementation. It should also save time in the future by minimizing tech debt and leaving behind documentation that can accelerate future improvements.
 
 The wrong amount of time to put into planning doesn t meet these goals, either because it's too short and doesn t save you time/produce good documentation, or is so lengthy that it doesn t pay for itself in savings.
 
- There is no universal formula for the correct amount of time, but I'll provide a rule of thumb: allocate one day to technical planning for every week of work you estimate the project to take. In general, this will lead to between half-day and three-day planning windows. If your project requires less than two days of work, it likely needs very minimal planning effort and has low risk. Conversely, if you're looking at a project that is expected to take more than three solid weeks of development effort, you may not be able to efficiently plan something that large all at once and should consider breaking it down.
+There is no universal formula for the correct amount of time, but I'll provide a rule of thumb: allocate one day to technical planning for every week of work you estimate the project to take. In general, this will lead to between half-day and three-day planning windows. If your project requires less than two days of work, it likely needs very minimal planning effort and has low risk. Conversely, if you're looking at a project that is expected to take more than three solid weeks of development effort, you may not be able to efficiently plan something that large all at once and should consider breaking it down.
 
-If your team refuses to invest time into planning, you're likely pushing too hard for results over process. The way to ensure the engineering process produces good results for the business is not to crack the whip harder, but
+If your team refuses to invest time into planning, you're likely pushing too hard for results over process. The way to ensure the engineering process produces good results for the business is not to crack the whip harder, but to establish a healthy process that enables good results. You wouldn t speed up a structural engineering team designing a bridge by having them work longer hours. You would make sure they have the best bridge-designing tools available to them with the best possible information about the span being bridged. Software engineering is no different. But instead of using CAD software or real-world measurements of soil/rock, we have product specifications, design process, and software tools.
 
-to establish a healthy process that enables good results. You wouldn t speed
+Conversely, an overly lengthy planning process where team members insist on getting every minute detail upfront can be an indicator of a serious cultural problem, where team members are paralyzed by fear of making a mistake. Effective planning won t eliminate risk, but thinking through important, high-level decisions in advance can minimize it. A team that obsesses over details may be afraid of making mistakes or unwilling to iterate on their work both symptoms of overly results-driven management. Individuals should not be punished for reasonable mistakes or planning oversights. It's fine if a tech spec isn t perfect upfront; expect your team to find mistakes or gaps during implementation, and update the spec when those issues are found.
 
-up a structural engineering team designing a bridge by having them work longer hours. You would make sure they have the best bridge-designing tools available to them with the best possible information about the span being bridged. Software engineering is no different. But instead of using CAD software or real-world measurements of soil/rock, we have product specifications, design process, and software tools.
-
-Conversely, an overly lengthy planning process where team members insist on getting every minute detail upfront can be an indicator of a serious cultural problem, where team members are paralyzed by fear of making
-
-a mistake. Effective planning won t eliminate risk, but thinking through important, high-level decisions in advance can minimize it. A team that obsesses over details may be afraid of making mistakes or unwilling to iterate on their work both symptoms of overly results-driven management. Individuals should not be punished for reasonable mistakes or planning oversights. It's fine if a tech spec isn t perfect upfront; expect your team to find mistakes or gaps during implementation, and update the spec when those issues are found.
-
-Prototyping as Part of Spec Writing![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.085.png)
+### Prototyping as Part of Spec Writing!
 
 Often when writing a technical specification you'll have multiple options for how to achieve a goal without any overtly compelling arguments on paper to go one way or another. Or you'll discover unknowns about the effectiveness of a particular option, which makes the decision ambiguous. If possible especially if it can be done efficiently I encourage you to give your engineering teams space to prototype one or more of these solutions to gain data to make better decisions in planning. Half a day devoted to building a toy with a new tool to validate that the tool will achieve the desired results upfront is half a day well spent.
 
-TECH SPEC CONTENT
+### Tech Spec Content
 
-Having a template that your team uses when starting to write a technical specification is a great way to speed things up and ensure important topics are not neglected. I recommend your template primarily be a sequence of headings with topic areas to be covered, perhaps with a bit of instruction
+Having a template that your team uses when starting to write a technical specification is a great way to speed things up and ensure important topics are not neglected. I recommend your template primarily be a sequence of headings with topic areas to be covered, perhaps with a bit of instruction or reminder for tech spec authors. I've included a sample tech spec at ctohb.com/templates.
 
-or reminder for tech spec authors. I've included a sample tech spec at ctohb.com/templates.
-
-A quick aside before jumping into content: technical documents can be
-
-a bit dry and serious. If it aligns with your culture, I encourage you to inject lightheartedness where it's appropriate and not distracting. A good example is a clever meme at the top of the document that references the subject of the specification. In my experience, it takes only a manager/leader making
-
-a meme once in a spec to encourage others on the team (read: open the floodgates) to add their own.
+A quick aside before jumping into content: technical documents can be a bit dry and serious. If it aligns with your culture, I encourage you to inject lightheartedness where it's appropriate and not distracting. A good example is a clever meme at the top of the document that references the subject of the specification. In my experience, it takes only a manager/leader making a meme once in a spec to encourage others on the team (read: open the floodgates) to add their own.
 
 Some suggested components to include in the template:
 
- A reminder that the document is in fact a template, and authors should make a copy before starting writing (this mistake is easy to make!)
+* A reminder that the document is in fact a template, and authors should make a copy before starting writing (this mistake is easy to make!)
+* Guidance for how a specification should be thought about/a reference to company specification guidelines and approval processes
+* A background section explaining the business rationale for the project
+* Any particularly standout areas of technical risk this project has (e.g., it touches sensitive PII, or involves previously unused tools/architecture)
+* A glossary/definition of any non-obvious terms
+* Any explicit business goals the spec aims to achieve/correlation with previously stated goals (i.e., quarterly KPIs or OKRs)
+* A solution architecture overview (the bulk of the document)
+* Tech debt specifically discuss why or why not addressing any required/adjacent debt
+* Data modeling, including required updates to a database or data pipelines
+* Internal and external reporting or analytics and measurement requirements
+* Testing
+* Deployment
+* Feature toggles/flags
+* Implications on overall system reliability or disaster recovery Security and privacy
+* Deliverable milestones
 
- Guidance for how a specification should be thought about/a reference
-
-to company specification guidelines and approval processes
-
- A background section explaining the business rationale for the project
-
- Any particularly standout areas of technical risk this project has (e.g., it
-
-touches sensitive PII, or involves previously unused tools/architecture)
-
- A glossary/definition of any non-obvious terms
-
- Any explicit business goals the spec aims to achieve/correlation with
-
-previously stated goals (i.e., quarterly KPIs or OKRs)
-
- A solution architecture overview (the bulk of the document)
-
- Tech debt specifically discuss why or why not addressing any
-
-required/adjacent debt
-
- Data modeling, including required updates to a database or data
-
-pipelines
-
- Internal and external reporting or analytics and measurement
-
-requirements
-
- Testing
-
- Deployment
-
- Feature toggles/flags
-
- Implications on overall system reliability or disaster recovery Security and privacy
-
- Deliverable milestones
-
-**TECH SPEC APPROVAL![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.086.png)**
+### Tech Spec Approval
 
 To achieve the goal of ensuring consistency and alignment across projects and between team members, you must ensure team members are reading and contributing to each other s planning process. My recommendation to achieve this is to have a lightweight approval process for a specification before it can be considered complete.
 
-REVIEW GOALS
+#### Review Goals
 
 Your tech spec review goals should include the following:
 
- Ensure all teams/projects are aligned on technical direction and build -
+* Ensure all teams/projects are aligned on technical direction and building consistently.
+* Review and educate the team on important data concepts/technical contracts.
+* Ensure universal and consistent understanding of the problem at hand.
+* Minimize chance of missing important edge cases or other non-business visible requirements.
 
-ing consistently.
-
- Review and educate the team on important data concepts/technical
-
-contracts.
-
- Ensure universal and consistent understanding of the problem at hand.
-
- Minimize chance of missing important edge cases or other non-busi -
-
-ness visible requirements.
-
-REVIEW PROCESS
+#### Review Process
 
 My recommendation for a lightweight review process is an asynchronous conversation in the document followed by a synchronous conflict resolution meeting (see Meetings and Time Management, page 28, for more on conflict resolution meetings). The author of the technical specification should, once they ve made some progress on the key elements of the project, circulate the document with other engineers who have sufficient context. The idea is for others to read the document and leave comments and questions in their own time. Many of these issues can be resolved quickly and asynchronously by the lead author, but some may be contentious or highly nuanced, requiring higher bandwidth communication.
 
@@ -2398,97 +2333,61 @@ To close out the process, the author should schedule a meeting whose attendees a
 
 Once all open questions are resolved, document who contributed to the specification (so a future reader knows to whom they should direct further questions), and consider the document approved.
 
-LEADERS IN SPECIFICATION REVIEW MEETINGS
+#### Leaders In Specification Review Meetings
 
-The technical leader or manager does not have to be the approver for all technical documents. I encourage you to build a culture where the team
+The technical leader or manager does not have to be the approver for all technical documents. I encourage you to build a culture where the team as a whole feels safe to contribute and doesn t rely on you to provide technical guardrails or support. Early on, when the department is relatively small, you should be heavily involved in most or all specifications, but that approach won t scale. As soon as you've hired other senior individual contributors, architects, or managers, empower them to be lead reviewers and defer to them, allowing them to do the job you hired them for. If you find a senior member is not guiding the team well in these reviews, don t walk all over them in a public forum. Discuss and course-correct with them in private.
 
-as a whole feels safe to contribute and doesn t rely on you to provide technical guardrails or support. Early on, when the department is relatively small, you should be heavily involved in most or all specifications, but that approach won t scale. As soon as you've hired other senior individual contributors, architects, or managers, empower them to be lead reviewers and defer to them, allowing them to do the job you hired them for. If you find a senior member is not guiding the team well in these reviews, don t
+#### Technical Specifications As Documentation
 
-walk all over them in a public forum. Discuss and course-correct with them in private.
-
-TECHNICAL SPECIFICATIONS AS DOCUMENTATION
-
-Your tech team is now spending time creating thoughtful documents that cover how you're engineering your product, and the team should
-
-be making fewer mistakes as a result. The last way that technical specifications help you is by providing useful resources for future engineers who need to augment or modify the work that s been done. I recommend that you create a well-organized and searchable directory (e.g., an internal wiki such as Confluence or Notion, or document storage like Google Drive), and that your team be diligent about ensuring all specification documents are added to the directory. It may also be helpful to link or refer to the specification in code comments to explain why something is implemented the way it is.
+Your tech team is now spending time creating thoughtful documents that cover how you're engineering your product, and the team should be making fewer mistakes as a result. The last way that technical specifications help you is by providing useful resources for future engineers who need to augment or modify the work that s been done. I recommend that you create a well-organized and searchable directory (e.g., an internal wiki such as Confluence or Notion, or document storage like Google Drive), and that your team be diligent about ensuring all specification documents are added to the directory. It may also be helpful to link or refer to the specification in code comments to explain why something is implemented the way it is.
 
 ## Developer Experience (DX)
 
 DevOps tooling company Harness (harness.io) defines Developer Experience (DX) as the overall interactions and feelings that the developer feels when working towards a goal. It is similar to the definition of User Experience (UX), except in this case the primary user is a software engineer.
 
-Developer experience may not always be measured on a dashboard, but when it's designed poorly, the team knows it, and they may complain loudly about it. Bad developer experience can derail an engineer an entire afternoon for example, an attempt to boot up the microservice to test it throws
+Developer experience may not always be measured on a dashboard, but when it's designed poorly, the team knows it, and they may complain loudly about it. Bad developer experience can derail an engineer an entire afternoon for example, an attempt to boot up the microservice to test it throws a cryptic traceback and the maintainer of the service is on vacation, so a mid-level engineer spins their wheels for hours just trying to get to a reliable build-execute-test loop.
 
-a cryptic traceback and the maintainer of the service is on vacation, so a mid-level engineer spins their wheels for hours just trying to get to a reliable build-execute-test loop.
+Multiply this inefficiency by all the engineers on your team and all the various types of repositories, services, and projects that exist at your company and it can quickly spiral into losing person-months of productivity in direct time. Add in additional context-switching time spent bringing in others to help solve the problems, and poor DX quickly goes to the top of the list of areas that, when left unaddressed, can tank an otherwise high-performing engineering team.
 
-Multiply this inefficiency by all the engineers on your team and all the various types of repositories, services, and projects that exist at your company and it can quickly spiral into losing person-months of productivity
-
-in direct time. Add in additional context-switching time spent bringing in others to help solve the problems, and poor DX quickly goes to the top of the list of areas that, when left unaddressed, can tank an otherwise high-performing engineering team.
-
- There are two prerequisites to a great developer experience:
+There are two prerequisites to a great developer experience:
 
 1. Tools that make it easy to have highly reliable and reproducible environments and dependency chains
 1. Documentation and consistency in practices for how things are done
 
- ankfully, nowadays, many readily available tools and ecosystems
-
-can help with #1. Most programming languages have an ecosystem with standardized tools for dependency management and reproducible environments. It's up to you to identify and use them (e.g., npm, pipfile, etc.). Many of these systems produce a file called a lock file.
-
-
-2\.5DEVELOPEEXRPERIEN(DCX)E
+Thankfully, nowadays, many readily available tools and ecosystems can help with #1. Most programming languages have an ecosystem with standardized tools for dependency management and reproducible environments. It's up to you to identify and use them (e.g., npm, pipfile, etc.). Many of these systems produce a file called a lock file.
 
 The lock file is not for concurrency management to avoid deadlocks; it's designed to lock in place a specific instance of the dependency graph. You should be committing these lock files and making sure other developers and any build systems use them. The lock file helps guarantee that everyone on the team has installed an identical set of dependencies.
 
-If your chosen programming language does not provide those tools, then
-
-it's up to you to build that reproducibility perhaps by using docker containers, makefiles, or the like.
+If your chosen programming language does not provide those tools, then it's up to you to build that reproducibility perhaps by using docker containers, makefiles, or the like.
 
 Often the difference between good DX and bad DX is twenty or thirty minutes of upfront effort from somebody familiar with the codebase.
 
 It doesn t take long to ensure that basic build commands work in a fresh install, and that those commands are documented in a local README.
 
-One opportunity for you as CTO to make this easier is to ensure that the build commands used across repositories and codebases at your company
+One opportunity for you as CTO to make this easier is to ensure that the build commands used across repositories and codebases at your company are consistent. Maybe it's always docker compose up or always yarn run. Whatever it is, any developer should be able to git clone any repository, and then the first command that comes to mind to build and run the software works.
 
-are consistent. Maybe it's always docker compose up or always yarn run. Whatever it is, any developer should be able to git clone any repository, and then the first command that comes to mind to build and run the software works.
-
-**PRIORITIZING DEVELOPER EXPERIENCE![ref11]**
+### Prioritizing Developer Experience
 
 Anything not on the product roadmap can be difficult to prioritize.
 
- ankfully, DX rarely requires a large enough investment of time that it needs triaging on the roadmap. In the early days of your company, I prefer
-
-to follow the Boy Scout Rule leave the codebase (or developer experience) better than you found it. Any time a developer encounters a problem building, running, or testing something, it is their responsibility to fix, document, or otherwise ensure that whoever comes to that code next has
-
-an easier time of it.
+Thankfully, DX rarely requires a large enough investment of time that it needs triaging on the roadmap. In the early days of your company, I prefer follow the Boy Scout Rule leave the codebase (or developer experience) better than you found it. Any time a developer encounters a problem building, running, or testing something, it is their responsibility to fix, document, or otherwise ensure that whoever comes to that code next has an easier time of it.
 
 As systems start to get larger it can become an increasingly sizeable chore to get everything running locally together to test functionality. At this point it may be worth investing in DX more formally on the roadmap, or even with dedicated headcount, to ensure that tools are working and developers don't lose large chunks of time fighting the system instead of writing productive code.
 
-**EASY DEVELOPER EXPERIENCE WINS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.088.png)**
+### Easy Developer Experience Wins
 
 Here are a few easy wins to upgrade DX across your software engineering team:
 
- Have a README file with instructions to run a codebase ideally a
+* Have a README file with instructions to run a codebase ideally a one-liner to install dependencies then build and run the code.
+* Enforce that all code be linted with a strict set of linting rules that is consistent across all usages of that language at your company. Fail your builds if linting doesn t pass. If all developers have their IDE configured to auto-lint, builds should rarely fail for lint issues.
 
-one-liner to install dependencies then build and run the code.
+* Ensure that lint configuration is checked into source control where possible (i.e., by investing in setting up something like VSCode s settings.json file, found at ctohb.com/vscode).
 
- Enforce that all code be linted with a strict set of linting rules that is
+* Invest time in making sure that local test data can be set up in local databases from scratch. Often a quick data generator or seed data script can short-circuit a lot of developer headaches. Better yet if the seed data can be easily augmented to add additional corner cases/use cases as the system evolves, so that the base set of test data can be as comprehensive/representative as possible.
 
-consistent across all usages of that language at your company. Fail your builds if linting doesn t pass. If all developers have their IDE configured to auto-lint, builds should rarely fail for lint issues.
+* Develop a plan for how to either mock or actually spin up dependent services locally to test multiple-service interactions when necessary. Ideally, with good contracts and domain-driven design, the need for this will be rare, though it should still be easy when necessary.
 
- Ensure that lint configuration is checked into source control where pos -
-
-sible (i.e., by investing in setting up something like VSCode s settings.json file, found at ctohb.com/vscode).
-
- Invest time in making sure that local test data can be set up in local
-
-databases from scratch. Often a quick data generator or seed data script can short-circuit a lot of developer headaches. Better yet if the seed data can be easily augmented to add additional corner cases/use cases as
-
-the system evolves, so that the base set of test data can be as comprehensive/representative as possible.
-
- Develop a plan for how to either mock or actually spin up dependent
-
-services locally to test multiple-service interactions when necessary. Ideally, with good contracts and domain-driven design, the need for this will be rare, though it should still be easy when necessary.
-
-**CHANGING TOOLS FOR DEVELOPER EXPERIENCE![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.089.jpeg)**
+### Changing Tools For Developer Experience
 
 In 2022, Stripe, the fintech decacorn (i.e., a company valued at more than $10 billion), decided that Flow, its current programming language, had become too expensive to use. It was using too much memory, locking up laptops, and integrated poorly with developer IDEs.
 
@@ -2498,29 +2397,20 @@ The answer, it turns out, is an eighteen-month project by a team of engineers to
 
 The lesson here is that if the pain of poor developer experience is severe enough, then almost no cost is too high or any project out of reach to make improvements. Your team is almost certainly smaller than Stripe s, and you're likely not dealing with millions of lines of code, but the same calculus applies: if your team is encountering friction in DX that is slowing it down, you must invest the necessary developer time and effort to improve it to gain that efficiency back.
 
-Another problem teams often face is changing tooling too often. In certain tech ecosystems (particularly the JavaScript world), it seems something new and shiny comes out every month that could provide a productivity boost for your team. I encourage you to be disciplined about adopting new tools, make sure you've spent the time to really understand
-
-the pain that exists, diligence the new tool, see if it meets *all* your requirements not just the shiny headline and make decisions accordingly. For more on my recommended process here, see Implementing Internal Technology Radar, page 204.
+Another problem teams often face is changing tooling too often. In certain tech ecosystems (particularly the JavaScript world), it seems something new and shiny comes out every month that could provide a productivity boost for your team. I encourage you to be disciplined about adopting new tools, make sure you've spent the time to really understand the pain that exists, diligence the new tool, see if it meets *all* your requirements not just the shiny headline and make decisions accordingly. For more on my recommended process here, see Implementing Internal Technology Radar, page 204.
 
 # Tech Architecture
 
-One of your key responsibilities as a tech leader is to make good decisions on your architecture and tools. Good architecture aligns the strengths of the tools and patterns you choose with the needs of your organization now and in the foreseeable future. at requires understanding the strengths, weaknesses, and tradeoffs inherent in each choice. My goal in this section
+One of your key responsibilities as a tech leader is to make good decisions on your architecture and tools. Good architecture aligns the strengths of the tools and patterns you choose with the needs of your organization now and in the foreseeable future. at requires understanding the strengths, weaknesses, and tradeoffs inherent in each choice. My goal in this section of the book is to make you aware in general of the landscape of options in various domains, and help you recognize the general tradeoffs that different strategies entail.
 
-of the book is to make you aware in general of the landscape of options in various domains, and help you recognize the general tradeoffs that different strategies entail.
-
-One thing to keep in mind when discussing tools and tool choice with your team: engineers can be emotional about tool choice. Tools are reviewed
-
-as good and bad, and people have personal likes, dislikes, and biases. As
-
-the leader and decision-maker, I strongly caution you against adopting this style of language when discussing tools. Not only can it potentially alienate team members if you're disparaging their personal favorite tool; it's also unproductive and can distract from the goal of identifying a good solution for your problem. Some individual tools are genuinely poorly designed and overshadowed by superior alternatives.
+One thing to keep in mind when discussing tools and tool choice with your team: engineers can be emotional about tool choice. Tools are reviewed as good and bad, and people have personal likes, dislikes, and biases. As the leader and decision-maker, I strongly caution you against adopting this style of language when discussing tools. Not only can it potentially alienate team members if you're disparaging their personal favorite tool; it's also unproductive and can distract from the goal of identifying a good solution for your problem. Some individual tools are genuinely poorly designed and overshadowed by superior alternatives.
 
 More often than not, a more nuanced evaluation will reveal that a given tool isn t inherently bad, but rather appropriate or inappropriate for a particular company or project. Don't let one bad past experience of trying to use a tool that was inappropriate for solving one problem prevent you or your team from using it another time when it may prove a better fit.
 
 
-
 ## Architecture
 
- There are many excellent resources that explore various architectural patterns deeply; one of my favorites is Martin Fowler s *Patterns of Enterprise Application Architecture*. In this chapter, I'll provide a summary of some key phrases you'll hear so you have context when exploring these topics in depth elsewhere.
+There are many excellent resources that explore various architectural patterns deeply; one of my favorites is Martin Fowler s *Patterns of Enterprise Application Architecture*. In this chapter, I'll provide a summary of some key phrases you'll hear so you have context when exploring these topics in depth elsewhere.
 
 **DOMAIN-DRIVEN DESIGN![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.090.png)**
 
