@@ -277,7 +277,7 @@ Some quick thoughts for agendas of skip-level meetings:
 
 * Connect with the employee; ask questions and get curious.
 
-* There are many good actual templates/agendas for skip-levels on the internet. Here's one from managementcenter.org that I recommend: ctohb. com/skip.
+* There are many good actual templates/agendas for skip-levels on the internet. Here's one from managementcenter.org that I recommend: ctohb.com/skip.
 
 ### COACHING MANAGERS
 
