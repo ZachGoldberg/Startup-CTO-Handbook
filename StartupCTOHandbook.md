@@ -2013,153 +2013,90 @@ Your team is continuously creating tribal knowledge, be it how to start a servic
 
 ## Tech Debt
 
-San Francisco s Golden Gate Bridge is made out of steel, which is not actually golden in color. The bridge is painted, and maintaining the iconic color of the bridge is so important to San Franciscans that they paint it continuously (ctohb.com/painting). Once repainting is finished, the process immediately restarts. is form of continuous investment or perpetual maintenance is what s required to keep the most important and sophisticated systems performing to expectations, from the Golden Gate Bridge
+San Francisco s Golden Gate Bridge is made out of steel, which is not actually golden in color. The bridge is painted, and maintaining the iconic color of the bridge is so important to San Franciscans that they paint it continuously (ctohb.com/painting). Once repainting is finished, the process immediately restarts. is form of continuous investment or perpetual maintenance is what s required to keep the most important and sophisticated systems performing to expectations, from the Golden Gate Bridge to your team s software project. Only for your project, the maintenance doesn t require paint buckets; it comes in the form of technical debt.
 
-to your team s software project. Only for your project, the maintenance doesn t require paint buckets; it comes in the form of technical debt.
+Every feature a software development team delivers brings with it some level of need for future work, or debt. at debt can take the form of bugs that need fixing, fast-follows to the feature to deliver incremental customer value, or sloppiness in the code that should be fixed to improve maintainability, performance, or security. A certain amount of debt naturally accrues even if your team is out on vacation: security vulnerabilities in dependent software are found, packages go out of date, new versions of tools are released, third-party APIs are deprecated or changed, etc. Debt is unavoidable and you need to account for it.
 
-Every feature a software development team delivers brings with it some level of need for future work, or debt. at debt can take the form
+### Tech Debt And The Product Lifecycle
 
-of bugs that need fixing, fast-follows to the feature to deliver incremental customer value, or sloppiness in the code that should be fixed to improve maintainability, performance, or security. A certain amount of debt naturally accrues even if your team is out on vacation: security vulnerabilities in dependent software are found, packages go out of date, new versions of tools are released, third-party APIs are deprecated or changed, etc. Debt is unavoidable and you need to account for it.
+Another way to think of tech debt is like financial debt, such as a mortgage on a house. When you take out a mortgage to buy a house, you're making a deliberate decision to take on debt, knowing the consequences (interest), to enable you to do something you want now (get a house). Then you pay down that debt on a consistent basis over an extended period of time (monthly payments).
 
-**TECH DEBT AND THE PRODUCT LIFECYCLE![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.076.jpeg)**
-
-Another way to think of tech debt is like financial debt, such as a mortgage on a house. When you take out a mortgage to buy a house, you're making
-
-a deliberate decision to take on debt, knowing the consequences (interest), to enable you to do something you want now (get a house). en you
-
-pay down that debt on a consistent basis over an extended period of time (monthly payments).
-
-The same happens with technology debt. Your startup may accumulate
-
-it deliberately as part of a conscious tradeoff, and part of that tradeoff is establishing a realistic plan for paying it down. You should apply the same kind of logic you would to pay down financial debt to addressing your technical debt: either pay it off upfront because you have extra resources (and
-
-no better place to put those resources), pay it off continuously over time, or pay it all off down the road but perhaps at a higher total price that includes interest.
+The same happens with technology debt. Your startup may accumulate it deliberately as part of a conscious tradeoff, and part of that tradeoff is establishing a realistic plan for paying it down. You should apply the same kind of logic you would to pay down financial debt to addressing your technical debt: either pay it off upfront because you have extra resources (and no better place to put those resources), pay it off continuously over time, or pay it all off down the road but perhaps at a higher total price that includes interest.
 
 However you choose to pay down your tech debt, the key to doing so successfully is to recognize that debt is an inevitable part of the software engineering process, and proactively paying down debt is a necessary investment in overall engineering health.
 
-DEFINING TECH DEBT
+#### Defining Tech Debt
 
-Another way to define technical debt is as a technical decision, implementation, or nuance that actively reduces the efficiency or effectiveness of the business today or in the future. The point is that tech debt has a consequence that matters. Some of your code might be objectively ugly or inefficient, but if that inefficiency has no impact on the business and There'sno need to modify that code in the future to maintain quality, performance,
-
-or iteration, then that code isn t costly in terms of tech debt. After all, the goal of software development, especially at a startup, is not to write the perfect codebase, but to build software that enables the business.
+Another way to define technical debt is as a technical decision, implementation, or nuance that actively reduces the efficiency or effectiveness of the business today or in the future. The point is that tech debt has a consequence that matters. Some of your code might be objectively ugly or inefficient, but if that inefficiency has no impact on the business and There'sno need to modify that code in the future to maintain quality, performance, or iteration, then that code isn t costly in terms of tech debt. After all, the goal of software development, especially at a startup, is not to write the perfect codebase, but to build software that enables the business.
 
 Don't be afraid of debt. It can serve a purpose. For example, when building Version 1 of a product that s not yet been validated in the market, a technical team may decide on an architecture that will not scale past a hundred users. If that decision allows the team to rapidly validate the product and determine whether or not a hundred users will ever use the product, that path may be worthwhile especially given the fact that it may take several versions of these prototypes to find one that users love.
 
- There are at least seven types of technical debt:
+There are at least seven types of technical debt:
 
- **Architecture** or **Design Debt** arises when the design of the software is
+1. **Architecture** or **Design Debt** arises when the design of the software is not capable of meeting the near-term or future needs of the business. For example, the design makes it too challenging to build the features the business needs, or the design won t scale to the number of users or performance requirements of the business.
+1. **Code Debt** accrues when the implementation itself was done without paying attention to best practices, yielding code that s difficult to understand and maintain.
+1. **Test Debt** accumulates when you've run insufficient automated tests to provide the team confidence in the correctness of the codebase.
+1. **Infrastructure Debt** occurs when the infrastructure, observability, and supporting systems are not robust or have been poorly maintained, leading to difficulty scaling or deploying updates, or poor uptime and reliability.
+1. **Documentation Debt** results when There'sinsufficient documentation, or the documentation is stale/inaccurate, which can make it difficult for team members to onboard a project.
+1. **Skill Debt** rises when the team members lack the needed skills to maintain or update the code or surrounding infrastructure.
+1. **Process Debt** accrues when the team is inconsistent in how it solves problems, leading to mistakes, delays, or increased costs.
 
-not capable of meeting the near-term or future needs of the business. For example, the design makes it too challenging to build the features the business needs, or the design won t scale to the number of users or performance requirements of the business.
-
- **Code Debt** accrues when the implementation itself was done without
-
-paying attention to best practices, yielding code that s difficult to understand and maintain.
-
- **Test Debt** accumulates when you've run insufficient automated tests to
-
-provide the team confidence in the correctness of the codebase.
-
- **Infrastructure Debt** occurs when the infrastructure, observability,
-
-and supporting systems are not robust or have been poorly maintained, leading to difficulty scaling or deploying updates, or poor uptime and reliability.
-
- **Documentation Debt** results when There'sinsufficient documentation,
-
-or the documentation is stale/inaccurate, which can make it difficult for team members to onboard a project.
-
- **Skill Debt** rises when the team members lack the needed skills to
-
-maintain or update the code or surrounding infrastructure.
-
- **Process Debt** accrues when the team is inconsistent in how it solves
-
-problems, leading to mistakes, delays, or increased costs.
-
-TECH DEBT BANKRUPTCY
+#### Tech Debt Bankruptcy
 
 If your startup neglects or ignores tech debt for long enough, it can become a major impediment to future progress. Teams can unintentionally find themselves spending 80 or even 100 percent of their time sorting through system problems or inefficiencies as a result of tech debt, a state known as tech debt bankruptcy.
 
 Some signs your team may be tech debt-bankrupt:
 
-You are regularly dealing with production outages to the point of material business impact.
-
-You receive constant pushback or exaggerated timelines on new fea tures due to the need to deal with debt.
-
-The team complains that a codebase is too complex to get work done.
-
-New features cannot be shipped without accidentally breaking old fea -
-
-tures or introducing an unacceptably high level of defects.
+* You are regularly dealing with production outages to the point of material business impact.
+* You receive constant pushback or exaggerated timelines on new fea tures due to the need to deal with debt.
+* The team complains that a codebase is too complex to get work done.
+* New features cannot be shipped without accidentally breaking old fea tures or introducing an unacceptably high level of defects.
 
 If you find yourself in tech debt bankruptcy, it's time to raise the alarm, reset expectations with stakeholders, devise a plan to consolidate the debt, and begin paying it down immediately.
 
 If you've been honest with your peers in leadership (see Delivering Bad News, page 46), you should have the necessary credibility to explain the tech debt problem and develop a common understanding of the ROI for an investment in resolving tech debt.
 
-MEASURING DEBT THE DEBT INVENTORY
+#### Measuring Debt The Debt Inventory
 
-Unlike with a mortgage or car loan, There'sno website you can visit that will give you a statement of your exact amount of tech debt and remaining payments. Some forms of debt can be measured quantitatively, but most
+Unlike with a mortgage or car loan, There'sno website you can visit that will give you a statement of your exact amount of tech debt and remaining payments. Some forms of debt can be measured quantitatively, but most of the analysis is qualitative. For healthy and responsible debt management at scale, I recommend a debt inventory survey.
 
-of the analysis is qualitative. For healthy and responsible debt management at scale, I recommend a debt inventory survey.
-
-The survey should be taken at regular intervals. Somewhere from one
-
-to four times per year, do a sober analysis across the varying kinds of debt,
-
-producing an honest assessment of where the team is operating. Don't take
-
-the survey independently; rather, do so in collaboration with other engineers on the team who are working in the code every day and interacting with the debt on a regular basis.
+The survey should be taken at regular intervals. Somewhere from one to four times per year, do a sober analysis across the varying kinds of debt, producing an honest assessment of where the team is operating. Don't take the survey independently; rather, do so in collaboration with other engineers on the team who are working in the code every day and interacting with the debt on a regular basis.
 
 A survey can be as simple as this: for each of the following types of debt, rate how much we have on a scale of 1 to 10, then provide a few sentences justifying the score.
 
 Use the results of the survey to inform how your team spends its energy paying down debt, and compare results between surveys over time to ensure debt stays at a reasonable level and your team is regularly solving its biggest debt pain points.
 
-**STRATEGIES FOR PAYING DOWN DEBT![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.077.png)**
+#### Strategies For Paying Down Debt
 
-In order to decide when to pay down tech debt, you should first consider how much of your team s time is worth spending on it. Key considerations include:
+In order to decide when to pay down tech debt, you should first consider how much of your team's time is worth spending on it. Key considerations include:
 
- How much debt exists, as indicated by your most recent debt inventory
-
-survey
-
- How much it is hindering your company s ability to run day to day i.e.,
-
-via outages, customer churn, or defect rates
-
- How much it is hurting your team s ability to deliver on new projects How difficult it will be to pay down the debt
+* How much debt exists, as indicated by your most recent debt inventory survey
+* How much it is hindering your company s ability to run day to day i.e., via outages, customer churn, or defect rates
+* How much it is hurting your team s ability to deliver on new projects How difficult it will be to pay down the debt
 
 If you are not in tech debt bankruptcy and your goal is to maintain a healthy level of debt, I recommend allocating somewhere between 10 20 percent of your team s time to investments in non-feature engineering (e.g., paying down debt, exploring new patterns/proofs of concept, improving developer experience, etc.). The more severe your current debt impact, and the higher the effort to pay down the debt, the higher the percentage of your team s time you should allocate.
 
-JUST-IN-TIME PAYMENT
+##### Just-In-Time Payment
 
-The most common way to handle tech debt is to pay it off on a Just-in- Time basis, meaning the debt is paid off as part of a business-driven project. is will often look like a team adding tech debt tickets that relate to
+The most common way to handle tech debt is to pay it off on a Just-in- Time basis, meaning the debt is paid off as part of a business-driven project. is will often look like a team adding tech debt tickets that relate to the stories that have been selected for a sprint in a planning meeting. This is a low-overhead and low-planning-effort approach, and it can work out well. But be mindful of some potential pitfalls:
 
-the stories that have been selected for a sprint in a planning meeting. is
+* Just-in-time payments, by virtue of being less visible to the broader team, can lead to systemic underinvestment in tech debt. Make sure you are being honest and transparent with the team as you do just-in- time-payment about what total percentage of team time you're expecting to be in debt.
 
-is a low-overhead and low-planning-effort approach, and it can work out well. But be mindful of some potential pitfalls:
+* Adding tech debt as part of a sprint can imply that investing in tech debt is a secondary objective to the sprint goals, and thus likely to get cut from scope if a team runs low on time.
 
- Just-in-time payments, by virtue of being less visible to the broader team, can lead to systemic underinvestment in tech debt. Make sure
+* Tackling tech debt in a sprint may be perceived as slowing down the sprint or causing delays, rather than as an investment in velocity and overall system health.
 
-you are being honest and transparent with the team as you do just-in- time-payment about what total percentage of team time you're expecting to be in debt.
+##### Periodic Paydown
 
-Adding tech debt as part of a sprint can imply that investing in tech debt is a secondary objective to the sprint goals, and thus likely to get cut from scope if a team runs low on time.
-
-Tackling tech debt in a sprint may be perceived as slowing down the sprint or causing delays, rather than as an investment in velocity and overall system health.
-
-#### Periodic Paydown
-
-Periodic paydown is akin to how one might pay down a car loan or a mortgage. The team makes space to pay off debt on a fixed interval (e.g., a day
-
-per sprint, a couple of days per month, or a couple of weeks per quarter). Google famously allowed their engineers 20 percent time to work on whatever they wanted, including paying down debt or innovating on new projects and tools. The idea here is the same: as a manager, you explicitly make time and encourage the team to make investments into the tools and processes used to do engineering.
+Periodic paydown is akin to how one might pay down a car loan or a mortgage. The team makes space to pay off debt on a fixed interval (e.g., a day per sprint, a couple of days per month, or a couple of weeks per quarter). Google famously allowed their engineers 20 percent time to work on whatever they wanted, including paying down debt or innovating on new projects and tools. The idea here is the same: as a manager, you explicitly make time and encourage the team to make investments into the tools and processes used to do engineering.
 
 For example, the Shape Up method (see Tech Process, page 157) describes a two-week cooldown period after a six-week cycle, or 25 percent of an eight-week period, for making technical investments. Keep in mind that 25 percent isn t a magic number; the right percentage will depend on your team s debt inventory.
 
 #### Continuous Paydown
 
-Depending on how expensive debt is for your team, you may want to dedicate more resources to overall system quality than a periodic strategy allows. is looks like having a dedicated team what I call a customer
+Depending on how expensive debt is for your team, you may want to dedicate more resources to overall system quality than a periodic strategy allows. is looks like having a dedicated team what I call a customer crew in a two-crew scenario (see Project Maintenance: TheTwo Crews Philosophy, page 113) pay down tech debt as part of their everyday work and objectives.
 
-crew in a two-crew scenario (see Project Maintenance: TheTwo Crews Philosophy, page 113) pay down tech debt as part of their everyday work and objectives.
-
-it's important to ensure that any team whose primary objective is internal efficiency, such as a tech debt team or a customer crew, has clear and measurable goals for their work. For example, if your debt inventory ranks test debt as your highest debt category, then measure defect rates and code coverage and hold the customer crew accountable for improving those metrics. If your infrastructure debt is the largest, then focus on uptime and Mean Time to Recovery metrics.
+It's important to ensure that any team whose primary objective is internal efficiency, such as a tech debt team or a customer crew, has clear and measurable goals for their work. For example, if your debt inventory ranks test debt as your highest debt category, then measure defect rates and code coverage and hold the customer crew accountable for improving those metrics. If your infrastructure debt is the largest, then focus on uptime and Mean Time to Recovery metrics.
 
 ### Communication of Tech Debt
 
@@ -2171,218 +2108,147 @@ When it comes to debt, that means clearly communicating your strategy for keepin
 
 ### Timeframes
 
-I find it useful to think of a technology roadmap in three timeframes, sometimes labeled as short-, medium-, and long-term or horizon one,
+I find it useful to think of a technology roadmap in three timeframes, sometimes labeled as short-, medium-, and long-term or horizon one, two, and three. Each timeframe should be managed by a different process and is often owned by different stakeholders.
 
-two, and three. Each timeframe should be managed by a different process and is often owned by different stakeholders.
 
-![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.080.jpeg)
-
-SHORT-TERM/HORIZON ONE
+#### Short-Term/Horizon One
 
 Your short-term roadmap is what your team is working on now. is includes any in-flight features, actively worked-on defects, tech debt, or urgent work items. For more detail on managing your short-term roadmap, see Workflow in the Tech Process section, page 157.
 
 
-MEDIUM-TERM/HORIZON TWO
+#### Medium-Term/Horizon Two
 
-If you're the only technical manager on the team, then you are responsible for both the medium- and long-term roadmaps. If you have directors
-
-or senior managers reporting to you, you'll likely be collaborating on the medium-term roadmap. The medium-term roadmap is a very useful artifact not only for your own planning and organization but also as a tool
-
-to communicate with other departments/stakeholders on what the engineering team is doing.
+If you're the only technical manager on the team, then you are responsible for both the medium- and long-term roadmaps. If you have directors or senior managers reporting to you, you'll likely be collaborating on the medium-term roadmap. The medium-term roadmap is a very useful artifact not only for your own planning and organization but also as a tool to communicate with other departments/stakeholders on what the engineering team is doing.
 
 Typically, a medium-term roadmap is implemented as a spreadsheet where teams or individuals are rows, and columns are time periods often weeks or sprints and the contents of the table are high-level work items or work areas. The purpose of the roadmap is not to predict precisely when any given task will be completed; doing so would require accurate and precise estimates of work which is tenuous at best (even at a granularity of weeks) and never a guarantee. Instead, the idea is to outline an order of operations and set a direction for the team.
 
-You can and should expect to update the actual duration of any given activity as engineering progresses. Updating the number of weeks on a given task is a great point in time to evaluate whether continued investment in a project makes sense, and also to update external stakeholders on current completion estimates. Finally, the roadmap is helpful as a retrospective tool for tracking how long major initiatives took, and also to assess where a team
+You can and should expect to update the actual duration of any given activity as engineering progresses. Updating the number of weeks on a given task is a great point in time to evaluate whether continued investment in a project makes sense, and also to update external stakeholders on current completion estimates. Finally, the roadmap is helpful as a retrospective tool for tracking how long major initiatives took, and also to assess where a team is investing time at a very high level.
 
-is investing time at a very high level.
+#### Long-Term/Horizon Three
 
-LONG-TERM/HORIZON THREE
-
-As the leader of your team, it falls on you to focus on the long-term health and productivity of the team. You should spend time designing these goals and producing a well-thought-out, clear document (or slide deck, video, wiki article, etc.) that explains the goals to the team. Once you've set initial goals, revisit them infrequently as changing strategic goals causes churn in an organization. Just as problematically, frequent changes in direction can be confusing and demotivating for the team. I encourage you to provide an update on progress towards long-term initiatives on a
-
-quarterly basis, both to the entire engineering team as well as to other executive leaders.
+As the leader of your team, it falls on you to focus on the long-term health and productivity of the team. You should spend time designing these goals and producing a well-thought-out, clear document (or slide deck, video, wiki article, etc.) that explains the goals to the team. Once you've set initial goals, revisit them infrequently as changing strategic goals causes churn in an organization. Just as problematically, frequent changes in direction can be confusing and demotivating for the team. I encourage you to provide an update on progress towards long-term initiatives on a quarterly basis, both to the entire engineering team as well as to other executive leaders.
 
 Some examples of long-term initiatives:
 
- Architectural tech debt
+*Architectural tech debt*
 
 - Moving from a deprecated framework to something actively maintained
 - Migrating from one hosting environment to another (e.g., onboarding to Kubernetes)
 
- Language debt
+*Language debt*
 
 - Consolidating usage of programming languages
 - Moving from older to newer versions of languages (Python 2 to 3, or .NET 4 to .Net 5+)
 
- Platform/architecture adoption
+*Platform/architecture adoption*
 
 - Having multiple teams adopt or migrate to new versions of internal services
 - Moving to/from serverless environments
 - Adopting new paradigms (e.g., server-side rendering, edge computing)
 
- Hiring plans
+*Hiring plans*
 
 - Growing or reorganizing teams
 - Hiring specialists or building new technical departments
 
-**TIMELINE COMMUNICATION![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.081.png)**
+#### Timeline Communication
 
-Every leader in sales, marketing, product, or support I've worked with has been appreciative of transparency in the technical process and technical roadmap. By contrast, I've spoken to leaders at some companies who describe their technical teams as a black hole. It goes without saying that you don't want to be called a black hole. Not being a black hole is simple; it looks like somewhere in your organization having a regular process to provide transparency to other leaders. Ideally, you're also helping other departments feel heard by having a forum, or a mechanism, to take input and incorporate that into the roadmap process. You can also close
-
-the loop and your process communicates back to stakeholders where their request is in the development process and manages expectations for when it will be ready.
+Every leader in sales, marketing, product, or support I've worked with has been appreciative of transparency in the technical process and technical roadmap. By contrast, I've spoken to leaders at some companies who describe their technical teams as a black hole. It goes without saying that you don't want to be called a black hole. Not being a black hole is simple; it looks like somewhere in your organization having a regular process to provide transparency to other leaders. Ideally, you're also helping other departments feel heard by having a forum, or a mechanism, to take input and incorporate that into the roadmap process. You can also close the loop and your process communicates back to stakeholders where their request is in the development process and manages expectations for when it will be ready.
 
 ## Tech Process
 
 Conway s Law states that Organizations, who design systems, are constrained to produce designs which are copies of the communication structures of these organizations. Said another way, how you structure your teams, and importantly the process of work within and between those teams, will have a significant impact on the product you make. Teams working in information silos are unlikely to produce products that beautifully integrate with another team s designs, so it's up to you, as the overseer and ultimate architect of these communication structures, to ensure those structures meet the needs of the product you're developing.
 
-### WORKFLOW
+### Workflow
 
-Technical work is a highly nuanced matter with thousands of minute decisions that will affect how things ultimately interoperate and behave. To have any hope of maintaining productivity within your organization you need a
+Technical work is a highly nuanced matter with thousands of minute decisions that will affect how things ultimately interoperate and behave. To have any hope of maintaining productivity within your organization you need a set of standards and guiding principles to ensure the everyday technical decisions are broadly consistent and thus manageable for the team. at means you need to actually set those standards, train the team on them and have a day-to-day process to enforce and modify them as necessary.
 
-set of standards and guiding principles to ensure the everyday technical decisions are broadly consistent and thus manageable for the team. at means you need to actually set those standards, train the team on them and have a day-to-day process to enforce and modify them as necessary.
+The pattern a team follows to determine how to decide what to build and how work gets done is referred to as a workflow. The five most popular workflow patterns are:
 
-The pattern a team follows to determine how to decide what to build and
+* Agile
+* SCRUM
+* Kanban
+* Waterfall
+* Shape Up
 
-how work gets done is referred to as a workflow. The five most popular workflow patterns are:
+There are entire books written on these patterns, and my favorite is *Scrum: e Art of Doing Twice the Work in Half the Time* by Jeff Sutherland.
 
- Agile
-
- SCRUM Kanban
-
-163
-2\.4TECHPROCESS
-
- Waterfall Shape Up
-
- There are entire books written on these patterns, and my favorite is *Scrum: e Art of Doing Twice the Work in Half the Time* by Jeff Sutherland.
-
- There are some fundamental strengths and weaknesses of these approaches that I'll discuss in this chapter; however, in the real world, the differences between the processes are dwarfed by the impact of how well the manager implements the chosen process. Your job as tech leader is to pick a process and ensure it's implemented well and iterated on.
+There are some fundamental strengths and weaknesses of these approaches that I'll discuss in this chapter; however, in the real world, the differences between the processes are dwarfed by the impact of how well the manager implements the chosen process. Your job as tech leader is to pick a process and ensure it's implemented well and iterated on.
 
 A good development process respects the following truisms about software development:
 
- Nobody can perfectly predict how long it will take to complete any
-
-given engineering task.
-
- Engineering is rarely a straight line; building feature X may require
-
-putting time into problem Y before X can be built.
-
- There is no such thing as a perfect specification; there are always gaps and things to be discovered along the way in building technology.
+* Nobody can perfectly predict how long it will take to complete any given engineering task.
+* Engineering is rarely a straight line; building feature X may require putting time into problem Y before X can be built.
+* There is no such thing as a perfect specification; there are always gaps and things to be discovered along the way in building technology.
 
 Generally, the goal of a workflow process is to ensure that a team is well organized and delivering at an acceptable pace. In a roundabout way, some workflow processes even attempt to quantify engineering team velocity, allowing for reporting on how velocity changes over time to non-technical stakeholders.
 
-WATERFALL
+#### Waterfall
 
-The oldest workflow process, dating back to the 1950s, is waterfall (see ctohb.com/waterfall). The waterfall model breaks down project activities
+The oldest workflow process, dating back to the 1950s, is waterfall (see ctohb.com/waterfall). The waterfall model breaks down project activities into sequential steps, where each step is dependent on and starts after the prior step is completed. In software engineering that looks something like first having a product vision, then doing product concepting, then product design, then software development, and finally testing, deployment, and maintenance. The most common criticism of waterfall is that this structure is rigid, inflexible, and doesn t promote iterative development.
 
-into sequential steps, where each step is dependent on and starts after the prior step is completed. In software engineering that looks something like first having a product vision, then doing product concepting, then product design, then software development, and finally testing, deployment,
-
-and maintenance. The most common criticism of waterfall is that this structure is rigid, inflexible, and doesn t promote iterative development.
-
-AGILE/SCRUM
+#### Agile/Scrum
 
 Agile and SCRUM process is a more nuanced and prescriptive methodology than waterfall. There are many great resources that cover these nuances in detail, including Sutherland s *Scrum*, *Agile Estimating and Planning* by Mike Cohn, *e Art of Agile Development* by James Shore & Shane Warders.
 
-The key thing to realize about these processes is that they are guidelines,
-
-not scripture. To get the best out of your engineering team, start with a process and see how well it works for your particular group of people with your particular type of technical challenges. Some teams have work that lends itself much more to estimation and story pointing, while others have much more ambiguous brownfield projects where estimation is near impossible. Pay attention to whether any particular ceremony from the process is really adding value to the engineering team, or if it's just a lengthy meeting everyone dreads.
+The key thing to realize about these processes is that they are guidelines, not scripture. To get the best out of your engineering team, start with a process and see how well it works for your particular group of people with your particular type of technical challenges. Some teams have work that lends itself much more to estimation and story pointing, while others have much more ambiguous brownfield projects where estimation is near impossible. Pay attention to whether any particular ceremony from the process is really adding value to the engineering team, or if it's just a lengthy meeting everyone dreads.
 
 Do not hesitate to skip ceremonies that are not obvious wins for the team. For example, I find SCRUM s prescription for planning poker to be inefficient for most teams.
 
-SHAPE UP
+#### Shape Up
 
-Shape Up is a methodology formalized by the company Basecamp and published in an eBook available at basecamp.com/shapeup. The core cycle in Shape Up is six weeks long, a much longer sprint than espoused by SCRUM. is cycle uses fixed-time and variable scoping. The idea is that a longer time period provides more space to produce clear pitches (specifications) and do good work on a project. Shape Up places considerably less emphasis on estimation than other models which, as I'll soon discuss, is
+Shape Up is a methodology formalized by the company Basecamp and published in an eBook available at basecamp.com/shapeup. The core cycle in Shape Up is six weeks long, a much longer sprint than espoused by SCRUM. is cycle uses fixed-time and variable scoping. The idea is that a longer time period provides more space to produce clear pitches (specifications) and do good work on a project. Shape Up places considerably less emphasis on estimation than other models which, as I'll soon discuss, is a good thing for engineering teams.
 
-a good thing for engineering teams.
+### Engineering Estimates
 
-ENGINEERING ESTIMATES
-
-According to Google, the technical definition of accuracy is the degree to which the result of a measurement, calculation, or specification conforms
-
-to the correct value or a standard. at is to say, accuracy is an indicator
-
-of overall correctness. When you're throwing darts at a dartboard and aiming for the bullseye, an accurate set of throws is a set of throws that tends towards the center.
+According to Google, the technical definition of accuracy is the degree to which the result of a measurement, calculation, or specification conforms to the correct value or a standard. at is to say, accuracy is an indicator of overall correctness. When you're throwing darts at a dartboard and aiming for the bullseye, an accurate set of throws is a set of throws that tends towards the center.
 
 Precision, by contrast, is defined technically as refinement in a measurement, calculation, or specification, especially as represented by the number of digits given. In other words, precision indicates a level of exactness. When throwing darts, if all of your throws, regardless of their target, are tightly grouped together, that can be said to be a precise grouping.
 
-As this description should help you visualize, something can be accurate without being precise (a broad grouping of darts around or near the bullseye but not hitting it), precise without being accurate (a tight grouping
+As this description should help you visualize, something can be accurate without being precise (a broad grouping of darts around or near the bullseye but not hitting it), precise without being accurate (a tight grouping of darts that misses the bullseye), and, of course, both accurate and precise (a tight grouping of darts that does hit the bullseye).
 
-of darts that misses the bullseye), and, of course, both accurate and precise
+You should expect and hold your team accountable for accurate but not necessarily precise estimates for completing software development tasks. If today is the first of the month, reasonable guidance from your team is, We'll ship the feature this month. If the team says, We'll ship the feature on the 23rd, they're more likely to miss that deadline.
 
-(a tight grouping of darts that does hit the bullseye).
+There's no need to try to estimate hours or days per ticket if you plan your work/resource allocation out by week, month, or quarter. Pay attention over time to whether or not your estimates are actually giving you the planning capability you hope for. If they're not, don't punish the team by continuing the process, or worse, using it as a contributing factor in performance reviews. Instead, adjust the estimates so they help instead of hurting you. Change your expectations, and instead of reacting to missing estimates, react to the challenges the team is facing as they struggle to meet the estimates.
 
-You should expect and hold your team accountable for accurate but not necessarily precise estimates for completing software development tasks. If today is the first of the month, reasonable guidance from your team
+A final note on estimates: don't conflate missing estimates with poor total output/velocity. Some teams will be highly effective, have high output, and still miss estimates. Velocity is the more important metric, and a high output but imperfectly estimating team should not be punished. Conversely, a team that regularly misses estimates *and* has trouble delivering new value is underperforming and needs to change.
 
-is, We'll ship the feature this month. If the team says, We'll ship the feature on the 23rd, they're more likely to miss that deadline.
+### Burndown Charts
 
- There's no need to try to estimate hours or days per ticket if you plan your work/resource allocation out by week, month, or quarter. Pay attention over time to whether or not your estimates are actually giving you the planning capability you hope for. If they're not, don't punish the team by continuing the process, or worse, using it as a contributing factor in performance reviews. Instead, adjust the estimates so they help instead of hurting you. Change your expectations, and instead of reacting to missing estimates, react to the challenges the team is facing as they struggle to meet the estimates.
+SCRUM burndown charts show team progress against estimates and can be a great tool for measuring sprint productivity. However, estimates are imperfect and, for various reasons, a burndown chart may show a flat line or even burn up. is can be because a team legitimately is not making progress, or it could be an artifact of estimation issues or bad data collection.
 
-A final note on estimates: don't conflate missing estimates with poor total output/velocity. Some teams will be highly effective, have high output, and still miss estimates. Velocity is the more important metric, and a high
-
-output but imperfectly estimating team should not be punished. Conversely, a team that regularly misses estimates *and* has trouble delivering new value is underperforming and needs to change.
-
-BURNDOWN CHARTS
-
-SCRUM burndown charts show team progress against estimates and can
-
-be a great tool for measuring sprint productivity. However, estimates are imperfect and, for various reasons, a burndown chart may show a flat line or even burn up. is can be because a team legitimately is not making progress, or it could be an artifact of estimation issues or bad data collection.
-
-A burndown chart that burns up consistently, despite teams shipping and doing good work, is demoralizing and not achieving the intended benefit. If there are easy adjustments that will help you better capture data and
-
-fix the chart, make that change. But if you find a particular way of measuring output still isn t working, just get rid of it. It's okay to admit that your method of estimating these particular types of stories with this team isn t precise enough and move on to other methods of monitoring and improving performance.
+A burndown chart that burns up consistently, despite teams shipping and doing good work, is demoralizing and not achieving the intended benefit. If there are easy adjustments that will help you better capture data and fix the chart, make that change. But if you find a particular way of measuring output still isn t working, just get rid of it. It's okay to admit that your method of estimating these particular types of stories with this team isn t precise enough and move on to other methods of monitoring and improving performance.
 
 In my experience, only a small percentage of teams find success with burndown charts, so don't be disheartened if that one technique isn t helpful for your engineering team.
 
-CHOOSING A WORKFLOW
+### Choosing A Workflow
 
 I contend that which workflow you choose will not be a significant factor in the ultimate success and velocity of your engineering team. The key factor is that you are paying attention to your team s workflow and continuously iterating on the workflow itself to ensure your patterns are adding value and are a good match, both for your team and the types of problems your team faces.
 
- at said, here is a rough model for thinking about which type of workflow is likely to be a better starting place: well-understood work (i.e., tasks that are concrete, greenfield, and easy to explain) is easier to manage and
-
-will generate more benefit with a more nuanced or prescriptive planning process. Said another way, if your work is ambiguous and hard to estimate, it's likely better managed with Kanban than SCRUM.
+That said, here is a rough model for thinking about which type of workflow is likely to be a better starting place: well-understood work (i.e., tasks that are concrete, greenfield, and easy to explain) is easier to manage and will generate more benefit with a more nuanced or prescriptive planning process. Said another way, if your work is ambiguous and hard to estimate, it's likely better managed with Kanban than SCRUM.
 
 Well-understood stories that tend to work well with SCRUM are:
 
- Greenfield that is, new code that doesn t depend on perhaps legacy or
-
-difficult-to-work-with external modules
-
- Not dependent on new patterns/tools/technologies, relying instead on
-
-the existing ( boring ) tech stack
-
- Easily broken down from stories to smaller tasks Familiar to the team from previous work
+* Greenfield that is, new code that doesn t depend on perhaps legacy or difficult-to-work-with external modules
+* Not dependent on new patterns/tools/technologies, relying instead on the existing (boring) tech stack
+* Easily broken down from stories to smaller tasks Familiar to the team from previous work
 
 Conversely, you're perhaps better with Kanban if your work is:
 
- Brownfield, or heavily impeded by tech debt with unclear paths for
+* Brownfield, or heavily impeded by tech debt with unclear paths for paydown/refactoring
+* Regularly changing or saddled with unpredictable priorities
+* Dependent on adopting new and different tools and patterns that can introduce unexpected costs in the first few implementations
+* Assigned to a brand-new team that doesn t have a history working together or on these types of projects
 
-paydown/refactoring
-
- Regularly changing or saddled with unpredictable priorities
-
- Dependent on adopting new and different tools and patterns that can
-
-introduce unexpected costs in the first few implementations
-
- Assigned to a brand-new team that doesn t have a history working
-
-together or on these types of projects
-
-**COOLDOWN/INNOVATION SPRINTS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.083.png)**
+### Cooldown/Innovation Sprints
 
 When using a regular cadence like sprints, the major peril teams find themselves in is the expectation that a sprint will finish, features will be shipped, and the team can immediately shift to the next set of features. Due to the accumulation of debt and need to iterate on product features, that is simply not possible to sustain. There has to be either continuous or periodic time set aside to pay for debt.
 
-A common practice for periodically paying down debt is the notion of a
-
- cooldown sprint. Sometimes called a tech debt sprint, or innovation sprint, the idea is the same: give the team time to clean up their digital workspace, do some code-housekeeping and ensure that they and the code
-
-are in a good place for high velocity work going forward. As discussed in Strategies for Paying Down Debt, page 150, it's reasonable to dedicate anywhere from 5 20 percent of your total development time on cooldown work.
+A common practice for periodically paying down debt is the notion of a cooldown sprint. Sometimes called a tech debt sprint, or innovation sprint, the idea is the same: give the team time to clean up their digital workspace, do some code-housekeeping and ensure that they and the code are in a good place for high velocity work going forward. As discussed in Strategies for Paying Down Debt, page 150, it's reasonable to dedicate anywhere from 5 20 percent of your total development time on cooldown work.
 
 If you're doing two-week sprints, that might mean that one in four or five sprints is dedicated to cooldown.
 
-**TECHNICAL PLANNING AND SPECIFICATIONS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.084.jpeg)**
+### Technical Planning And Specifications
 
 When discussing the process for writing tech specs with engineers, I'm often asked, How do you have time to write specs? Usually I counter with, How do you have time *not* to write tech specs? Implied in my response is that taking time to think through what you're building before you build it is a net time saver.
 
