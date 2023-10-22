@@ -1,4 +1,4 @@
-*NOTE:* As of October 2023 I'm still working on porting the book content into markdown. Everything is in there (via a .doc to .md auto-converter) but the formatting is all over the place and needs a lot of cleanup still, apologies for my mess in the interrum!
+*NOTE:* As of October 2023 I'm still working on porting the book content into markdown. Everything is in there (via a .doc to .md auto-converter) but the formatting is all over the place and needs a lot of cleanup still, apologies for my mess in the interim!
 
 # The Book
 You can view the latest content of the book in markdown [here](StartupCTOHandbook.md)
@@ -16,4 +16,5 @@ Hi, thanks for checking out the Startup CTO's Handbook!  This repository has the
 [Linkedin](https://www.linkedin.com/in/zachgoldberg/) / [Website](https://zachgoldberg.com) / [Email](mailto:zach@zachgoldberg.com)
 
 # Licensing
-See the LICENSE file, but tl;dr - you're welcome to make copies, changes, redistribute etc. so long as you're not reselling, you keep my name/attribution attached, and you keep future versions open under a similar/the same license..
+See the LICENSE file, but tl;dr - you're welcome to make copies, changes, redistribute etc. so long as you're not reselling, you keep my name/attribution attached, and you keep future versions open under a similar/the same license.
+
