@@ -191,7 +191,7 @@ At the end of the day this book is a synthesis of my personal experience and the
 
 # Business Processes
 
-Troughout this book you'll find many descriptions of business processes. My goal in outlining these processes is to provide a starting point for how you might implement a solution to a problem you are facing.
+Throughout this book you'll find many descriptions of business processes. My goal in outlining these processes is to provide a starting point for how you might implement a solution to a problem you are facing.
 
 Depending on the size of your team and company, what is described here might appear overly burdening and cumbersome, or it might seem too sparse and unsophisticated to address your needs. The reality is that, as your company and team grow, you will need to reinvent the ways you do business. Your company of five people will operate very differently when it grows to twenty or fifty or a hundred or a thousand. I've highlighted the core principles that matter and left it to you to adapt them to your team as it's constituted now, and also to scale your approach as the needs and constraints of your business change in the future.
 
