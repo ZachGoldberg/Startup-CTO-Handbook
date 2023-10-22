@@ -123,7 +123,7 @@ By the time I graduated college, Max had become a close friend and confidant, an
 
 No single book can give you the experience Max gave me as an undergraduate student. I make no such promises for the book you're reading now. Instead, I tell this story to emphasize the value and impact of a focus on the fundamentals of learning itself.
 
-As a technical leader, the desire, willingness, and aptitude to continue learning are critical to your success. ere is far too much tech knowledge out there for anybody to become a true expert in everything needed to work in modern technology. I like thinking of a person pursuing a career in tech as a character in an RPG game that, rather than killing enemies to level up, must spend forty hours a week at a job collecting skill points. You get to choose the skill trees on which to spend the accumulated points, but you need to choose wisely. Thee variety of skill trees is vast enough that it's impossible to unlock all of them, so you must specialize.
+As a technical leader, the desire, willingness, and aptitude to continue learning are critical to your success. There is far too much tech knowledge out there for anybody to become a true expert in everything needed to work in modern technology. I like thinking of a person pursuing a career in tech as a character in an RPG game that, rather than killing enemies to level up, must spend forty hours a week at a job collecting skill points. You get to choose the skill trees on which to spend the accumulated points, but you need to choose wisely. Thee variety of skill trees is vast enough that it's impossible to unlock all of them, so you must specialize.
 
 The most wonderful thing about tech is that our field is continuously evolving. The people you work with will change. Thee tools you use will be updated or deprecated, and new techniques for doing your work will come and go. As you embark on your adventure in technical leadership, the only way to manage this change is to expect it, accept it, and embrace the opportunity to learn and grow with your team and the field itself.
 
@@ -239,7 +239,7 @@ Your goal in your interactions with your direct reports, whether they are indivi
 
 ### Find a Management Mentor
 
-One way to jumpstart your leadership transition, coaching and managing others, is to find yourself a management mentor, rather than learning by trial and error. ere are a lot of management coaches out there with different approaches; the challenge is to find one that resonates with you.
+One way to jumpstart your leadership transition, coaching and managing others, is to find yourself a management mentor, rather than learning by trial and error. There are a lot of management coaches out there with different approaches; the challenge is to find one that resonates with you.
 
 In my first role as a business leader at WiFast (then Zenreach, now Adentro) we quickly hired a team of ten full-time employees, mostly in engineering. As a first-time manager I knew I had a lot to learn, and
 
@@ -536,7 +536,7 @@ When presented with a large, ambiguous challenge, such as taking over managing a
 
 #### TEAM-BASED DECISIONING MODELS
 
- There are three models for developing material for making decisions with your team. As the manager, you can make the material and decisions entirely yourself and present the result as a *fait accompli* to the team. ere s also the opposite approach: you start from scratch and entirely codevelop the material with some or all of the team. The third approach is a compromise between the first two: develop a draft yourself and present it as a straw man to the team as a starting point for collecting feedback and iterating to get to a final version. The key differences between these techniques are the amount of time they take, and how much buy-in you get from the team. And I encourage you to optimize for buy-in: ensuring everyone on your team understands decisions and can be a champion for those decisions is the only way to ensure you're all marching in the same direction. As Marty Cagan of Silicon Valley Product Group calls it, you want your team to behave like missionaries, not mercenaries.
+ There are three models for developing material for making decisions with your team. As the manager, you can make the material and decisions entirely yourself and present the result as a *fait accompli* to the team. There's also the opposite approach: you start from scratch and entirely codevelop the material with some or all of the team. The third approach is a compromise between the first two: develop a draft yourself and present it as a straw man to the team as a starting point for collecting feedback and iterating to get to a final version. The key differences between these techniques are the amount of time they take, and how much buy-in you get from the team. And I encourage you to optimize for buy-in: ensuring everyone on your team understands decisions and can be a champion for those decisions is the only way to ensure you're all marching in the same direction. As Marty Cagan of Silicon Valley Product Group calls it, you want your team to behave like missionaries, not mercenaries.
 
 
 
@@ -948,7 +948,7 @@ If you're unfamiliar with the phrase unconscious bias, I encourage you to read *
 
 It's actually very easy to unintentionally advantage or disadvantage a candidate in ways that are not justified. Inevitably, this will result in worse hiring outcomes or potentially costly legal battles.
 
-Bias takes many forms. Most biases are unconscious and can surround gender, race, alumni status, or socioeconomic background. But bias can also mean that the conclusions drawn by an interviewer about a candidate ahead of an interview are based solely on ranking scores from a prior interviewer. ere s no system that ensures eliminating all harmful biases, but there are certain steps you can take to minimize unconscious bias, such as blanking out candidate names or photos (which often hint at gender and ethnicity) during a rØsumØ screen.
+Bias takes many forms. Most biases are unconscious and can surround gender, race, alumni status, or socioeconomic background. But bias can also mean that the conclusions drawn by an interviewer about a candidate ahead of an interview are based solely on ranking scores from a prior interviewer. There's no system that ensures eliminating all harmful biases, but there are certain steps you can take to minimize unconscious bias, such as blanking out candidate names or photos (which often hint at gender and ethnicity) during a rØsumØ screen.
 
 To avoid anchoring or biasing subsequent interviewers, I encourage interviewers to leave two different kinds of feedback on candidate conversations:
 
@@ -1238,7 +1238,7 @@ Onboarding new engineers to the team, in most cases, doesn t strictly require a 
 1. **It helps evaluate the quality of the hire:** Good onboarding provides structure for both the new employee and their manager, including clear goals that, when achieved, demonstrate that you've hired well for the role.
 1. **It builds your culture:** Good onboarding emphasizes a culture of continuous improvement, helping to streamline the process for future hires and enhance the scalability of your overall processes.
 
- ere are many right ways to do this. What follows are some relatively simple and inexpensive techniques and practices that I've used myself. Feel free to expand on or deviate from these ideas.
+ There are many right ways to do this. What follows are some relatively simple and inexpensive techniques and practices that I've used myself. Feel free to expand on or deviate from these ideas.
 
 
 
@@ -1378,7 +1378,7 @@ Your performance management system should give everyone clarity on exactly where
 
 #### Competency Matrix and Leveling
 
-Performance management and compensation design should not be done entirely by you, the technical leader. ere are plenty of ways to make mistakes here that could expose your company to legal liability. ese are easily avoided by ensuring that your HR lead is heavily involved in the process. In fact, ideally, your HR lead would do most of the blueprinting and lean on you only for help defining technical competencies. Regardless of who takes the lead, HR is your partner here.
+Performance management and compensation design should not be done entirely by you, the technical leader. There are plenty of ways to make mistakes here that could expose your company to legal liability. ese are easily avoided by ensuring that your HR lead is heavily involved in the process. In fact, ideally, your HR lead would do most of the blueprinting and lean on you only for help defining technical competencies. Regardless of who takes the lead, HR is your partner here.
 
 ##### OVERVIEW
 
@@ -1549,7 +1549,7 @@ Before developing a PIP or terminating an underperforming employee, it's worth a
 
 A brilliant jerk is an industry-standard term used to describe an individual who is highly productive on their own, but whose presence hurts the morale or productivity of the people around them. They are often described as toxic personalities.
 
-Due to their sometimes extraordinary individual productivity, choosing to fire a brilliant jerk can often feel difficult or wrong. The nearly universal recommendation is to fire them anyway. Each day that you, as a manager, allow toxic behavior to persist can increase your team s resentment toward you for allowing it to continue. ere s no amount of individual productivity that makes up for the hit to company culture and to your credibility as a manager that retaining a toxic individual entails.
+Due to their sometimes extraordinary individual productivity, choosing to fire a brilliant jerk can often feel difficult or wrong. The nearly universal recommendation is to fire them anyway. Each day that you, as a manager, allow toxic behavior to persist can increase your team s resentment toward you for allowing it to continue. There's no amount of individual productivity that makes up for the hit to company culture and to your credibility as a manager that retaining a toxic individual entails.
 
 ### Firing
 
@@ -1583,7 +1583,7 @@ Your team should be more heavily weighted with senior engineering talent if your
 ### Technical Specialization
 
 
-On Day 1 of most startups, the team will consist of a small handful of engineers, typically two or three. Having a team of three leaves limited opportunity for specialization. ere are twenty categories of technical work to do and only three people, so by the pigeonhole principle, at least one person and more likely all three will be doing many types of technical work. Said another way, early on at your company, everyone is expected to wear many technical hats. As your company grows and you add more people to the team, you and your employees will find more opportunities for specialization.
+On Day 1 of most startups, the team will consist of a small handful of engineers, typically two or three. Having a team of three leaves limited opportunity for specialization. There are twenty categories of technical work to do and only three people, so by the pigeonhole principle, at least one person and more likely all three will be doing many types of technical work. Said another way, early on at your company, everyone is expected to wear many technical hats. As your company grows and you add more people to the team, you and your employees will find more opportunities for specialization.
 
 So, you've raised a round of funding and you're looking to expand your team for the first time. How do you decide whether you need frontend engineers, backend engineers, DevOps engineers, etc.? Here are some general guidelines:
 
@@ -1611,7 +1611,7 @@ Here are some rough numbers for team composition based on startup experience:
 
 ### Project Maintenance: The Two Crews Philosophy
 
-If you are shipping end-user software, your engineering team has to strike a balance between doing new work and handling support tickets that come in from active customers. Left unchecked, the need to handle support tickets can become a major distraction to the team, hurting efficiency, draining morale, and burning out your best people. ere are many right answers to solving this problem; the important thing is that you recognize its effect on your team and architect a solution to help them be productive and drive great customer outcomes.
+If you are shipping end-user software, your engineering team has to strike a balance between doing new work and handling support tickets that come in from active customers. Left unchecked, the need to handle support tickets can become a major distraction to the team, hurting efficiency, draining morale, and burning out your best people. There are many right answers to solving this problem; the important thing is that you recognize its effect on your team and architect a solution to help them be productive and drive great customer outcomes.
 
 Microsoft has published a great article on this topic titled Building productive teams (ctohb.com/teams) describing what they call the two crews model. Thetwo crews model outlines a feature crew and a customer crew.
 
@@ -1711,7 +1711,7 @@ Beyond the efficiency gained by having consistency between design and engineerin
 
 ### PRDs and Specs
 
-A Product Requirements Document (PRD), sometimes also called a product specification, or just a spec, is an essential part of the product development process. Note that a product spec has a different purpose and is a distinct document from a technical spec (see Technical Planning and Specifications, page 164) ere are many methodologies and templates for PRDs. Sources like lennysnewsletter.com regularly catalog some of the most common and thorough ones. PRDs have a shared purpose, which is to describe the problem background as well as the why that justifies a project or feature. PRDs often include lists of requirements that need to be met to meet an objective. Most PRDs leave the how of a feature to a technical spec.
+A Product Requirements Document (PRD), sometimes also called a product specification, or just a spec, is an essential part of the product development process. Note that a product spec has a different purpose and is a distinct document from a technical spec (see Technical Planning and Specifications, page 164) There are many methodologies and templates for PRDs. Sources like lennysnewsletter.com regularly catalog some of the most common and thorough ones. PRDs have a shared purpose, which is to describe the problem background as well as the why that justifies a project or feature. PRDs often include lists of requirements that need to be met to meet an objective. Most PRDs leave the how of a feature to a technical spec.
 
 A PRD, like a technical spec, is a living document. As your team learns more about the problem, or as factors in the outside world change, these documents can and should change and be updated to match. I encourage you and your team to use these documents as a continually updated source of truth to document your considerations and ultimate decisions made during the product development process.
 
@@ -1729,7 +1729,7 @@ My general recommendation is to formally delegate project management when EPD ha
 
 ### Managing Managers and Manager Training
 
-There s an industry expression that your company is ultimately run by your middle managers. Theimplication is that, despite whatever strategies and processes executives put in place, it's the middle managers who ultimately have the highest impact on the quantity and quality of output. Middle managers hire individual contributors, set their day-to-day objectives, and hold them accountable for quality standards. The best middle managers are mini executives, focused on culture, building collaborative teams, and working to enable them to do their best work. It follows then that, as an executive, you should put a lot of effort into hiring, managing, and training those middle managers.
+There's an industry expression that your company is ultimately run by your middle managers. Theimplication is that, despite whatever strategies and processes executives put in place, it's the middle managers who ultimately have the highest impact on the quantity and quality of output. Middle managers hire individual contributors, set their day-to-day objectives, and hold them accountable for quality standards. The best middle managers are mini executives, focused on culture, building collaborative teams, and working to enable them to do their best work. It follows then that, as an executive, you should put a lot of effort into hiring, managing, and training those middle managers.
 
 The complicated topic of training managers deserves an entire book on its own, and it's a skill that takes time to master. at said, the top two lessons I can offer you that will provide leverage to all other skills here is to set an example yourself and build a culture of continuous management learning. The minute you hire or promote somebody into management you should make it clear that your expectation is that they will commit to putting time and effort into refining their craft of management. you'll go out of your way to make that easy for them by including management training in their personal goals and development plan, providing them resources to level up on management skills, helping them work through management problems, and teaching them everything you know.
 
@@ -1778,7 +1778,7 @@ Cycle time is a measurement of how long it takes to go from idea to shipped feat
 * Time spent coding
 * Time to start a code review Time until code is approved Time to deployed code
 
-In general, low-cycle teams are more efficient and able to iterate, innovate, and deliver value to customers faster. ere are many tools that facilitate measuring cycle time, including LinearB (linearb.io) and Code Climate (codeclimate.com). LinearB has published a set of benchmarks, using data from thousands of engineering teams, on metrics associated with cycle time.
+In general, low-cycle teams are more efficient and able to iterate, innovate, and deliver value to customers faster. There are many tools that facilitate measuring cycle time, including LinearB (linearb.io) and Code Climate (codeclimate.com). LinearB has published a set of benchmarks, using data from thousands of engineering teams, on metrics associated with cycle time.
 
 #### Work Time Allocation
 
@@ -1932,7 +1932,7 @@ In general, you want your team to be spending time on things that move the needl
 
 to create an environment where your engineers can focus their efforts in this way with consistency and minimal distractions. is frame may seem obvious, but when used properly, it's a powerful tool for decision-making.
 
-For example, say your team is debating between using an off-the-shelf framework for the backend vs. writing something from scratch. ere s a nuanced list of pros and cons one could make that would discuss things like added flexibility from building from scratch vs. shorter time to first deployment with the framework. In this hypothetical reality, what your business really needs is to iterate on the frontend and optimize the customer journey,
+For example, say your team is debating between using an off-the-shelf framework for the backend vs. writing something from scratch. There's a nuanced list of pros and cons one could make that would discuss things like added flexibility from building from scratch vs. shorter time to first deployment with the framework. In this hypothetical reality, what your business really needs is to iterate on the frontend and optimize the customer journey,
 
 so every moment spent on the backend is one moment less spent moving
 
@@ -1940,7 +1940,7 @@ the frontend forward. If the out-of-the-box solution is good enough to power tha
 
 2. USE RELIABLE TOOLS WHERE YOU CAN AND INNOVATE WHERE IT COUNTS
 
-Also referred to as don't reinvent the wheel, and standing on the shoulders of giants, the idea here is to use off-the-shelf components (libraries, cloud services, applications, packages) whenever possible. ere s
+Also referred to as don't reinvent the wheel, and standing on the shoulders of giants, the idea here is to use off-the-shelf components (libraries, cloud services, applications, packages) whenever possible. There s
 
 an inherent tradeoff for using off-the-shelf components between ease of getting started and customizing a solution to match your exact problem. I contend that in most circumstances where a pre-existing implementation already exists, the tradeoff leans heavily towards using the off-the-shelf service, library, or application.
 
@@ -1952,7 +1952,7 @@ Your goal as the architect of your team is to ensure that your team spends
 
 as much of its time working on code that produces value for the business
 
-as possible. ere are a number of time-consuming tasks developers do
+as possible. There are a number of time-consuming tasks developers do
 
 on a regular basis that are necessary to writing code but don't themselves add business value (e.g., replicating production environments, getting code to run locally, figuring out how to run test suites, provisioning feature branch environments in the cloud, tracking down bugs that are not covered by tests, etc.).
 
@@ -2024,7 +2024,7 @@ a budget to attend these conferences. A typical budget request would be for $1,0
 
 of learning and continuous improvement, as well as a host of ancillary benefits, I recommend that you budget for and regularly approve or systematically approve conference requests.
 
-If the only benefit of attending a conference were that the employee learned a bit more about a relevant technical topic that they're passionate about, the cost would be worth it. ere are, however, many more benefits.
+If the only benefit of attending a conference were that the employee learned a bit more about a relevant technical topic that they're passionate about, the cost would be worth it. There are, however, many more benefits.
 
 I encourage you to require conference attendees to produce a written document summarizing key things they learned after they return. You should also consider sponsoring the conferences most relevant to your business
 
@@ -2046,7 +2046,7 @@ an answer faster.
 
 9. BUILD AN EXPLAINER VIDEO LIBRARY
 
-If a picture is worth a thousand words, a one-minute video of your desktop/IDE/application with your voice discussing a technical topic is worth $1,000 in developer time savings. ere are many tools that make it trivially easy to record and share these mini video messages, including tools built into Slack and Loom. Not only can you clearly convey a technical idea more easily with a screen recording and voiceover than text, but you
+If a picture is worth a thousand words, a one-minute video of your desktop/IDE/application with your voice discussing a technical topic is worth $1,000 in developer time savings. There are many tools that make it trivially easy to record and share these mini video messages, including tools built into Slack and Loom. Not only can you clearly convey a technical idea more easily with a screen recording and voiceover than text, but you
 
 can do it on your own time. The resulting video can be sped up at the viewer s discretion, and the video can be archived and rewatched later as part
 
@@ -2058,7 +2058,7 @@ I guarantee you'll get relatively poor watch rates upfront as you make and distr
 
 10. ONBOARDING IS EVERYBODY S RESPONSIBILITY
 
-Your team is continuously creating tribal knowledge, be it how to start a service, or how code patterns are used across your codebase. ere are
+Your team is continuously creating tribal knowledge, be it how to start a service, or how code patterns are used across your codebase. There are
 
 two ways to deal with this: you can do nothing, and on a daily basis you'll increase the size of the knowledge gap for new employees, or you can actively work on converting siloed tribal knowledge into scalable documentation for current and future employees. For obvious reasons, I recommend the latter. is means everyone should always be asking themselves, How can I document what I've just created/learned/discovered? And when you have new employees who come across something that they can t find in your knowledge base, it's up to them to seek out an answer and document it.
 
@@ -2103,7 +2103,7 @@ or iteration, then that code isn t costly in terms of tech debt. After all, the 
 
 Don't be afraid of debt. It can serve a purpose. For example, when building Version 1 of a product that s not yet been validated in the market, a technical team may decide on an architecture that will not scale past a hundred users. If that decision allows the team to rapidly validate the product and determine whether or not a hundred users will ever use the product, that path may be worthwhile especially given the fact that it may take several versions of these prototypes to find one that users love.
 
- ere are at least seven types of technical debt:
+ There are at least seven types of technical debt:
 
  **Architecture** or **Design Debt** arises when the design of the software is
 
@@ -2322,9 +2322,9 @@ how work gets done is referred to as a workflow. The five most popular workflow 
 
  Waterfall Shape Up
 
- ere are entire books written on these patterns, and my favorite is *Scrum: e Art of Doing Twice the Work in Half the Time* by Jeff Sutherland.
+ There are entire books written on these patterns, and my favorite is *Scrum: e Art of Doing Twice the Work in Half the Time* by Jeff Sutherland.
 
- ere are some fundamental strengths and weaknesses of these approaches that I'll discuss in this chapter; however, in the real world, the differences between the processes are dwarfed by the impact of how well the manager implements the chosen process. Your job as tech leader is to pick a process and ensure it's implemented well and iterated on.
+ There are some fundamental strengths and weaknesses of these approaches that I'll discuss in this chapter; however, in the real world, the differences between the processes are dwarfed by the impact of how well the manager implements the chosen process. Your job as tech leader is to pick a process and ensure it's implemented well and iterated on.
 
 A good development process respects the following truisms about software development:
 
@@ -2336,7 +2336,7 @@ given engineering task.
 
 putting time into problem Y before X can be built.
 
- ere is no such thing as a perfect specification; there are always gaps and things to be discovered along the way in building technology.
+ There is no such thing as a perfect specification; there are always gaps and things to be discovered along the way in building technology.
 
 Generally, the goal of a workflow process is to ensure that a team is well organized and delivering at an acceptable pace. In a roundabout way, some workflow processes even attempt to quantify engineering team velocity, allowing for reporting on how velocity changes over time to non-technical stakeholders.
 
@@ -2350,7 +2350,7 @@ and maintenance. The most common criticism of waterfall is that this structure i
 
 AGILE/SCRUM
 
-Agile and SCRUM process is a more nuanced and prescriptive methodology than waterfall. ere are many great resources that cover these nuances in detail, including Sutherland s *Scrum*, *Agile Estimating and Planning* by Mike Cohn, *e Art of Agile Development* by James Shore & Shane Warders.
+Agile and SCRUM process is a more nuanced and prescriptive methodology than waterfall. There are many great resources that cover these nuances in detail, including Sutherland s *Scrum*, *Agile Estimating and Planning* by Mike Cohn, *e Art of Agile Development* by James Shore & Shane Warders.
 
 The key thing to realize about these processes is that they are guidelines,
 
@@ -2384,7 +2384,7 @@ You should expect and hold your team accountable for accurate but not necessaril
 
 is, We'll ship the feature this month. If the team says, We'll ship the feature on the 23rd, they're more likely to miss that deadline.
 
- ere s no need to try to estimate hours or days per ticket if you plan your work/resource allocation out by week, month, or quarter. Pay attention over time to whether or not your estimates are actually giving you the planning capability you hope for. If they're not, don't punish the team by continuing the process, or worse, using it as a contributing factor in performance reviews. Instead, adjust the estimates so they help instead of hurting you. Change your expectations, and instead of reacting to missing estimates, react to the challenges the team is facing as they struggle to meet the estimates.
+ There's no need to try to estimate hours or days per ticket if you plan your work/resource allocation out by week, month, or quarter. Pay attention over time to whether or not your estimates are actually giving you the planning capability you hope for. If they're not, don't punish the team by continuing the process, or worse, using it as a contributing factor in performance reviews. Instead, adjust the estimates so they help instead of hurting you. Change your expectations, and instead of reacting to missing estimates, react to the challenges the team is facing as they struggle to meet the estimates.
 
 A final note on estimates: don't conflate missing estimates with poor total output/velocity. Some teams will be highly effective, have high output, and still miss estimates. Velocity is the more important metric, and a high
 
@@ -2440,7 +2440,7 @@ together or on these types of projects
 
 **COOLDOWN/INNOVATION SPRINTS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.083.png)**
 
-When using a regular cadence like sprints, the major peril teams find themselves in is the expectation that a sprint will finish, features will be shipped, and the team can immediately shift to the next set of features. Due to the accumulation of debt and need to iterate on product features, that is simply not possible to sustain. ere has to be either continuous or periodic time set aside to pay for debt.
+When using a regular cadence like sprints, the major peril teams find themselves in is the expectation that a sprint will finish, features will be shipped, and the team can immediately shift to the next set of features. Due to the accumulation of debt and need to iterate on product features, that is simply not possible to sustain. There has to be either continuous or periodic time set aside to pay for debt.
 
 A common practice for periodically paying down debt is the notion of a
 
@@ -2498,7 +2498,7 @@ Your tech planning process should save you time in your initial implementation. 
 
 The wrong amount of time to put into planning doesn t meet these goals, either because it's too short and doesn t save you time/produce good documentation, or is so lengthy that it doesn t pay for itself in savings.
 
- ere is no universal formula for the correct amount of time, but I'll provide a rule of thumb: allocate one day to technical planning for every week of work you estimate the project to take. In general, this will lead to between half-day and three-day planning windows. If your project requires less than two days of work, it likely needs very minimal planning effort and has low risk. Conversely, if you're looking at a project that is expected to take more than three solid weeks of development effort, you may not be able to efficiently plan something that large all at once and should consider breaking it down.
+ There is no universal formula for the correct amount of time, but I'll provide a rule of thumb: allocate one day to technical planning for every week of work you estimate the project to take. In general, this will lead to between half-day and three-day planning windows. If your project requires less than two days of work, it likely needs very minimal planning effort and has low risk. Conversely, if you're looking at a project that is expected to take more than three solid weeks of development effort, you may not be able to efficiently plan something that large all at once and should consider breaking it down.
 
 If your team refuses to invest time into planning, you're likely pushing too hard for results over process. The way to ensure the engineering process produces good results for the business is not to crack the whip harder, but
 
@@ -2626,7 +2626,7 @@ Multiply this inefficiency by all the engineers on your team and all the various
 
 in direct time. Add in additional context-switching time spent bringing in others to help solve the problems, and poor DX quickly goes to the top of the list of areas that, when left unaddressed, can tank an otherwise high-performing engineering team.
 
- ere are two prerequisites to a great developer experience:
+ There are two prerequisites to a great developer experience:
 
 1. Tools that make it easy to have highly reliable and reproducible environments and dependency chains
 1. Documentation and consistency in practices for how things are done
@@ -2722,7 +2722,7 @@ More often than not, a more nuanced evaluation will reveal that a given tool isn
 
 ## Architecture
 
- ere are many excellent resources that explore various architectural patterns deeply; one of my favorites is Martin Fowler s *Patterns of Enterprise Application Architecture*. In this chapter, I'll provide a summary of some key phrases you'll hear so you have context when exploring these topics in depth elsewhere.
+ There are many excellent resources that explore various architectural patterns deeply; one of my favorites is Martin Fowler s *Patterns of Enterprise Application Architecture*. In this chapter, I'll provide a summary of some key phrases you'll hear so you have context when exploring these topics in depth elsewhere.
 
 **DOMAIN-DRIVEN DESIGN![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.090.png)**
 
@@ -2779,11 +2779,11 @@ an SOA is that, in comparison to a monolith, it can be very complex to think abo
 
 to truly ensure that the benefits outweigh added complexity.
 
-Microservices are a subset of service-oriented architecture where each service is as the name suggests very small. ere are system implementations with thousands of microservices, each of them only a few lines of code. at said, you do not need to have thousands of microservices to experience the benefits of a service-oriented architecture. Even breaking out a system into four or five smaller services, in the right circumstances, can provide major improvement to code health.
+Microservices are a subset of service-oriented architecture where each service is as the name suggests very small. There are system implementations with thousands of microservices, each of them only a few lines of code. at said, you do not need to have thousands of microservices to experience the benefits of a service-oriented architecture. Even breaking out a system into four or five smaller services, in the right circumstances, can provide major improvement to code health.
 
 You may have heard that microservices are the only good architecture pattern; this is untrue. The perception stems from the fact that many monoliths are poorly designed or haven t received the attention and investment
 
-in tech debt required to unlock productivity. The idea that all microservice architectures are a joy to work in is also untrue. ere are many microservice implementations that for one reason or another fail to realize the benefits as well.
+in tech debt required to unlock productivity. The idea that all microservice architectures are a joy to work in is also untrue. There are many microservice implementations that for one reason or another fail to realize the benefits as well.
 
 Key features of an SOA or microservices system:
 
@@ -2809,7 +2809,7 @@ If you do find yourself contending with an unruly monolith, this doesn t mean yo
 
 the system design to evolve as well, and it is when a team fails to make this investment that monolith complexity becomes a barrier to productivity.
 
- ere are some circumstances where moving to a service-oriented architecture is clearly the right choice:
+ There are some circumstances where moving to a service-oriented architecture is clearly the right choice:
 
  Your service has elements that need to be scaled independently. For
 
@@ -2913,7 +2913,7 @@ as SonarCloud, Codebeat, Scrutinizer-CI, Code Climate, or Cloudacity.
 
 Greenfield vs. Brownfield![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.095.png)
 
-Greenfield software development refers to development work in a new environment with minimal pre-existing legacy code and free choice on tools, patterns, and architecture. is has the obvious advantage of allowing the thoughtful choice of the right architecture and tooling for the job, and no distraction from existing tech debt. The subtle downside is that, with so much choice and so few constraints, the risks of making poor decisions are higher. ere is also usually a considerable bootstrap cost for new projects that is underestimated things like setting up testing, build systems, static code analysis, etc.
+Greenfield software development refers to development work in a new environment with minimal pre-existing legacy code and free choice on tools, patterns, and architecture. is has the obvious advantage of allowing the thoughtful choice of the right architecture and tooling for the job, and no distraction from existing tech debt. The subtle downside is that, with so much choice and so few constraints, the risks of making poor decisions are higher. There is also usually a considerable bootstrap cost for new projects that is underestimated things like setting up testing, build systems, static code analysis, etc.
 
 Brownfield software development refers to the opposite of greenfield, working with existing legacy systems. The tradeoffs
 
@@ -2977,7 +2977,7 @@ a particular object, module, or block of code are passed in, rather than instant
 
 The main advantage of dependency injection is that it decreases the coupling between a service and its dependencies, effectively adding a documented interface between them. is interface allows, for example, other implementations of the interface to be used, such as a mock service in a testing context.
 
- ere are subtleties inherent to doing dependency injection cleanly. I encourage you to adopt frameworks or patterns that are commonly used and well thought out for your programming language.
+ There are subtleties inherent to doing dependency injection cleanly. I encourage you to adopt frameworks or patterns that are commonly used and well thought out for your programming language.
 
 DOMAIN-DRIVEN DESIGN
 
@@ -2991,7 +2991,7 @@ It is designed, tweaked, and agreed upon in advance of implementation, and both 
 
 a commitment to the consumers of your API that it will work in a certain way. Like a legal contract, you may have a specific idea of how your API will function, but if the nuances are interpreted differently by the other party, you may be unable to achieve your purpose. API details truly do matter, and as a technical leader it's your role to ensure that your team is designing and building APIs in a consistent, efficient manner.
 
-All that said, building a high-quality API is a surprisingly complex task. It requires taking into account many things: designing the interface, implementing the code that handles the logic/data, testing the functionality, building the documentation, addressing versioning/change management, keeping the documentation up to date as the API changes, and making it easy for developers to interact with the API. Doing these things well can mean the difference between building an API that developers love and an API that stymies implementation and slows down time to launch important projects. ere are two main levers at your disposal as a leader to ensure
+All that said, building a high-quality API is a surprisingly complex task. It requires taking into account many things: designing the interface, implementing the code that handles the logic/data, testing the functionality, building the documentation, addressing versioning/change management, keeping the documentation up to date as the API changes, and making it easy for developers to interact with the API. Doing these things well can mean the difference between building an API that developers love and an API that stymies implementation and slows down time to launch important projects. There are two main levers at your disposal as a leader to ensure
 
 you're handling these things well: governance and architecture.
 
@@ -3033,7 +3033,7 @@ I like to think of GraphQL as REST with types and a self-documenting schema. As 
 
 its schema system, allows for the composition of multiple schemas from multiple services to form a larger, more powerful, and more complex data graph, sometimes called a federated schema. The company Apollo provides sophisticated solutions for managing and scaling a graph.
 
- ere s a lot to be said for the benefits of building a graph to model your company s data, and the good habits that being forced to design a schema bring about. at said, no system comes without tradeoffs. Because GraphQL forgoes standard HTTP verbs, it does not play nicely with some elements of the web stack. GET request caching and developer tooling are still catching up to deal nicely with GraphQL requests. If those drawbacks are not a significant concern for your business, I strongly encourage you to check out apollographql.com and consider using GraphQL especially for internal use cases for your APIs.
+ There's a lot to be said for the benefits of building a graph to model your company s data, and the good habits that being forced to design a schema bring about. at said, no system comes without tradeoffs. Because GraphQL forgoes standard HTTP verbs, it does not play nicely with some elements of the web stack. GET request caching and developer tooling are still catching up to deal nicely with GraphQL requests. If those drawbacks are not a significant concern for your business, I strongly encourage you to check out apollographql.com and consider using GraphQL especially for internal use cases for your APIs.
 
 Non-HTTP APIs
 
@@ -3204,7 +3204,7 @@ Behavioral data also called behavioral analytics events describes how users have
 
 Overall, you'll want behavioral data from your application to go to multiple sources. is presents a bit of a routing problem: you have a single data source (your application), but you want events to go to many places. The nearly universally adopted solution to this problem is Twilio s Segment platform, though there are some up-and-coming alternatives called Customer Data Platforms (CDP) such as RudderStack. A CDP can ingest data from your application, then send it to your data warehouse and to as many other SaaS platforms as you like.
 
-One important distinction between behavioral data generated by your application and transactional data is its precision. Most behavioral data is lossy users have ad blockers, requests get dropped, or firewalls get in the way. ere are many reasons why events might not make it from a client device to your CDP. at doesn t mean behavioral data is not useful, but being aware of its lossiness should inform your expectations for the data and limit the use cases when querying it. If you need exact numbers, expect
+One important distinction between behavioral data generated by your application and transactional data is its precision. Most behavioral data is lossy users have ad blockers, requests get dropped, or firewalls get in the way. There are many reasons why events might not make it from a client device to your CDP. at doesn t mean behavioral data is not useful, but being aware of its lossiness should inform your expectations for the data and limit the use cases when querying it. If you need exact numbers, expect
 
 to derive those from your BI platform and your transactional data.
 
@@ -3324,7 +3324,7 @@ The highest-rated blip in 2022 of the oughtworks Technology Radar (ctohb.com/tec
 
  **Change Fail Percentage:** What percentage of production releases need a hotfix, rollback, patch, etc
 
-Together these metrics quantify the idea of how confidently your team can deploy software. Scoring high on all four metrics requires an investment in automation, DevOps, testing, and culture. As oughtworks is quick to point out, drawing value from these metrics doesn t necessarily require highly detailed instrumentation, metrics, or dashboards. DORA publishes a quick check survey (ctohb.com/dora) that your team can take to track its progress at a coarse-grained level. ere are also plenty
+Together these metrics quantify the idea of how confidently your team can deploy software. Scoring high on all four metrics requires an investment in automation, DevOps, testing, and culture. As oughtworks is quick to point out, drawing value from these metrics doesn t necessarily require highly detailed instrumentation, metrics, or dashboards. DORA publishes a quick check survey (ctohb.com/dora) that your team can take to track its progress at a coarse-grained level. There are also plenty
 
 of tools that have fairly low barriers to entry that will yield data quality that s more than sufficient to inform your progress, such as LinearB or Code Climate.
 
@@ -3402,7 +3402,7 @@ services
 
  Automatically scaling services up and down with load
 
- ere are two general approaches to container management: hosted and self-managing.
+ There are two general approaches to container management: hosted and self-managing.
 
 Hosted Container Management
 
@@ -3426,7 +3426,7 @@ ClickOps refers to the process of configuring your cloud infrastructure using th
 
 as Infrastructure as Code (IaC).
 
- ere are several tools and frameworks that allow you to define
+ There are several tools and frameworks that allow you to define
 
 IaC. The leading one is HashiCorp s Terraform. Terraform uses HashiCorp Config Language (HCL), a declarative configuration syntax, to allow engineers to define what resources they want and how they are to be configured. Terraform code can and should then be managed like any other code, using source control and peer review practices. Once approved, Terraform can generate infrastructure change plans and apply those plans for you with your cloud provider(s) of choice. I cannot emphasize enough how easy to use, powerful, and maintainable Terraform is, and how much ROI you're likely to gain by migrating from ClickOps to IaC.
 
@@ -3456,13 +3456,13 @@ between build pipelines where possible.
 
  Be consistent in how your builds access secrets. Either depend on a
 
-cloud secret manager, or build environment secrets where necessary, and try not to mix them. ere should be one obvious and consistent way to handle config and secrets.
+cloud secret manager, or build environment secrets where necessary, and try not to mix them. There should be one obvious and consistent way to handle config and secrets.
 
 **CONTINUOUS DEPLOYMENT![ref12]**
 
 In the early stages of a project, it's comparatively simple to deploy new code. At that point, There'snot much code or architectural complexity. Before long, however, the need to manage dependencies, dependent services, CDNs, firewalls, build artifacts, build configuration, secrets, and more leads to
 
-a complex deploy process. As these requirements accumulate, it's easy to neglect automation, and simply rely on, for example, a dedicated and highly trusted individual as release manager. ere are countless teams out there following this pattern, and I guarantee you most of those release managers have release dates circled on their calendar in advance and dread the stress, long hours, and frustration that those days inevitably entail.
+a complex deploy process. As these requirements accumulate, it's easy to neglect automation, and simply rely on, for example, a dedicated and highly trusted individual as release manager. There are countless teams out there following this pattern, and I guarantee you most of those release managers have release dates circled on their calendar in advance and dread the stress, long hours, and frustration that those days inevitably entail.
 
 Fortunately There'sa cure for the error-prone stress concentration that is
 
@@ -3531,7 +3531,7 @@ The Four Key Metrics advocate for shipping code as frequently ![](Aspose.Words.c
 
 as possible. Doing so leads to many great positive benefits for the health of your engineering process. A natural concern, however,
 
-is that your business may not be ready for a particular feature to go live the second the code is done. ere are many reasons why your development and release schedules might be out of sync in this way, such as the need to coordinate timing with a marketing activation, the creation of customer support documentation, awaiting regulatory approvals, pausing for internal communication, etc. Feature toggles enable your engineering team to focus on shipping as quickly and reliably as possible and delegate the problem of coordinating when features are enabled to an out-of-band process likely owned by other teams.
+is that your business may not be ready for a particular feature to go live the second the code is done. There are many reasons why your development and release schedules might be out of sync in this way, such as the need to coordinate timing with a marketing activation, the creation of customer support documentation, awaiting regulatory approvals, pausing for internal communication, etc. Feature toggles enable your engineering team to focus on shipping as quickly and reliably as possible and delegate the problem of coordinating when features are enabled to an out-of-band process likely owned by other teams.
 
 **SYSTEM MONITORING: APMS AND RUMS![ref11]**
 
@@ -3673,13 +3673,13 @@ The key tradeoff of end-to-end tests, in the real world, is reliability. At leas
 
 The payoff, though, is not insubstantial, as it's possible to create very high test coverage and very high confidence in functionality of user-facing
 
-flows with e2e test suites. ere are several companies, including testim.
+flows with e2e test suites. There are several companies, including testim.
 
 io and rainforestqa.com, that are exploring using AI and ML to solve this problem. ese solutions deploy fuzzy visual testing instead of relying on the presence or absence of CSS selectors, for example, to try and improve test reliability. Hopefully by the time you read this, the state of the art will have advanced a bit further, and the value proposition of end-to-end tests will be even stronger than at the time of this writing.
 
 VISUAL REGRESSION TESTING
 
-Visual regression testing is a relatively new paradigm that aims to detect defects in user-facing applications by performing deltas on rendered visuals. ere are frameworks that do that at various levels of granularity, ranging from capturing screenshots of entire pages to rendering individual components, and producing deltas to detect defects. The obvious drawback is that every intentional change to any visual tested component will require a change to a test.
+Visual regression testing is a relatively new paradigm that aims to detect defects in user-facing applications by performing deltas on rendered visuals. There are frameworks that do that at various levels of granularity, ranging from capturing screenshots of entire pages to rendering individual components, and producing deltas to detect defects. The obvious drawback is that every intentional change to any visual tested component will require a change to a test.
 
 Fortunately, these test frameworks often make it simple and painless
 
@@ -3707,7 +3707,7 @@ a given feature. Not only is this valuable as a launch checklist item, but it al
 
 UNSPECIALIZED MANUAL TESTING
 
-Unspecialized manual testing is often referred to as crowdsourced testing. ere are several proprietary platforms for sourcing testers, such as Rainforest QA, Pay4Bugs, 99Tests, and Testlio. The pricing model for these platforms usually varies based on the number of validated bugs submitted. Depending on the nature of your product and the types of defects you're looking to optimize for, crowdsourced testing can be a very cost-effective and low-effort way to improve product quality.
+Unspecialized manual testing is often referred to as crowdsourced testing. There are several proprietary platforms for sourcing testers, such as Rainforest QA, Pay4Bugs, 99Tests, and Testlio. The pricing model for these platforms usually varies based on the number of validated bugs submitted. Depending on the nature of your product and the types of defects you're looking to optimize for, crowdsourced testing can be a very cost-effective and low-effort way to improve product quality.
 
 **SEMI-AUTOMATED TESTING![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.121.png)**
 
@@ -3717,9 +3717,9 @@ The major pitfall of these tests is reliability. Because they're created by non-
 
 ## Source Control
 
-The industry standard used by the vast majority of companies for managing source control is Git. ere would need to be a very compelling reason for your organization to use anything else; most of your current and future team members will arrive already knowing the basics of Git. By not using it, you d likely be inflicting an unnecessary learning curve on them by forcing them to learn your chosen alternative.
+The industry standard used by the vast majority of companies for managing source control is Git. There would need to be a very compelling reason for your organization to use anything else; most of your current and future team members will arrive already knowing the basics of Git. By not using it, you d likely be inflicting an unnecessary learning curve on them by forcing them to learn your chosen alternative.
 
- ere are three main cloud Git hosting platforms: GitLab, GitHub, and Bitbucket. ese three have the lion s share of the market and, again, you should think carefully before deviating from these standards.
+ There are three main cloud Git hosting platforms: GitLab, GitHub, and Bitbucket. ese three have the lion s share of the market and, again, you should think carefully before deviating from these standards.
 
 Git has an interestingly shaped learning curve. Most people reach a plateau where they operate with a rudimentary understanding that gets them by for most happy path testing scenarios. However, sometimes things
 
@@ -3782,7 +3782,7 @@ scenario Reviewer is now satisfied with changes in Project 1 and approves the co
 
 merges Project 1, then resumes work on Project 2.
 
- ere are ways to minimize these context switches, but they too involve tradeoffs. A common alternative is to do all code reviews as a synchronous pair programming exercise; however, that strategy trades context switches for synchronous meeting time, which is still a drag on productivity. No matter how you slice it, human code review is expensive.
+ There are ways to minimize these context switches, but they too involve tradeoffs. A common alternative is to do all code reviews as a synchronous pair programming exercise; however, that strategy trades context switches for synchronous meeting time, which is still a drag on productivity. No matter how you slice it, human code review is expensive.
 
 My suggested alternative is to classify types of work by their level of risk, and the expected benefit from code reviews. A sample classification system:
 
@@ -3810,9 +3810,9 @@ Although I believe this system improves overall team efficiency, I concede that 
 
 **BRANCHING MODELS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.124.png)**
 
- ere are many ways to deal with source control branching, though the industry as a whole is building momentum around the concept of trunk- based development. As this seems to be the most effective and commonly used pattern at this time, it's what we ll discuss here. If you're seriously considering a different pattern, you'll find plentiful resources online discussing methodologies and best practices for alternative approaches.
+ There are many ways to deal with source control branching, though the industry as a whole is building momentum around the concept of trunk- based development. As this seems to be the most effective and commonly used pattern at this time, it's what we ll discuss here. If you're seriously considering a different pattern, you'll find plentiful resources online discussing methodologies and best practices for alternative approaches.
 
- ere are many blog posts with helpful graphics covering git branching models, such as this one from Reviewpad: ctohb.com/branching. If the following description doesn t make sense to you, I urge you to consult any of these posts and their associated visuals.
+ There are many blog posts with helpful graphics covering git branching models, such as this one from Reviewpad: ctohb.com/branching. If the following description doesn t make sense to you, I urge you to consult any of these posts and their associated visuals.
 
 In a traditional branching model sometimes referred to as GitFlow there are two long-lived branches, a main and a develop branch. Work
 
@@ -3942,17 +3942,11 @@ Note that we re not throwing anyone who made a human error under the bus. at per
 
 Scheduling RCA Remediation Work
 
-A good RCA process will often identify many work items for the team to improve the system and make future incidents less likely. The natural next
+A good RCA process will often identify many work items for the team to improve the system and make future incidents less likely. The natural next question is: do we do them now? For the engineers involved, the answer is likely yes; for a manager concerned about hitting deadlines and a roadmap, the answer will be less clear.
 
-question is: do we do them now? For the engineers involved, the answer
+There is no one right answer to the question, but here is some general guidance:
 
-is likely yes; for a manager concerned about hitting deadlines and a roadmap, the answer will be less clear.
-
- ere is no one right answer to the question, but here is some general guidance:
-
- Never let a good crisis go to waste. Motivation to remediate issues will
-
-be at its peak around the incident and the RCA meeting, and highly motivated engineers are often most efficient. it's also easy to underestimate the overall cost to your team of system reliability issues and thus under prioritize reliability improvements. The fact that a production incident occurred should remind you and your team that these investments are critical to limiting distractions and enabling teams to focus
+Never let a good crisis go to waste. Motivation to remediate issues will be at its peak around the incident and the RCA meeting, and highly motivated engineers are often most efficient. it's also easy to underestimate the overall cost to your team of system reliability issues and thus under prioritize reliability improvements. The fact that a production incident occurred should remind you and your team that these investments are critical to limiting distractions and enabling teams to focus
 
 on productive feature work and delivering consistent high velocity.
 
@@ -3980,7 +3974,7 @@ Some key decisions that will help you minimize IT cost at most small tech compan
 
 Use a cloud-based system for company email, data, and documents.
 
-Most startups are using Google Workspace, but if your team members (and prospective future hires) are more comfortable with an alternative, go with that. ere s no benefit at this stage in setting up your own in-house mail server, document storage, data access, networking, etc.
+Most startups are using Google Workspace, but if your team members (and prospective future hires) are more comfortable with an alternative, go with that. There's no benefit at this stage in setting up your own in-house mail server, document storage, data access, networking, etc.
 
 Early on, unless required to by a compliance system, do't require
 
@@ -4039,7 +4033,7 @@ authentication or authorization.
 
  Don't waste time building a login page yourself; in 2023 There'sreally
 
-no reason to. Tools like Auth0, SuperTokens, and AWS Cognito provide secure user signup, login, social login, forgotten password management, email authentication, two-factor authentication, and session management. Some of these tools also offer robust authorization systems. Dealing with auth is a substantial project; it's very complex and mistakes are expensive. ere s no reason your startup needs to solve
+no reason to. Tools like Auth0, SuperTokens, and AWS Cognito provide secure user signup, login, social login, forgotten password management, email authentication, two-factor authentication, and session management. Some of these tools also offer robust authorization systems. Dealing with auth is a substantial project; it's very complex and mistakes are expensive. There's no reason your startup needs to solve
 
 that problem.
 
@@ -4069,7 +4063,7 @@ for and conducting an audit such as for PCI DSS or SOC 2 from start to finish is
 
  Use as much automation to enforce or provide evidence of compliance
 
-as possible. ere is a thriving sector of SaaS companies who specialize in automating these compliance frameworks; companies like Vanta, Tugboat Logic, Secureframe, Laika, and Drata all have offerings that will reduce your time-to-certification and total cost significantly.
+as possible. There is a thriving sector of SaaS companies who specialize in automating these compliance frameworks; companies like Vanta, Tugboat Logic, Secureframe, Laika, and Drata all have offerings that will reduce your time-to-certification and total cost significantly.
 
  If you're lucky enough to have a formal compliance person or depart -
 
