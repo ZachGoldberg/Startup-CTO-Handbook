@@ -129,7 +129,7 @@ The most wonderful thing about tech is that our field is continuously evolving. 
 
 > I want people to be serious about learning. I want them to dig in. I want them to gain, most importantly. It's not RSA, it's not [nuanced algorithms]; those aren't important. It's that confidence in themselves they can grow and learn outside of academia: that means they don't need me. All they need is to be able to sit down with books or perhaps today the internet and go off and learn things on their own.
 >
-> Dr. Max Mintz, 1942 2022
+> Dr. Max Mintz, 1942–2022
 
 The Startup Technical Leader's Dilemma
 
