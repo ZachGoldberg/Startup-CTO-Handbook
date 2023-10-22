@@ -553,7 +553,7 @@ Which model you use for any given decision is up to you, and I encourage you to 
 
 In an annual letter to shareholders in 1997, Jeff Bezos outlined a framework for classifying decisions into Type 1 and Type 2 decisions. Type 1 decisions are not reversible, and should be thought through methodically, carefully, slowly, and with great deliberation and consultation, Bezos wrote. If you walk through a door and don't like what you see on the other side, you can t get back to where you were before. Which programming language you use, for example, is a Type 1 decision.
 
-Type 2 decisions are the opposite. ey can and should be made quickly by high-judgment individuals or small groups. Which exact shade of gray a button is can be a Type 2 decision, as it's easily changed down the line.
+Type 2 decisions are the opposite. They can and should be made quickly by high-judgment individuals or small groups. Which exact shade of gray a button is can be a Type 2 decision, as it's easily changed down the line.
 
 Bezos's advice, which I'll echo here, is that using Type 1 decision-making for Type 2 decisions leads to slowness and failure to experiment and innovate.
 
@@ -645,7 +645,7 @@ Questions:
 
 #### Giving Technical Advice to Friends/Strangers
 
-After you've had some form of technical leadership on your rØsumØ for a while, you'll likely start to get friends, or friends of friends, reaching out for advice. For the most part, I recommend taking these phone calls, not only because the networking is valuable, but because the questions you are asked may force you to think through and put words to ideas you're subconsciously working on. ey say teaching others is the best way to really learn something yourself.
+After you've had some form of technical leadership on your rØsumØ for a while, you'll likely start to get friends, or friends of friends, reaching out for advice. For the most part, I recommend taking these phone calls, not only because the networking is valuable, but because the questions you are asked may force you to think through and put words to ideas you're subconsciously working on. They say teaching others is the best way to really learn something yourself.
 
 A quick note on advising non-technical founders: you're likely to get approached from time to time by somebody with a self-pro claimed billion-dollar idea. It costs very little to take these calls ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.024.png)and can be a great way to build some social/relationship capital. Be mindful however that brilliant ideas don't themselves make successful businesses. Between every great idea and success is a gigantic mountain of execution, and most climbers are not equipped to summit Everest. So be very careful about making commitments to someone with a good idea and no climbing gear.
 
@@ -1118,7 +1118,7 @@ As controversial and varied as the methodologies for take-home coding interviews
 
 The classic technical interview, practiced by many of the largest tech companies, involves some form of shared whiteboard experience where the candidate is asked to solve a technical problem in real time. The problems range from the academic, sort an array with some special conditions, to high-level/hand-wavy architecture, design a system to handle 100 million users posting news feed updates.
 
-The classic interview approach must work for the big companies, as they continue to use it year after year, but I don't see how they work at a startup. ey re often overly broad, or overly narrow, and thus difficult to score fairly. The academic questions are rarely correlated with the types of problems one solves on a daily basis on the job.
+The classic interview approach must work for the big companies, as they continue to use it year after year, but I don't see how they work at a startup. They re often overly broad, or overly narrow, and thus difficult to score fairly. The academic questions are rarely correlated with the types of problems one solves on a daily basis on the job.
 
 Most damning, they're not setting candidates up to be successful in the interview environment. After all, I'm sure there are very few engineers at the big companies writing array-sorting algorithms as part of their day job.
 
@@ -1217,7 +1217,7 @@ of candidate] be most successful?
 
 By the time you're ready to make somebody an offer you should have a strong opinion, based on the job description and feedback from your focus interviews, on the level at which you would be bringing in the candidate. From there it should be relatively straightforward to identify a salary/ bonus/equity amount using your predefined leveling bands. (See 1.4.2 Compensation and Leveling, for more on this.)
 
-Once you've calibrated your offer amounts, you should decide how to present the offer. Especially if your offer includes equity compensation, you should seriously consider providing a spreadsheet that provides context to the offer amounts. The value of a number of shares on its own is impossible for a candidate to assess. ey need additional data points to value what you're offering, including numbers like total shares outstanding, share strike price, latest company valuation, etc.
+Once you've calibrated your offer amounts, you should decide how to present the offer. Especially if your offer includes equity compensation, you should seriously consider providing a spreadsheet that provides context to the offer amounts. The value of a number of shares on its own is impossible for a candidate to assess. They need additional data points to value what you're offering, including numbers like total shares outstanding, share strike price, latest company valuation, etc.
 
 I've prepared a sample candidate offer spreadsheet at ctohb.com/ samples.
 
@@ -1361,7 +1361,7 @@ Onboarding begins the second somebody agrees to work at your company and signs t
 
 I encourage you to send candidates your Day 1 Guide as well as your guidebook the day they sign their offer letter. If you have a company reading list, now is a good time to order those books and have them either shipped to the candidate or offer them in eBook/audiobook format. Most candidates are not at all interested in reading/writing code before Day 1, but learning about your culture or reading high-caliber books on business/culture/ engineering is rarely perceived as a burden. You shouldn t require this activity, but by making it available you'll likely get fairly healthy volunteer participation.
 
-On their actual start date, the candidate should meet with their new manager first thing in the morning and check in. If they haven t read through the materials you sent them in advance of their arrival, set the expectation that they are to do so on Day 1. ey should schedule follow-up time to review the ninety-day scorecard after the candidate has had a chance to review the introductory materials and set up their environment/logins. is is also a good time to reinforce the idea of continuous improvement and encourage the candidate to take ownership of any hiccups in their onboarding and contribute to improving the documentation and process for whoever follows them next onto the team.
+On their actual start date, the candidate should meet with their new manager first thing in the morning and check in. If they haven t read through the materials you sent them in advance of their arrival, set the expectation that they are to do so on Day 1. They should schedule follow-up time to review the ninety-day scorecard after the candidate has had a chance to review the introductory materials and set up their environment/logins. is is also a good time to reinforce the idea of continuous improvement and encourage the candidate to take ownership of any hiccups in their onboarding and contribute to improving the documentation and process for whoever follows them next onto the team.
 
 ## Performance Management
 
@@ -1547,7 +1547,7 @@ Before developing a PIP or terminating an underperforming employee, it's worth a
 
 #### Brilliant Jerks
 
-A brilliant jerk is an industry-standard term used to describe an individual who is highly productive on their own, but whose presence hurts the morale or productivity of the people around them. ey re often described as toxic personalities.
+A brilliant jerk is an industry-standard term used to describe an individual who is highly productive on their own, but whose presence hurts the morale or productivity of the people around them. They are often described as toxic personalities.
 
 Due to their sometimes extraordinary individual productivity, choosing to fire a brilliant jerk can often feel difficult or wrong. The nearly universal recommendation is to fire them anyway. Each day that you, as a manager, allow toxic behavior to persist can increase your team s resentment toward you for allowing it to continue. ere s no amount of individual productivity that makes up for the hit to company culture and to your credibility as a manager that retaining a toxic individual entails.
 
@@ -1802,7 +1802,7 @@ Generally speaking, as CTO, your role in fundraising and due diligence is fairly
 
 It's not uncommon for an investor to hire a third-party firm to conduct a technical diligence audit. ese audits may involve interviews or meetings with you and perhaps a few other senior members of the team. Be prepared to discuss your engineering process, assess the general productivity of the team, and do a code walkthrough of parts of your system.
 
-My advice is to be candid with these auditors. ey ve looked at a lot of tech companies and are well aware that all engineering teams have debt and parts of the system that teams are more proud of than others. The more your investors know about your strengths and weaknesses, the better they can support and hold your team accountable for improving the weaknesses going forward.
+My advice is to be candid with these auditors. They've looked at a lot of tech companies and are well aware that all engineering teams have debt and parts of the system that teams are more proud of than others. The more your investors know about your strengths and weaknesses, the better they can support and hold your team accountable for improving the weaknesses going forward.
 
 ### Vendor Management
 
@@ -1820,7 +1820,7 @@ You're now facing an enterprise sales process. Before reaching out to the vendor
 
 When you first reach out to an enterprise vendor you'll almost certainly enter what is called a sales qualification process. At this step, especially as a technical executive, your needs are not yet aligned with the vendor. You're probably looking for pricing, a contract, and the shortest path to getting started. The vendor is looking to make sure you're their target customer and are likely to sign up and not churn for at least a few years.
 
-Most SaaS sales companies will have frontline sales representatives take the initial phone call, and their primary objective is to learn about your company and see if you fit their profile. ey might not have much technical knowledge and often they won t be able to discuss pricing with you. As a result, you're not likely to get much value from this first meeting. My advice is to either delegate these intro meetings or try and get the sales qualification questions from the rep via email and answer them sufficiently to skip the intro meeting altogether.
+Most SaaS sales companies will have frontline sales representatives take the initial phone call, and their primary objective is to learn about your company and see if you fit their profile. They might not have much technical knowledge and often they won t be able to discuss pricing with you. As a result, you're not likely to get much value from this first meeting. My advice is to either delegate these intro meetings or try and get the sales qualification questions from the rep via email and answer them sufficiently to skip the intro meeting altogether.
 
 ##### Negotiation
 
@@ -1847,7 +1847,7 @@ Do not lose or misplace these contracts as they ll be useful for future negotiat
 
 ##### Post-Sales
 
-After the deal is signed you will likely be handed off to a different representative at your vendor, someone whose title is similar to either post-sales support or customer service manager (CSM). ese individuals are incentivized by, measured by, and focused on customer retention or product upsells. ey re knowledgeable about the product, and at least somewhat technical. Going forward, they ll serve as your advocate for new features and getting defects resolved.
+After the deal is signed you will likely be handed off to a different representative at your vendor, someone whose title is similar to either post-sales support or customer service manager (CSM). ese individuals are incentivized by, measured by, and focused on customer retention or product upsells. They're knowledgeable about the product, and at least somewhat technical. Going forward, they ll serve as your advocate for new features and getting defects resolved.
 
 ## Which Type of Startup CTO Are You?
 
@@ -2751,7 +2751,7 @@ MONOLITHIC ARCHITECTURE
 
  The monolithic architecture pattern is one in which all code is executed as a single process, where information moves between pieces of your system entirely in memory, modeled as simple function calls. If you've ever sat down and built a simple application in an afternoon, chances are good it would fall into the category of the monolith. Monoliths come in all sorts of shapes and sizes, from very small to massive, multi-million-line projects.
 
-The key to building a successful monolith is to carefully design the data flows within the application, using domain-driven design. You can measure this pretty easily; you want to ensure that when a developer goes to change the functionality of the application, it is obvious where in the monolith they should be working. ey should only need to change code in an obvious and well-defined or confined area to achieve their goal. Every additional area of the codebase that needs change to meet a functional requirement adds additional complexity or opportunity for error, and in general slows down development.
+The key to building a successful monolith is to carefully design the data flows within the application, using domain-driven design. You can measure this pretty easily; you want to ensure that when a developer goes to change the functionality of the application, it is obvious where in the monolith they should be working. They should only need to change code in an obvious and well-defined or confined area to achieve their goal. Every additional area of the codebase that needs change to meet a functional requirement adds additional complexity or opportunity for error, and in general slows down development.
 
 Key features of a monolith:
 
@@ -3938,7 +3938,7 @@ The RCA lead need not necessarily be the person who responded to the incident. T
 
 the systems involved and can ask insightful questions about where tools and processes failed and generate ideas for improvement.
 
-Note that we re not throwing anyone who made a human error under the bus. at person may be the RCA lead if they fit the prior criteria, but their error does not on its own make them the right person to lead the RCA. ey should certainly contribute and take the opportunity to learn through the process. But again, they are not punished for their mistake as part of the process. Authoring an RCA is not a punishment; it's an important responsibility and element of system maintenance.
+Note that we re not throwing anyone who made a human error under the bus. at person may be the RCA lead if they fit the prior criteria, but their error does not on its own make them the right person to lead the RCA. They should certainly contribute and take the opportunity to learn through the process. But again, they are not punished for their mistake as part of the process. Authoring an RCA is not a punishment; it's an important responsibility and element of system maintenance.
 
 Scheduling RCA Remediation Work
 
