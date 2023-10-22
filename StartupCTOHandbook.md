@@ -123,9 +123,9 @@ By the time I graduated college, Max had become a close friend and confidant, an
 
 No single book can give you the experience Max gave me as an undergraduate student. I make no such promises for the book you're reading now. Instead, I tell this story to emphasize the value and impact of a focus on the fundamentals of learning itself.
 
-As a technical leader, the desire, willingness, and aptitude to continue learning are critical to your success. There is far too much tech knowledge out there for anybody to become a true expert in everything needed to work in modern technology. I like thinking of a person pursuing a career in tech as a character in an RPG game that, rather than killing enemies to level up, must spend forty hours a week at a job collecting skill points. You get to choose the skill trees on which to spend the accumulated points, but you need to choose wisely. Thee variety of skill trees is vast enough that it's impossible to unlock all of them, so you must specialize.
+As a technical leader, the desire, willingness, and aptitude to continue learning are critical to your success. There is far too much tech knowledge out there for anybody to become a true expert in everything needed to work in modern technology. I like thinking of a person pursuing a career in tech as a character in an RPG game that, rather than killing enemies to level up, must spend forty hours a week at a job collecting skill points. You get to choose the skill trees on which to spend the accumulated points, but you need to choose wisely. The variety of skill trees is vast enough that it's impossible to unlock all of them, so you must specialize.
 
-The most wonderful thing about tech is that our field is continuously evolving. The people you work with will change. Thee tools you use will be updated or deprecated, and new techniques for doing your work will come and go. As you embark on your adventure in technical leadership, the only way to manage this change is to expect it, accept it, and embrace the opportunity to learn and grow with your team and the field itself.
+The most wonderful thing about tech is that our field is continuously evolving. The people you work with will change. The tools you use will be updated or deprecated, and new techniques for doing your work will come and go. As you embark on your adventure in technical leadership, the only way to manage this change is to expect it, accept it, and embrace the opportunity to learn and grow with your team and the field itself.
 
 *I want people to be serious about learning. I want them to dig in. I want them to gain, most importantly. It's not RSA, it's not [nuanced algorithms]; those aren't important. It's that confidence in themselves they can grow and learn outside of academia: that means they don't need me. All they need is to be able to sit down with books or perhaps today the internet and go off and learn things on their own.*
 
@@ -1255,7 +1255,7 @@ That s not to say that the nuts and bolts of onboarding will be identical across
 
 #### Onboarding Documentation
 
-There are two key elements of getting a new engineer onboarded: teaching them about your culture and best practices, and also giving them something to do by way of structure and instructions. I prefer to break these out into two written artifacts: TheEngineering Guidebook and the Welcome to [Your Company Name] Engineering, Day 1 Guide.
+There are two key elements of getting a new engineer onboarded: teaching them about your culture and best practices, and also giving them something to do by way of structure and instructions. I prefer to break these out into two written artifacts: The Engineering Guidebook and the Welcome to [Your Company Name] Engineering, Day 1 Guide.
 
 ##### THE ENGINEERING GUIDEBOOK
 
@@ -1298,7 +1298,7 @@ The guidebook should be clearly labeled as a living document, with a well-define
 
 ##### WELCOME TO [YOUR COMPANY NAME] ENGINEERING, DAY 1 GUIDE
 
-Distributing a Day 1 Guide is your opportunity to provide some structure for new employees, giving them a concrete list of things to do on their first day with your organization that will introduce them to the company culture, their teammates, your process, and your software stack. The Day 1 Guide should, of course, reference TheEngineering Guidebook as required Day 1 reading. In addition, your Day 1 guide should cover the following:
+Distributing a Day 1 Guide is your opportunity to provide some structure for new employees, giving them a concrete list of things to do on their first day with your organization that will introduce them to the company culture, their teammates, your process, and your software stack. The Day 1 Guide should, of course, reference The Engineering Guidebook as required Day 1 reading. In addition, your Day 1 guide should cover the following:
 
 Instructions on how to get logins/access to required systems, including:
 
@@ -2416,7 +2416,7 @@ There are many excellent resources that explore various architectural patterns d
 
 Domain-driven design (DDD) is an approach to software development that focuses on understanding and modeling the problem domain in order to design better software solutions.
 
-Thee core concepts of DDD include:
+The core concepts of DDD include:
 
  **Domain model:** A representation of business concepts as objects in your technical system;
 
