@@ -139,7 +139,7 @@ Somewhere between hiring the third and tenth engineer, this person will stop bei
 
 Chances are the technical cofounder, or any technical leader, has spent their entire career up to this point investing their time and effort in becoming a great programmer, not into developing leadership skills. It should come as no surprise then, with their leadership skills at level 1, that they're making mistakes and costing the company time and money.
 
-Regardless of your title and when you joined the company, if you've devoted most of your career and experience to technology and you're now assuming responsibility for people or a department, it's critical you realize that you're now in a leadership role; your technical background and talents won t be enough on their own to be successful. While some technical skills are table stakes for running a software engineering team, the reality is, to do a good job as a leader you need to focus on people leadership, management, architecture, and general decision-making skills.
+Regardless of your title and when you joined the company, if you've devoted most of your career and experience to technology and you're now assuming responsibility for people or a department, it's critical you realize that you're now in a leadership role; your technical background and talents won't be enough on their own to be successful. While some technical skills are table stakes for running a software engineering team, the reality is, to do a good job as a leader you need to focus on people leadership, management, architecture, and general decision-making skills.
 
 People leadership isn't for everyone. I'm sure you've heard stories of technical founders who stepped aside as their companies grew. Steve Wozniak, cofounder of Apple, is perhaps the most famous example of this pattern. There is no shame in stepping aside; Wozniak recognized that technical work was what he loved, and that is where he wanted to spend his time. You would do well to at least consider the same for yourself: decide if programming is your zone of genius and the work that gives you the most joy. If it is, you'll have a great career ahead climbing to the ranks of the most senior technical staff.
 
@@ -159,7 +159,7 @@ I've also been fortunate to learn from others throughout this journey, including
 
 Through my reading, it's become clear to me that while there are hundreds of how-to books for programmers and people working with specific tech or tools, and dozens of helpful books for CEOs and CFOs on the financial side of entrepreneurship, one thing our industry is missing is a thorough, practical resource for startup tech leaders. We need a resource that covers all the topics in between the core skills, and addresses the range of leadership challenges and skills so critical to our role.
 
-There are also plenty of blogs on how to write good code, or how to run user surveys, or on finding product market fit. is is a book on technical team building; it addresses all the skills a leader needs to build a company that they didn t learn in traditional tech education or experience.
+There are also plenty of blogs on how to write good code, or how to run user surveys, or on finding product market fit. This is a book on technical team building; it addresses all the skills a leader needs to build a company that they didn't learn in traditional tech education or experience.
 
 ## Using this Book
 
@@ -210,7 +210,7 @@ If you buy into this journey, know that you will make mistakes. Own those mistak
 
 In *Managing Humans: Biting and Humorous Tales of a Software Engineering Manager*, Michael Lopp writes:
 
- *Every single person with whom you work has a vastly different set of needs. Fulfilling these needs is one way to make them content and productive. It is your full-time job to listen to these people and mentally document how they are built. is is your most important job. I know the senior VP of engineering is telling you that hitting the date for the project is job number one, but you are not going to write the code, test the product, or document the features. The team is going to do these things, and your job is to manage the team.*
+ *Every single person with whom you work has a vastly different set of needs. Fulfilling these needs is one way to make them content and productive. It is your full-time job to listen to these people and mentally document how they are built. This is your most important job. I know the senior VP of engineering is telling you that hitting the date for the project is job number one, but you are not going to write the code, test the product, or document the features. The team is going to do these things, and your job is to manage the team.*
 
 In that one succinct paragraph, Lopp hits on all the key points of management. First and foremost, you are a listener, a personal and career development coach, and a shield against external forces in the world which might distract, stress, or otherwise prevent your team from doing their best work.
 
@@ -245,7 +245,7 @@ In my first role as a business leader at WiFast (then Zenreach, now Adentro) we 
 
 I was eager to take advantage of every resource I could to become a better manager. My only problem was I hated most management advice. I found it either overly prescriptive (do X, then Y, then Z) without context or insight, or entirely devoid of substance fluff, if you will. That was until I met my first management coach, Jonathan.
 
-The story goes that one of our investors, First Round Capital, was hosting a management summit in San Francisco, about a thirty-minute drive from our office. us far I'd found First Round folks were high quality, so when I came across the invitation, their support temporarily muted my ever-present fluff allergy and I signed up.
+The story goes that one of our investors, First Round Capital, was hosting a management summit in San Francisco, about a thirty-minute drive from our office. Thus far I'd found First Round folks were high quality, so when I came across the invitation, their support temporarily muted my ever-present fluff allergy and I signed up.
 
 When I drove up to the summit, I was encouraged that the audience was relatively small, only about thirty people enough to fit into what felt like a high-school classroom. I sat down at the high-school folding-tray top desk, opened my notebook, took out a pen, and wrote the date and First Round Capital Management Summit at the top of the page. Sadly, that would be the only thing I wrote for the next four hours.
 
@@ -259,7 +259,7 @@ I'll never forget that moment. What a funny thing to say; it's a seeming contrad
 
 I hung on every word Jonathan had to say. As the half-hour session wrapped, Jonathan said he had to catch a flight, and somewhat hurriedly ran out of the room. I looked down at my notebook, processed that I had taken three pages of notes in the last thirty minutes, then stood up from my chair and ran after him.
 
-I managed to catch him just as he was getting into a yellow cab. Somewhat exasperated, Jonathan asked me what I wanted. I asked if he did private coaching. He replied, Ask the summit organizers to connect us. Cleverly, he didn t commit one way or another to coaching on the spot, leaving himself the opportunity to do due diligence on me via First Round before deciding if I was worth his time. Luckily for me, when I asked First Round to put us in touch, the contact said nice enough things about me that Jonathan agreed to an introductory coaching session.
+I managed to catch him just as he was getting into a yellow cab. Somewhat exasperated, Jonathan asked me what I wanted. I asked if he did private coaching. He replied, Ask the summit organizers to connect us. Cleverly, he didn't commit one way or another to coaching on the spot, leaving himself the opportunity to do due diligence on me via First Round before deciding if I was worth his time. Luckily for me, when I asked First Round to put us in touch, the contact said nice enough things about me that Jonathan agreed to an introductory coaching session.
 
 ### 1:1 MEETINGS
 
@@ -345,7 +345,7 @@ I encourage you to read Scott's book, but if you don't, then at least be aware o
 
 ### Benefits of Overcommunication
 
-There's nothing worse for an employee than feeling like their manager doesn t communicate enough with them. In the absence of information, it's a natural instinct to assume the worst-case scenario; a lack of information can also be a prime source of anxiety and confusion.
+There's nothing worse for an employee than feeling like their manager doesn't communicate enough with them. In the absence of information, it's a natural instinct to assume the worst-case scenario; a lack of information can also be a prime source of anxiety and confusion.
 
 Overcommunication, by contrast, has very few consequences. The worst that can be said of overcommunication is that it can prove a distraction or become redundant, which are problems easily remedied with a bit of thoughtfulness as to the form of overcommunication. It's no surprise, then, that most startups invest heavily in building overcommunication into their culture, often including the phrase as a company core value.
 
@@ -356,12 +356,12 @@ Pretty much anyone you interact with nowadays has either been using email for tw
 * Don't let email become your job.
 
   * Rather than having email open all day or monitoring it continuously, check email a fixed times each day.
-  * Disable email notifications on your phone. ough this one in particular may seem blasphemous, I encourage you to try it. Not only does it significantly reduce the number of notifications you receive, but you'll find yourself building a new habit of proactively checking email when you're ready to engage. is makes email an intentional activity instead of a continual background nuisance.
+  * Disable email notifications on your phone. Though this one in particular may seem blasphemous, I encourage you to try it. Not only does it significantly reduce the number of notifications you receive, but you'll find yourself building a new habit of proactively checking email when you're ready to engage. is makes email an intentional activity instead of a continual background nuisance.
 
 
 * Get to inbox zero every day.
   * Invest time in learning your email tool or use optional email assistant add-ons/plugins that help sort and triage email so that, by the end of the day, every day, you'll have zero unread emails.
-  * Zeroing your inbox doesn t mean acting on or responding to every email. If you're using email as a to-do list, that's fine (though it's not ideal see Meetings and Time Management, page 28, for better to-do list alternatives); just make sure to triage your email to-do list out of your core inbox so that you won t confuse it with untriaged emails.
+  * Zeroing your inbox doesn't mean acting on or responding to every email. If you're using email as a to-do list, that's fine (though it's not ideal see Meetings and Time Management, page 28, for better to-do list alternatives); just make sure to triage your email to-do list out of your core inbox so that you won't confuse it with untriaged emails.
 
 * Don't problem-solve in email.
 
@@ -447,11 +447,11 @@ One key area of documentation you should pay special attention to is how a devel
 
 Every organization has its own distinct culture, and its own style of internal and external communications. One of a leader's key responsibilities is to make sure that culture always supports the goals of the organization rather than impeding them.
 
-One element of the internal culture of technical organization that tends to get out of hand is the generation of made-up acronyms that can multiply over time and obscure and overcomplicate the communication they were intended to streamline. is may seem like a minor annoyance, but it's symptomatic of poor communications strategy that can spiral out of control, particularly as it can place barriers between those in the know and team members who have no clue what the acronyms stand for. As an organization's technical leader, it's your job to set the tone and define the culture, and although the proliferation of made-up acronyms most likely won t start with you, it's your job to recognize when it's happening and shut it down before it gets out of hand.
+One element of the internal culture of technical organization that tends to get out of hand is the generation of made-up acronyms that can multiply over time and obscure and overcomplicate the communication they were intended to streamline. is may seem like a minor annoyance, but it's symptomatic of poor communications strategy that can spiral out of control, particularly as it can place barriers between those in the know and team members who have no clue what the acronyms stand for. As an organization's technical leader, it's your job to set the tone and define the culture, and although the proliferation of made-up acronyms most likely won't start with you, it's your job to recognize when it's happening and shut it down before it gets out of hand.
 
 In a January 2018 memo to SpaceX employees, Elon Musk called for a No Acronyms policy. I've put that same policy into practice ever since, and I wholeheartedly endorse it. The below came from an email titled Acronyms Seriously Suck (ctohb.com/acronyms):
 
-> There is a creeping tendency to use made-up acronyms at SpaceX. Excessive use of made-up acronyms is a significant impediment to communication and keeping communication good as we grow is incredibly important. Individually, a few acronyms here and there may not seem so bad, but if a thousand people are making these up, over time the result will be a huge glossary that we have to issue to new employees. [...] is is particularly tough on new employees. [...] e key test for an acronym is to ask whether it helps or hurts communication. An acronym that most engineers outside of SpaceX already know, such as GUI, is fine to use. In practice, most acronyms act as a barrier and not a benefit to clear communication. It makes it harder for new employees to understand what's being discussed. It requires effort for a team to maintain a list of acronym definitions someplace, and overall, it's less of a timesaver to both write and speak than it may seem at first glance.*
+> There is a creeping tendency to use made-up acronyms at SpaceX. Excessive use of made-up acronyms is a significant impediment to communication and keeping communication good as we grow is incredibly important. Individually, a few acronyms here and there may not seem so bad, but if a thousand people are making these up, over time the result will be a huge glossary that we have to issue to new employees. [...] This is particularly tough on new employees. [...] The key test for an acronym is to ask whether it helps or hurts communication. An acronym that most engineers outside of SpaceX already know, such as GUI, is fine to use. In practice, most acronyms act as a barrier and not a benefit to clear communication. It makes it harder for new employees to understand what's being discussed. It requires effort for a team to maintain a list of acronym definitions someplace, and overall, it's less of a timesaver to both write and speak than it may seem at first glance.*
 
 This may seem blasphemous, or an overbearing and silly rule to try and enforce in a culture. I'm not proposing you punish people for using acronyms or write it on the walls in the halls of your office. Quite the opposite; especially at a smaller organization, it takes only a very light touch to make no-new-acronyms a part of your culture. Get buy-in from your executive team to not create acronyms, and then encourage them to issue a gentle reminder to their managers to do the same, and you'll be amazed how quickly everyone kicks the habit. A sentence or two in your onboarding documentation is often a sufficient nudge for new employees who, due to the gentle note in onboarding and witnessing the lack of acronyms surrounding them, will be far less likely to create them themselves.
 
@@ -472,7 +472,7 @@ One of the ways you can enable productivity in your team is by creating, or allo
 
 I'm a fan of declaring an informal meeting hours window for the team. Encourage the engineering team, and cross-functional teams, to schedule meetings during this two or three hour window every day and try not to schedule engineers outside that window. That leaves a healthy amount of time *every single day* for your engineering team to focus on the core of their work and also make space for necessary informational and conflict resolution meetings. If your team is in more than three hours of meetings per day (fifteen hours per week, nearly half of their time!), you should take a close look at those meetings and ask yourself if they can be consolidated and reduced.
 
-Other teams have found success with no-meeting days setting aside one or more days each week when nobody schedules any recurring meetings. Just keep in mind that, in a forty-hour work week, your goal is to reserve as many of those hours as possible for your engineering team as contiguous blocks of focus time. A single no-meeting day implies an eight-hour block of focus time, but there are still thirty-two other hours to consider, so it doesn t solve the whole problem.
+Other teams have found success with no-meeting days setting aside one or more days each week when nobody schedules any recurring meetings. Just keep in mind that, in a forty-hour work week, your goal is to reserve as many of those hours as possible for your engineering team as contiguous blocks of focus time. A single no-meeting day implies an eight-hour block of focus time, but there are still thirty-two other hours to consider, so it doesn't solve the whole problem.
 
 #### ENGINEER'S TIME RECOMMENDATION
 
@@ -487,7 +487,7 @@ Consider this hypothetical week for a software engineer:
 * Four to eight hours: reviewing others code Four hours: email/chat communication
 
 
-In total, that's about thirteen to seventeen hours of the week used up for meetings and communication. If you add another few hours on top of that for time spent context switching and unplanned miscellaneous interruptions, quickly you're looking at at best half of a forty-hour work week available for actual focus time. If you're not careful about when meetings are scheduled, then not only will your engineers have only twenty hours left for their core tasks, but also they won t have them in contiguous blocks, further reducing productivity.
+In total, that's about thirteen to seventeen hours of the week used up for meetings and communication. If you add another few hours on top of that for time spent context switching and unplanned miscellaneous interruptions, quickly you're looking at at best half of a forty-hour work week available for actual focus time. If you're not careful about when meetings are scheduled, then not only will your engineers have only twenty hours left for their core tasks, but also they won't have them in contiguous blocks, further reducing productivity.
 
 I present this contrived example to drive home the point that providing engineers with large blocks of focus time to do engineering does not happen by accident. It's up to you as the leader who determines how their time is spent to develop a culture and process that consolidates and minimizes these distractions and maximizes time available for individual contributors to do actual engineering.
 
@@ -514,7 +514,7 @@ A lot of the problems you'll encounter as a manager follow common, repeating pat
 
 #### THREE STAGES OF MANAGEMENT PROBLEM-SOLVING
 
-When presented with a large, ambiguous challenge, such as taking over managing a new team, or diagnosing and improving an individual's underperformance, I like to use a three-step process. ese steps should be done sequentially to come up with a plan to address a particular problem.
+When presented with a large, ambiguous challenge, such as taking over managing a new team, or diagnosing and improving an individual's underperformance, I like to use a three-step process. These steps should be done sequentially to come up with a plan to address a particular problem.
 
 1. Ingest
 
@@ -551,13 +551,13 @@ Which model you use for any given decision is up to you, and I encourage you to 
 
 #### #### TWO TYPES OF DECISIONS
 
-In an annual letter to shareholders in 1997, Jeff Bezos outlined a framework for classifying decisions into Type 1 and Type 2 decisions. Type 1 decisions are not reversible, and should be thought through methodically, carefully, slowly, and with great deliberation and consultation, Bezos wrote. If you walk through a door and don't like what you see on the other side, you can t get back to where you were before. Which programming language you use, for example, is a Type 1 decision.
+In an annual letter to shareholders in 1997, Jeff Bezos outlined a framework for classifying decisions into Type 1 and Type 2 decisions. Type 1 decisions are not reversible, and should be thought through methodically, carefully, slowly, and with great deliberation and consultation, Bezos wrote. If you walk through a door and don't like what you see on the other side, you can't get back to where you were before. Which programming language you use, for example, is a Type 1 decision.
 
 Type 2 decisions are the opposite. They can and should be made quickly by high-judgment individuals or small groups. Which exact shade of gray a button is can be a Type 2 decision, as it's easily changed down the line.
 
 Bezos's advice, which I'll echo here, is that using Type 1 decision-making for Type 2 decisions leads to slowness and failure to experiment and innovate.
 
-Most of your day-to-day technical decisions are Type 2 and are best made quickly and revisited or confirmed after you've collected more data via a prototype or MVP implementation. is is because the most expensive element of most startup technical decisions is the engineering team's time invested in the solution. If you deliberately constrain the time (and thus cost) invested into validating a reversible decision, you're out only a small bit. Most Type 2 technical decisions become irreversible only after you've invested considerable time and new engineering on top of them, so be rigorous about evaluating progress early on. When in doubt, make the decision to reverse early.
+Most of your day-to-day technical decisions are Type 2 and are best made quickly and revisited or confirmed after you've collected more data via a prototype or MVP implementation. This is because the most expensive element of most startup technical decisions is the engineering team's time invested in the solution. If you deliberately constrain the time (and thus cost) invested into validating a reversible decision, you're out only a small bit. Most Type 2 technical decisions become irreversible only after you've invested considerable time and new engineering on top of them, so be rigorous about evaluating progress early on. When in doubt, make the decision to reverse early.
 
 #### BREAKING TIES
 
@@ -567,7 +567,7 @@ As the leader of your team, ultimately you are accountable for achieving your te
 
 1. We'll go with my way because it's superior, and I'll explain why using the additional context I have as a result of being a manager with a broader scope of responsibility.
 
-1. We'll go with my way because we can t identify any objective reason why one way is better than another. In other words, it's a tie, and since ultimately I'm the accountable party for success here, we ll go with my approach. I will own the success or failure of this decision.
+1. We'll go with my way because we can't identify any objective reason why one way is better than another. In other words, it's a tie, and since ultimately I'm the accountable party for success here, we ll go with my approach. I will own the success or failure of this decision.
 
 #### Task Triage The Urgent/Important Matrix
 
@@ -591,7 +591,7 @@ There are two ways you join a team as a technical leader: either you start on a 
 
 #### Being Promoted into Management/Leadership
 
-If you're being promoted into a management role and have invested time in developing management skills, or if you have experience and a track record as a manager, then it's likely you won t find this transition very scary, and your goal will be to continue leveling up as a manager. If this is your first management role, however, you'll have a larger mountain to climb.
+If you're being promoted into a management role and have invested time in developing management skills, or if you have experience and a track record as a manager, then it's likely you won't find this transition very scary, and your goal will be to continue leveling up as a manager. If this is your first management role, however, you'll have a larger mountain to climb.
 
 People management is an entirely new skill set from the technical skills that got you your promotion. Technical skills are of course a prerequisite to being a good technical manager, but they're far from sufficient. Understanding this, and developing the additional skill set that your new role requires, will be key to succeeding as a manager.
 
@@ -666,13 +666,13 @@ You should prioritize your queues based on importance and urgency. If something 
 
 #### Your First Team
 
-As a technical leader, your job is not just to manage the technical team; it also includes serving as the technical representative in the C-suite. Your role is to represent engineering and technology in all of the company's highest-level strategic discussions and to ensure that engineering and technology are on the right course for the business. At times, this means having difficult conversations with other leaders conversations that require vulnerability and humility, and conversations that enable you to work through conflict and are grounded in mutual trust. ese conversations are key to the job, and for them to be possible you must be deeply engaged with your leadership team, thinking of them as your first team.
+As a technical leader, your job is not just to manage the technical team; it also includes serving as the technical representative in the C-suite. Your role is to represent engineering and technology in all of the company's highest-level strategic discussions and to ensure that engineering and technology are on the right course for the business. At times, this means having difficult conversations with other leaders conversations that require vulnerability and humility, and conversations that enable you to work through conflict and are grounded in mutual trust. These conversations are key to the job, and for them to be possible you must be deeply engaged with your leadership team, thinking of them as your first team.
 
-You're likely a highly technical person. You probably enjoy your technical meetings the most, or at least find solving technical problems with your team familiar and highly satisfying. So, it's easy to fall into a pattern where you spend most of your time with technical teams, and to adopt a my team is the technical team mindset. is is a great way to build rapport within the tech team, and there are times when that is the most critical relationship to invest in.
+You're likely a highly technical person. You probably enjoy your technical meetings the most, or at least find solving technical problems with your team familiar and highly satisfying. So, it's easy to fall into a pattern where you spend most of your time with technical teams, and to adopt a my team is the technical team mindset. This is a great way to build rapport within the tech team, and there are times when that is the most critical relationship to invest in.
 
 My guidance is simple: do not let the technical shiny objects distract you or limit your investment in relationships with non-technical leaders. Your relationships with other leaders and your trust with your non-technical peers will give you credibility and enable you to guide the business to making good technical decisions as a whole. Building trust outside the technical team is built the same way any other trust relationship is built: great communication, regular expectation setting by making and meeting commitments, and owning up to mistakes/failures if and when they occur.
 
-The technical leader or CTO who spends all their time deep in code with engineering and barely participates in the leadership team will have little credibility when trying to convince the other C-levels to invest further in engineering. Or worse, they won t even be asked for their input when the time comes to make a hard call. Other leaders will not have the context to understand the value of what the tech team is asking for or the perspective on how engineering is operating at that moment, and they ll lack the shared vision for what it can be in the future. Only by regularly engaging with the rest of the leadership team, sharing that context, and being part of the conversation along the way can you, as the technical leader, ensure that the leadership team has a shared understanding of how engineering helps the organization and how it needs to grow over time.
+The technical leader or CTO who spends all their time deep in code with engineering and barely participates in the leadership team will have little credibility when trying to convince the other C-levels to invest further in engineering. Or worse, they won't even be asked for their input when the time comes to make a hard call. Other leaders will not have the context to understand the value of what the tech team is asking for or the perspective on how engineering is operating at that moment, and they ll lack the shared vision for what it can be in the future. Only by regularly engaging with the rest of the leadership team, sharing that context, and being part of the conversation along the way can you, as the technical leader, ensure that the leadership team has a shared understanding of how engineering helps the organization and how it needs to grow over time.
 
 
 ### Working With The CEO
@@ -719,7 +719,7 @@ If, on the other hand, you frame that conversation around developer productivity
 
 A few general tips for ensuring more successful discussions and presentations particularly with non-engineers when talking tech:
 
-Establish a shared language/vocabulary upfront. If you need to use any words the average high-school student wouldn t understand, make sure that your audience already knows them, or clearly define them before launching into the explanation.
+Establish a shared language/vocabulary upfront. If you need to use any words the average high-school student wouldn't understand, make sure that your audience already knows them, or clearly define them before launching into the explanation.
 
 Use relatable concepts. Technical challenges are often compared to other technical challenges: that does not work when talking to non-technical staff. Rather than describing your slow data transfer in bytes per second, compare it to traffic on a highway.
 
@@ -776,7 +776,7 @@ The first step toward deciding to hire is identifying a gap in the team. Gaps co
 
 Other kinds of gaps include seniority gaps (not enough senior experience to make good decisions, or not enough junior talent to handle less complex tasks), management gaps (one manager responsible for too many people), or subject matter expertise gaps (no one on the team who understands an area of the industry well enough to guide decision-making).
 
-The other major justification for a hire is to increase total bandwidth on a team. ese kinds of hires should be aligned with some kind of business objective, or product roadmap, that justifies bringing on a new permanent team member at a given time.
+The other major justification for a hire is to increase total bandwidth on a team. These kinds of hires should be aligned with some kind of business objective, or product roadmap, that justifies bringing on a new permanent team member at a given time.
 
 #### ROLE PRIORITIZATION AND TIMING
 
@@ -784,11 +784,11 @@ Once you've identified a gap, the next question to ask is when that gap needs to
 
 Often though not always the answer is right now! Every new person you hire adds complexity and overhead to your team. Assuming the pain of having the gap isn't severe, if you can get away with a smaller team for another six months and delay the hire, that can be a good idea as it both reduces cost and gives you more time to build a case for the hire.
 
-Headcount or hiring requests from your team will often have to compete with requests from other teams, so it's useful to develop a common language across your company for discussing how urgent or important a hire is. is doesn t have to be very sophisticated; it could be a 0 5 ranking system, where a 0 represents an urgent need, and a 5 a hire that would be nice to have but can wait a few months or quarters before becoming urgent.
+Headcount or hiring requests from your team will often have to compete with requests from other teams, so it's useful to develop a common language across your company for discussing how urgent or important a hire is. is doesn't have to be very sophisticated; it could be a 0 5 ranking system, where a 0 represents an urgent need, and a 5 a hire that would be nice to have but can wait a few months or quarters before becoming urgent.
 
 #### BUDGETING FOR NEW HIRES
 
-At an unprofitable startup, you should have a financial model that rationalizes expenses vs. revenue and forecasts roughly how long your current cash on hand will last before you need another fundraising round. Most CEOs and CFOs have a deep and intimate understanding of this model; as a tech leader, you won t need to spend nearly as much time with it.
+At an unprofitable startup, you should have a financial model that rationalizes expenses vs. revenue and forecasts roughly how long your current cash on hand will last before you need another fundraising round. Most CEOs and CFOs have a deep and intimate understanding of this model; as a tech leader, you won't need to spend nearly as much time with it.
 
 However, it's essential that you maintain a clear picture of your department's contribution to that model, which will primarily come in the form of headcount expenses (current and future). is model should provide some level of constraint, in the form of either an annualized budget or an expense run-rate, that will guide the timing of your hires.
 
@@ -814,7 +814,7 @@ One way to reduce or at least spread out the time investment is to include other
 
 #### SUCCESS RATE
 
-Not every hire is going to be a home run for your company. Some will be leveled incorrectly, some won t be a culture fit, and others will be fired or quit in the first year. Especially as you scale an interview process, you need to measure how many hires are successful. is is one of the few opportunities as a technical leader where you can calculate clear, consistent, and indicative metrics, so take advantage and ensure your process is top notch. Consider tracking time to hire (from posting a job description until a new hire start date), overall employee retention, new hire attrition (or down-leveling), as well as how many new hires are promoted in their first two years.
+Not every hire is going to be a home run for your company. Some will be leveled incorrectly, some won't be a culture fit, and others will be fired or quit in the first year. Especially as you scale an interview process, you need to measure how many hires are successful. This is one of the few opportunities as a technical leader where you can calculate clear, consistent, and indicative metrics, so take advantage and ensure your process is top notch. Consider tracking time to hire (from posting a job description until a new hire start date), overall employee retention, new hire attrition (or down-leveling), as well as how many new hires are promoted in their first two years.
 
 As Andy Grove discusses in *High Output Management*, even a world- class interview process is successful only about 70 percent of the time. Fundamentally, there are many risks in hiring: you're trying to predict how someone will perform forty hours a week, week in and week out, based on just a few conversations and data points gathered in an interview process.
 
@@ -826,11 +826,11 @@ There's no getting around it: firing a new employee who isn't working out shortl
 
 Candidate experience is how candidates feel about your company during and after they go through your hiring process. Many candidates will do due diligence on your company before applying or interviewing. They re likely to look at online forums and social media and see what other candidates or employees who went through your process have to say about you.
 
-You can t always control what people say about you, but nonetheless, you want to provide the sort of candidate experience that makes them more likely to read good things online, have a great experience themselves, and thus be more inclined to continue with your interviews and accept your offers.
+You can't always control what people say about you, but nonetheless, you want to provide the sort of candidate experience that makes them more likely to read good things online, have a great experience themselves, and thus be more inclined to continue with your interviews and accept your offers.
 
 #### EQUITABLE OPPORTUNITIES
 
-There's a saying that people tend to hire people who look like themselves. is is often the result of unsophisticated interview scoring methods that simply rely on an interviewer's gut feeling, and gut feelings are often strongly influenced by unconscious bias. is bias can disadvantage candidates of other races, genders, ethnicities, etc.
+There's a saying that people tend to hire people who look like themselves. This is often the result of unsophisticated interview scoring methods that simply rely on an interviewer's gut feeling, and gut feelings are often strongly influenced by unconscious bias. is bias can disadvantage candidates of other races, genders, ethnicities, etc.
 
 As you design your interview process, you should focus on evaluations based on a rubric that aligns with requirements from a job description, not just an interviewer's gut feeling. See the Avoiding Bias section in Interviewing Best Practices, page 63, for more about avoiding biases.
 
@@ -976,7 +976,7 @@ As mentioned earlier, I highly encourage hiring managers to think of the intervi
 * Ensure you're asking at least a couple of open-ended questions early on about what the candidate is looking for in their next role. is will help your interviewers synthesize how good a match the candidate's expectations are for the role you're hiring for. is information should be noted in the candidate's profile and used to tailor and customize the pitch to the candidate along the way.
   * For example, a junior candidate coming from a mostly junior and mid-level team may be looking for the opportunity to work with more senior JavaScript engineers in an environment that promotes their growth. If your team offers senior support and your culture leans into mentorship, make sure you highlight that advantage, especially around the offer stage.
 
-* Always leave candidates some time (five or ten minutes) to ask questions at the end of the interview. Most qualified candidates come to interviews armed with questions, and you can learn a lot about what somebody cares about by what they choose to ask. is is a good opportunity for your interviewer to sell the benefits of your company in their responses.
+* Always leave candidates some time (five or ten minutes) to ask questions at the end of the interview. Most qualified candidates come to interviews armed with questions, and you can learn a lot about what somebody cares about by what they choose to ask. This is a good opportunity for your interviewer to sell the benefits of your company in their responses.
 
 * Along the way, ensure candidates feel respected and are progressively exposed to more of your company. Your best candidates need to feel like they were intelligently vetted *and* like they ve learned enough about the company to get excited. Ideally, you want even rejected candidates to be able to leave positive reviews on Google and Glassdoor. You can accomplish that by selling your company's benefits throughout the interview, respecting people's time as if it were your own, having consistent and timely communication, and ensuring that everyone feels the process was as fair and transparent as possible.
 
@@ -998,7 +998,7 @@ At the top of your intake form, you should outline several key pieces of informa
 
 The questionnaire should include a request for the candidate's resume (or LinkedIn profile URL), ask some questions required by legal and HR with respect to employment eligibility, and then ideally ask a few qualifying questions of the candidate. The qualifying questions should be light-touch, generally freeform, and possibly even technical questions to ensure the candidate is in the right ballpark for the role. For example, for a role that requires experience in JavaScript, it's not unreasonable to confirm that experience in the questionnaire with a question like, Rate your comfort level working with JavaScript on a scale from not comfortable to extremely comfortable.
 
-This may seem redundant to the requirements listed in the job description, and it is, though you d be surprised how many resumes will come through lacking basic qualifications. ese questions are quick/trivial for the candidate to answer and just as quick for a hiring manager to use to filter out applicants.
+This may seem redundant to the requirements listed in the job description, and it is, though you d be surprised how many resumes will come through lacking basic qualifications. These questions are quick/trivial for the candidate to answer and just as quick for a hiring manager to use to filter out applicants.
 
 If you're inundated with candidates and want to do a bit more filtering at this stage, the questionnaire can also include one or two more interesting or difficult questions. If you include these, be sure to still keep them brief; you don't want to lose candidates in this form because the questions were too arduous. If you're overwhelmed with applicants then bias towards more data to filter with here, otherwise maybe it's best to save more nuanced qualifications for further down the funnel.
 
@@ -1085,9 +1085,9 @@ To summarize, there are three competing factors:
 
 #### Predictive Ability
 
-There are several styles of coding interview or assignment. Assignments range from take-home projects with a prompt, to using an online platform for programming exercises (also sometimes known as code katas ), to live pair programming. Absent any empirical data about the predictive capability of these styles, I encourage you to design an exercise that looks as much like regular day-to-day work at your company as possible. If you don't do any pair programming at your company, then gauging how a candidate performs in an interview setting pair programming, intuitively, doesn t feel highly correlated/predictive. At the very least it's collecting tangential signals.
+There are several styles of coding interview or assignment. Assignments range from take-home projects with a prompt, to using an online platform for programming exercises (also sometimes known as code katas ), to live pair programming. Absent any empirical data about the predictive capability of these styles, I encourage you to design an exercise that looks as much like regular day-to-day work at your company as possible. If you don't do any pair programming at your company, then gauging how a candidate performs in an interview setting pair programming, intuitively, doesn't feel highly correlated/predictive. At the very least it's collecting tangential signals.
 
-As a manager, your aim is to get the best out of the people you work with. With that in mind, try and recall the last time you were interviewed and exercise your empathy muscle when designing your coding assignment. Being interviewed is, for most, a very stressful process, and being asked to be creative or problem-solve in that scenario doesn t always bring out the best performance. Some ways to help candidates do their best work on a coding assignment are:
+As a manager, your aim is to get the best out of the people you work with. With that in mind, try and recall the last time you were interviewed and exercise your empathy muscle when designing your coding assignment. Being interviewed is, for most, a very stressful process, and being asked to be creative or problem-solve in that scenario doesn't always bring out the best performance. Some ways to help candidates do their best work on a coding assignment are:
 
 * Provide flexibility in choice of language/tools where possible.
 
@@ -1132,7 +1132,7 @@ What follows is a methodology I've used, derived from lessons in topgrading, to 
 
 To find out where a candidate's strengths and weaknesses are, and how much that matters in the role you are hiring for, first you need to decide what topic areas matter for your role. You do this by creating a technical focus interview guide, which should include a list of anywhere from four to eight technical areas, and within each area a set of sample questions, best practice answers, and a scoring guide.
 
-The sample answers and scoring guide are included to ensure fairness and uniformity in scoring across multiple interviewers and across candidates. You're trying to differentiate where any given candidate has gaps vs. true expertise, so your questions should be designed to elicit one of three kinds of answers: bad, good, and amazing. us, they should lend themselves to being scored as such. When it comes to scoring a question, to make the difference between a knowledge gap and true expertise obvious, I recommend that a bad answer gets a score of 0‒2, a good answer gets a score of 3‒6, and only an amazing answer gets between 7‒10.
+The sample answers and scoring guide are included to ensure fairness and uniformity in scoring across multiple interviewers and across candidates. You're trying to differentiate where any given candidate has gaps vs. true expertise, so your questions should be designed to elicit one of three kinds of answers: bad, good, and amazing. Thus, they should lend themselves to being scored as such. When it comes to scoring a question, to make the difference between a knowledge gap and true expertise obvious, I recommend that a bad answer gets a score of 0‒2, a good answer gets a score of 3‒6, and only an amazing answer gets between 7‒10.
 
 When I say a bad answer, I mean a response to the question that demonstrates either little to no experience or expertise with the topic at hand. A good answer demonstrates competency, maybe even a very high level of competency, in the topic. An amazing answer demonstrates not only competency but true understanding and intellectual depth on the topic. For example, if the question concerns how the candidate thinks about designing a unit test suite, and their answer is they ve never thought about it, that's a 0 and you've found a gap. If their answer includes a description of some test suites they ve designed and some justification for it, that's good, perhaps a 5 or 6. If their answer includes a full outline of test suite design philosophies and the pros and cons of each and how to apply them in different scenarios, now you're looking at real expertise and a 7‒10 score.
 
@@ -1162,7 +1162,7 @@ to narrow down a score from there. You should have a pretty good idea of where t
 
 If a candidate completely misses, or admits they are not familiar with a topic, there is no need to keep going to every question; you've got your score and you can move on.
 
-On the other hand, if a candidate nails the first question, they may well be a true expert in that area, but you likely won t be confident of their mastery until they ve provided insightful answers to multiple questions across the subject. Typically, it takes more time and questioning to identify mastery than a lack of qualification.
+On the other hand, if a candidate nails the first question, they may well be a true expert in that area, but you likely won't be confident of their mastery until they ve provided insightful answers to multiple questions across the subject. Typically, it takes more time and questioning to identify mastery than a lack of qualification.
 
 Don't hesitate to politely cut off a candidate's answer and move on to the next category when you know you've heard enough. Your goal is to help the candidate demonstrate their skill and knowledge across all the topics that you've decided are important for this role and chosen to evaluate in this interview. Letting a candidate rabbit-hole and consume time on a single topic when you already have all the information you need for a score robs them of the opportunity to demonstrate their capabilities in other topics if you run out of time in the interview. It is your job, not the candidate s, to manage the pace of the interview.
 
@@ -1232,7 +1232,7 @@ On the call, you should express excitement, convey the key points of the offer, 
 
 ## Onboarding
 
-Onboarding new engineers to the team, in most cases, doesn t strictly require a large investment from the team; a good engineer will figure it out eventually. That said, doing nothing will lead to a poor experience for your newest hire. It will slow down their time to productivity, and it may also make it harder to identify how well you've hired. Stated another way, good onboarding optimizes for three goals:
+Onboarding new engineers to the team, in most cases, doesn't strictly require a large investment from the team; a good engineer will figure it out eventually. That said, doing nothing will lead to a poor experience for your newest hire. It will slow down their time to productivity, and it may also make it harder to identify how well you've hired. Stated another way, good onboarding optimizes for three goals:
 
 1. **It respects the employee:** A good onboarding experience helps a new hire to feel integrated into your company and culture and become productive as quickly as possible.
 1. **It helps evaluate the quality of the hire:** Good onboarding provides structure for both the new employee and their manager, including clear goals that, when achieved, demonstrate that you've hired well for the role.
@@ -1249,7 +1249,7 @@ I encourage you to emphasize to your managers, your new employees, and in your o
 
 #### Onboarding to the Team vs. the Company
 
-There are elements of onboarding any engineer new to your company that should be consistent across all hires. is includes the high-level process, the emphasis on organizational culture, the types of documentation that new hires receive, and the structure of sharing documentation and setting onboarding milestones. You wouldn t want your frontend teams to have a rockstar-smooth onboarding process but your backend teams to be clueless. First impressions count, and onboarding is your opportunity to ensure that all team members get a great first experience of your organization and are introduced in a consistent way to your company's values and your team's best practices.
+There are elements of onboarding any engineer new to your company that should be consistent across all hires. is includes the high-level process, the emphasis on organizational culture, the types of documentation that new hires receive, and the structure of sharing documentation and setting onboarding milestones. You wouldn't want your frontend teams to have a rockstar-smooth onboarding process but your backend teams to be clueless. First impressions count, and onboarding is your opportunity to ensure that all team members get a great first experience of your organization and are introduced in a consistent way to your company's values and your team's best practices.
 
 That's not to say that the nuts and bolts of onboarding will be identical across teams. You can and should have different materials for different teams when it makes sense, and every team and individual hire should have a customized onboarding plan and milestones.
 
@@ -1332,13 +1332,13 @@ It is the responsibility of the manager of the new employee to identify and docu
 * Provide guidance for the new employee on what they will do and how they ll be measured in their first ninety days.
 * Provide obvious criteria for meeting or not meeting the expectations of their role.
 
-The scorecard doesn t have to be lengthy or highly nuanced. The key thing is that, whatever form it takes, after ninety days the employee and manager can look at the scorecard and agree on how the employee has performed and have a shared feeling of confidence on whether this is going to be a good long-term fit.
+The scorecard doesn't have to be lengthy or highly nuanced. The key thing is that, whatever form it takes, after ninety days the employee and manager can look at the scorecard and agree on how the employee has performed and have a shared feeling of confidence on whether this is going to be a good long-term fit.
 
 A quick word on the ninety-day length: ninety days is a commonly used timeframe for onboarding new employees, but it is not a hard rule. A thirty-day interval is generally too short in engineering, where there is a significant learning curve to mastering your technology, tools, and product. On the contrary, waiting a full performance cycle e.g., six or twelve months leaves a potentially poor fit in the role for too long, preventing them from getting the remediation they need to achieve productivity, and costing the company lost time and productivity. The right answer is likely in between, and the exact amount of time is up to you and your managers.
 
 ##### HANDLING A SCORECARD FAILURE
 
-If, after ninety days, the manager and the employee agree things are not meeting expectations, or there isn't agreement on whether expectations are being met, something has to change. is doesn t mean you have to fire the new employee, but it does mean you have to do something. Consider the following options in this scenario:
+If, after ninety days, the manager and the employee agree things are not meeting expectations, or there isn't agreement on whether expectations are being met, something has to change. is doesn't mean you have to fire the new employee, but it does mean you have to do something. Consider the following options in this scenario:
 
 * Is the problem the manager? Would this person be more successful on another team or with a different manager?
 
@@ -1351,7 +1351,7 @@ If, after ninety days, the manager and the employee agree things are not meeting
 
 ##### LETTING A NEW EMPLOYEE GO
 
-In general, if it's not clear after ninety days that a hire is going to work out, it likely won t magically become better after 120 or 150 days, and it's best to let them go. You should terminate this employee the same as any other, with a full severance package and as much kindness as possible.
+In general, if it's not clear after ninety days that a hire is going to work out, it likely won't magically become better after 120 or 150 days, and it's best to let them go. You should terminate this employee the same as any other, with a full severance package and as much kindness as possible.
 
 I encourage you to take full ownership of the mis-hire. If you hired them, take responsibility; it means your hiring process isn't perfect. Don't penalize the employee for it. An industry-standard severance package at a startup is four weeks salary, benefits if you can extend them, and assistance finding another job in any way you're comfortable offering.
 
@@ -1359,9 +1359,9 @@ I encourage you to take full ownership of the mis-hire. If you hired them, take 
 
 Onboarding begins the second somebody agrees to work at your company and signs their offer letter. You should be thinking about how to make your new employee successful even before their first day. Not every new employee will be eager to spend their own time learning about the company or their role in advance of their start date, but depending on the task or what's offered, many will volunteer to do so.
 
-I encourage you to send candidates your Day 1 Guide as well as your guidebook the day they sign their offer letter. If you have a company reading list, now is a good time to order those books and have them either shipped to the candidate or offer them in eBook/audiobook format. Most candidates are not at all interested in reading/writing code before Day 1, but learning about your culture or reading high-caliber books on business/culture/ engineering is rarely perceived as a burden. You shouldn t require this activity, but by making it available you'll likely get fairly healthy volunteer participation.
+I encourage you to send candidates your Day 1 Guide as well as your guidebook the day they sign their offer letter. If you have a company reading list, now is a good time to order those books and have them either shipped to the candidate or offer them in eBook/audiobook format. Most candidates are not at all interested in reading/writing code before Day 1, but learning about your culture or reading high-caliber books on business/culture/ engineering is rarely perceived as a burden. You shouldn't require this activity, but by making it available you'll likely get fairly healthy volunteer participation.
 
-On their actual start date, the candidate should meet with their new manager first thing in the morning and check in. If they haven t read through the materials you sent them in advance of their arrival, set the expectation that they are to do so on Day 1. They should schedule follow-up time to review the ninety-day scorecard after the candidate has had a chance to review the introductory materials and set up their environment/logins. is is also a good time to reinforce the idea of continuous improvement and encourage the candidate to take ownership of any hiccups in their onboarding and contribute to improving the documentation and process for whoever follows them next onto the team.
+On their actual start date, the candidate should meet with their new manager first thing in the morning and check in. If they haven't read through the materials you sent them in advance of their arrival, set the expectation that they are to do so on Day 1. They should schedule follow-up time to review the ninety-day scorecard after the candidate has had a chance to review the introductory materials and set up their environment/logins. This is also a good time to reinforce the idea of continuous improvement and encourage the candidate to take ownership of any hiccups in their onboarding and contribute to improving the documentation and process for whoever follows them next onto the team.
 
 ## Performance Management
 
@@ -1369,7 +1369,7 @@ One of the keys to improving employee morale and promoting a positive workplace 
 
 Poor performance management often results in negative outcomes. Here are two examples:
 
-Person A is promoted and, as a result, Person B is surprised and feels skipped over. The situation worsens if the manager can t provide concrete justification for the decision when subsequently challenged by Person B, resulting in a sense of distrust, oversight, and cratered morale.
+Person A is promoted and, as a result, Person B is surprised and feels skipped over. The situation worsens if the manager can't provide concrete justification for the decision when subsequently challenged by Person B, resulting in a sense of distrust, oversight, and cratered morale.
 
 Person X, having been at Level 4 for too long, feels exasperated and demoralized not knowing how to make it to Level 5 and get the associated raise.
 
@@ -1378,7 +1378,7 @@ Your performance management system should give everyone clarity on exactly where
 
 #### Competency Matrix and Leveling
 
-Performance management and compensation design should not be done entirely by you, the technical leader. There are plenty of ways to make mistakes here that could expose your company to legal liability. ese are easily avoided by ensuring that your HR lead is heavily involved in the process. In fact, ideally, your HR lead would do most of the blueprinting and lean on you only for help defining technical competencies. Regardless of who takes the lead, HR is your partner here.
+Performance management and compensation design should not be done entirely by you, the technical leader. There are plenty of ways to make mistakes here that could expose your company to legal liability. These are easily avoided by ensuring that your HR lead is heavily involved in the process. In fact, ideally, your HR lead would do most of the blueprinting and lean on you only for help defining technical competencies. Regardless of who takes the lead, HR is your partner here.
 
 ##### OVERVIEW
 
@@ -1422,7 +1422,7 @@ Having a pay band also leaves room to increase compensation outside of the perfo
 
 ##### Competitive Rates & Market Rate Data
 
-So, you've designed your competency matrix and decided to translate levels into pay bands. Now, you just need to calculate your pay bands. is is an area you'll definitely want your HR lead partnering with you on closely to ensure you're meeting any regulatory requirements that may exist. Defining pay bands should be as data-driven as possible, and thanks to a handful of existing platforms (both paid and those that just require data-sharing), that data is relatively straightforward. Platforms like Pave, Option Impact by Advanced-HR, Levels.fyi, and Glassdoor can provide rich data sets that can be filtered to match the size/shape/stage of your company to determine a relevant pay band for a particular role.
+So, you've designed your competency matrix and decided to translate levels into pay bands. Now, you just need to calculate your pay bands. This is an area you'll definitely want your HR lead partnering with you on closely to ensure you're meeting any regulatory requirements that may exist. Defining pay bands should be as data-driven as possible, and thanks to a handful of existing platforms (both paid and those that just require data-sharing), that data is relatively straightforward. Platforms like Pave, Option Impact by Advanced-HR, Levels.fyi, and Glassdoor can provide rich data sets that can be filtered to match the size/shape/stage of your company to determine a relevant pay band for a particular role.
 
 #### Job Titles
 
@@ -1494,7 +1494,7 @@ Once the reviews have been submitted, a set of scores should be reflected for ea
 
 The challenge now is how to aggregate those scores into a final job level calculation. Some key considerations in this calculation:
 
-* Protect the integrity of the process (e.g., that an employee didn t collude with their peers to artificially inflate or deflate anyone's scores)
+* Protect the integrity of the process (e.g., that an employee didn't collude with their peers to artificially inflate or deflate anyone's scores)
 
 * Ensure the formula is fair and can be calculated consistently
 
@@ -1539,7 +1539,7 @@ PIPs should always include a complete written version, not only toensure clarity
 There are a few situations in which you should bypass a PIP process and proceed straight to termination:
 
 * Breaks in company policy, HR violations, inappropriate workplace behavior, etc., are not correctable with a PIP and should be met with zero tolerance.
-* Certain skill gaps are not correctable with a PIP, such as general lack of good judgment on a certain topic, poor culture fit, or lack of experience in critical skill areas. is is most commonly a consideration for management or very senior staff positions where good skill judgment is critical to the role.
+* Certain skill gaps are not correctable with a PIP, such as general lack of good judgment on a certain topic, poor culture fit, or lack of experience in critical skill areas. This is most commonly a consideration for management or very senior staff positions where good skill judgment is critical to the role.
 
 ### Changing Seats
 
@@ -1553,11 +1553,11 @@ Due to their sometimes extraordinary individual productivity, choosing to fire a
 
 ### Firing
 
-Your company should have a clear procedure for how to actually terminate an employee. My best advice: follow it. is is an area that, if handled incorrectly, can become a substantial liability to the company. Key considerations include:
+Your company should have a clear procedure for how to actually terminate an employee. My best advice: follow it. This is an area that, if handled incorrectly, can become a substantial liability to the company. Key considerations include:
 
 **Documentation:** Ensure you have sufficient documentation to justify the decision to let this individual go and to prove that the termination is based on performance or another for-cause reason.
 
-**Timing:** Once you've decided to let somebody go, do so as soon as possible. The common wisdom is that, after letting somebody go, managers typically worry less about whether or not that person should have been let go and more about whether they waited too long to do so. Mechanically, it doesn t make much of a difference what day of the week you decide is best to let somebody go, but if you are able to save it for the first day of the month instead of the last, you are offering the employee the benefit of an extra month on the company healthcare plan.
+**Timing:** Once you've decided to let somebody go, do so as soon as possible. The common wisdom is that, after letting somebody go, managers typically worry less about whether or not that person should have been let go and more about whether they waited too long to do so. Mechanically, it doesn't make much of a difference what day of the week you decide is best to let somebody go, but if you are able to save it for the first day of the month instead of the last, you are offering the employee the benefit of an extra month on the company healthcare plan.
 
 **Witnesses:** Ensure that the manager and HR are present to witness the actual termination meeting. The meeting should be very short and to the point, and HR should answer most follow-up questions concerning termination logistics.
 
@@ -1587,7 +1587,7 @@ On Day 1 of most startups, the team will consist of a small handful of engineers
 
 So, you've raised a round of funding and you're looking to expand your team for the first time. How do you decide whether you need frontend engineers, backend engineers, DevOps engineers, etc.? Here are some general guidelines:
 
-**Listen to your team:** The people currently doing engineering are very likely to be vocal about where the biggest sources of inefficiency are, and where the most help is needed. Your job as a manager is to take in that perspective and extrapolate going forward. Is the team pointing out a problem that will disappear in two months, in which case hiring somebody wouldn t be appropriate? Or is the issue systemic in nature and likely to continue for the long haul?
+**Listen to your team:** The people currently doing engineering are very likely to be vocal about where the biggest sources of inefficiency are, and where the most help is needed. Your job as a manager is to take in that perspective and extrapolate going forward. Is the team pointing out a problem that will disappear in two months, in which case hiring somebody wouldn't be appropriate? Or is the issue systemic in nature and likely to continue for the long haul?
 
 **Look for factors that are hurting produ-ctivity:** If your team is mostly frontend engineers and you're struggling with backend reliability, then that should be a sign that you need backend or DevOps engineering help. is same principle applies to testing, developer experience, etc.
 
@@ -1635,13 +1635,13 @@ The first question I get asked about the two crews approach is: how long does so
 
   * You have published job descriptions for engineers focusing on support and debugging. Note that for many engineers, a job focused only on debugging may sound undesirable. To me, a job description that emphasizes data entry or accounting sounds very unpleasant, and yet there are many people who enjoy and even pursue those jobs.
 
-  * Don't assume that just because you wouldn t do that job, there are not others who might be excited by the prospect. In particular, working on a customer crew exposes an engineer to a huge amount of code, often offers opportunities to talk to customers, and involves less product-driven deadline pressure all things that might appeal to the right candidate.
+  * Don't assume that just because you wouldn't do that job, there are not others who might be excited by the prospect. In particular, working on a customer crew exposes an engineer to a huge amount of code, often offers opportunities to talk to customers, and involves less product-driven deadline pressure all things that might appeal to the right candidate.
 
 * Create an explicitly discussed career trajectory for engineers to start on the customer crew and, after a period of time (usually twelve-plus months), transfer to the feature crew.
 
 * Engineers rotate between the crews on a regular basis. The Microsoft blog post referenced above recommends swapping some team members between the two crews every week.
 
-* Define the customer crew as a temporary team. is can mean either that the customer crew itself doesn t exist full-time (perhaps for only one week per month), or that team members are constantly rotating between the customer and feature crews.
+* Define the customer crew as a temporary team. is can mean either that the customer crew itself doesn't exist full-time (perhaps for only one week per month), or that team members are constantly rotating between the customer and feature crews.
 
 I recommend creating a dedicated, permanent customer crew only for teams or products where customer issues are costly enough for the team to warrant it. If you're in a high-support business, a dedicated customer crew can be a force multiplier for both engineering productivity and customer satisfaction.
 
@@ -1661,7 +1661,7 @@ There are a sufficient number of successful 100 percent remote software engineer
 
 #### Documentation
 
-Being remote means that There'snobody sitting next to you to answer questions, but that doesn t mean the questions go away. ose questions still get asked, only now social context is lost and so perhaps the question goes unanswered for a while. Or, rather than holding questions until the other person takes a break, now they get asked immediately, prompting various kinds of notifications and distracting from focus work. Having a robust set of internal documentation with an effective search feature can speed up time-to-answer and reduce the number of one-on-one context switches that become barriers to getting work done.
+Being remote means that There'snobody sitting next to you to answer questions, but that doesn't mean the questions go away. ose questions still get asked, only now social context is lost and so perhaps the question goes unanswered for a while. Or, rather than holding questions until the other person takes a break, now they get asked immediately, prompting various kinds of notifications and distracting from focus work. Having a robust set of internal documentation with an effective search feature can speed up time-to-answer and reduce the number of one-on-one context switches that become barriers to getting work done.
 
 #### Asynchronous Work
 
@@ -1677,13 +1677,13 @@ My overall recommendation is for teams that are working on the same project to h
 
 #### Create Social Opportunities
 
-In general, people's default mode with video calls is to multitask during the call and then get off the call as fast as possible. Once a work conversation is over, everyone hangs up. That isn't how people interact in person; for example, the meeting ends and then you talk about sports in the hallway when walking back to your desks. That bit of social time before/after meetings is a valuable way for people to build relationships and trust, and it won t happen unless the leadership and culture actively support it. A cheap and easy way to do that on a regular basis is to ask a lighthearted, round-the-room, ice- breaker style question on a regular basis, such as What's one bit of good news personally, and professionally, you can share?
+In general, people's default mode with video calls is to multitask during the call and then get off the call as fast as possible. Once a work conversation is over, everyone hangs up. That isn't how people interact in person; for example, the meeting ends and then you talk about sports in the hallway when walking back to your desks. That bit of social time before/after meetings is a valuable way for people to build relationships and trust, and it won't happen unless the leadership and culture actively support it. A cheap and easy way to do that on a regular basis is to ask a lighthearted, round-the-room, ice- breaker style question on a regular basis, such as What's one bit of good news personally, and professionally, you can share?
 
 You can support remote social building with remote happy hours, or virtual team dinners and social activities. Post-COVID-19, there are many online social facilitators who run remote events ranging from digital casino nights to virtual escape rooms.
 
 #### Camera On
 
-Depending on which article you read, 70 90 percent of communication is nonverbal. Using a webcam during a video call doesn t replace all of that 70 percent, but it is unquestionably an improvement over having no video at all. Since webcams are so cheap now, There'sreally no justification for not having that additional social communication bandwidth within your company. The common objection is that employees are worried that others may judge their appearance on camera. If that's a concern you are facing, I encourage you to walk through the business justification for wanting as high-quality communication as possible in a remote setting, and have a zero-tolerance policy for any employee who makes inappropriate remarks on another's appearance. It can also be helpful to create a space for people to do whatever they feel appropriate to get themselves ready, such as allowing/encouraging background blurs, and occasional video-off to deal with something in reality or to tidy up.
+Depending on which article you read, 70 90 percent of communication is nonverbal. Using a webcam during a video call doesn't replace all of that 70 percent, but it is unquestionably an improvement over having no video at all. Since webcams are so cheap now, There'sreally no justification for not having that additional social communication bandwidth within your company. The common objection is that employees are worried that others may judge their appearance on camera. If that's a concern you are facing, I encourage you to walk through the business justification for wanting as high-quality communication as possible in a remote setting, and have a zero-tolerance policy for any employee who makes inappropriate remarks on another's appearance. It can also be helpful to create a space for people to do whatever they feel appropriate to get themselves ready, such as allowing/encouraging background blurs, and occasional video-off to deal with something in reality or to tidy up.
 
 #### Recording Meetings
 
@@ -1733,7 +1733,7 @@ There's an industry expression that your company is ultimately run by your middl
 
 The complicated topic of training managers deserves an entire book on its own, and it's a skill that takes time to master. That said, the top two lessons I can offer you that will provide leverage to all other skills here is to set an example yourself and build a culture of continuous management learning. The minute you hire or promote somebody into management you should make it clear that your expectation is that they will commit to putting time and effort into refining their craft of management. you'll go out of your way to make that easy for them by including management training in their personal goals and development plan, providing them resources to level up on management skills, helping them work through management problems, and teaching them everything you know.
 
-Management training doesn t have to be over-the-top burdensome and expensive. If budgets permit, I highly recommend hiring outside management coaches for your managers. An internal manager monthly book reading/review can also be effective at kickstarting the continuous development flywheel.
+Management training doesn't have to be over-the-top burdensome and expensive. If budgets permit, I highly recommend hiring outside management coaches for your managers. An internal manager monthly book reading/review can also be effective at kickstarting the continuous development flywheel.
 
 ### Finances and Budgeting
 
@@ -1745,7 +1745,7 @@ In general, you'll find the two largest line items in a technical department are
 
 Most finance teams use sophisticated accounting and budgeting software to manage the company's books. If not, they ll have a company-wide spreadsheet that's far larger and more complex than you need as CTO. In my experience, finance departments are not usually willing to let people outside of finance make changes to the core budgeting system, so unless they give you something to start with, it's on you to make a financial model for your department.
 
-Given that your department's costs are fairly predictable, and centralized in a few line items, the model you make doesn t have to be very sophisticated. My recommendation is that you maintain a spreadsheet that includes the following:
+Given that your department's costs are fairly predictable, and centralized in a few line items, the model you make doesn't have to be very sophisticated. My recommendation is that you maintain a spreadsheet that includes the following:
 
 * Payroll tab
 * SaaS/Costs of Goods Sold (CoGS) tab
@@ -1800,13 +1800,13 @@ Generally speaking, as CTO, your role in fundraising and due diligence is fairly
 * A high-level description of systems, how they're hosting, and your security practices
 * Information about software licensing, including code scans of company code confirming no license violations or unlicensed proprietary software
 
-It's not uncommon for an investor to hire a third-party firm to conduct a technical diligence audit. ese audits may involve interviews or meetings with you and perhaps a few other senior members of the team. Be prepared to discuss your engineering process, assess the general productivity of the team, and do a code walkthrough of parts of your system.
+It's not uncommon for an investor to hire a third-party firm to conduct a technical diligence audit. These audits may involve interviews or meetings with you and perhaps a few other senior members of the team. Be prepared to discuss your engineering process, assess the general productivity of the team, and do a code walkthrough of parts of your system.
 
 My advice is to be candid with these auditors. They've looked at a lot of tech companies and are well aware that all engineering teams have debt and parts of the system that teams are more proud of than others. The more your investors know about your strengths and weaknesses, the better they can support and hold your team accountable for improving the weaknesses going forward.
 
 ### Vendor Management
 
-In general, the responsibility for sourcing, negotiating with, and managing third-party technical vendors will fall to you as the CTO. For most, this is an unenjoyable but necessary part of the job, and consequently, it doesn t get much thought. Performing this responsibility well, however, can provide significant cost savings for a business. Here, I'll walk you step by step through a typical SaaS negotiation/signing process and provide some tips for how to add efficiency and save cost.
+In general, the responsibility for sourcing, negotiating with, and managing third-party technical vendors will fall to you as the CTO. For most, this is an unenjoyable but necessary part of the job, and consequently, it doesn't get much thought. Performing this responsibility well, however, can provide significant cost savings for a business. Here, I'll walk you step by step through a typical SaaS negotiation/signing process and provide some tips for how to add efficiency and save cost.
 
 #### Self-Service Signup Tools
 
@@ -1814,17 +1814,17 @@ Typically, either you or a member of your engineering team will highlight a need
 
 #### Enterprise Tooling
 
-You're now facing an enterprise sales process. Before reaching out to the vendor's sales team, be sure that this particular company is the one best suited to solve your problem. In most instances, I recommend starting a spreadsheet, doing some diligence on all the vendors in the space, and filtering down to a top two or three. Even if one of them is by far your preferred choice, it doesn t hurt to have some deeper context on the space and for negotiating knowledge/leverage/BATNA (best alternative to a negotiated agreement).
+You're now facing an enterprise sales process. Before reaching out to the vendor's sales team, be sure that this particular company is the one best suited to solve your problem. In most instances, I recommend starting a spreadsheet, doing some diligence on all the vendors in the space, and filtering down to a top two or three. Even if one of them is by far your preferred choice, it doesn't hurt to have some deeper context on the space and for negotiating knowledge/leverage/BATNA (best alternative to a negotiated agreement).
 
 ##### Sales Qualification
 
 When you first reach out to an enterprise vendor you'll almost certainly enter what is called a sales qualification process. At this step, especially as a technical executive, your needs are not yet aligned with the vendor. You're probably looking for pricing, a contract, and the shortest path to getting started. The vendor is looking to make sure you're their target customer and are likely to sign up and not churn for at least a few years.
 
-Most SaaS sales companies will have frontline sales representatives take the initial phone call, and their primary objective is to learn about your company and see if you fit their profile. They might not have much technical knowledge and often they won t be able to discuss pricing with you. As a result, you're not likely to get much value from this first meeting. My advice is to either delegate these intro meetings or try and get the sales qualification questions from the rep via email and answer them sufficiently to skip the intro meeting altogether.
+Most SaaS sales companies will have frontline sales representatives take the initial phone call, and their primary objective is to learn about your company and see if you fit their profile. They might not have much technical knowledge and often they won't be able to discuss pricing with you. As a result, you're not likely to get much value from this first meeting. My advice is to either delegate these intro meetings or try and get the sales qualification questions from the rep via email and answer them sufficiently to skip the intro meeting altogether.
 
 ##### Negotiation
 
-Once the vendor has validated that you fit the mold of their target customer, they ll schedule a second meeting with more senior resources on their side. Typically, this would be a sales manager or perhaps a technical sales representative. is is the stage at which you'll start to get answers to more of the technical questions you have about the solution, and you'll get some transparency into the pricing models the vendor is authorized to use.
+Once the vendor has validated that you fit the mold of their target customer, they ll schedule a second meeting with more senior resources on their side. Typically, this would be a sales manager or perhaps a technical sales representative. This is the stage at which you'll start to get answers to more of the technical questions you have about the solution, and you'll get some transparency into the pricing models the vendor is authorized to use.
 
 Here are some general negotiating tips:
 
@@ -1847,7 +1847,7 @@ Do not lose or misplace these contracts as they ll be useful for future negotiat
 
 ##### Post-Sales
 
-After the deal is signed you will likely be handed off to a different representative at your vendor, someone whose title is similar to either post-sales support or customer service manager (CSM). ese individuals are incentivized by, measured by, and focused on customer retention or product upsells. They're knowledgeable about the product, and at least somewhat technical. Going forward, they ll serve as your advocate for new features and getting defects resolved.
+After the deal is signed you will likely be handed off to a different representative at your vendor, someone whose title is similar to either post-sales support or customer service manager (CSM). These individuals are incentivized by, measured by, and focused on customer retention or product upsells. They're knowledgeable about the product, and at least somewhat technical. Going forward, they ll serve as your advocate for new features and getting defects resolved.
 
 ## Which Type of Startup CTO Are You?
 
@@ -1871,13 +1871,13 @@ As an internal tech-focused CTO, you may also function as a product manager if y
 
 ### The People-Focused CTO *AKA the VP of Engineering (VPE)*
 
-A typical startup will not have both a VPE and a CTO, and so it often falls on the CTO to fill the VPE role. is is often also the hardest role for a cofounder CTO to fill, as the responsibilities of the day one technical cofounder don't much overlap with the responsibilities of the internally people-focused technical leader.
+A typical startup will not have both a VPE and a CTO, and so it often falls on the CTO to fill the VPE role. This is often also the hardest role for a cofounder CTO to fill, as the responsibilities of the day one technical cofounder don't much overlap with the responsibilities of the internally people-focused technical leader.
 
-The people-focused CTO is responsible for setting internal technical culture, the hiring process, and overseeing internal processes. is CTO spends much of their time actually managing either independent contributors or other technical managers. is is the most critical of the three focus areas to get right. If a company isn't hiring well, or its technical staff is poorly managed, unmotivated, unfocused, or not aligned, it can impact productivity, and even lead to bad decision-making that will hurt the organization in the long term.
+The people-focused CTO is responsible for setting internal technical culture, the hiring process, and overseeing internal processes. is CTO spends much of their time actually managing either independent contributors or other technical managers. This is the most critical of the three focus areas to get right. If a company isn't hiring well, or its technical staff is poorly managed, unmotivated, unfocused, or not aligned, it can impact productivity, and even lead to bad decision-making that will hurt the organization in the long term.
 
 ### The Externally Focused CTO *AKA The Head of Technical Sales/Marketing*
 
-This is likely the least common focus for a startup CTO, but no less critical at the right time or place. Most often, you see this CTO at companies that build products for a technical audience developer tools, for example. ese CTOs spend lots of time writing blog articles or speaking at conferences. Perhaps they are brought into sales meetings to act as an executive technical representative to close large deals. Note that building a brand around the technical team not only has a positive effect on product sales, but also can be a great recruiting tool and can reduce your time and cost of hires.
+This is likely the least common focus for a startup CTO, but no less critical at the right time or place. Most often, you see this CTO at companies that build products for a technical audience developer tools, for example. These CTOs spend lots of time writing blog articles or speaking at conferences. Perhaps they are brought into sales meetings to act as an executive technical representative to close large deals. Note that building a brand around the technical team not only has a positive effect on product sales, but also can be a great recruiting tool and can reduce your time and cost of hires.
 
 This is perhaps the easiest role for the founder CTO to step into, as they have the historical context for the company and can most genuinely and passionately tell the company story and evangelize its product and value.
 
@@ -1887,7 +1887,7 @@ Ideally, a startup CTO will prove adept in all three areas, though most people w
 
 It's a very common pattern for that person to find themselves stretching into internal people or external focuses as the company grows, and that's not always a desirable transition for that person. It's not a personal failure to admit that your specialty or your motivation is in tech and that people management isn't a great fit, but quite the opposite. Identifying your superpowers and architecting a role in the company to leverage that superpower is how you add the most value, and the company should hire somebody else whose superpower is, for example, people management to fill that role.
 
-If you find yourself stuck in a role you're unhappy with, it's vital that you acknowledge the mismatch both to yourself and to your CEO. is doesn t mean giving up your position as a founder or leader, or as a respected and high-impact person within the company.
+If you find yourself stuck in a role you're unhappy with, it's vital that you acknowledge the mismatch both to yourself and to your CEO. is doesn't mean giving up your position as a founder or leader, or as a respected and high-impact person within the company.
 
 Some thoughts on various transitions:
 
@@ -1985,11 +1985,11 @@ Here's a sample strategy for delivering high-velocity engineering:
 
 *7. Participate In Continuous Education And Technology Conferences*
 
-Technology conferences are ubiquitous nowadays, and There'sa gathering of like-minded individuals for nearly every subspeciality of software engineering. Your team, if they haven t already, will likely ask at some point for a budget to attend these conferences. A typical budget request would be for $1,000 for air and hotel, and $500 $1,000 for entry fees and per-diem expenses. All in all, it will cost on the order of $2,000 for an engineer to attend a conference, plus their time out of the office. Both in the spirit of learning and continuous improvement, as well as a host of ancillary benefits, I recommend that you budget for and regularly approve or systematically approve conference requests.
+Technology conferences are ubiquitous nowadays, and There'sa gathering of like-minded individuals for nearly every subspeciality of software engineering. Your team, if they haven't already, will likely ask at some point for a budget to attend these conferences. A typical budget request would be for $1,000 for air and hotel, and $500 $1,000 for entry fees and per-diem expenses. All in all, it will cost on the order of $2,000 for an engineer to attend a conference, plus their time out of the office. Both in the spirit of learning and continuous improvement, as well as a host of ancillary benefits, I recommend that you budget for and regularly approve or systematically approve conference requests.
 
 If the only benefit of attending a conference were that the employee learned a bit more about a relevant technical topic that they're passionate about, the cost would be worth it. There are, however, many more benefits.
 
-I encourage you to require conference attendees to produce a written document summarizing key things they learned after they return. You should also consider sponsoring the conferences most relevant to your business and having you or one of your team members host a seminar on a particular topic. ese seminars and sponsorships provide excellent branding opportunities for your company, getting your name and message in front of a very targeted audience an audience that likely contains candidates you'd like to hire in the future.
+I encourage you to require conference attendees to produce a written document summarizing key things they learned after they return. You should also consider sponsoring the conferences most relevant to your business and having you or one of your team members host a seminar on a particular topic. These seminars and sponsorships provide excellent branding opportunities for your company, getting your name and message in front of a very targeted audience an audience that likely contains candidates you'd like to hire in the future.
 
 In summary, allocating a budget for engineers to attend conferences is good for individual professional development, with a fairly low-effort documentation exercise. is can be good for team learnings and is a great opportunity through networking, sponsorship, or hosting to recruit future members of the team.
 
@@ -1997,7 +1997,7 @@ In summary, allocating a budget for engineers to attend conferences is good for 
 
 Have you ever had the experience of trying to work through a problem and, while explaining it to a coworker, figured out the solution? Rubber Duck Debugging (ctohb.com/rdd, ctohb.com/tpp) is a simple practice that attempts to replicate this phenomenon without involving or context-switching a coworker.
 
-Rubber Duck Debugging is the process of working through a problem by first speaking the problem out loud, perhaps at a real physical rubber duck that is sitting on your desk. The idea is that by speaking the problem out loud, often one will hear the flaw, or see a solution to the problem, that they hadn t considered when the problem was only in their head. The rubber duck approach potentially saves a coworker an interruption and gets you an answer faster.
+Rubber Duck Debugging is the process of working through a problem by first speaking the problem out loud, perhaps at a real physical rubber duck that is sitting on your desk. The idea is that by speaking the problem out loud, often one will hear the flaw, or see a solution to the problem, that they hadn't considered when the problem was only in their head. The rubber duck approach potentially saves a coworker an interruption and gets you an answer faster.
 
 *9. Build An Explainer Video Library*
 
@@ -2009,11 +2009,11 @@ I guarantee you'll get relatively poor watch rates upfront as you make and distr
 
 *10. Onboarding Is Everybody's Responsibility*
 
-Your team is continuously creating tribal knowledge, be it how to start a service, or how code patterns are used across your codebase. There are two ways to deal with this: you can do nothing, and on a daily basis you'll increase the size of the knowledge gap for new employees, or you can actively work on converting siloed tribal knowledge into scalable documentation for current and future employees. For obvious reasons, I recommend the latter. is means everyone should always be asking themselves, How can I document what I've just created/learned/discovered? And when you have new employees who come across something that they can t find in your knowledge base, it's up to them to seek out an answer and document it.
+Your team is continuously creating tribal knowledge, be it how to start a service, or how code patterns are used across your codebase. There are two ways to deal with this: you can do nothing, and on a daily basis you'll increase the size of the knowledge gap for new employees, or you can actively work on converting siloed tribal knowledge into scalable documentation for current and future employees. For obvious reasons, I recommend the latter. is means everyone should always be asking themselves, How can I document what I've just created/learned/discovered? And when you have new employees who come across something that they can't find in your knowledge base, it's up to them to seek out an answer and document it.
 
 ## Tech Debt
 
-San Francisco's Golden Gate Bridge is made out of steel, which is not actually golden in color. The bridge is painted, and maintaining the iconic color of the bridge is so important to San Franciscans that they paint it continuously (ctohb.com/painting). Once repainting is finished, the process immediately restarts. is form of continuous investment or perpetual maintenance is what's required to keep the most important and sophisticated systems performing to expectations, from the Golden Gate Bridge to your team's software project. Only for your project, the maintenance doesn t require paint buckets; it comes in the form of technical debt.
+San Francisco's Golden Gate Bridge is made out of steel, which is not actually golden in color. The bridge is painted, and maintaining the iconic color of the bridge is so important to San Franciscans that they paint it continuously (ctohb.com/painting). Once repainting is finished, the process immediately restarts. is form of continuous investment or perpetual maintenance is what's required to keep the most important and sophisticated systems performing to expectations, from the Golden Gate Bridge to your team's software project. Only for your project, the maintenance doesn't require paint buckets; it comes in the form of technical debt.
 
 Every feature a software development team delivers brings with it some level of need for future work, or debt. That debt can take the form of bugs that need fixing, fast-follows to the feature to deliver incremental customer value, or sloppiness in the code that should be fixed to improve maintainability, performance, or security. A certain amount of debt naturally accrues even if your team is out on vacation: security vulnerabilities in dependent software are found, packages go out of date, new versions of tools are released, third-party APIs are deprecated or changed, etc. Debt is unavoidable and you need to account for it.
 
@@ -2033,7 +2033,7 @@ Don't be afraid of debt. It can serve a purpose. For example, when building Vers
 
 There are at least seven types of technical debt:
 
-1. **Architecture** or **Design Debt** arises when the design of the software is not capable of meeting the near-term or future needs of the business. For example, the design makes it too challenging to build the features the business needs, or the design won t scale to the number of users or performance requirements of the business.
+1. **Architecture** or **Design Debt** arises when the design of the software is not capable of meeting the near-term or future needs of the business. For example, the design makes it too challenging to build the features the business needs, or the design won't scale to the number of users or performance requirements of the business.
 1. **Code Debt** accrues when the implementation itself was done without paying attention to best practices, yielding code that's difficult to understand and maintain.
 1. **Test Debt** accumulates when you've run insufficient automated tests to provide the team confidence in the correctness of the codebase.
 1. **Infrastructure Debt** occurs when the infrastructure, observability, and supporting systems are not robust or have been poorly maintained, leading to difficulty scaling or deploying updates, or poor uptime and reliability.
@@ -2185,7 +2185,7 @@ Generally, the goal of a workflow process is to ensure that a team is well organ
 
 #### Waterfall
 
-The oldest workflow process, dating back to the 1950s, is waterfall (see ctohb.com/waterfall). The waterfall model breaks down project activities into sequential steps, where each step is dependent on and starts after the prior step is completed. In software engineering that looks something like first having a product vision, then doing product concepting, then product design, then software development, and finally testing, deployment, and maintenance. The most common criticism of waterfall is that this structure is rigid, inflexible, and doesn t promote iterative development.
+The oldest workflow process, dating back to the 1950s, is waterfall (see ctohb.com/waterfall). The waterfall model breaks down project activities into sequential steps, where each step is dependent on and starts after the prior step is completed. In software engineering that looks something like first having a product vision, then doing product concepting, then product design, then software development, and finally testing, deployment, and maintenance. The most common criticism of waterfall is that this structure is rigid, inflexible, and doesn't promote iterative development.
 
 #### Agile/Scrum
 
@@ -2229,7 +2229,7 @@ That said, here is a rough model for thinking about which type of workflow is li
 
 Well-understood stories that tend to work well with SCRUM are:
 
-* Greenfield that is, new code that doesn t depend on perhaps legacy or difficult-to-work-with external modules
+* Greenfield that is, new code that doesn't depend on perhaps legacy or difficult-to-work-with external modules
 * Not dependent on new patterns/tools/technologies, relying instead on the existing (boring) tech stack
 * Easily broken down from stories to smaller tasks Familiar to the team from previous work
 
@@ -2238,7 +2238,7 @@ Conversely, you're perhaps better with Kanban if your work is:
 * Brownfield, or heavily impeded by tech debt with unclear paths for paydown/refactoring
 * Regularly changing or saddled with unpredictable priorities
 * Dependent on adopting new and different tools and patterns that can introduce unexpected costs in the first few implementations
-* Assigned to a brand-new team that doesn t have a history working together or on these types of projects
+* Assigned to a brand-new team that doesn't have a history working together or on these types of projects
 
 ### Cooldown/Innovation Sprints
 
@@ -2268,7 +2268,7 @@ A great tech planning process can accomplish several goals:
 
 I recommend that you designate a lead for any project that needs planning: a single person to be accountable for producing the technical specification and getting that specification through your approval workflow.
 
-That doesn t mean they're the only contributor. On the contrary, if other team members are available during the planning window and have helpful knowledge, they can and should contribute.
+That doesn't mean they're the only contributor. On the contrary, if other team members are available during the planning window and have helpful knowledge, they can and should contribute.
 
 Planning can be synchronous (i.e., everyone is in a room for the whole time period) or asynchronous. I recommend asynchronous planning as much of the work in planning will involve research (e.g., reading product documentation, reading code, prototyping/proof of concepting, evaluating tools and APIs, etc.) which can be done fine independently.
 
@@ -2276,13 +2276,13 @@ Planning can be synchronous (i.e., everyone is in a room for the whole time peri
 
 Your tech planning process should save you time in your initial implementation. It should also save time in the future by minimizing tech debt and leaving behind documentation that can accelerate future improvements.
 
-The wrong amount of time to put into planning doesn t meet these goals, either because it's too short and doesn t save you time/produce good documentation, or is so lengthy that it doesn t pay for itself in savings.
+The wrong amount of time to put into planning doesn't meet these goals, either because it's too short and doesn't save you time/produce good documentation, or is so lengthy that it doesn't pay for itself in savings.
 
 There is no universal formula for the correct amount of time, but I'll provide a rule of thumb: allocate one day to technical planning for every week of work you estimate the project to take. In general, this will lead to between half-day and three-day planning windows. If your project requires less than two days of work, it likely needs very minimal planning effort and has low risk. Conversely, if you're looking at a project that is expected to take more than three solid weeks of development effort, you may not be able to efficiently plan something that large all at once and should consider breaking it down.
 
-If your team refuses to invest time into planning, you're likely pushing too hard for results over process. The way to ensure the engineering process produces good results for the business is not to crack the whip harder, but to establish a healthy process that enables good results. You wouldn t speed up a structural engineering team designing a bridge by having them work longer hours. You would make sure they have the best bridge-designing tools available to them with the best possible information about the span being bridged. Software engineering is no different. But instead of using CAD software or real-world measurements of soil/rock, we have product specifications, design process, and software tools.
+If your team refuses to invest time into planning, you're likely pushing too hard for results over process. The way to ensure the engineering process produces good results for the business is not to crack the whip harder, but to establish a healthy process that enables good results. You wouldn't speed up a structural engineering team designing a bridge by having them work longer hours. You would make sure they have the best bridge-designing tools available to them with the best possible information about the span being bridged. Software engineering is no different. But instead of using CAD software or real-world measurements of soil/rock, we have product specifications, design process, and software tools.
 
-Conversely, an overly lengthy planning process where team members insist on getting every minute detail upfront can be an indicator of a serious cultural problem, where team members are paralyzed by fear of making a mistake. Effective planning won t eliminate risk, but thinking through important, high-level decisions in advance can minimize it. A team that obsesses over details may be afraid of making mistakes or unwilling to iterate on their work both symptoms of overly results-driven management. Individuals should not be punished for reasonable mistakes or planning oversights. It's fine if a tech spec isn't perfect upfront; expect your team to find mistakes or gaps during implementation, and update the spec when those issues are found.
+Conversely, an overly lengthy planning process where team members insist on getting every minute detail upfront can be an indicator of a serious cultural problem, where team members are paralyzed by fear of making a mistake. Effective planning won't eliminate risk, but thinking through important, high-level decisions in advance can minimize it. A team that obsesses over details may be afraid of making mistakes or unwilling to iterate on their work both symptoms of overly results-driven management. Individuals should not be punished for reasonable mistakes or planning oversights. It's fine if a tech spec isn't perfect upfront; expect your team to find mistakes or gaps during implementation, and update the spec when those issues are found.
 
 ### Prototyping as Part of Spec Writing!
 
@@ -2335,7 +2335,7 @@ Once all open questions are resolved, document who contributed to the specificat
 
 #### Leaders In Specification Review Meetings
 
-The technical leader or manager does not have to be the approver for all technical documents. I encourage you to build a culture where the team as a whole feels safe to contribute and doesn t rely on you to provide technical guardrails or support. Early on, when the department is relatively small, you should be heavily involved in most or all specifications, but that approach won t scale. As soon as you've hired other senior individual contributors, architects, or managers, empower them to be lead reviewers and defer to them, allowing them to do the job you hired them for. If you find a senior member is not guiding the team well in these reviews, don t walk all over them in a public forum. Discuss and course-correct with them in private.
+The technical leader or manager does not have to be the approver for all technical documents. I encourage you to build a culture where the team as a whole feels safe to contribute and doesn't rely on you to provide technical guardrails or support. Early on, when the department is relatively small, you should be heavily involved in most or all specifications, but that approach won't scale. As soon as you've hired other senior individual contributors, architects, or managers, empower them to be lead reviewers and defer to them, allowing them to do the job you hired them for. If you find a senior member is not guiding the team well in these reviews, don't walk all over them in a public forum. Discuss and course-correct with them in private.
 
 #### Technical Specifications As Documentation
 
@@ -2362,7 +2362,7 @@ If your chosen programming language does not provide those tools, then it's up t
 
 Often the difference between good DX and bad DX is twenty or thirty minutes of upfront effort from somebody familiar with the codebase.
 
-It doesn t take long to ensure that basic build commands work in a fresh install, and that those commands are documented in a local README.
+It doesn't take long to ensure that basic build commands work in a fresh install, and that those commands are documented in a local README.
 
 One opportunity for you as CTO to make this easier is to ensure that the build commands used across repositories and codebases at your company are consistent. Maybe it's always docker compose up or always yarn run. Whatever it is, any developer should be able to git clone any repository, and then the first command that comes to mind to build and run the software works.
 
@@ -2379,7 +2379,7 @@ As systems start to get larger it can become an increasingly sizeable chore to g
 Here are a few easy wins to upgrade DX across your software engineering team:
 
 * Have a README file with instructions to run a codebase ideally a one-liner to install dependencies then build and run the code.
-* Enforce that all code be linted with a strict set of linting rules that is consistent across all usages of that language at your company. Fail your builds if linting doesn t pass. If all developers have their IDE configured to auto-lint, builds should rarely fail for lint issues.
+* Enforce that all code be linted with a strict set of linting rules that is consistent across all usages of that language at your company. Fail your builds if linting doesn't pass. If all developers have their IDE configured to auto-lint, builds should rarely fail for lint issues.
 
 * Ensure that lint configuration is checked into source control where possible (i.e., by investing in setting up something like VSCode's settings.json file, found at ctohb.com/vscode).
 
@@ -2429,7 +2429,7 @@ The core concepts of DDD include:
 
 When somebody uses the phrase technical architecture, they are usually referring to how code is executed and how information moves around in a system. Most descriptions of architecture involve the phrases
 
- services, monoliths, or message transports. is is in contrast to coding patterns, in which phrases such as object-oriented, functional programming, or dependency injection appear frequently. Coding patterns may sometimes be called code architecture and are discussed in Coding Patterns, page 188.
+ services, monoliths, or message transports. This is in contrast to coding patterns, in which phrases such as object-oriented, functional programming, or dependency injection appear frequently. Coding patterns may sometimes be called code architecture and are discussed in Coding Patterns, page 188.
 
  The highest-impact decision in technical architecture is whether code
 
@@ -2469,7 +2469,7 @@ to truly ensure that the benefits outweigh added complexity.
 
 Microservices are a subset of service-oriented architecture where each service is as the name suggests very small. There are system implementations with thousands of microservices, each of them only a few lines of code. That said, you do not need to have thousands of microservices to experience the benefits of a service-oriented architecture. Even breaking out a system into four or five smaller services, in the right circumstances, can provide major improvement to code health.
 
-You may have heard that microservices are the only good architecture pattern; this is untrue. The perception stems from the fact that many monoliths are poorly designed or haven t received the attention and investment
+You may have heard that microservices are the only good architecture pattern; this is untrue. The perception stems from the fact that many monoliths are poorly designed or haven't received the attention and investment
 
 in tech debt required to unlock productivity. The idea that all microservice architectures are a joy to work in is also untrue. There are many microservice implementations that for one reason or another fail to realize the benefits as well.
 
@@ -2491,9 +2491,9 @@ CHOOSING BETWEEN A SERVICE-ORIENTED ARCHITECTURE AND A MONOLITH
 
 In general, a monolith is easier to set up than an SOA and requires considerably fewer technical logistics to manage. For this reason, a monolith is the right answer on day one for the vast majority of problems. If the team
 
-is very disciplined and thoughtful about designing a monolith, it can scale with the team forever. is won t be the case for everyone, however. For many teams/projects, a monolith's lack of enforced contracts, inability to scale as separate components, and lack of enforced separation of concerns will become a barrier to productivity.
+is very disciplined and thoughtful about designing a monolith, it can scale with the team forever. is won't be the case for everyone, however. For many teams/projects, a monolith's lack of enforced contracts, inability to scale as separate components, and lack of enforced separation of concerns will become a barrier to productivity.
 
-If you do find yourself contending with an unruly monolith, this doesn t mean your engineers are bad at their jobs. The nature of software engineering is that requirements change and systems evolve. Maintaining a monolith may mean, at times, investing considerable resources into updating
+If you do find yourself contending with an unruly monolith, this doesn't mean your engineers are bad at their jobs. The nature of software engineering is that requirements change and systems evolve. Maintaining a monolith may mean, at times, investing considerable resources into updating
 
 the system design to evolve as well, and it is when a team fails to make this investment that monolith complexity becomes a barrier to productivity.
 
@@ -2539,7 +2539,7 @@ Having all the code in a single repository improves discoverability, making it e
 
 **Manyrepo, by contrast**
 
-Requires using a central package manager with version control. is isn't necessarily a bad thing, but it can lead to significant overhead when working on a project and its dependencies simultaneously.
+Requires using a central package manager with version control. This isn't necessarily a bad thing, but it can lead to significant overhead when working on a project and its dependencies simultaneously.
 
 Integrates cleanly with CI/CD pipeline systems (Bitbucket pipelines, GitHub actions, etc.).
 
@@ -2553,7 +2553,7 @@ If you notice your team falling into these patterns or complaining about coordin
 
 **WRITING READABLE, GOOD CODE![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.094.png)**
 
-In a professional environment, the principal audience for any given line of code is not the computer but the developer who has to read that code at some point in the future for further development. is is the golden rule of programming: engineers should be writing code with the same level of readability that they expect of anyone else's code.
+In a professional environment, the principal audience for any given line of code is not the computer but the developer who has to read that code at some point in the future for further development. This is the golden rule of programming: engineers should be writing code with the same level of readability that they expect of anyone else's code.
 
 CHOICE OF LANGUAGE AND ECOSYSTEM
 
@@ -2593,7 +2593,7 @@ Be careful: enforcing style in your continuous integration system without automa
 
 STATIC CODE ANALYSIS
 
-Modern static code analysis is capable of identifying and alerting on a wide range of common code issues, ranging from security gaps to outright bugs to stylistic inconsistencies. ese tools are fairly inexpensive and integrate neatly with a wide range of commonly used continuous integration systems and developer IDEs. From experience using these tools on a range of projects
+Modern static code analysis is capable of identifying and alerting on a wide range of common code issues, ranging from security gaps to outright bugs to stylistic inconsistencies. These tools are fairly inexpensive and integrate neatly with a wide range of commonly used continuous integration systems and developer IDEs. From experience using these tools on a range of projects
 
 and programming languages, the signal-to-noise ratio is very good, and the output is a net gain in productivity and software quality. Relatively early on in your software project's life, you should integrate static code analysis. I encourage you to look at tools that are specific both to your programming language of choice e.g., ESLint for JavaScript as well as generic analysis platforms such
 
@@ -2804,7 +2804,7 @@ of providing space to explain the relationships between data in your API.
 
  ese are gaps you need to fill elsewhere.
 
-Another benefit of using either OpenAPI or GraphQL is that the resulting API specification is portable not only to documentation generators and test frameworks but also to developer IDEs such as Insomnia or Postman. ese IDEs enable developers to quickly interact with an API to validate functionality without writing code. Formal specifications can also be used with code generation tools to ensure typing consistency in code.
+Another benefit of using either OpenAPI or GraphQL is that the resulting API specification is portable not only to documentation generators and test frameworks but also to developer IDEs such as Insomnia or Postman. These IDEs enable developers to quickly interact with an API to validate functionality without writing code. Formal specifications can also be used with code generation tools to ensure typing consistency in code.
 
 IDEMPOTENCY
 
@@ -2872,9 +2872,9 @@ Building data pipelines and data warehousing is an entire book unto itself, and 
 
  Consider looking at enterprise data solutions like Snowflake,
 
-Databricks, or Google BigQuery for your primary business intelligence data warehouse. ese tools are game changers. The serverless warehouses in particular (BigQuery, Aurora) are trivial to set up, have fairly consistent latency regardless of data size, and are highly cost-effective for early/mid-stage startups.
+Databricks, or Google BigQuery for your primary business intelligence data warehouse. These tools are game changers. The serverless warehouses in particular (BigQuery, Aurora) are trivial to set up, have fairly consistent latency regardless of data size, and are highly cost-effective for early/mid-stage startups.
 
- In modern times, a startup doesn t need to build and host sophisti -
+ In modern times, a startup doesn't need to build and host sophisti -
 
 cated data pipeline architectures. ELT (Extract, Load, Transform) and ETL (Extract, Transform, Load) tools can now run entirely inside an enterprise database data lake/warehouse, and tools such as dbt provide reproducibility, testability, and pipeline-as-code capabilities, making running data pipelines much more manageable.
 
@@ -2892,7 +2892,7 @@ Behavioral data also called behavioral analytics events describes how users have
 
 Overall, you'll want behavioral data from your application to go to multiple sources. is presents a bit of a routing problem: you have a single data source (your application), but you want events to go to many places. The nearly universally adopted solution to this problem is Twilio's Segment platform, though there are some up-and-coming alternatives called Customer Data Platforms (CDP) such as RudderStack. A CDP can ingest data from your application, then send it to your data warehouse and to as many other SaaS platforms as you like.
 
-One important distinction between behavioral data generated by your application and transactional data is its precision. Most behavioral data is lossy users have ad blockers, requests get dropped, or firewalls get in the way. There are many reasons why events might not make it from a client device to your CDP. That doesn t mean behavioral data is not useful, but being aware of its lossiness should inform your expectations for the data and limit the use cases when querying it. If you need exact numbers, expect
+One important distinction between behavioral data generated by your application and transactional data is its precision. Most behavioral data is lossy users have ad blockers, requests get dropped, or firewalls get in the way. There are many reasons why events might not make it from a client device to your CDP. That doesn't mean behavioral data is not useful, but being aware of its lossiness should inform your expectations for the data and limit the use cases when querying it. If you need exact numbers, expect
 
 to derive those from your BI platform and your transactional data.
 
@@ -2912,7 +2912,7 @@ dently confirm the correctness of business logic on the backend.
 
 can produce clients for multiple platforms that can leverage a single source for logic, reducing code duplication.
 
- Logic on the backend can t be tampered with or modified by the client.
+ Logic on the backend can't be tampered with or modified by the client.
 
 MAKE SERVICES EXTERNALIZABLE
 
@@ -2954,13 +2954,13 @@ lead and implement an internal technology radar. Rather than weigh something new
 
 without further ceremony, or move it to hold, which would require a new trial and a new evaluation for it to be used again. If a trial fails in a business project, the team is advised to think carefully about whether to remove the blip from that implementation to avoid future maintenance concerns.
 
-In most cases, I find that when a blip trial fails, it fails relatively early on and the engineer leading the project doesn t include the blip in the final delivered implementation.
+In most cases, I find that when a blip trial fails, it fails relatively early on and the engineer leading the project doesn't include the blip in the final delivered implementation.
 
 ### Boring Technology
 
  Boring Technology is a phrase coined by Dan McKinley and outlined at ctohb.com/boring. The key idea is that your team's job
 
-is to deliver functionality to support the business, and most of the time that doesn t depend on using fancy new tools. In fact, using something that's not boring often has many hidden costs, and only if your team is fully cognizant of those costs and believes the benefits are larger, should the new tool be adopted. As Boring Technology describes it, total cost = maintenance costvelocity benefit. Some hidden costs to consider:
+is to deliver functionality to support the business, and most of the time that doesn't depend on using fancy new tools. In fact, using something that's not boring often has many hidden costs, and only if your team is fully cognizant of those costs and believes the benefits are larger, should the new tool be adopted. As Boring Technology describes it, total cost = maintenance costvelocity benefit. Some hidden costs to consider:
 
 Incomplete, inaccurate, or immature documentation
 
@@ -3000,7 +3000,7 @@ To me the key piece of this definition is that devops aims to shorten the softwa
 
 **FOUR KEY METRICS (DORA)![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.103.png)**
 
-The highest-rated blip in 2022 of the oughtworks Technology Radar (ctohb.com/techradar) is the Four Key Metrics. ese metrics are described by a team within Google Cloud called DORA (DevOps Research and Assessment), and the system of metrics comes from a seven-plus-year research program validating the results and their impact on technology, process, culture, and quantitative results. The four metrics are as follows:
+The highest-rated blip in 2022 of the oughtworks Technology Radar (ctohb.com/techradar) is the Four Key Metrics. These metrics are described by a team within Google Cloud called DORA (DevOps Research and Assessment), and the system of metrics comes from a seven-plus-year research program validating the results and their impact on technology, process, culture, and quantitative results. The four metrics are as follows:
 
  **Lead Time:** How long it takes for code to go from commit to running in production
 
@@ -3010,7 +3010,7 @@ The highest-rated blip in 2022 of the oughtworks Technology Radar (ctohb.com/tec
 
  **Change Fail Percentage:** What percentage of production releases need a hotfix, rollback, patch, etc
 
-Together these metrics quantify the idea of how confidently your team can deploy software. Scoring high on all four metrics requires an investment in automation, DevOps, testing, and culture. As oughtworks is quick to point out, drawing value from these metrics doesn t necessarily require highly detailed instrumentation, metrics, or dashboards. DORA publishes a quick check survey (ctohb.com/dora) that your team can take to track its progress at a coarse-grained level. There are also plenty
+Together these metrics quantify the idea of how confidently your team can deploy software. Scoring high on all four metrics requires an investment in automation, DevOps, testing, and culture. As oughtworks is quick to point out, drawing value from these metrics doesn't necessarily require highly detailed instrumentation, metrics, or dashboards. DORA publishes a quick check survey (ctohb.com/dora) that your team can take to track its progress at a coarse-grained level. There are also plenty
 
 of tools that have fairly low barriers to entry that will yield data quality that's more than sufficient to inform your progress, such as LinearB or Code Climate.
 
@@ -3160,11 +3160,11 @@ In addition to eliminating the complexity of the release process via automation,
 
 of code. Smaller code changes are easier for other developers to review. Smaller changes, simply by virtue of being smaller, present fewer opportunities for defects.
 
-An automated release process tends to also imply an improved ability to roll back changes or recover from an issue in production. is is also measured as Mean Time to Recovery (MTTR).
+An automated release process tends to also imply an improved ability to roll back changes or recover from an issue in production. This is also measured as Mean Time to Recovery (MTTR).
 
 In summary, automating releases means code goes out faster (reducing lead time*)*, means you can deploy more often (increasing deployment frequency), and improves MTTR. That's three of the four key DORA metrics (see page 208) with one initiative!
 
-In the companies I've worked with, either directly or in an advisory capacity, I've seen at least a dozen teams invest effort into either partially or fully moving to continuous deployment. It's not always a straightforward journey, it doesn t happen overnight, and often there are well-reasoned objections. Yet in every circumstance, when the team looks back on the time invested be it three weeks, three months, or two years later the difference is nothing short of transformational to the culture and overall output and velocity of the team by every metric.
+In the companies I've worked with, either directly or in an advisory capacity, I've seen at least a dozen teams invest effort into either partially or fully moving to continuous deployment. It's not always a straightforward journey, it doesn't happen overnight, and often there are well-reasoned objections. Yet in every circumstance, when the team looks back on the time invested be it three weeks, three months, or two years later the difference is nothing short of transformational to the culture and overall output and velocity of the team by every metric.
 
 **FEATURE BRANCH ENVIRONMENTS![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.109.png)**
 
@@ -3361,7 +3361,7 @@ The payoff, though, is not insubstantial, as it's possible to create very high t
 
 flows with e2e test suites. There are several companies, including testim.
 
-io and rainforestqa.com, that are exploring using AI and ML to solve this problem. ese solutions deploy fuzzy visual testing instead of relying on the presence or absence of CSS selectors, for example, to try and improve test reliability. Hopefully by the time you read this, the state of the art will have advanced a bit further, and the value proposition of end-to-end tests will be even stronger than at the time of this writing.
+io and rainforestqa.com, that are exploring using AI and ML to solve this problem. These solutions deploy fuzzy visual testing instead of relying on the presence or absence of CSS selectors, for example, to try and improve test reliability. Hopefully by the time you read this, the state of the art will have advanced a bit further, and the value proposition of end-to-end tests will be even stronger than at the time of this writing.
 
 VISUAL REGRESSION TESTING
 
@@ -3397,7 +3397,7 @@ Unspecialized manual testing is often referred to as crowdsourced testing. There
 
 **SEMI-AUTOMATED TESTING![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.121.png)**
 
-Semi-automated testing is a relatively new category of software testing. ese tests are created by non-technical staff perhaps your specialized manual testing team and then run in either a completely automated or supervised environment.
+Semi-automated testing is a relatively new category of software testing. These tests are created by non-technical staff perhaps your specialized manual testing team and then run in either a completely automated or supervised environment.
 
 The major pitfall of these tests is reliability. Because they're created by non-technical staff, they may not be quite as precise as fully automated tests, making them more prone to false positives and false negatives. That said, this space is rapidly evolving with new companies and tools launching every year, such as Rainforest QA and Testim, with strategies to improve reliability and lower overall cost.
 
@@ -3405,7 +3405,7 @@ The major pitfall of these tests is reliability. Because they're created by non-
 
 The industry standard used by the vast majority of companies for managing source control is Git. There would need to be a very compelling reason for your organization to use anything else; most of your current and future team members will arrive already knowing the basics of Git. By not using it, you d likely be inflicting an unnecessary learning curve on them by forcing them to learn your chosen alternative.
 
- There are three main cloud Git hosting platforms: GitLab, GitHub, and Bitbucket. ese three have the lion's share of the market and, again, you should think carefully before deviating from these standards.
+ There are three main cloud Git hosting platforms: GitLab, GitHub, and Bitbucket. These three have the lion's share of the market and, again, you should think carefully before deviating from these standards.
 
 Git has an interestingly shaped learning curve. Most people reach a plateau where they operate with a rudimentary understanding that gets them by for most happy path testing scenarios. However, sometimes things
 
@@ -3490,7 +3490,7 @@ Although I believe this system improves overall team efficiency, I concede that 
 
  There are many ways to deal with source control branching, though the industry as a whole is building momentum around the concept of trunk- based development. As this seems to be the most effective and commonly used pattern at this time, it's what we ll discuss here. If you're seriously considering a different pattern, you'll find plentiful resources online discussing methodologies and best practices for alternative approaches.
 
- There are many blog posts with helpful graphics covering git branching models, such as this one from Reviewpad: ctohb.com/branching. If the following description doesn t make sense to you, I urge you to consult any of these posts and their associated visuals.
+ There are many blog posts with helpful graphics covering git branching models, such as this one from Reviewpad: ctohb.com/branching. If the following description doesn't make sense to you, I urge you to consult any of these posts and their associated visuals.
 
 In a traditional branching model sometimes referred to as GitFlow there are two long-lived branches, a main and a develop branch. Work
 
@@ -3502,7 +3502,7 @@ of favor and is no longer considered best practice.
 
 Trunk-based development, and its slightly more sophisticated cousin, GitHub Flow, are models of managing source code that aim to minimize the number and duration of branches. The exact implementation of GitHub Flow and trunk-based development will vary, but what they have
 
-in common is that there is a single branch whose name varies and doesn t matter much. Here we ll call it production. Production is always deployable. In fact, I recommend that you set up automation so every commit to production can actually be deployed to production. Work can then be done
+in common is that there is a single branch whose name varies and doesn't matter much. Here we ll call it production. Production is always deployable. In fact, I recommend that you set up automation so every commit to production can actually be deployed to production. Work can then be done
 
 in feature branches off of production, reviewed in the feature branch, and merged when ready. That's it one long-lived branch and many short-lived (and ideally small) feature branches.
 
@@ -3532,13 +3532,13 @@ The key to maintaining a smooth system of branches and merges with your team is 
 
 or the branch containing too large a diff (ctohb.com/diffs). In general, a short-lived branch should be open just a few days, or two weeks at the absolute most.
 
-Keep in mind that a feature doesn t necessarily have to be implemented
+Keep in mind that a feature doesn't necessarily have to be implemented
 
 in a single branch. For example, you can have an initial branch with just tests that is reviewed and merged, and then followed up by a branch with the implementation. Alternatively, you can build an implementation that
 
 isn't connected to the main application, have it reviewed and merged, then build the connection and tests in a subsequent branch.
 
-With a bit of thought and practice most implementations can be broken down into independently mergeable pieces. is is a skill that with your guidance teams can develop over time.
+With a bit of thought and practice most implementations can be broken down into independently mergeable pieces. This is a skill that with your guidance teams can develop over time.
 
 Benefits of keeping branches short-lived:
 
@@ -3630,7 +3630,7 @@ on productive feature work and delivering consistent high velocity.
 
 The level of effort for many remedial issues is likely to vary widely. Some
 
-typical tickets might be add more logging or change a setting in our CI provider to ensure PRs with failing builds cannot be merged. ese types of trivial tickets cost more to maintain and groom in a backlog than they d take just to do in the moment, so just do them. The chances they are the wrong thing to do are pretty low, and if negative consequences result, they can be easily reversed.
+typical tickets might be add more logging or change a setting in our CI provider to ensure PRs with failing builds cannot be merged. These types of trivial tickets cost more to maintain and groom in a backlog than they d take just to do in the moment, so just do them. The chances they are the wrong thing to do are pretty low, and if negative consequences result, they can be easily reversed.
 
  For high-effort remediation steps, I encourage you to triage those and
 
@@ -3642,7 +3642,7 @@ less costly, solution emerge.
 
 ## IT
 
-Here I refer to IT, information technology, as internal company tooling and technology used to conduct business on a daily basis. is is in contrast to the technology your company is building for its customer product.
+Here I refer to IT, information technology, as internal company tooling and technology used to conduct business on a daily basis. This is in contrast to the technology your company is building for its customer product.
 
 IT usually comprises tools like company hardware (desktops, laptops, and phones), VPNs, email, antivirus and monitoring software, etc. As a startup in the modern world, whether you're an in-person or remote team,
 
@@ -3682,7 +3682,7 @@ sion to do what they're trying to do. Your role-based access control (RBAC) or p
 
  **2FA or MFA**: Two-factor authentication and multi-factor authentication
 
-is the process of authenticating with a service using more than one type of credential. is is typically done with a password (first factor) and some kind of proof-of-ownership, e.g., an emailed one-time password (proving you own the email), SMS (proving you own a phone number), or timed one-time-password (TOPT) (proving you own a device/ passkey). Note that due to the prevalence of SIM Porting attacks, where an attacker has the ability to intercept or reroute SMS, using SMS as a second factor is generally discouraged.
+is the process of authenticating with a service using more than one type of credential. This is typically done with a password (first factor) and some kind of proof-of-ownership, e.g., an emailed one-time password (proving you own the email), SMS (proving you own a phone number), or timed one-time-password (TOPT) (proving you own a device/ passkey). Note that due to the prevalence of SIM Porting attacks, where an attacker has the ability to intercept or reroute SMS, using SMS as a second factor is generally discouraged.
 
 255
 3\.8SECURIATNYDCOMPLIANCE
@@ -3695,7 +3695,7 @@ Taking security into account can also become a drag on productivity
 
 or an expensive task, especially if your mission is to secure a system that already exists. But if you're starting from day one, you have the opportunity to make good decisions at the start that create a strong security posture with minimal additional cost.
 
-Some ways to incorporate security at your startup that won t cost you much:
+Some ways to incorporate security at your startup that won't cost you much:
 
  Establish security as a priority in the mindset of your team in your
 
