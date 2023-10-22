@@ -129,9 +129,9 @@ That prospect seemed perfect to my eighteen-year-old self, so I emailed my advis
 
 On the chosen day, having driven three hours from New York to Philadelphia, I sat down across from Dr. Mintz, eager to hear how to game the system. I figured it was a matter of choosing the right classes and getting sufficiently good grades to qualify. Dr Mintz, however, had other ideas.
 
-Full of anticipation and ready to take instructions on how to polish my resume I took a sip of my coffee and asked him: how do I get into the dual degree program? The man I would soon come to know only as Max picked up a napkin and drew an X-Y axis on it, then looked me in the eye and asked me if I knew what special relativity was. I wish I had a video of that moment, as I imagine my face contorted into a rather amusing shape. Before I could finish my answer, Max was off to the races. For the next two hours he proceeded to introduce me to Einstein's theories. By the time we had finished, my brain was broken, and not once did we get to discuss anything about Penn's dual degree programs.
+Full of anticipation and ready to take instructions on how to polish my résumé I took a sip of my coffee and asked him: how do I get into the dual degree program? The man I would soon come to know only as Max picked up a napkin and drew an X-Y axis on it, then looked me in the eye and asked me if I knew what special relativity was. I wish I had a video of that moment, as I imagine my face contorted into a rather amusing shape. Before I could finish my answer, Max was off to the races. For the next two hours he proceeded to introduce me to Einstein's theories. By the time we had finished, my brain was broken, and not once did we get to discuss anything about Penn's dual degree programs.
 
-We had several more coffees over the coming months, and any time I'd ask Max about an application or a resume, he'd steer me right back into real science. Max wanted me to *learn* not just to absorb whatever topic he was lecturing about at the moment, but to get really good at learning, and learning hard things at that. Max couldn't care less what piece of paper his students were given at the end of their four years as long as each of them was prepared to continue learning for the rest of their lives.
+We had several more coffees over the coming months, and any time I'd ask Max about an application or a résumé, he'd steer me right back into real science. Max wanted me to *learn* not just to absorb whatever topic he was lecturing about at the moment, but to get really good at learning, and learning hard things at that. Max couldn't care less what piece of paper his students were given at the end of their four years as long as each of them was prepared to continue learning for the rest of their lives.
 
 By the time I graduated college, Max had become a close friend and confidant, and he had fundamentally shaped the path of my education. Rather than give me fish, Max handed me a fishing pole and taught me how to attach bait and cast a line.
 
@@ -657,7 +657,7 @@ Questions:
 
 #### Giving Technical Advice to Friends/Strangers
 
-After you've had some form of technical leadership on your rØsumØ for a while, you'll likely start to get friends, or friends of friends, reaching out for advice. For the most part, I recommend taking these phone calls, not only because the networking is valuable, but because the questions you are asked may force you to think through and put words to ideas you're subconsciously working on. They say teaching others is the best way to really learn something yourself.
+After you've had some form of technical leadership on your résumé for a while, you'll likely start to get friends, or friends of friends, reaching out for advice. For the most part, I recommend taking these phone calls, not only because the networking is valuable, but because the questions you are asked may force you to think through and put words to ideas you're subconsciously working on. They say teaching others is the best way to really learn something yourself.
 
 A quick note on advising non-technical founders: you're likely to get approached from time to time by somebody with a self-pro claimed billion-dollar idea. It costs very little to take these calls and can be a great way to build some social/relationship capital. Be mindful however that brilliant ideas don't themselves make successful businesses. Between every great idea and success is a gigantic mountain of execution, and most climbers are not equipped to summit Everest. So be very careful about making commitments to someone with a good idea and no climbing gear.
 
@@ -934,7 +934,7 @@ Based on the data you likely already have, it's relatively easy to approximate t
 
 The interview flow is where the rubber meets the road on your ability to determine how well a candidate fits the role you're hiring for. Keep in mind that there is no perfect interview. The amount of data an interviewer collects in a sparse few hours with a candidate, of course, cannot perfectly predict how well somebody will do full-time on the job for months and years to come.
 
-In this section, I cover some high-level interviewing best practices, and then provide some background and context on the various steps of interviewing, including candidate/rØsumØ intake forms, phone screens, culture interviews, technical interviews, coding assignments, or take-home assignments, executive interviews, and finally reference checks.
+In this section, I cover some high-level interviewing best practices, and then provide some background and context on the various steps of interviewing, including candidate/résumé intake forms, phone screens, culture interviews, technical interviews, coding assignments, or take-home assignments, executive interviews, and finally reference checks.
 
 #### REJECTED CANDIDATES OPINIONS MATTER
 
@@ -960,7 +960,7 @@ If you're unfamiliar with the phrase unconscious bias, I encourage you to read *
 
 It's actually very easy to unintentionally advantage or disadvantage a candidate in ways that are not justified. Inevitably, this will result in worse hiring outcomes or potentially costly legal battles.
 
-Bias takes many forms. Most biases are unconscious and can surround gender, race, alumni status, or socioeconomic background. But bias can also mean that the conclusions drawn by an interviewer about a candidate ahead of an interview are based solely on ranking scores from a prior interviewer. There's no system that ensures eliminating all harmful biases, but there are certain steps you can take to minimize unconscious bias, such as blanking out candidate names or photos (which often hint at gender and ethnicity) during a rØsumØ screen.
+Bias takes many forms. Most biases are unconscious and can surround gender, race, alumni status, or socioeconomic background. But bias can also mean that the conclusions drawn by an interviewer about a candidate ahead of an interview are based solely on ranking scores from a prior interviewer. There's no system that ensures eliminating all harmful biases, but there are certain steps you can take to minimize unconscious bias, such as blanking out candidate names or photos (which often hint at gender and ethnicity) during a résumé screen.
 
 To avoid anchoring or biasing subsequent interviewers, I encourage interviewers to leave two different kinds of feedback on candidate conversations:
 
@@ -1008,9 +1008,9 @@ At the top of your intake form, you should outline several key pieces of informa
 
 #### Intake Form Questionnaire
 
-The questionnaire should include a request for the candidate's resume (or LinkedIn profile URL), ask some questions required by legal and HR with respect to employment eligibility, and then ideally ask a few qualifying questions of the candidate. The qualifying questions should be light-touch, generally freeform, and possibly even technical questions to ensure the candidate is in the right ballpark for the role. For example, for a role that requires experience in JavaScript, it's not unreasonable to confirm that experience in the questionnaire with a question like, Rate your comfort level working with JavaScript on a scale from not comfortable to extremely comfortable.
+The questionnaire should include a request for the candidate's résumé (or LinkedIn profile URL), ask some questions required by legal and HR with respect to employment eligibility, and then ideally ask a few qualifying questions of the candidate. The qualifying questions should be light-touch, generally freeform, and possibly even technical questions to ensure the candidate is in the right ballpark for the role. For example, for a role that requires experience in JavaScript, it's not unreasonable to confirm that experience in the questionnaire with a question like, Rate your comfort level working with JavaScript on a scale from not comfortable to extremely comfortable.
 
-This may seem redundant to the requirements listed in the job description, and it is, though you'd be surprised how many resumes will come through lacking basic qualifications. These questions are quick/trivial for the candidate to answer and just as quick for a hiring manager to use to filter out applicants.
+This may seem redundant to the requirements listed in the job description, and it is, though you'd be surprised how many résumés will come through lacking basic qualifications. These questions are quick/trivial for the candidate to answer and just as quick for a hiring manager to use to filter out applicants.
 
 If you're inundated with candidates and want to do a bit more filtering at this stage, the questionnaire can also include one or two more interesting or difficult questions. If you include these, be sure to still keep them brief; you don't want to lose candidates in this form because the questions were too arduous. If you're overwhelmed with applicants then bias towards more data to filter with here, otherwise maybe it's best to save more nuanced qualifications for further down the funnel.
 
@@ -1053,7 +1053,7 @@ The exact questions asked in a phone screen are thus not super important. Here i
 * Roughly when can they start or are they looking to start?
 * Confirm compensation expectations are aligned and explain benefits/perks.
 
-In addition to good answers to the questions, the interviewer should gauge their general fit for the role. Does the candidate communicate clearly, do they seem like a culture fit, does their claimed experience match what they have on their rØsumØ, and are they interested in the company and opportunity?
+In addition to good answers to the questions, the interviewer should gauge their general fit for the role. Does the candidate communicate clearly, do they seem like a culture fit, does their claimed experience match what they have on their résumé, and are they interested in the company and opportunity?
 
 ### Culture Interview
 
@@ -1446,7 +1446,7 @@ For non-executive roles, before you decide on titles I first encourage you to de
 
 Titles for individual contributing engineers are pretty straightforward, using descriptive adjectives that convey seniority and size of responsibility. Most startups will use the primary three titles: junior, mid-level, and senior engineer. Beyond senior, phrases such as principal, fellow, and architect are often used, though they have a less consistent definition and hierarchy.
 
-Senior individual contributors often have the informal title of tech lead. Tech lead implies that some of the individual contributor's time is spent on management-style responsibilities, but their primary responsibility is still doing engineering. Rarely is the notion of a tech lead something that is noted in a title on a rØsumØ or organization chart; it's simply an added responsibility for more senior employees and is part of the expectation at that level of seniority. If a tech lead's primary output is management, not code, then they should be on a management track with a manager's expectations, title, training, coaching, etc.
+Senior individual contributors often have the informal title of tech lead. Tech lead implies that some of the individual contributor's time is spent on management-style responsibilities, but their primary responsibility is still doing engineering. Rarely is the notion of a tech lead something that is noted in a title on a résumé or organization chart; it's simply an added responsibility for more senior employees and is part of the expectation at that level of seniority. If a tech lead's primary output is management, not code, then they should be on a management track with a manager's expectations, title, training, coaching, etc.
 
 ##### Manager Titles
 
@@ -3158,13 +3158,13 @@ Let's examine the cost of code review. A code review requires two people call th
 
 **Context Switch #1:** Author stops coding on Project 1, sets up code review, and tags Reviewer. Author starts working on Project 2.
 
-**Context Switch #2:** Reviewer gets a notification, stops their work on Project 3, and begins review of Project 1. Reviewer leaves feedback for Author, resumes work on Project 3.
+**Context Switch #2:** Reviewer gets a notification, stops their work on Project 3, and begins review of Project 1. Reviewer leaves feedback for Author, résumés work on Project 3.
 
-**Context Switch #3:** Author is notified of feedback on Project 1, stops work on Project 2, and addresses comments from Reviewer. Then Author resumes work on Project 2.
+**Context Switch #3:** Author is notified of feedback on Project 1, stops work on Project 2, and addresses comments from Reviewer. Then Author résumés work on Project 2.
 
-**Context Switch #4:** Reviewer stops work on Project 3 and best-case scenario Reviewer is now satisfied with changes in Project 1 and approves the code review. Reviewer resumes work on Project 3. Worst case, Author and Reviewer must repeat Context Switches #3 and #4 several times.
+**Context Switch #4:** Reviewer stops work on Project 3 and best-case scenario Reviewer is now satisfied with changes in Project 1 and approves the code review. Reviewer résumés work on Project 3. Worst case, Author and Reviewer must repeat Context Switches #3 and #4 several times.
 
-**Context Switch #5:** Author is notified of approval, stops work on Project 2, merges Project 1, then resumes work on Project 2.
+**Context Switch #5:** Author is notified of approval, stops work on Project 2, merges Project 1, then résumés work on Project 2.
 
 There are ways to minimize these context switches, but they too involve tradeoffs. A common alternative is to do all code reviews as a synchronous pair programming exercise; however, that strategy trades context switches for synchronous meeting time, which is still a drag on productivity. No matter how you slice it, human code review is expensive.
 
