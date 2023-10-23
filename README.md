@@ -1,5 +1,9 @@
 *NOTE:* As of October 2023 I'm still working on porting the book content into markdown. Everything is in there (via a .doc to .md auto-converter) but the formatting is all over the place and needs a lot of cleanup still, apologies for my mess in the interim!
 
+<p align="center">
+  <img width="200" src="published_files/cover.png">
+</p>
+
 # The Book
 You can view the latest content of the book in markdown [here](StartupCTOHandbook.md)
 
