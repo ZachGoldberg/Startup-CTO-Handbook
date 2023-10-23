@@ -237,7 +237,7 @@ In your journey to tech leadership, you've already invested many skill points in
 
 ### Kaizen: Continuous Improvement
 
-*Kaizen* is the Japanese word for improvement. Thephrase was popularized as part of the Toyota Production System. At Toyota, all personnel are given a (literal or metaphorical) red handle to pull that stops the entire production line. If a worker identifies a problem with production, the idea is for them to pull the red handle, gather coworkers and resources to diagnose the issue, and then resolve it before work can continue. By empowering everyone on the team to improve the process and to be invested in its efficacy, Toyota can cost-effectively build higher-quality cars.
+*Kaizen* is the Japanese word for improvement. The phrase was popularized as part of the Toyota Production System. At Toyota, all personnel are given a (literal or metaphorical) red handle to pull that stops the entire production line. If a worker identifies a problem with production, the idea is for them to pull the red handle, gather coworkers and resources to diagnose the issue, and then resolve it before work can continue. By empowering everyone on the team to improve the process and to be invested in its efficacy, Toyota can cost-effectively build higher-quality cars.
 
 I'm not the first to suggest that software engineering has much in common with traditional manufacturing (see *The Phoenix Project* by Gene Kim). In this case, make the metaphor real: provide your team with a digital red handle and encourage them to focus on continuously improving everything you do. Members of great teams understand that, over time, the team will change, customer requirements will change, tools will change, and the team will need to revisit past decisions and make improvements.
 
@@ -247,15 +247,13 @@ I'm not the first to suggest that software engineering has much in common with t
 
 Your principal role as a manager is to get the best out of the people on your team, so in many scenarios it's more appropriate to describe your role as that of a coach rather than a manager. A coach is somebody who is on your side, a source of wisdom and guidance to everyone on their team. A coach is quick to provide critical feedback, but also the first to celebrate and praise success.
 
-Your goal in your interactions with your direct reports, whether they are individual contributing engineers or managers themselves, is to be the best coach they ve ever had.
+Your goal in your interactions with your direct reports, whether they are individual contributing engineers or managers themselves, is to be the best coach they've ever had.
 
 ### Find a Management Mentor
 
 One way to jumpstart your leadership transition, coaching and managing others, is to find yourself a management mentor, rather than learning by trial and error. There are a lot of management coaches out there with different approaches; the challenge is to find one that resonates with you.
 
-In my first role as a business leader at WiFast (then Zenreach, now Adentro) we quickly hired a team of ten full-time employees, mostly in engineering. As a first-time manager I knew I had a lot to learn, and
-
-I was eager to take advantage of every resource I could to become a better manager. My only problem was I hated most management advice. I found it either overly prescriptive (do X, then Y, then Z) without context or insight, or entirely devoid of substance fluff, if you will. That was until I met my first management coach, Jonathan.
+In my first role as a business leader at WiFast (then Zenreach, now Adentro) we quickly hired a team of ten full-time employees, mostly in engineering. As a first-time manager I knew I had a lot to learn, and I was eager to take advantage of every resource I could to become a better manager. My only problem was I hated most management advice. I found it either overly prescriptive (do X, then Y, then Z) without context or insight, or entirely devoid of substance fluff, if you will. That was until I met my first management coach, Jonathan.
 
 The story goes that one of our investors, First Round Capital, was hosting a management summit in San Francisco, about a thirty-minute drive from our office. Thus far I'd found First Round folks were high quality, so when I came across the invitation, their support temporarily muted my ever-present fluff allergy and I signed up.
 
@@ -267,7 +265,7 @@ The first speaker after lunch was Jonathan. Unlike prior presenters, he had no s
 
 *Allow me to transparently manipulate you.*
 
-I'll never forget that moment. What a funny thing to say; it's a seeming contradiction in terms like saying, is sentence is false. (If you're curious, this is called the Liar's paradox ctohb.com/liarsparadox.) He went on to explain that that was exactly the point: he wanted to say something to grab our attention as an audience, and at that he succeeded perfectly. For the next thirty minutes I took copious notes, not on manipulating people but on understanding people in general.
+I'll never forget that moment. What a funny thing to say; it's a seeming contradiction in terms like saying, is sentence is false. (If you're curious, this is called the [Liar's paradox](https://ctohb.com/liarsparadox).) He went on to explain that that was exactly the point: he wanted to say something to grab our attention as an audience, and at that he succeeded perfectly. For the next thirty minutes I took copious notes, not on manipulating people but on understanding people in general.
 
 I hung on every word Jonathan had to say. As the half-hour session wrapped, Jonathan said he had to catch a flight, and somewhat hurriedly ran out of the room. I looked down at my notebook, processed that I had taken three pages of notes in the last thirty minutes, then stood up from my chair and ran after him.
 
