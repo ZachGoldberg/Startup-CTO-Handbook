@@ -559,7 +559,7 @@ When presented with a large, ambiguous challenge, such as taking over managing a
 
 Which model you use for any given decision is up to you, and I encourage you to be thoughtful and deliberate about that choice. Don't be afraid to revisit it if you feel you've chosen the wrong model.
 
-#### TWO TYPES OF DECISIONS
+#### Two Types of Decisions
 
 In an annual letter to shareholders in 1997, Jeff Bezos outlined a framework for classifying decisions into Type 1 and Type 2 decisions. Type 1 decisions are not reversible, and should be thought through methodically, carefully, slowly, and with great deliberation and consultation, Bezos wrote. If you walk through a door and don't like what you see on the other side, you can't get back to where you were before. Which programming language you use, for example, is a Type 1 decision.
 
