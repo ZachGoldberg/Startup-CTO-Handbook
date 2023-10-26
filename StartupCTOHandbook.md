@@ -307,13 +307,13 @@ The biggest contributor to cultivating high-quality middle management is, of cou
 
 * Provide thorough and accessible management training materials.
 
-   - Supply resources for your managers to pursue ongoing learning and professional development. is might include purchasing company subscriptions to learning programs, sponsoring employees to attend conferences, hiring management coaches, or formalizing internal or external mentorship programs.
+   - Supply resources for your managers to pursue ongoing learning and professional development. This might include purchasing company subscriptions to learning programs, sponsoring employees to attend conferences, hiring management coaches, or formalizing internal or external mentorship programs.
 
   - Consider the cost for these training materials in your regular budgeting process for every member of your team.
 
 * Develop an external-facing culture of thought leadership.
 
-  - Encourage your managers to become thought leaders in your industry. is could take the form of a company, participating as a guest on technical or management podcasts, or speaking at conferences.
+  - Encourage your managers to become thought leaders in your industry. This could take the form of a company, participating as a guest on technical or management podcasts, or speaking at conferences.
 
 ### 1:1 Meetings with Engineers
 
@@ -349,7 +349,9 @@ The phrase *Radical Candor* was defined by Kim Scott in her book *Radical Candor
 
 **Obnoxious Aggression:** Sometimes referred to as brutal honesty or front-stabbing, characterized by direct challenge but lack of individual caring, perhaps demonstrated by insincere praise or unkind criticism
 
-**Ruinous Empathy:** Communication that comes from a place of caring personally but lacks a direct challenge **Manipulative Insincerity:** Also known as backstabbing or passive-aggressive behavior, characterized by neither caring personally nor challenging directly
+**Ruinous Empathy:** Communication that comes from a place of caring personally but lacks a direct challenge
+
+**Manipulative Insincerity:** Also known as backstabbing or passive-aggressive behavior, characterized by neither caring personally nor challenging directly
 
 I encourage you to read Scott's book, but if you don't, then at least be aware of these terms and use them as a coaching tool to move your team toward regularly practicing Radical Candor.
 
@@ -366,7 +368,7 @@ Pretty much anyone you interact with nowadays has either been using email for tw
 * Don't let email become your job.
 
   * Rather than having email open all day or monitoring it continuously, check email a fixed times each day.
-  * Disable email notifications on your phone. Though this one in particular may seem blasphemous, I encourage you to try it. Not only does it significantly reduce the number of notifications you receive, but you'll find yourself building a new habit of proactively checking email when you're ready to engage. is makes email an intentional activity instead of a continual background nuisance.
+  * Disable email notifications on your phone. Though this one in particular may seem blasphemous, I encourage you to try it. Not only does it significantly reduce the number of notifications you receive, but you'll find yourself building a new habit of proactively checking email when you're ready to engage. This makes email an intentional activity instead of a continual background nuisance.
 
 
 * Get to inbox zero every day.
@@ -590,9 +592,7 @@ I provide this framework here as a reminder to consider the value of various tas
 
 Much of the work you'll do as a manager is as a people-puzzle solver. you'll have to figure out how to help two people work together productively, or guide somebody to improve on a skill, or design a team structure to enable collaboration. People's behavior is hard to predict and sometimes a team member may say one thing but think or feel another.
 
-In light of this ever-changing complexity, I encourage you to think like a detective or a scientist: always be collecting data. Form a hypothesis of what might happen if you take a given action, take that action, and then collect data on the results. Going through these motions deliberately will encourage you to listen, to witness how people respond in various scenarios. is
-
-in turn will supply helpful data for the next time you're in a similar scenario with the same people.
+In light of this ever-changing complexity, I encourage you to think like a detective or a scientist: always be collecting data. Form a hypothesis of what might happen if you take a given action, take that action, and then collect data on the results. Going through these motions deliberately will encourage you to listen, to witness how people respond in various scenarios. This in turn will supply helpful data for the next time you're in a similar scenario with the same people.
 
 
 #### Joining a Team
@@ -711,7 +711,7 @@ Strong alignment between the CTO and other C-level executives on culture and val
 
 One general piece of advice for working with other leaders or executives is to not shy away from delivering bad news to your fellow leaders, especially the CEO. Since you are accountable for the performance of the team, you may be tempted to sugarcoat reality, to advertise that everything is fine. The problems with this approach are numerous:
 
-* If things are not fine, meaning deadlines are consistently missed or quality is falling below expectations, your peers will know that and will wonder why you're not owning those failures and explaining how you'll improve. is disparity between reality and how you're representing it undermines trust in your leadership.
+* If things are not fine, meaning deadlines are consistently missed or quality is falling below expectations, your peers will know that and will wonder why you're not owning those failures and explaining how you'll improve. This disparity between reality and how you're representing it undermines trust in your leadership.
 
 * From time to time, you'll need to make time for the software engineering team to do non-user-facing engineering as an investment, either in tech debt or future architecture. you'll need to have the trust of other leaders and the credibility so that others believe you and understand the ROI on that time.
 
@@ -794,13 +794,13 @@ Once you've identified a gap, the next question to ask is when that gap needs to
 
 Often though not always the answer is right now! Every new person you hire adds complexity and overhead to your team. Assuming the pain of having the gap isn't severe, if you can get away with a smaller team for another six months and delay the hire, that can be a good idea as it both reduces cost and gives you more time to build a case for the hire.
 
-Headcount or hiring requests from your team will often have to compete with requests from other teams, so it's useful to develop a common language across your company for discussing how urgent or important a hire is. is doesn't have to be very sophisticated; it could be a 0 5 ranking system, where a 0 represents an urgent need, and a 5 a hire that would be nice to have but can wait a few months or quarters before becoming urgent.
+Headcount or hiring requests from your team will often have to compete with requests from other teams, so it's useful to develop a common language across your company for discussing how urgent or important a hire is. This doesn't have to be very sophisticated; it could be a 0 5 ranking system, where a 0 represents an urgent need, and a 5 a hire that would be nice to have but can wait a few months or quarters before becoming urgent.
 
 #### BUDGETING FOR NEW HIRES
 
 At an unprofitable startup, you should have a financial model that rationalizes expenses vs. revenue and forecasts roughly how long your current cash on hand will last before you need another fundraising round. Most CEOs and CFOs have a deep and intimate understanding of this model; as a tech leader, you won't need to spend nearly as much time with it.
 
-However, it's essential that you maintain a clear picture of your department's contribution to that model, which will primarily come in the form of headcount expenses (current and future). is model should provide some level of constraint, in the form of either an annualized budget or an expense run-rate, that will guide the timing of your hires.
+However, it's essential that you maintain a clear picture of your department's contribution to that model, which will primarily come in the form of headcount expenses (current and future). This model should provide some level of constraint, in the form of either an annualized budget or an expense run-rate, that will guide the timing of your hires.
 
 ### Hiring Goals and Objectives
 
@@ -840,7 +840,7 @@ You can't always control what people say about you, but nonetheless, you want to
 
 #### EQUITABLE OPPORTUNITIES
 
-There's a saying that people tend to hire people who look like themselves. This is often the result of unsophisticated interview scoring methods that simply rely on an interviewer's gut feeling, and gut feelings are often strongly influenced by unconscious bias. is bias can disadvantage candidates of other races, genders, ethnicities, etc.
+There's a saying that people tend to hire people who look like themselves. This is often the result of unsophisticated interview scoring methods that simply rely on an interviewer's gut feeling, and gut feelings are often strongly influenced by unconscious bias. This bias can disadvantage candidates of other races, genders, ethnicities, etc.
 
 As you design your interview process, you should focus on evaluations based on a rubric that aligns with requirements from a job description, not just an interviewer's gut feeling. See the Avoiding Bias section in Interviewing Best Practices, page 63, for more about avoiding biases.
 
@@ -906,7 +906,7 @@ You'll also want to monitor how many applications you're receiving for each role
 
 #### OUTBOUND RECRUITING
 
-Outbound recruiting involves proactively reaching out to target candidates and encouraging them to apply for your role. is can be done by you, your team, an internal recruiter, and/or an external recruiter. I encourage teams to start their hiring process with inbound recruiting and in-house outbound recruiting first. By actually doing the recruiting, talking to the candidates, and listening to their reactions to your pitch, you'll learn a lot about the market and what top candidates think of what you're selling. you'll also get a sense of how competitive your offer is and how easy or hard it is to find candidates that match your job description, perhaps even leading you to tweak it. Once you've fine-tuned the role and know exactly whom and what you're looking for, you'll be ready to give optimized guidance to an external recruiter, which will help them source candidates more effectively on your behalf.
+Outbound recruiting involves proactively reaching out to target candidates and encouraging them to apply for your role. This can be done by you, your team, an internal recruiter, and/or an external recruiter. I encourage teams to start their hiring process with inbound recruiting and in-house outbound recruiting first. By actually doing the recruiting, talking to the candidates, and listening to their reactions to your pitch, you'll learn a lot about the market and what top candidates think of what you're selling. you'll also get a sense of how competitive your offer is and how easy or hard it is to find candidates that match your job description, perhaps even leading you to tweak it. Once you've fine-tuned the role and know exactly whom and what you're looking for, you'll be ready to give optimized guidance to an external recruiter, which will help them source candidates more effectively on your behalf.
 
 Not all external recruiters are the same. You want somebody who meets all of these criteria:
 
@@ -965,7 +965,7 @@ To avoid anchoring or biasing subsequent interviewers, I encourage interviewers 
 1. Detailed notes and scores
 2. Suggested questions for subsequent conversations.
 
-Most of the interview feedback should consist of detailed notes and scores against the job-specific scoring guide which has your interview questions planned out in advance (for more, see Technical Interviews, page 76). is feedback should ideally not be read by subsequent team members in advance of their interview to avoid bias. For example, if you know the prior interviewer scored the candidate poorly, you may experience confirmation bias and overvalue any areas where a candidate does poorly in your interview.
+Most of the interview feedback should consist of detailed notes and scores against the job-specific scoring guide which has your interview questions planned out in advance (for more, see Technical Interviews, page 76). This feedback should ideally not be read by subsequent team members in advance of their interview to avoid bias. For example, if you know the prior interviewer scored the candidate poorly, you may experience confirmation bias and overvalue any areas where a candidate does poorly in your interview.
 
 The second type of feedback, subsequent interview suggestions, should focus on areas for emphasis or more in-depth exploration in subsequent interviews and not reveal data that might overtly bias further interviews.
 
@@ -977,13 +977,13 @@ The guidance here is simple: choose and onboard an ATS early. Don't wait until y
 
 #### SELLING CANDIDATES
 
-As mentioned earlier, I highly encourage hiring managers to think of the interview process as a sales process. is naturally leads to several good habits that translate seamlessly from sales to interviews:
+As mentioned earlier, I highly encourage hiring managers to think of the interview process as a sales process. This naturally leads to several good habits that translate seamlessly from sales to interviews:
 
 * During the sales process with a customer, you're always focused on selling the prospect on the product, even when you're qualifying the customer. A good sales process regards qualifying candidates as a funnel, with light-touch qualification at the top and progressively more nuanced/time-intensive qualification down-funnel, along with a progressively more customized and tailored sales pitch.
 
 * You should always be selling your candidates on the advantages and positive benefits of joining your company and the role/opportunity you're offering. By the time they jump through all your interviewing hoops, they should be eager to work at your company and excited to take your job offer over others they have received (or may yet receive).
 
-* Ensure you're asking at least a couple of open-ended questions early on about what the candidate is looking for in their next role. is will help your interviewers synthesize how good a match the candidate's expectations are for the role you're hiring for. is information should be noted in the candidate's profile and used to tailor and customize the pitch to the candidate along the way.
+* Ensure you're asking at least a couple of open-ended questions early on about what the candidate is looking for in their next role. This will help your interviewers synthesize how good a match the candidate's expectations are for the role you're hiring for. This information should be noted in the candidate's profile and used to tailor and customize the pitch to the candidate along the way.
   * For example, a junior candidate coming from a mostly junior and mid-level team may be looking for the opportunity to work with more senior JavaScript engineers in an environment that promotes their growth. If your team offers senior support and your culture leans into mentorship, make sure you highlight that advantage, especially around the offer stage.
 
 * Always leave candidates some time (five or ten minutes) to ask questions at the end of the interview. Most qualified candidates come to interviews armed with questions, and you can learn a lot about what somebody cares about by what they choose to ask. This is a good opportunity for your interviewer to sell the benefits of your company in their responses.
@@ -1036,7 +1036,7 @@ What the software stack looks like, including key languages, tools, and target c
 
 The size of the technical team, both at large in the company and that
 
-the candidate would be working with. is should also include general hiring forecasts and roughly how many people are being added over time.
+the candidate would be working with. This should also include general hiring forecasts and roughly how many people are being added over time.
 
 Who the candidate would be reporting to. Provide some basic background on that manager, including their tenure at the company, maybe what they did before working at the company.
 
@@ -1057,7 +1057,7 @@ In addition to good answers to the questions, the interviewer should gauge their
 
 One of the major criteria you're looking for in your interview process is culture fit. Culture fit is all the elements of a candidate's personality, beyond their experience and skills, that will enable them to be successful
 
-in your organization. In order to effectively screen candidates for culture fit, your company should have a fairly clear idea of what its culture is. is can look like many things for example, a list of core values, a mission statement, a vision statement, guiding principles. Whatever they are, they should be authentic and true to the company. If you're struggling on this,
+in your organization. In order to effectively screen candidates for culture fit, your company should have a fairly clear idea of what its culture is. This can look like many things for example, a list of core values, a mission statement, a vision statement, guiding principles. Whatever they are, they should be authentic and true to the company. If you're struggling on this,
 
 I would refer you to *Team of Teams* by Stanley McChrystal, *Work Rules!* by Laszlo Bock, and *Good Authority* by Jonathan Raymond.
 
@@ -1259,7 +1259,7 @@ I encourage you to emphasize to your managers, your new employees, and in your o
 
 #### Onboarding to the Team vs. the Company
 
-There are elements of onboarding any engineer new to your company that should be consistent across all hires. is includes the high-level process, the emphasis on organizational culture, the types of documentation that new hires receive, and the structure of sharing documentation and setting onboarding milestones. You wouldn't want your frontend teams to have a rockstar-smooth onboarding process but your backend teams to be clueless. First impressions count, and onboarding is your opportunity to ensure that all team members get a great first experience of your organization and are introduced in a consistent way to your company's values and your team's best practices.
+There are elements of onboarding any engineer new to your company that should be consistent across all hires. This includes the high-level process, the emphasis on organizational culture, the types of documentation that new hires receive, and the structure of sharing documentation and setting onboarding milestones. You wouldn't want your frontend teams to have a rockstar-smooth onboarding process but your backend teams to be clueless. First impressions count, and onboarding is your opportunity to ensure that all team members get a great first experience of your organization and are introduced in a consistent way to your company's values and your team's best practices.
 
 That's not to say that the nuts and bolts of onboarding will be identical across teams. You can and should have different materials for different teams when it makes sense, and every team and individual hire should have a customized onboarding plan and milestones.
 
@@ -1348,7 +1348,7 @@ A quick word on the ninety-day length: ninety days is a commonly used timeframe 
 
 ##### HANDLING A SCORECARD FAILURE
 
-If, after ninety days, the manager and the employee agree things are not meeting expectations, or there isn't agreement on whether expectations are being met, something has to change. is doesn't mean you have to fire the new employee, but it does mean you have to do something. Consider the following options in this scenario:
+If, after ninety days, the manager and the employee agree things are not meeting expectations, or there isn't agreement on whether expectations are being met, something has to change. This doesn't mean you have to fire the new employee, but it does mean you have to do something. Consider the following options in this scenario:
 
 * Is the problem the manager? Would this person be more successful on another team or with a different manager?
 
@@ -1597,9 +1597,9 @@ On Day 1 of most startups, the team will consist of a small handful of engineers
 
 So, you've raised a round of funding and you're looking to expand your team for the first time. How do you decide whether you need frontend engineers, backend engineers, DevOps engineers, etc.? Here are some general guidelines:
 
-**Listen to your team:** The people currently doing engineering are very likely to be vocal about where the biggest sources of inefficiency are, and where the most help is needed. Your job as a manager is to take in that perspective and extrapolate going forward. Is the team pointing out a problem that will disappear in two months, in which case hiring somebody wouldn't be appropriate? Or is the issue systemic in nature and likely to continue for the long haul?
+**Listen to your team:** The people currently doing engineering are very likely to be vocal about where the biggest sources of inefficiency are, and where the most help is needed. Your job as a manager is to take in that perspective and extrapolate going forward. This the team pointing out a problem that will disappear in two months, in which case hiring somebody wouldn't be appropriate? Or is the issue systemic in nature and likely to continue for the long haul?
 
-**Look for factors that are hurting produ-ctivity:** If your team is mostly frontend engineers and you're struggling with backend reliability, then that should be a sign that you need backend or DevOps engineering help. is same principle applies to testing, developer experience, etc.
+**Look for factors that are hurting produ-ctivity:** If your team is mostly frontend engineers and you're struggling with backend reliability, then that should be a sign that you need backend or DevOps engineering help. This same principle applies to testing, developer experience, etc.
 
 **Specialize with scale:** Until your team is north of a dozen people, chances are high that you're better off with a team of primarily generalists.
 
@@ -1651,7 +1651,7 @@ The first question I get asked about the two crews approach is: how long does so
 
 * Engineers rotate between the crews on a regular basis. The Microsoft blog post referenced above recommends swapping some team members between the two crews every week.
 
-* Define the customer crew as a temporary team. is can mean either that the customer crew itself doesn't exist full-time (perhaps for only one week per month), or that team members are constantly rotating between the customer and feature crews.
+* Define the customer crew as a temporary team. This can mean either that the customer crew itself doesn't exist full-time (perhaps for only one week per month), or that team members are constantly rotating between the customer and feature crews.
 
 I recommend creating a dedicated, permanent customer crew only for teams or products where customer issues are costly enough for the team to warrant it. If you're in a high-support business, a dedicated customer crew can be a force multiplier for both engineering productivity and customer satisfaction.
 
@@ -1663,7 +1663,7 @@ When you're designing an organization chart you should consider what you're opti
 
 When your team is small, and you have just one product, the question of how to organize is moot it's one cross-functional team all working on the same product. By the time your team has grown to 12 or more people, you'll need to start being more deliberate about defining what a pod is, and finding a method that is easy to understand and grounded in your product reality, before breaking your team out into pods.
 
-The advantages of pods are greater team cohesion, autonomy ownership, accountability, and overall execution velocity. is approach is not without tradeoffs, however. Having a long-lived group of engineers work on one product can create knowledge silos. As organizations scale, it's also more likely for a product team to make architectural decisions that might optimize locally and lead to duplicate work or inefficient use of compute resources. If you anticipate and plan for these issues arising, the pain they induce when well-managed will be far outweighed by the benefits of autonomous, high-performing pods.
+The advantages of pods are greater team cohesion, autonomy ownership, accountability, and overall execution velocity. This approach is not without tradeoffs, however. Having a long-lived group of engineers work on one product can create knowledge silos. As organizations scale, it's also more likely for a product team to make architectural decisions that might optimize locally and lead to duplicate work or inefficient use of compute resources. If you anticipate and plan for these issues arising, the pain they induce when well-managed will be far outweighed by the benefits of autonomous, high-performing pods.
 
 ### Managing Remote Teams
 
@@ -1715,7 +1715,7 @@ A design system is a set of standards for managing design at scale using reusabl
 
 Not only do design systems provide a time-saving set of guardrails and components used by designers, they often come with out-of-the-box support for various frontend languages and frameworks. Material Design, for example, has a published design system in Figma (ctohb.com/figma), as well as a set of JavaScript react components (mui.com) and angular components (material.angular.io).
 
-By adopting a system like Material (or AntD, Chakra UI, Blueprint, Bootstrap, Semantic UI, etc.) you not only get a suite of prebuilt technical components but you also get a system that integrates neatly with designer tools. By integrating the same system with the tools of both engineers and designers, you'll ensure that what your designers create will map cleanly to the components available to engineers. is cuts down or even eliminates the need for engineering to do custom styling or frontend UI, and makes it easy to match a design down to the pixel.
+By adopting a system like Material (or AntD, Chakra UI, Blueprint, Bootstrap, Semantic UI, etc.) you not only get a suite of prebuilt technical components but you also get a system that integrates neatly with designer tools. By integrating the same system with the tools of both engineers and designers, you'll ensure that what your designers create will map cleanly to the components available to engineers. This cuts down or even eliminates the need for engineering to do custom styling or frontend UI, and makes it easy to match a design down to the pixel.
 
 Beyond the efficiency gained by having consistency between design and engineering, most design system component implementations also take into account or automatically solve for other design priorities, such as accessibility (both for screen readers and color contrast management for the colorblind), adherence to UI standards, and even out-of-the-box dark mode support.
 
@@ -1777,7 +1777,7 @@ If your company is like most startups, you'll be the most expensive department, 
 
 ### Measuring Engineering Velocity/Health
 
-I have yet to encounter a technical team or leader who has managed to consistently and usefully quantify actual engineering output. is includes measuring velocity as the sum of estimates of completed tasks. (See the Estimates section of Workflow, page 160, for a discussion on the unreliability of technical estimates.)
+I have yet to encounter a technical team or leader who has managed to consistently and usefully quantify actual engineering output. This includes measuring velocity as the sum of estimates of completed tasks. (See the Estimates section of Workflow, page 160, for a discussion on the unreliability of technical estimates.)
 
 I have, however, seen many companies effectively measure engineering health and contributing factors to engineering velocity namely, cycle time and work time allocation.
 
@@ -1792,7 +1792,7 @@ In general, low-cycle teams are more efficient and able to iterate, innovate, an
 
 #### Work Time Allocation
 
-The idea of measuring work time allocation is that, while measuring how much work is done is difficult, it's comparatively easy to measure what types of work team members are spending their time on. is resulting information is directionally useful. For example, if a team is spending the majority of its time addressing bugs, then it's a good hypothesis that improving software quality and bringing down that time percentage will result in more time allocated to developing new features, and thus an overall improvement in health and velocity.
+The idea of measuring work time allocation is that, while measuring how much work is done is difficult, it's comparatively easy to measure what types of work team members are spending their time on. This resulting information is directionally useful. For example, if a team is spending the majority of its time addressing bugs, then it's a good hypothesis that improving software quality and bringing down that time percentage will result in more time allocated to developing new features, and thus an overall improvement in health and velocity.
 
 Actually measuring work time allocation can be done in a semi-automated way by pulling reports from ticket systems, or it can be measured with regular lightweight pulse surveys to the team.
 
@@ -1873,7 +1873,7 @@ a great article (ctohb.com/founder2cto) breaking down the CTO into four archetyp
 
 ### The Tech-Focused CTO *AKA The Chief Architect*
 
-The tech-focused CTO may also be the office of the CTO, leading an internal technical skunkworks whose primary output is forward-thinking strategy, architecture, and sometimes proof-of-concept implementation on how to help the business down the road. is CTO will have fewer reports, with the bulk of the engineering organization reporting to a separate vice president of engineering. In this case, it's not uncommon for the vice president of engineering (VPE) to report to somebody other than the CTO most commonly, directly to a CEO or to a chief product officer (CPO).
+The tech-focused CTO may also be the office of the CTO, leading an internal technical skunkworks whose primary output is forward-thinking strategy, architecture, and sometimes proof-of-concept implementation on how to help the business down the road. This CTO will have fewer reports, with the bulk of the engineering organization reporting to a separate vice president of engineering. In this case, it's not uncommon for the vice president of engineering (VPE) to report to somebody other than the CTO most commonly, directly to a CEO or to a chief product officer (CPO).
 
 The internal tech-focused CTO may also be the chief technical process architect, setting up tools, systems, and processes for how technical work gets done.
 
@@ -1883,7 +1883,7 @@ As an internal tech-focused CTO, you may also function as a product manager if y
 
 A typical startup will not have both a VPE and a CTO, and so it often falls on the CTO to fill the VPE role. This is often also the hardest role for a cofounder CTO to fill, as the responsibilities of the day one technical cofounder don't much overlap with the responsibilities of the internally people-focused technical leader.
 
-The people-focused CTO is responsible for setting internal technical culture, the hiring process, and overseeing internal processes. is CTO spends much of their time actually managing either independent contributors or other technical managers. This is the most critical of the three focus areas to get right. If a company isn't hiring well, or its technical staff is poorly managed, unmotivated, unfocused, or not aligned, it can impact productivity, and even lead to bad decision-making that will hurt the organization in the long term.
+The people-focused CTO is responsible for setting internal technical culture, the hiring process, and overseeing internal processes. This CTO spends much of their time actually managing either independent contributors or other technical managers. This is the most critical of the three focus areas to get right. If a company isn't hiring well, or its technical staff is poorly managed, unmotivated, unfocused, or not aligned, it can impact productivity, and even lead to bad decision-making that will hurt the organization in the long term.
 
 ### The Externally Focused CTO *AKA The Head of Technical Sales/Marketing*
 
@@ -1897,7 +1897,7 @@ Ideally, a startup CTO will prove adept in all three areas, though most people w
 
 It's a very common pattern for that person to find themselves stretching into internal people or external focuses as the company grows, and that's not always a desirable transition for that person. It's not a personal failure to admit that your specialty or your motivation is in tech and that people management isn't a great fit, but quite the opposite. Identifying your superpowers and architecting a role in the company to leverage that superpower is how you add the most value, and the company should hire somebody else whose superpower is, for example, people management to fill that role.
 
-If you find yourself stuck in a role you're unhappy with, it's vital that you acknowledge the mismatch both to yourself and to your CEO. is doesn't mean giving up your position as a founder or leader, or as a respected and high-impact person within the company.
+If you find yourself stuck in a role you're unhappy with, it's vital that you acknowledge the mismatch both to yourself and to your CEO. This doesn't mean giving up your position as a founder or leader, or as a respected and high-impact person within the company.
 
 Some thoughts on various transitions:
 
@@ -1929,7 +1929,7 @@ it falls on you to ensure the team as a whole is running well. What running well
 
 ## Tech Culture and General Philosophy
 
-I encourage all leaders to adopt the general leadership style known as *servant leadership*. As a servant leader your main focus is on serving the needs of your team. is means focusing on empowering others, building
+I encourage all leaders to adopt the general leadership style known as *servant leadership*. As a servant leader your main focus is on serving the needs of your team. This means focusing on empowering others, building
 
 a culture of transparency, communication, collaboration, and growth. As you think about your team and culture, and about decisions on a day-to- day basis, ask yourself which option enables the team to do their best work and thus deliver the most for the business.
 
@@ -1938,7 +1938,7 @@ a culture of transparency, communication, collaboration, and growth. As you thin
 
 *1. Spend Team Time on Things That Matter to the Business*
 
-In general, you want your team to be spending time on things that move the needle for the business, and it's your responsibility as technical leader to create an environment where your engineers can focus their efforts in this way with consistency and minimal distractions. is frame may seem obvious, but when used properly, it's a powerful tool for decision-making.
+In general, you want your team to be spending time on things that move the needle for the business, and it's your responsibility as technical leader to create an environment where your engineers can focus their efforts in this way with consistency and minimal distractions. This frame may seem obvious, but when used properly, it's a powerful tool for decision-making.
 
 For example, say your team is debating between using an off-the-shelf framework for the backend vs. writing something from scratch. There's a nuanced list of pros and cons one could make that would discuss things like added flexibility from building from scratch vs. shorter time to first deployment with the framework. In this hypothetical reality, what your business really needs is to iterate on the frontend and optimize the customer journey, so every moment spent on the backend is one moment less spent moving the frontend forward. If the out-of-the-box solution is good enough to power that frontend iteration, even if you have to throw away the framework and rewrite the backend in eighteen months with a custom solution, iterating quickly on the frontend now and finding product market fit earns your business the right to do that rewrite down the line.
 
@@ -2001,7 +2001,7 @@ If the only benefit of attending a conference were that the employee learned a b
 
 I encourage you to require conference attendees to produce a written document summarizing key things they learned after they return. You should also consider sponsoring the conferences most relevant to your business and having you or one of your team members host a seminar on a particular topic. These seminars and sponsorships provide excellent branding opportunities for your company, getting your name and message in front of a very targeted audience an audience that likely contains candidates you'd like to hire in the future.
 
-In summary, allocating a budget for engineers to attend conferences is good for individual professional development, with a fairly low-effort documentation exercise. is can be good for team learnings and is a great opportunity through networking, sponsorship, or hosting to recruit future members of the team.
+In summary, allocating a budget for engineers to attend conferences is good for individual professional development, with a fairly low-effort documentation exercise. This can be good for team learnings and is a great opportunity through networking, sponsorship, or hosting to recruit future members of the team.
 
 *8. Deploy Rubber Duck Debugging*
 
@@ -2019,11 +2019,11 @@ I guarantee you'll get relatively poor watch rates upfront as you make and distr
 
 *10. Onboarding Is Everybody's Responsibility*
 
-Your team is continuously creating tribal knowledge, be it how to start a service, or how code patterns are used across your codebase. There are two ways to deal with this: you can do nothing, and on a daily basis you'll increase the size of the knowledge gap for new employees, or you can actively work on converting siloed tribal knowledge into scalable documentation for current and future employees. For obvious reasons, I recommend the latter. is means everyone should always be asking themselves, How can I document what I've just created/learned/discovered? And when you have new employees who come across something that they can't find in your knowledge base, it's up to them to seek out an answer and document it.
+Your team is continuously creating tribal knowledge, be it how to start a service, or how code patterns are used across your codebase. There are two ways to deal with this: you can do nothing, and on a daily basis you'll increase the size of the knowledge gap for new employees, or you can actively work on converting siloed tribal knowledge into scalable documentation for current and future employees. For obvious reasons, I recommend the latter. This means everyone should always be asking themselves, How can I document what I've just created/learned/discovered? And when you have new employees who come across something that they can't find in your knowledge base, it's up to them to seek out an answer and document it.
 
 ## Tech Debt
 
-San Francisco's Golden Gate Bridge is made out of steel, which is not actually golden in color. The bridge is painted, and maintaining the iconic color of the bridge is so important to San Franciscans that they paint it continuously (ctohb.com/painting). Once repainting is finished, the process immediately restarts. is form of continuous investment or perpetual maintenance is what's required to keep the most important and sophisticated systems performing to expectations, from the Golden Gate Bridge to your team's software project. Only for your project, the maintenance doesn't require paint buckets; it comes in the form of technical debt.
+San Francisco's Golden Gate Bridge is made out of steel, which is not actually golden in color. The bridge is painted, and maintaining the iconic color of the bridge is so important to San Franciscans that they paint it continuously (ctohb.com/painting). Once repainting is finished, the process immediately restarts. This form of continuous investment or perpetual maintenance is what's required to keep the most important and sophisticated systems performing to expectations, from the Golden Gate Bridge to your team's software project. Only for your project, the maintenance doesn't require paint buckets; it comes in the form of technical debt.
 
 Every feature a software development team delivers brings with it some level of need for future work, or debt. That debt can take the form of bugs that need fixing, fast-follows to the feature to deliver incremental customer value, or sloppiness in the code that should be fixed to improve maintainability, performance, or security. A certain amount of debt naturally accrues even if your team is out on vacation: security vulnerabilities in dependent software are found, packages go out of date, new versions of tools are released, third-party APIs are deprecated or changed, etc. Debt is unavoidable and you need to account for it.
 
@@ -2088,7 +2088,7 @@ If you are not in tech debt bankruptcy and your goal is to maintain a healthy le
 
 ##### Just-In-Time Payment
 
-The most common way to handle tech debt is to pay it off on a Just-in- Time basis, meaning the debt is paid off as part of a business-driven project. is will often look like a team adding tech debt tickets that relate to the stories that have been selected for a sprint in a planning meeting. This is a low-overhead and low-planning-effort approach, and it can work out well. But be mindful of some potential pitfalls:
+The most common way to handle tech debt is to pay it off on a Just-in- Time basis, meaning the debt is paid off as part of a business-driven project. This will often look like a team adding tech debt tickets that relate to the stories that have been selected for a sprint in a planning meeting. This is a low-overhead and low-planning-effort approach, and it can work out well. But be mindful of some potential pitfalls:
 
 * Just-in-time payments, by virtue of being less visible to the broader team, can lead to systemic underinvestment in tech debt. Make sure you are being honest and transparent with the team as you do just-in- time-payment about what total percentage of team time you're expecting to be in debt.
 
@@ -2104,7 +2104,7 @@ For example, the Shape Up method (see Tech Process, page 157) describes a two-we
 
 #### Continuous Paydown
 
-Depending on how expensive debt is for your team, you may want to dedicate more resources to overall system quality than a periodic strategy allows. is looks like having a dedicated team what I call a customer crew in a two-crew scenario (see Project Maintenance: TheTwo Crews Philosophy, page 113) pay down tech debt as part of their everyday work and objectives.
+Depending on how expensive debt is for your team, you may want to dedicate more resources to overall system quality than a periodic strategy allows. This looks like having a dedicated team what I call a customer crew in a two-crew scenario (see Project Maintenance: TheTwo Crews Philosophy, page 113) pay down tech debt as part of their everyday work and objectives.
 
 It's important to ensure that any team whose primary objective is internal efficiency, such as a tech debt team or a customer crew, has clear and measurable goals for their work. For example, if your debt inventory ranks test debt as your highest debt category, then measure defect rates and code coverage and hold the customer crew accountable for improving those metrics. If your infrastructure debt is the largest, then focus on uptime and Mean Time to Recovery metrics.
 
@@ -2123,7 +2123,7 @@ I find it useful to think of a technology roadmap in three timeframes, sometimes
 
 #### Short-Term/Horizon One
 
-Your short-term roadmap is what your team is working on now. is includes any in-flight features, actively worked-on defects, tech debt, or urgent work items. For more detail on managing your short-term roadmap, see Workflow in the Tech Process section, page 157.
+Your short-term roadmap is what your team is working on now. This includes any in-flight features, actively worked-on defects, tech debt, or urgent work items. For more detail on managing your short-term roadmap, see Workflow in the Tech Process section, page 157.
 
 
 #### Medium-Term/Horizon Two
@@ -2207,7 +2207,7 @@ Do not hesitate to skip ceremonies that are not obvious wins for the team. For e
 
 #### Shape Up
 
-Shape Up is a methodology formalized by the company Basecamp and published in an eBook available at basecamp.com/shapeup. The core cycle in Shape Up is six weeks long, a much longer sprint than espoused by SCRUM. is cycle uses fixed-time and variable scoping. The idea is that a longer time period provides more space to produce clear pitches (specifications) and do good work on a project. Shape Up places considerably less emphasis on estimation than other models which, as I'll soon discuss, is a good thing for engineering teams.
+Shape Up is a methodology formalized by the company Basecamp and published in an eBook available at basecamp.com/shapeup. The core cycle in Shape Up is six weeks long, a much longer sprint than espoused by SCRUM. This cycle uses fixed-time and variable scoping. The idea is that a longer time period provides more space to produce clear pitches (specifications) and do good work on a project. Shape Up places considerably less emphasis on estimation than other models which, as I'll soon discuss, is a good thing for engineering teams.
 
 ### Engineering Estimates
 
@@ -2225,7 +2225,7 @@ A final note on estimates: don't conflate missing estimates with poor total outp
 
 ### Burndown Charts
 
-SCRUM burndown charts show team progress against estimates and can be a great tool for measuring sprint productivity. However, estimates are imperfect and, for various reasons, a burndown chart may show a flat line or even burn up. is can be because a team legitimately is not making progress, or it could be an artifact of estimation issues or bad data collection.
+SCRUM burndown charts show team progress against estimates and can be a great tool for measuring sprint productivity. However, estimates are imperfect and, for various reasons, a burndown chart may show a flat line or even burn up. This can be because a team legitimately is not making progress, or it could be an artifact of estimation issues or bad data collection.
 
 A burndown chart that burns up consistently, despite teams shipping and doing good work, is demoralizing and not achieving the intended benefit. If there are easy adjustments that will help you better capture data and fix the chart, make that change. But if you find a particular way of measuring output still isn't working, just get rid of it. It's okay to admit that your method of estimating these particular types of stories with this team isn't precise enough and move on to other methods of monitoring and improving performance.
 
@@ -2472,7 +2472,7 @@ Key features of an SOA or microservices system:
 
 ##### Choosing Between A Service-Oriented Architecture And A Monolith
 
-In general, a monolith is easier to set up than an SOA and requires considerably fewer technical logistics to manage. For this reason, a monolith is the right answer on day one for the vast majority of problems. If the team is very disciplined and thoughtful about designing a monolith, it can scale with the team forever. is won't be the case for everyone, however. For many teams/projects, a monolith's lack of enforced contracts, inability to scale as separate components, and lack of enforced separation of concerns will become a barrier to productivity.
+In general, a monolith is easier to set up than an SOA and requires considerably fewer technical logistics to manage. For this reason, a monolith is the right answer on day one for the vast majority of problems. If the team is very disciplined and thoughtful about designing a monolith, it can scale with the team forever. This won't be the case for everyone, however. For many teams/projects, a monolith's lack of enforced contracts, inability to scale as separate components, and lack of enforced separation of concerns will become a barrier to productivity.
 
 If you do find yourself contending with an unruly monolith, this doesn't mean your engineers are bad at their jobs. The nature of software engineering is that requirements change and systems evolve. Maintaining a monolith may mean, at times, investing considerable resources into updating the system design to evolve as well, and it is when a team fails to make this investment that monolith complexity becomes a barrier to productivity.
 
@@ -2511,7 +2511,7 @@ My general advice is to keep things simple. For small-to- medium-sized projects,
 
 ##### The Distributed Monolith
 
-A distributed monolith is a system deployed as multiple services that are not designed with sufficient independence or isolation and thus are not independently deployable. To be clear, this is the worst of both worlds. Rather than enabling a developer to go to any service and to work on it in isolation, not thinking about any other service, this setup requires that developer to reason about how that service affects other services. Not only that, but they have to then make changes potentially in multiple services and coordinate deployments in a particular order between services to ensure compatibility during releases. is development and deployment complexity negates the key benefits of a microservice system.
+A distributed monolith is a system deployed as multiple services that are not designed with sufficient independence or isolation and thus are not independently deployable. To be clear, this is the worst of both worlds. Rather than enabling a developer to go to any service and to work on it in isolation, not thinking about any other service, this setup requires that developer to reason about how that service affects other services. Not only that, but they have to then make changes potentially in multiple services and coordinate deployments in a particular order between services to ensure compatibility during releases. This development and deployment complexity negates the key benefits of a microservice system.
 
 If you notice your team falling into these patterns or complaining about coordinating releases between services, this should be a red flag for you to look closer and consider paying down some tech debt to get back to independently deployable services. That tech debt is usually located in your contracts, the design of your APIs, and how data is handled in your system.
 
@@ -2544,7 +2544,7 @@ Modern static code analysis is capable of identifying and alerting on a wide ran
 
 #### Greenfield vs. Brownfield
 
-Greenfield software development refers to development work in a new environment with minimal pre-existing legacy code and free choice on tools, patterns, and architecture. is has the obvious advantage of allowing the thoughtful choice of the right architecture and tooling for the job, and no distraction from existing tech debt. The subtle downside is that, with so much choice and so few constraints, the risks of making poor decisions are higher. There is also usually a considerable bootstrap cost for new projects that is underestimated things like setting up testing, build systems, static code analysis, etc.
+Greenfield software development refers to development work in a new environment with minimal pre-existing legacy code and free choice on tools, patterns, and architecture. This has the obvious advantage of allowing the thoughtful choice of the right architecture and tooling for the job, and no distraction from existing tech debt. The subtle downside is that, with so much choice and so few constraints, the risks of making poor decisions are higher. There is also usually a considerable bootstrap cost for new projects that is underestimated things like setting up testing, build systems, static code analysis, etc.
 
 Brownfield software development refers to the opposite of greenfield, working with existing legacy systems. The tradeoffs are essentially inverted: for better or worse, you're stuck with the high-level decisions that have been made by those before you.
 
@@ -2584,13 +2584,13 @@ Test-driven development (TDD) is a process where tests are written before functi
 
 Dependency injection is a pattern where the service dependencies of a particular object, module, or block of code are passed in, rather than instantiated. For example, a data object can instantiate its own connection to a database by looking up a connection string in a configuration file and creating the database client. Alternatively, a parent-calling block of code can create the database service, then pass the single database service into each instance of the data object.
 
-The main advantage of dependency injection is that it decreases the coupling between a service and its dependencies, effectively adding a documented interface between them. is interface allows, for example, other implementations of the interface to be used, such as a mock service in a testing context.
+The main advantage of dependency injection is that it decreases the coupling between a service and its dependencies, effectively adding a documented interface between them. This interface allows, for example, other implementations of the interface to be used, such as a mock service in a testing context.
 
 There are subtleties inherent to doing dependency injection cleanly. I encourage you to adopt frameworks or patterns that are commonly used and well thought out for your programming language.
 
 #### Domain-Driven Design
 
-The term Domain-Driven Design comes from a book by Eric Evans, *Domain-Driven Design*, published in 2003. The core idea is to create a model be it for objects in object-oriented design or for a schema for your database that models the nouns in your business domain. is may seem simple and intuitive; however, with complex business domains, it's easy for code either to inconsistently model the domain, or to model it in a way that hinders comprehension by the team. Especially with larger and more complex problems, I always insist that the team sit down and agree on a consistent way to model the problem, using consistent terminology to refer to the same concepts across the entire system.
+The term Domain-Driven Design comes from a book by Eric Evans, *Domain-Driven Design*, published in 2003. The core idea is to create a model be it for objects in object-oriented design or for a schema for your database that models the nouns in your business domain. This may seem simple and intuitive; however, with complex business domains, it's easy for code either to inconsistently model the domain, or to model it in a way that hinders comprehension by the team. Especially with larger and more complex problems, I always insist that the team sit down and agree on a consistent way to model the problem, using consistent terminology to refer to the same concepts across the entire system.
 
 ### API Contracts
 
@@ -2604,7 +2604,7 @@ All that said, building a high-quality API is a surprisingly complex task. It re
 
 Countless decisions go into every element of building an API. What separates good APIs from bad APIs is the consistency, predictability, and correctness of those decisions. As a technical leader the job falls on you to make sure that, across your organization, you have a structure in place to help developers build APIs that are consistent with one another, predictable in that they use common patterns that are appropriate for the problem at hand, and correct.
 
-Achieving these goals requires some form of governance system. is can range from a set of clearly documented guidelines and standards to a group of people who are responsible for reviewing and approving all APIs on a regular basis. The larger your team, the more time and effort you'll need to invest in process and governance to maintain a high standard.
+Achieving these goals requires some form of governance system. This can range from a set of clearly documented guidelines and standards to a group of people who are responsible for reviewing and approving all APIs on a regular basis. The larger your team, the more time and effort you'll need to invest in process and governance to maintain a high standard.
 
 #### API Architecture
 
@@ -2642,7 +2642,7 @@ A queueing system maintains an inbox (or set of inboxes) to receive messages and
 
 A typical queueing system can guarantee message order (either first in first out, FIFO; or last in first out, LIFO) as well as at least once or at most once delivery. Most cloud platforms have hosted implementations of queues, such as AWS Simple Queue Service (SQS) or Google Cloud Task queues.
 
-Queueing systems often have a notion of *explicit* invocation, which is to say that when a publisher creates a message, it explicitly specifies how the request should be handled or executed. By contrast, most publisher subscriber systems support *implicit* execution. is means publishers do not necessarily know beforehand what system will handle the message, only that the pub/sub system will deliver it.
+Queueing systems often have a notion of *explicit* invocation, which is to say that when a publisher creates a message, it explicitly specifies how the request should be handled or executed. By contrast, most publisher subscriber systems support *implicit* execution. This means publishers do not necessarily know beforehand what system will handle the message, only that the pub/sub system will deliver it.
 
 *Publisher-Subscriber ( pub/sub ) Pattern*
 
@@ -2691,7 +2691,7 @@ In REST APIs, it is widely assumed that every HTTP verb except POST should be id
 
 #### Idempotency Keys
 
-For HTTP POST requests in REST and for GraphQL mutation APIs, idempotency is not provided by the standard/specification. If you want a client to be able to retry these kinds of requests and have idempotent behavior, you should implement the idempotency key pattern. An idempotency key is an arbitrary string, provided by the client (either as an HTTP header or perhaps in GraphQL as an input variable), that backends use to de-duplicate incoming requests. is requires the backend to store the idempotency key, and also store the response to a request with that key, to be provided to clients later on.
+For HTTP POST requests in REST and for GraphQL mutation APIs, idempotency is not provided by the standard/specification. If you want a client to be able to retry these kinds of requests and have idempotent behavior, you should implement the idempotency key pattern. An idempotency key is an arbitrary string, provided by the client (either as an HTTP header or perhaps in GraphQL as an input variable), that backends use to de-duplicate incoming requests. This requires the backend to store the idempotency key, and also store the response to a request with that key, to be provided to clients later on.
 
 Note that implementing an idempotency key is non-trivial, as it will require additional database writes, logic around capturing request responses, and dealing with concurrency/locking issues for duplicate requests that arrive at the same time. If idempotency is important in your application say, if you're dealing with financial transactions I encourage you to adopt a backend API implementation that provides a robust idempotency system out of the box rather than building it yourself from scratch.
 
@@ -2739,7 +2739,7 @@ Make sure your engineering and product teams are collaborating closely with whic
 
 Behavioral data also called behavioral analytics events describes how users have used your application. Behavioral data is often fairly high volume, with a somewhat limited schema, and is best used in combination with powerful visualization software.
 
-Overall, you'll want behavioral data from your application to go to multiple sources. is presents a bit of a routing problem: you have a single data source (your application), but you want events to go to many places. The nearly universally adopted solution to this problem is Twilio's Segment platform, though there are some up-and-coming alternatives called Customer Data Platforms (CDP) such as RudderStack. A CDP can ingest data from your application, then send it to your data warehouse and to as many other SaaS platforms as you like.
+Overall, you'll want behavioral data from your application to go to multiple sources. This presents a bit of a routing problem: you have a single data source (your application), but you want events to go to many places. The nearly universally adopted solution to this problem is Twilio's Segment platform, though there are some up-and-coming alternatives called Customer Data Platforms (CDP) such as RudderStack. A CDP can ingest data from your application, then send it to your data warehouse and to as many other SaaS platforms as you like.
 
 One important distinction between behavioral data generated by your application and transactional data is its precision. Most behavioral data is lossy users have ad blockers, requests get dropped, or firewalls get in the way. There are many reasons why events might not make it from a client device to your CDP. That doesn't mean behavioral data is not useful, but being aware of its lossiness should inform your expectations for the data and limit the use cases when querying it. If you need exact numbers, expect to derive those from your BI platform and your transactional data.
 
@@ -2759,7 +2759,7 @@ Logic on the backend can't be tampered with or modified by the client.
 
 #### Make Services Externalizable
 
-The APIs from your backend to other backends, or your backend to frontends, should be thought of as generic-purpose APIs that could be consumed by third parties. is forces you to maintain several good design habits, including ensuring that interfaces are comprehensible on their own (domain-driven design), and using sensible authentication mechanisms and appropriate high-level ownership abstractions in data design. And, on the off chance you do one day wish to externalize a service, the road to doing so will be much shorter.
+The APIs from your backend to other backends, or your backend to frontends, should be thought of as generic-purpose APIs that could be consumed by third parties. This forces you to maintain several good design habits, including ensuring that interfaces are comprehensible on their own (domain-driven design), and using sensible authentication mechanisms and appropriate high-level ownership abstractions in data design. And, on the off chance you do one day wish to externalize a service, the road to doing so will be much shorter.
 
 #### Use As Few Languages As Possible
 
@@ -2869,7 +2869,7 @@ An additional benefit to the runtime secret/configuration download strategy is t
 
 ##### Build Images in CI
 
-In the spirit of reproducibility, I encourage you to build your images using automation, preferably part of continuous integration. is ensures the images are themselves built in a repeatable way.
+In the spirit of reproducibility, I encourage you to build your images using automation, preferably part of continuous integration. This ensures the images are themselves built in a repeatable way.
 
 ##### Use a Hosted Registry
 
@@ -3080,11 +3080,11 @@ Unit testing is often the first thing that comes to mind when somebody talks abo
 
 Unit tests run entirely in memory on a machine, in a shared memory space with the code under evaluation, without requiring any network connectivity or dependency on external services. Most unit tests are very fast to run, test very small amounts of code at a time, and are relatively easy to get started with. Unit tests are usually also tightly coupled to your code contracts and often require new code in the form of mocks to enable code- under-test to execute without normally available external dependencies.
 
-The key tradeoff made by unit tests and their primary downside is that they are tightly coupled to the code under test. It's altogether too easy to have unit tests be deeply intertwined with actual function calls and internal data objects. is deep dependency means any refactor of the code even simple and benign changes will require considerable unit test updates as well. The creation of mocks and test data fixtures often also requires a considerable amount of code to create and maintain to allow unit tests to run, adding unexpected cost to the unit testing framework.
+The key tradeoff made by unit tests and their primary downside is that they are tightly coupled to the code under test. It's altogether too easy to have unit tests be deeply intertwined with actual function calls and internal data objects. This deep dependency means any refactor of the code even simple and benign changes will require considerable unit test updates as well. The creation of mocks and test data fixtures often also requires a considerable amount of code to create and maintain to allow unit tests to run, adding unexpected cost to the unit testing framework.
 
 ### Integration Tests
 
-An integration test relaxes the in-memory and zero-dependency constraints of unit tests. As a result, integration tests tend to run slower and integrate with code-under-test at a higher level. When they run in a different process from code under test, they're usually exercising an externally exposed contract, such as an API. is means that internal refactors that don't change API behavior tend to go unnoticed by an integration test, making these tests overall less brittle but also less likely to detect smaller side effects.
+An integration test relaxes the in-memory and zero-dependency constraints of unit tests. As a result, integration tests tend to run slower and integrate with code-under-test at a higher level. When they run in a different process from code under test, they're usually exercising an externally exposed contract, such as an API. This means that internal refactors that don't change API behavior tend to go unnoticed by an integration test, making these tests overall less brittle but also less likely to detect smaller side effects.
 
 In addition, integration tests require the creation of fewer or no mocks and, as a result, can be less code to implement.
 
@@ -3108,7 +3108,7 @@ Manual testing, as the name implies, is run by humans and not machine code. For 
 
 #### Specialized Manual Testing
 
-Specialized manual testing is an in-house manual testing team. Beyond the traditional benefits of an in-house team, such as aligned incentives and a long-term working relationship, the value of being in-house is that the team can build expertise in your product and deeply understand your users. is allows the team to identify defects that an untrained or unfamiliar tester would miss. A high-quality testing team can not only serve as a resource for catching software defects but also contribute valuable feedback on a product level, identifying inconsistencies in design, and asking provocative questions about how or why something works the way it does.
+Specialized manual testing is an in-house manual testing team. Beyond the traditional benefits of an in-house team, such as aligned incentives and a long-term working relationship, the value of being in-house is that the team can build expertise in your product and deeply understand your users. This allows the team to identify defects that an untrained or unfamiliar tester would miss. A high-quality testing team can not only serve as a resource for catching software defects but also contribute valuable feedback on a product level, identifying inconsistencies in design, and asking provocative questions about how or why something works the way it does.
 
 A great in-house manual testing team can provide a huge improvement in overall software and product quality.
 
@@ -3150,7 +3150,7 @@ In general, experts recommend implementing a robust peer review process for all 
 
 ### Ship, Show, Ask
 
-The common wisdom is that every code change should be reviewed by two people before being shipped to customers. As with everything, there are tradeoffs. Manual code review is not free, nor is it a guarantee of software quality. Given that manual code review comes at a cost, it's worth thinking about when that cost provides the highest return and using code review as a tool for the highest-ROI scenarios. is general idea was popularized by a 2021 blog post by Rouan Wilsenach titled Ship/Show/Ask (ctohb.com/ssa).
+The common wisdom is that every code change should be reviewed by two people before being shipped to customers. As with everything, there are tradeoffs. Manual code review is not free, nor is it a guarantee of software quality. Given that manual code review comes at a cost, it's worth thinking about when that cost provides the highest return and using code review as a tool for the highest-ROI scenarios. This general idea was popularized by a 2021 blog post by Rouan Wilsenach titled Ship/Show/Ask (ctohb.com/ssa).
 
 Let's examine the cost of code review. A code review requires two people call them the Author and the Reviewer to experience a number of context switches. A common asynchronous code pattern might be as follows:
 
@@ -3196,7 +3196,7 @@ There are many ways to deal with source control branching, though the industry a
 
 There are many blog posts with helpful graphics covering git branching models, such as this one from Reviewpad: ctohb.com/branching. If the following description doesn't make sense to you, I urge you to consult any of these posts and their associated visuals.
 
-In a traditional branching model sometimes referred to as GitFlow there are two long-lived branches, a main and a develop branch. Work is done based on develop in feature branches and then is often forked to another release branch for any given release, and then finally back merged to main. Hotfixes are then done off of main while further development is done off of develop. is system involves no less than four branches for every change to get to production, and involves maintaining many branches simultaneously. For these reasons and others, GitFlow has largely fallen out of favor and is no longer considered best practice.
+In a traditional branching model sometimes referred to as GitFlow there are two long-lived branches, a main and a develop branch. Work is done based on develop in feature branches and then is often forked to another release branch for any given release, and then finally back merged to main. Hotfixes are then done off of main while further development is done off of develop. This system involves no less than four branches for every change to get to production, and involves maintaining many branches simultaneously. For these reasons and others, GitFlow has largely fallen out of favor and is no longer considered best practice.
 
 Trunk-based development, and its slightly more sophisticated cousin, GitHub Flow, are models of managing source code that aim to minimize the number and duration of branches. The exact implementation of GitHub Flow and trunk-based development will vary, but what they have in common is that there is a single branch whose name varies and doesn't matter much. Here we'll call it production. Production is always deployable. In fact, I recommend that you set up automation so every commit to production can actually be deployed to production. Work can then be done in feature branches off of production, reviewed in the feature branch, and merged when ready. That's it one long-lived branch and many short-lived (and ideally small) feature branches.
 
@@ -3522,7 +3522,7 @@ I hope it helps you in your journey to build powerful technology, motivated and 
 
 **ClickOps**: ClickOps is the error-prone and time-consuming process of having people click-through various menu options in cloud providers websites, to select and configure the correct automated computing infrastructure.
 
-**Containerization**: Containerization involves packaging software that contains all the necessary elements to run an application into a container environment. is allows organizations to run applications from anywherein a private datacenter, public cloud or even a personal laptop.
+**Containerization**: Containerization involves packaging software that contains all the necessary elements to run an application into a container environment. This allows organizations to run applications from anywherein a private datacenter, public cloud or even a personal laptop.
 
 **Context switching**: Changing from one task to another. For engineers that means setting aside the problem being worked on and starting to work on another. The act of switching is generally time consuming and less efficient than working on one problem at a time.
 
