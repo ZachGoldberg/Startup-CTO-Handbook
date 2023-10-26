@@ -1,0 +1,2 @@
+#About the author
+Zach Goldberg graduated from the University of Pennsylvania magna cum laude with a degree in Computer Science and Engineering. He's been the CTO of six startups including WiFast, Sticks and Brains, AutoLotto, Trellis Technologies, GrowFlow (acq. Dama Financial, 2022), and Towards Equilibrium Inc, as well as an Entrepreneur-in-Residence at Tencent and an Associate Product Manager at Google. After Dama acquired GrowFlow in 2022, Zach sat down and poured all of his experience into this book. Learn more about Zach's work at zachgoldberg.com.

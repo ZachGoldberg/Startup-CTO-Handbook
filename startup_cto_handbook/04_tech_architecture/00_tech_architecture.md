@@ -1,0 +1,7 @@
+# Tech Architecture
+One of your key responsibilities as a tech leader is to make good decisions on your architecture and tools. Good architecture aligns the strengths of the tools and patterns you choose with the needs of your organization now and in the foreseeable future. That requires understanding the strengths, weaknesses, and tradeoffs inherent in each choice. My goal in this section of the book is to make you aware in general of the landscape of options in various domains, and help you recognize the general tradeoffs that different strategies entail.
+
+One thing to keep in mind when discussing tools and tool choice with your team: engineers can be emotional about tool choice. Tools are reviewed as good and bad, and people have personal likes, dislikes, and biases. As the leader and decision-maker, I strongly caution you against adopting this style of language when discussing tools. Not only can it potentially alienate team members if you're disparaging their personal favorite tool; it's also unproductive and can distract from the goal of identifying a good solution for your problem. Some individual tools are genuinely poorly designed and overshadowed by superior alternatives.
+
+More often than not, a more nuanced evaluation will reveal that a given tool isn't inherently bad, but rather appropriate or inappropriate for a particular company or project. Don't let one bad past experience of trying to use a tool that was inappropriate for solving one problem prevent you or your team from using it another time when it may prove a better fit.
+

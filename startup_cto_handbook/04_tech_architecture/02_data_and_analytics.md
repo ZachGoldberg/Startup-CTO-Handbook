@@ -1,0 +1,72 @@
+## Data And Analytics
+
+Most startups have at least three different kinds of data they use as part of their business:
+
+* Transactional data
+
+* Analytical business intelligence data Behavioral data
+
+Each of these types of data will come in different volumes, have different read/write patterns, and require different tools to visualize and glean insights.
+
+A quick note on the phrase big data. As a startup, the chances are very good that you do *not* have big data in the sense that it needs to be architected with infinity-scale (or web scale ) in mind. Typical off-the-shelf databases with reasonable quantities of hardware and half-decent data model design are more than capable of handling tens of millions of rows and hundreds of gigabytes of data with acceptable performance. Most big data solutions, such as data pipelines or data warehouse appliances, involve significant added setup complexity, latency, and cost, and they're likely overkill for your startup. For the sake of simplicity, big data solutions should only be considered if you can make a compelling argument that a regular (e.g., PostgreSQL) database cannot do the job. Said another way, don't prematurely optimize your database architecture.
+
+### Transactional Data
+
+Transactional data is the data that powers your application itself, typically your primary NoSQL or SQL database. Transactional data requires very low latency and high availability, and is modest in total size compared to the other forms of data. My recommendation is to choose an off-the-shelf SQL or NoSQL solution, preferably something hosted for you such as MongoDB Atlas or Google Cloud SQL. Some nice-to-haves in your production database:
+
+* One-click point-in-time restore
+* Regular backups with one-click restore
+* Read-only replicas for load shedding
+* Multi-zone replication and hosting for availability
+* Event-based audit logging
+* Automated disk expansion/contraction
+* Connection/IP-level security
+* Resource (CPU, RAM, Disk, Network) monitoring and alerting One-click scaling up/down for CPU/RAM
+* Slow query monitoring
+
+### Analytical Business Intelligence Data
+
+Business intelligence (BI) is data that is used to gain insight into behaviors of your users, usually sourced from your transactional data. Early on, you can often get away with running business intelligence queries directly on your transactional database. As the size of data and query complexity increase, this becomes more problematic as it adds additional load to a system that requires high availability and low latency. The natural solution then is either to query a read-only replica of your transactional database, or copy/transform the data to another data storage system via a data pipeline.
+
+Building data pipelines and data warehousing is an entire book unto itself, and the state of the art is always evolving. I have just a few high-level bits of advice:
+
+Consider looking at enterprise data solutions like Snowflake, Databricks, or Google BigQuery for your primary business intelligence data warehouse. These tools are game changers. The serverless warehouses in particular (BigQuery, Aurora) are trivial to set up, have fairly consistent latency regardless of data size, and are highly cost-effective for early/mid-stage startups.
+
+In modern times, a startup doesn't need to build and host sophisticated data pipeline architectures. ELT (Extract, Load, Transform) and ETL (Extract, Transform, Load) tools can now run entirely inside an enterprise database data lake/warehouse, and tools such as dbt provide reproducibility, testability, and pipeline-as-code capabilities, making running data pipelines much more manageable.
+
+Consider using hosted or cloud-native solutions for visualizing data such as Looker, Domo, or Preset.
+
+Make sure your engineering and product teams are collaborating closely with whichever member of your team owns data and business intelligence. Bringing in data's perspective early in the product process will save a lot of headache down the road with a measure twice, create-data-schema once mindset.
+
+### Behavioral Data
+
+Behavioral data also called behavioral analytics events describes how users have used your application. Behavioral data is often fairly high volume, with a somewhat limited schema, and is best used in combination with powerful visualization software.
+
+Overall, you'll want behavioral data from your application to go to multiple sources. is presents a bit of a routing problem: you have a single data source (your application), but you want events to go to many places. The nearly universally adopted solution to this problem is Twilio's Segment platform, though there are some up-and-coming alternatives called Customer Data Platforms (CDP) such as RudderStack. A CDP can ingest data from your application, then send it to your data warehouse and to as many other SaaS platforms as you like.
+
+One important distinction between behavioral data generated by your application and transactional data is its precision. Most behavioral data is lossy users have ad blockers, requests get dropped, or firewalls get in the way. There are many reasons why events might not make it from a client device to your CDP. That doesn't mean behavioral data is not useful, but being aware of its lossiness should inform your expectations for the data and limit the use cases when querying it. If you need exact numbers, expect to derive those from your BI platform and your transactional data.
+
+### General Tips And Best Practices For Architecture Design
+
+Let's close out this section with a few overall recommendations for designing your architecture.
+
+#### Put Business Logic In The Backend
+
+As you build out your application you're often confronted with the choice of where logic should live: on the client (e.g., web browser, mobile device, physical hardware) or some form of backend server. For certain types of logic, such as anything related to authentication, value calculations, anti-cheating/tampering mechanisms, this is a firm requirement. For most other logic it's still a good idea for the following reasons:
+
+Backends are often easier to test than clients, so you can more confidently confirm the correctness of business logic on the backend.
+
+More logic on the backend means thinner clients, and also means you can produce clients for multiple platforms that can leverage a single source for logic, reducing code duplication.
+
+Logic on the backend can't be tampered with or modified by the client.
+
+#### Make Services Externalizable
+
+The APIs from your backend to other backends, or your backend to frontends, should be thought of as generic-purpose APIs that could be consumed by third parties. is forces you to maintain several good design habits, including ensuring that interfaces are comprehensible on their own (domain-driven design), and using sensible authentication mechanisms and appropriate high-level ownership abstractions in data design. And, on the off chance you do one day wish to externalize a service, the road to doing so will be much shorter.
+
+#### Use As Few Languages As Possible
+
+With every programming language comes an associated build system, dependency management system, programming best practices, and interfaces. Your team should be putting in considerable effort to ensure your primary language and ecosystem are well integrated and working well for local developers, test environments, and production environments.
+
+For every additional language you add to your stack, you'll need to replicate all of that effort, and you'll suffer from an inability to share code between the runtimes. Before allowing an additional language in your stack you should be able to build a robust and bulletproof argument that the benefits of the new language dwarf the operational and maintenance burdens that the new language adds. Otherwise you're better off without it.
+
