@@ -21,4 +21,7 @@ Hi, thanks for checking out the Startup CTO's Handbook!  This repository has the
 
 # Licensing
 See the LICENSE file, but tl;dr - you're welcome to make copies, changes, redistribute etc. so long as you're not reselling, you keep my name/attribution attached, and you keep future versions open under a similar/the same license.
-
+```
+git unit
+git add 
+```
