@@ -1,7 +1,7 @@
 # Contents
-- [Introduction](#introduction)
-  - [The Author](#the-author)
-  - [Using this Book](#using-this-book)
+- [Introduction](02_introduction.md)
+  - [The Author](02_introduction.md#the-author)
+  - [Using this Book](02_introduction.md#using-this-book)
 - [Business Processes](#business-processes)
 - [People \& Culture](#people--culture)
   - [Management Fundamentals](#management-fundamentals)
