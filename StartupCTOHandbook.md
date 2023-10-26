@@ -349,7 +349,9 @@ The phrase *Radical Candor* was defined by Kim Scott in her book *Radical Candor
 
 **Obnoxious Aggression:** Sometimes referred to as brutal honesty or front-stabbing, characterized by direct challenge but lack of individual caring, perhaps demonstrated by insincere praise or unkind criticism
 
-**Ruinous Empathy:** Communication that comes from a place of caring personally but lacks a direct challenge **Manipulative Insincerity:** Also known as backstabbing or passive-aggressive behavior, characterized by neither caring personally nor challenging directly
+**Ruinous Empathy:** Communication that comes from a place of caring personally but lacks a direct challenge
+
+**Manipulative Insincerity:** Also known as backstabbing or passive-aggressive behavior, characterized by neither caring personally nor challenging directly
 
 I encourage you to read Scott's book, but if you don't, then at least be aware of these terms and use them as a coaching tool to move your team toward regularly practicing Radical Candor.
 
