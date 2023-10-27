@@ -2776,13 +2776,13 @@ of changing your tech stack and provide some guardrails to motivate your team to
 
 ### Implementing Internal Technology Radar
 
-Thoughtworks, a leading software consultancy based out of San Francisco, publishes a tool called the Technology Radar (ctohb.com/radar) that evaluates the hundreds of projects oughtworks sees every year. They put new tools, techniques, patterns, and languages (which they call blips) in one of four categories based on how effective they are in the real world.
+Thoughtworks, a leading software consultancy based out of San Francisco, publishes a tool called the Technology Radar (ctohb.com/radar) that evaluates the hundreds of projects Thoughtworks sees every year. They put new tools, techniques, patterns, and languages (which they call blips) in one of four categories based on how effective they are in the real world.
 
 The categories are hold, assess, trial, and adopt.
 
-If you've never read through a oughtworks Radar, I highly recommend it as a general primer on what's going on, and also as inspiration for your own team's process.
+If you've never read through a Thoughtworks Radar, I highly recommend it as a general primer on what's going on, and also as inspiration for your own team's process.
 
-My preferred way to balance the challenge of keeping engineers motivated and a codebase relevant with tool churn is to follow oughtworks lead and implement an internal technology radar. Rather than weigh something new for its universal appeal as oughtworks does, my approach evaluates blips for their fit and effectiveness for our organization using the same four levels. To be concrete:
+My preferred way to balance the challenge of keeping engineers motivated and a codebase relevant with tool churn is to follow Thoughtworks lead and implement an internal technology radar. Rather than weigh something new for its universal appeal as Thoughtworks does, my approach evaluates blips for their fit and effectiveness for our organization using the same four levels. To be concrete:
 
 1. Somebody proposes using a new tool, technique, platform, or language (blip). That proposal at first is categorized as assess. Theproposer has to make the case in a technical document that the new blip would provide a material benefit to the project that was already selected by the business (or as an experiment in an innovation sprint see Cooldown/ Innovation Sprints, page 163). Then, if approved, it moves to a trial.
 2. The new blip is used by the developer in a project, either selected by the business or in their innovation sprint window. At the end of the project, the author produces a follow-up written document describing their experience with the blip, including pros and cons and how well the blip plays with the rest of the tooling ecosystem at the company.
@@ -2827,7 +2827,7 @@ To me the key piece of this definition is that devops aims to shorten the softwa
 
 ### Four Key Metrics (DORA)
 
-The highest-rated blip in 2022 of the oughtworks Technology Radar (ctohb.com/techradar) is the Four Key Metrics. These metrics are described by a team within Google Cloud called DORA (DevOps Research and Assessment), and the system of metrics comes from a seven-plus-year research program validating the results and their impact on technology, process, culture, and quantitative results. The four metrics are as follows:
+The highest-rated blip in 2022 of the Thoughtworks Technology Radar (ctohb.com/techradar) is the Four Key Metrics. These metrics are described by a team within Google Cloud called DORA (DevOps Research and Assessment), and the system of metrics comes from a seven-plus-year research program validating the results and their impact on technology, process, culture, and quantitative results. The four metrics are as follows:
 
 **Lead Time:** How long it takes for code to go from commit to running in production
 
@@ -2837,7 +2837,7 @@ The highest-rated blip in 2022 of the oughtworks Technology Radar (ctohb.com/tec
 
 **Change Fail Percentage:** What percentage of production releases need a hotfix, rollback, patch, etc
 
-Together these metrics quantify the idea of how confidently your team can deploy software. Scoring high on all four metrics requires an investment in automation, DevOps, testing, and culture. As oughtworks is quick to point out, drawing value from these metrics doesn't necessarily require highly detailed instrumentation, metrics, or dashboards. DORA publishes a quick check survey (ctohb.com/dora) that your team can take to track its progress at a coarse-grained level. There are also plenty of tools that have fairly low barriers to entry that will yield data quality that's more than sufficient to inform your progress, such as LinearB or Code Climate.
+Together these metrics quantify the idea of how confidently your team can deploy software. Scoring high on all four metrics requires an investment in automation, DevOps, testing, and culture. As Thoughtworks is quick to point out, drawing value from these metrics doesn't necessarily require highly detailed instrumentation, metrics, or dashboards. DORA publishes a quick check survey (ctohb.com/dora) that your team can take to track its progress at a coarse-grained level. There are also plenty of tools that have fairly low barriers to entry that will yield data quality that's more than sufficient to inform your progress, such as LinearB or Code Climate.
 
 The following subsections on DevOps present concepts, disciplines, and focus areas that contribute in some way to improving these metrics.
 
