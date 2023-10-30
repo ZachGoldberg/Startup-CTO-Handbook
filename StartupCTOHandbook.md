@@ -56,7 +56,7 @@ To my wife, for tolerating and supporting my many pursuits, this book included.
 >
 > Gordon Pretorius, CTO of Typeform
 
->Zach's concise chapters of how-to wisdom artfully distill decades of on-the- job experience leading early-stage technical teams. Worth checking out!
+>Zach's concise chapters of how-to wisdom artfully distill decades of on-the-job experience leading early-stage technical teams. Worth checking out!
 >
 > Daniel Demetri, CEO and 3x Start-Up Executive
 
@@ -971,7 +971,7 @@ The second type of feedback, subsequent interview suggestions, should focus on a
 
 #### USAGE OF AN APPLICANT TRACKING SYSTEM (ATS)
 
-When interviewing more than two or three candidates simultaneously, it can require a substantial effort to manage the logistics of where candidates stand in the process, coordinate notes from interviewers, and communicate consistently and promptly with candidates as they move through the funnel. Without a finely tuned system to manage all of these logistics, it's easy for candidate experience to suffer and for hiring costs to rise. This is a universal problem, and several high-quality, off-the- shelf Applicant Tracking System (ATS) solutions have been developed at various price points and levels of sophistication to address this problem.
+When interviewing more than two or three candidates simultaneously, it can require a substantial effort to manage the logistics of where candidates stand in the process, coordinate notes from interviewers, and communicate consistently and promptly with candidates as they move through the funnel. Without a finely tuned system to manage all of these logistics, it's easy for candidate experience to suffer and for hiring costs to rise. This is a universal problem, and several high-quality, off-the-shelf Applicant Tracking System (ATS) solutions have been developed at various price points and levels of sophistication to address this problem.
 
 The guidance here is simple: choose and onboard an ATS early. Don't wait until your process is already underwater to take action. Train your team, require widespread adoption of the system, and set expectations for its use with HR, hiring managers, and interviewers.
 
@@ -1095,7 +1095,7 @@ To summarize, there are three competing factors:
 
 #### Predictive Ability
 
-There are several styles of coding interview or assignment. Assignments range from take-home projects with a prompt, to using an online platform for programming exercises (also sometimes known as code katas ), to live pair programming. Absent any empirical data about the predictive capability of these styles, I encourage you to design an exercise that looks as much like regular day-to-day work at your company as possible. If you don't do any pair programming at your company, then gauging how a candidate performs in an interview setting pair programming, intuitively, doesn't feel highly correlated/predictive. At the very least it's collecting tangential signals.
+There are several styles of coding interview or assignment. Assignments range from take-home projects with a prompt, to using an online platform for programming exercises (also sometimes known as code katas), to live pair programming. Absent any empirical data about the predictive capability of these styles, I encourage you to design an exercise that looks as much like regular day-to-day work at your company as possible. If you don't do any pair programming at your company, then gauging how a candidate performs in an interview setting pair programming, intuitively, doesn't feel highly correlated/predictive. At the very least it's collecting tangential signals.
 
 As a manager, your aim is to get the best out of the people you work with. With that in mind, try and recall the last time you were interviewed and exercise your empathy muscle when designing your coding assignment. Being interviewed is, for most, a very stressful process, and being asked to be creative or problem-solve in that scenario doesn't always bring out the best performance. Some ways to help candidates do their best work on a coding assignment are:
 
@@ -1946,7 +1946,7 @@ For example, say your team is debating between using an off-the-shelf framework 
 
 Also referred to as don't reinvent the wheel, and standing on the shoulders of giants, the idea here is to use off-the-shelf components (libraries, cloud services, applications, packages) whenever possible. There's an inherent tradeoff for using off-the-shelf components between ease of getting started and customizing a solution to match your exact problem. I contend that in most circumstances where a pre-existing implementation already exists, the tradeoff leans heavily towards using the off-the-shelf service, library, or application.
 
-In the rare circumstance where you will ultimately need to rewrite or heavily customize the dependency, the experience you had with the off-the- shelf tool will be very valuable in influencing and speeding up the design of the custom build.
+In the rare circumstance where you will ultimately need to rewrite or heavily customize the dependency, the experience you had with the off-the-shelf tool will be very valuable in influencing and speeding up the design of the custom build.
 
 *3. Automation Unlocks Velocity*
 
@@ -2181,7 +2181,7 @@ The pattern a team follows to determine how to decide what to build and how work
 * Waterfall
 * Shape Up
 
-There are entire books written on these patterns, and my favorite is *Scrum: e Art of Doing Twice the Work in Half the Time* by Jeff Sutherland.
+There are entire books written on these patterns, and my favorite is *Scrum: The Art of Doing Twice the Work in Half the Time* by Jeff Sutherland.
 
 There are some fundamental strengths and weaknesses of these approaches that I'll discuss in this chapter; however, in the real world, the differences between the processes are dwarfed by the impact of how well the manager implements the chosen process. Your job as tech leader is to pick a process and ensure it's implemented well and iterated on.
 
@@ -2572,7 +2572,7 @@ To stick with the parts-of-speech model for describing coding patterns, function
 
 Functional programming, done poorly, can create very verbose and hard-to-read code. For example, when composing together multiple functions, it's important to consider how many functions are being composed, and how obvious the behavior of each function is in the composition chain.
 
-A worst-case scenario: Imagine a function chain of ten functions in a row, each with names that have no meaning to you (e.g., a(b(c(d(e(f(g(h(i(j(input)))))))))) ). The only thing worse would be if the definitions of these alphabet functions were in ten different files in different places of the codebase, or worse, came from different imported libraries.
+A worst-case scenario: Imagine a function chain of ten functions in a row, each with names that have no meaning to you (e.g., a(b(c(d(e(f(g(h(i(j(input))))))))))). The only thing worse would be if the definitions of these alphabet functions were in ten different files in different places of the codebase, or worse, came from different imported libraries.
 
 #### Extreme Programming And Test-Driven Development (TDD)
 
@@ -2644,7 +2644,7 @@ A typical queueing system can guarantee message order (either first in first out
 
 Queueing systems often have a notion of *explicit* invocation, which is to say that when a publisher creates a message, it explicitly specifies how the request should be handled or executed. By contrast, most publisher subscriber systems support *implicit* execution. This means publishers do not necessarily know beforehand what system will handle the message, only that the pub/sub system will deliver it.
 
-*Publisher-Subscriber ( pub/sub ) Pattern*
+*Publisher-Subscriber (pub/sub) Pattern*
 
 The publisher-subscriber pattern, abbreviated as pub/sub, allows for designing a system where messages are created by potentially multiple sources and delivered via various patterns to potentially multiple subscribers. Publisher-subscriber relationships are modeled as one-to-one (direct), one-to-many (fan-out), many-to-one (fan-in), and many-to- many. Various pub/sub implementations can provide guarantees that messages are delivered to all subscribers, at least one subscriber, at least one time, etc. Similar to queues, there are off-the-shelf solutions, such as RabbitMQ, as well as easily scaled cloud-hosted options like Amazon Simple Notification Service (SNS) or Google Cloud Pub/Sub.
 
@@ -2705,7 +2705,7 @@ Most startups have at least three different kinds of data they use as part of th
 
 Each of these types of data will come in different volumes, have different read/write patterns, and require different tools to visualize and glean insights.
 
-A quick note on the phrase big data. As a startup, the chances are very good that you do *not* have big data in the sense that it needs to be architected with infinity-scale (or web scale ) in mind. Typical off-the-shelf databases with reasonable quantities of hardware and half-decent data model design are more than capable of handling tens of millions of rows and hundreds of gigabytes of data with acceptable performance. Most big data solutions, such as data pipelines or data warehouse appliances, involve significant added setup complexity, latency, and cost, and they're likely overkill for your startup. For the sake of simplicity, big data solutions should only be considered if you can make a compelling argument that a regular (e.g., PostgreSQL) database cannot do the job. Said another way, don't prematurely optimize your database architecture.
+A quick note on the phrase big data. As a startup, the chances are very good that you do *not* have big data in the sense that it needs to be architected with infinity-scale (or web scale) in mind. Typical off-the-shelf databases with reasonable quantities of hardware and half-decent data model design are more than capable of handling tens of millions of rows and hundreds of gigabytes of data with acceptable performance. Most big data solutions, such as data pipelines or data warehouse appliances, involve significant added setup complexity, latency, and cost, and they're likely overkill for your startup. For the sake of simplicity, big data solutions should only be considered if you can make a compelling argument that a regular (e.g., PostgreSQL) database cannot do the job. Said another way, don't prematurely optimize your database architecture.
 
 ### Transactional Data
 
@@ -3556,7 +3556,7 @@ I hope it helps you in your journey to build powerful technology, motivated and 
 
 **Service-Oriented Architecture (SOA)**: e phrase Service-Oriented Architecture (SOA) originated in the 1990s and is used to refer to some fairly specific technology choices. Nowadays, the phrase is used to more broadly describe a system where information moves between parts of the system over a network
 
-**Standup meeting**: (aka Daily Scrum ) A regular meeting as part of the scrum/agile ceremonies. Generally intended to be short, less than 30 minutes, to facilitate communication, updates, conflict resolution and decision making within a team.
+**Standup meeting**: (aka Daily Scrum) A regular meeting as part of the scrum/agile ceremonies. Generally intended to be short, less than 30 minutes, to facilitate communication, updates, conflict resolution and decision making within a team.
 
 **Straw Man Model**: A first draft proposition that can be put together rapidly with incomplete data. Often used as a starting place proposal with a team to accelerate the process of collecting feedback and getting to a solution.
 
