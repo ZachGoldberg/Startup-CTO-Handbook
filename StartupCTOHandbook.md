@@ -92,6 +92,8 @@ To my wife, for tolerating and supporting my many pursuits, this book included.
   - [Leadership Responsibilities](#leadership-responsibilities)
   - [Which Type of Startup CTO Are You?](#which-type-of-startup-cto-are-you)
     - [The Tech-Focused CTO *AKA The Chief Architect*](#the-tech-focused-cto-aka-the-chief-architect)
+    - [The People-Focused CTO *AKA the VP of Engineering (VPE)*](#the-people-focused-cto-aka-the-vp-of-engineering-vpe)
+    - [The Externally Focused CTO *AKA The Head of Technical Sales/Marketing*](#the-externally-focused-cto-aka-the-head-of-technical-salesmarketing)
 - [Technical Team Management](#technical-team-management)
   - [Tech Culture and General Philosophy](#tech-culture-and-general-philosophy)
   - [Tech Debt](#tech-debt)
