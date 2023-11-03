@@ -2060,9 +2060,9 @@ If your startup neglects or ignores tech debt for long enough, it can become a m
 Some signs your team may be tech debt-bankrupt:
 
 * You are regularly dealing with production outages to the point of material business impact.
-* You receive constant pushback or exaggerated timelines on new fea tures due to the need to deal with debt.
+* You receive constant pushback or exaggerated timelines on new features due to the need to deal with debt.
 * The team complains that a codebase is too complex to get work done.
-* New features cannot be shipped without accidentally breaking old fea tures or introducing an unacceptably high level of defects.
+* New features cannot be shipped without accidentally breaking old features or introducing an unacceptably high level of defects.
 
 If you find yourself in tech debt bankruptcy, it's time to raise the alarm, reset expectations with stakeholders, devise a plan to consolidate the debt, and begin paying it down immediately.
 
