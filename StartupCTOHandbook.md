@@ -267,7 +267,7 @@ The first speaker after lunch was Jonathan. Unlike prior presenters, he had no s
 
 *Allow me to transparently manipulate you.*
 
-I'll never forget that moment. What a funny thing to say; it's a seeming contradiction in terms like saying, this sentence is false. (If you're curious, this is called the [Liar's paradox](https://ctohb.com/liarsparadox).) He went on to explain that that was exactly the point: he wanted to say something to grab our attention as an audience, and at that he succeeded perfectly. For the next thirty minutes I took copious notes, not on manipulating people but on understanding people in general.
+I'll never forget that moment. What a funny thing to say; it's a seeming contradiction in terms like saying, "This sentence is false". (If you're curious, this is called the [Liar's paradox](https://ctohb.com/liarsparadox).) He went on to explain that that was exactly the point: he wanted to say something to grab our attention as an audience, and at that he succeeded perfectly. For the next thirty minutes I took copious notes, not on manipulating people but on understanding people in general.
 
 I hung on every word Jonathan had to say. As the half-hour session wrapped, Jonathan said he had to catch a flight, and somewhat hurriedly ran out of the room. I looked down at my notebook, processed that I had taken three pages of notes in the last thirty minutes, then stood up from my chair and ran after him.
 
