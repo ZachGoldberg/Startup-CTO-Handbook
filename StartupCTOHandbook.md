@@ -1968,7 +1968,7 @@ An RFC, or Request for Comment, is a document that outlines a technical idea, pr
 
 I recommend that you formalize an RFC process and provide some guidance as to what kinds of decisions should be put through the RFC process.
 
-A formal process can look like a simple checklist and a template document that includes where to put your copy of that document, how feedback/comments are collected, and what the process for voting, finalizing, and standardizing the document looks like.
+A formal process can look like a simple checklist and a template document that includes where to put your copy of that document, how feedback/comments are collected, and what the process for voting, finalizing, and standardizing what the document looks like.
 
 My suggestion is to lean into the tools you have and, for example, create a markdown document in source control that acts as the RFC template. A new RFC would then be a pull request on that repository introducing a new markdown file with the proposal. It is then somewhat natural to collect votes as approvals on that pull request, and finalization of the RFC is when the pull request is ultimately merged. Alternatively, if you've set up an internal wiki, you can create an RFC there, and use a wiki's comment system to collect feedback.
 
