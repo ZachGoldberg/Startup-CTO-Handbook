@@ -253,7 +253,7 @@ Your goal in your interactions with your direct reports, whether they are indivi
 
 ### Find a Management Mentor
 
-One way to jumpstart your leadership transition, coaching and managing others, is to find yourself a management mentor, rather than learning by trial and error. There are a lot of management coaches out there with different approaches; the challenge is to find one that resonates with you.
+One way to jumpstart your transition to leadership is to find yourself a management mentor. There are a lot of management coaches out there with different approaches; the challenge is to find one that resonates with you.
 
 In my first role as a business leader at WiFast (then Zenreach, now Adentro) we quickly hired a team of ten full-time employees, mostly in engineering. As a first-time manager I knew I had a lot to learn, and I was eager to take advantage of every resource I could to become a better manager. My only problem was I hated most management advice. I found it either overly prescriptive (do X, then Y, then Z) without context or insight, or entirely devoid of substance fluff, if you will. That was until I met my first management coach, Jonathan.
 
@@ -261,7 +261,7 @@ The story goes that one of our investors, First Round Capital, was hosting a man
 
 When I drove up to the summit, I was encouraged that the audience was relatively small, only about thirty people enough to fit into what felt like a high-school classroom. I sat down at the high-school folding-tray top desk, opened my notebook, took out a pen, and wrote the date and First Round Capital Management Summit at the top of the page. Sadly, that would be the only thing I wrote for the next four hours.
 
-The first half of the day had three or four speakers talk about various topics, every one of them lacking in any actionable advice or insight. As we broke for lunch, I contemplated driving back early and getting in half a workday at the office. I checked the agenda and noticed an entirely different roster of afternoon speakers, so I decided I'd at least hear out the first one.
+The first half of the day had three or four speakers talk about various topics, every one of them lacking in any actionable advice or insight -- in other words, fluff. As we broke for lunch, I contemplated driving back early and getting in half a workday at the office. I checked the agenda and noticed an entirely different roster of afternoon speakers, so I decided I'd at least hear out the first one.
 
 The first speaker after lunch was Jonathan. Unlike prior presenters, he had no slides and he seemed a little rushed, perhaps a tiny bit unprepared, or maybe just nervous, as he walked to the front of the class. The first words out of his mouth, however, told a different story:
 
@@ -271,7 +271,7 @@ I'll never forget that moment. What a funny thing to say; it's a seeming contrad
 
 I hung on every word Jonathan had to say. As the half-hour session wrapped, Jonathan said he had to catch a flight, and somewhat hurriedly ran out of the room. I looked down at my notebook, processed that I had taken three pages of notes in the last thirty minutes, then stood up from my chair and ran after him.
 
-I managed to catch him just as he was getting into a yellow cab. Somewhat exasperated, Jonathan asked me what I wanted. I asked if he did private coaching. He replied, Ask the summit organizers to connect us. Cleverly, he didn't commit one way or another to coaching on the spot, leaving himself the opportunity to do due diligence on me via First Round before deciding if I was worth his time. Luckily for me, when I asked First Round to put us in touch, the contact said nice enough things about me that Jonathan agreed to an introductory coaching session.
+I managed to catch him just as he was getting into a yellow cab. Somewhat exasperated, Jonathan asked me what I wanted. I asked if he did private coaching. He replied, Ask the summit organizers to connect us. Cleverly, he didn't commit one way or another to coaching on the spot, leaving himself the opportunity to do due diligence on me via First Round before deciding if I was worth his time. Luckily for me, when I asked First Round to put us in touch, the contact said nice enough things about me that Jonathan agreed to an introductory coaching session. Jonathan and I would go on to work together for many years, across multiple companies, and I can confidently say that his mentorship was invaluable in my leadership journey
 
 ### 1:1 MEETINGS
 
