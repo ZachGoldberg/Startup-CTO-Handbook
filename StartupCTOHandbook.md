@@ -261,7 +261,7 @@ The story goes that one of our investors, First Round Capital, was hosting a man
 
 When I drove up to the summit, I was encouraged that the audience was relatively small, only about thirty people enough to fit into what felt like a high-school classroom. I sat down at the high-school folding-tray top desk, opened my notebook, took out a pen, and wrote the date and First Round Capital Management Summit at the top of the page. Sadly, that would be the only thing I wrote all morning.
 
-The first half of the day had three or four speakers talk about various topics, every one of them lacking in any actionable advice or insight -- in other words, fluff. As we broke for lunch, I contemplated driving back early and getting in half a workday at the office. I checked the agenda and noticed an entirely different roster of afternoon speakers, so I decided I'd at least hear out the first one.
+The first half of the day had three or four speakers talk about various topics, every one of them lacking in any actionable advice or insight -- in other words, fluff. As we broke for lunch, I contemplated driving back early and getting in half a workday at the office. I checked the agenda and noticed that we did have an entirely different roster of afternoon speakers, so I decided I'd at least hear out the first one.
 
 The first speaker after lunch was Jonathan. Unlike prior presenters, he had no slides and he seemed a little rushed, perhaps a tiny bit unprepared, or maybe just nervous, as he walked to the front of the class. The first words out of his mouth, however, told a different story:
 
@@ -289,7 +289,7 @@ Some quick thoughts for agendas of skip-level meetings:
 
 * Connect with the employee; ask questions and get curious.
 
-* There are many good actual templates/agendas for skip-levels on the internet. Here's one from managementcenter.org that I recommend: ctohb.com/skip.
+* There are many good actual templates/agendas for skip-levels on the internet. Here's one from managementcenter.org that I recommend: [ctohb.com/skip](https://ctohb.com/skip).
 
 ### COACHING MANAGERS
 
@@ -315,7 +315,7 @@ The biggest contributor to cultivating high-quality middle management is, of cou
 
 * Develop an external-facing culture of thought leadership.
 
-  - Encourage your managers to become thought leaders in your industry. This could take the form of a company, participating as a guest on technical or management podcasts, or speaking at conferences.
+  - Encourage your managers to become thought leaders in your industry. This could take the form of a company blog, participating as a guest on technical or management podcasts, or speaking at conferences.
 
 ### 1:1 Meetings with Engineers
 
@@ -331,7 +331,7 @@ Ultimately, your goal in a 1:1 meeting is to build a relationship with another p
 
 The easiest way to bridge your agenda and theirs is to have a shared document, perhaps with some structure/template, to elicit the kinds of discussion topics you think are important. Having this document available prior to your meeting also gives you and your employee a shared place to capture ideas in between meetings, to structure thoughts in advance of a meeting, all of which help make the meeting time more productive and efficient.
 
-There are several SaaS tools that help facilitate 1:1 conversations as well. Notable examples include Culture Amp and 15Five. You don't need a tool though; a simple document works equally well. The template I use is available at ctohb.com/templates; it includes prompts for discussing liked/ wished for items at a personal, departmental, and company level, as well as bidirectional feedback between manager and employee.
+There are several SaaS tools that help facilitate 1:1 conversations as well. Notable examples include Culture Amp and 15Five. You don't need a tool though; a simple document works equally well. The template I use is available at [ctohb.com/templates](https://ctohb.com/templates); it includes prompts for discussing liked/ wished for items at a personal, departmental, and company level, as well as bidirectional feedback between manager and employee.
 
 #### 1:1 Playbooks
 
@@ -341,7 +341,7 @@ Establishing a playbook for these engineering 1:1s is another useful way to make
 
  **Performance and Development:** Often it's your engineers seeking advice on how they can improve something
 
- **Clarity:** Engineers may have general thoughts about something and are looking for your perspective, or to see if you have different info than they do about something
+ **Clarity:** Engineers may have general thoughts about something and are looking for your perspective, or to see if you have different information than they do about something
 
  **Context:** What's going on more broadly at the company, and how does a contributor's work relate to those goals/objectives
 
@@ -363,7 +363,7 @@ There's nothing worse for an employee than feeling like their manager doesn't co
 
 Overcommunication, by contrast, has very few consequences. The worst that can be said of overcommunication is that it can prove a distraction or become redundant, which are problems easily remedied with a bit of thoughtfulness as to the form of overcommunication. It's no surprise, then, that most startups invest heavily in building overcommunication into their culture, often including the phrase as a company core value.
 
-#### EMAIL
+#### Email
 
 Pretty much anyone you interact with nowadays has either been using email for twenty-five years, or since they were in early grade school, so of course this means they know how to use it effectively, right? Unfortunately, effective use of email at work is not necessarily common sense. So, it comes to you to help encourage best practices. Here is some general advice for using email effectively:
 
@@ -396,7 +396,7 @@ Pretty much anyone you interact with nowadays has either been using email for tw
   - Engineers in general prefer to be writing code instead of reading/answering email. Ask yourself if an email is really the right way to communicate with your audience. In general, the best method of communication with somebody is *their* preferred method, not yours.
   - It's very easy to leave coworkers off an email thread, either intentionally in an effort not to flood inboxes, or as an innocent mistake. If you're sitting there thinking about which people to add to/remove from an email thread, that's a good sign email is the wrong forum to begin with.
 
-#### SYNCHRONOUS CHAT
+#### Synchronous Chat
 
 Chances are high that your company has already adopted some form of synchronous chat platform; in the early 2000s it was commonly Google Chat or an MSN messenger product, while in the 2020s it's more commonly Slack, Microsoft Teams, or Workspace from Meta. If you're not presently on one of these platforms, it's worth considering their adoption.
 
@@ -404,7 +404,7 @@ The vast majority of companies ranging from day one startups to goliath companie
 
 Achieving that success means being mindful and planning around some inherent flaws: synchronous chat programs require both parties to stop what they're doing and engage, and they result in conversations that are poorly organized and do not produce lasting artifacts for your team to reference. You can and should recognize these downsides and compensate for them by setting up basic etiquette and expectations for your team in how to use these tools.
 
-Slack's own blog includes a great article with some common best practices at ctohb.com/slack.
+Slack's own blog includes a great article with some common best practices at [ctohb.com/slack](https://ctohb.com/slack).
 
 Here are a few recommendations for working with synchronous chat tools:
 
@@ -420,21 +420,21 @@ Here are a few recommendations for working with synchronous chat tools:
 * Be extremely judicious with messages that send notifications to multiple people, e.g., @here or @channel in Slack. Especially as your company grows, the odds are that sending such a message will send a notification and interrupt potentially dozens of employees.
 
 
-#### ASYNCHRONOUS COMMUNICATION
+#### Asynchronous Communication
 
 Asynchronous communication is any communication that is not intended to get a response immediately. To be effective, the receiving party should be able to take their time, process the information, and then reply thoughtfully. A key element of asynchronous communication is that the initial message is a complete thought and contains the necessary context to allow the other party to respond.
 
-A trite example is the dreaded the feature is broken bug report. In nearly all cases, bug reports should go to a ticketing system rather than a direct message. An engineer receiving a bug report in a message does not have the context to know which feature is broken or in what way it's failing to meet expectations. So, the reply from the engineer will likely consist of a handful of questions, requiring more round trips with the reporter, costing time and creating frustration.
+A trite example is the dreaded "the feature is broken" bug report. In nearly all cases, bug reports should go to a ticketing system rather than a direct message. An engineer receiving a bug report in a message does not have the context to know which feature is broken or in what way it's failing to meet expectations. So, the reply from the engineer will likely consist of a handful of questions, requiring more round trips with the reporter, costing time and creating frustration.
 
 Contrast that with a bug report that includes full written reproduction steps as well as a video of a user trying to use the feature and demonstrating the failure. More than likely, this approach will enable the engineer to produce a fix without requiring any further follow-up.
 
 The bottom line is this: any time you send a message to somebody in an asynchronous format, give that person all the information they need so they can understand, process, and reply in a way that advances the conversation.
 
-####  ASYNCHRONOUS CULTURE
+####  Asynchronous Culture
 
 You'd be surprised how often well-thought-out asynchronous communication can substitute for a synchronous chat or a meeting. Not only can good asynchronous communication mean fewer meetings and interruptions, but it can also leave behind comprehensive written documentation for others to process in the future. Some startup companies, such as Levels Health, have actually built the idea of asynchronous-by-default into the core of their company culture to great effect (ctohb.com/async).
 
-#### DOCUMENTATION
+#### Documentation
 
 Documentation is a key element of scaling up your organization. The benefits of writing things down are many: written documentation can assist in onboarding, training, overcommunication, thoughtfulness, thoroughness, building culture, avoiding unforced errors, and more. Your role is not just to believe in the value and ROI of documentation, but to build a culture of documentation and a team that values it.
 
@@ -442,7 +442,7 @@ Some tips for building a culture of good documentation:
 
 * Live the value yourself and set an example for the team. Once I moved a team from writing zero internal wiki articles per week to writing several per day in the course of about eight weeks. Literally the only thing I did to encourage this cultural change was to start writing articles myself. Everything I did that made sense to share with the team I wrote up as an article, and I'd make a point of sharing links to those articles whenever appropriate. Very quickly, other managers started doing the same, and within two months everyone on the team was contributing every week.
 
-* Build documentation both adding to and reading from into your process. Whether it's for onboarding, technical specifications, pull reviews, internal requests for comment (RFCs), or memos, the standard procedure should be to write it down and preserve it in an organized archive in a readily accessible location.
+* Make documentation a habit, everywhere. Whether it's for onboarding, technical specifications, pull reviews, internal requests for comment (RFCs), or memos, the standard procedure should be to write it down and preserve it in an organized archive in a readily accessible location.
 
 * Develop processes to maintain documentation where appropriate. It's easy for documentation to go stale, and in many situations that's perfectly fine. In others, it's important that documentation stays up to date, and the only way that will happen is if you have a process or checklist that includes updating the documentation. Having a last updated date on every document is a great way to signal to readers that something is fresh or potentially deprecated, stale, or out of date.
 
@@ -476,19 +476,19 @@ Broadly speaking, there are three types of meetings: regularly scheduled informa
 
 Regardless of the type of meeting, any meeting you set should have a clear objective that is known to invitees in advance. Ideally, everyone will have enough information before the meeting to know if it'll be valuable for them to attend. Just as importantly, your culture should empower people to make the decision not to attend if they judge it not a good use of their time.
 
-#### TIME MANAGEMENT
+#### Time Management
 
 As a leader at a startup, you'll quickly find your time is split between many kinds of work, and potentially dozens of hours of meetings every week. If you don't yet have a system in place that works for you, now is the time to invest in some good habits and get organized. I recommend both Stephen Covey's *The 7 Habits of Highly Effective People* and David Allen's *Getting things Done* as places to start on this journey.
 
-#### MEETING TIMING
+#### Meeting Timing
 
-One of the ways you can enable productivity in your team is by creating, or allowing for, large blocks of free time for your engineers. Context switching (our tendency to shift from one unrelated task to another) is expensive (see TheMultitasking Myth at ctohb.com/myth), so the more time you can create for engineers to do the work of engineering without switching to other tasks (email, phone calls, meetings), the less total context switching penalty you pay.
+One of the ways you can enable productivity in your team is by creating, or allowing for, large blocks of free time for your engineers. Context switching (our tendency to shift from one unrelated task to another) is expensive (see The Multitasking Myth at ctohb.com/myth), so the more time you can create for engineers to do the work of engineering without switching to other tasks (email, phone calls, meetings), the less total context switching penalty you pay.
 
 I'm a fan of declaring an informal meeting hours window for the team. Encourage the engineering team, and cross-functional teams, to schedule meetings during this two or three hour window every day and try not to schedule engineers outside that window. That leaves a healthy amount of time *every single day* for your engineering team to focus on the core of their work and also make space for necessary informational and conflict resolution meetings. If your team is in more than three hours of meetings per day (fifteen hours per week, nearly half of their time!), you should take a close look at those meetings and ask yourself if they can be consolidated and reduced.
 
 Other teams have found success with no-meeting days setting aside one or more days each week when nobody schedules any recurring meetings. Just keep in mind that, in a forty-hour work week, your goal is to reserve as many of those hours as possible for your engineering team as contiguous blocks of focus time. A single no-meeting day implies an eight-hour block of focus time, but there are still thirty-two other hours to consider, so it doesn't solve the whole problem.
 
-#### ENGINEER'S TIME RECOMMENDATION
+#### Engineer's Time Recommendation
 
 Consider this hypothetical week for a software engineer:
 
@@ -498,7 +498,9 @@ Consider this hypothetical week for a software engineer:
 
 * Two hours: average time spent in other agile ceremonies (sprint planning, retrospectives, etc.)
 
-* Four to eight hours: reviewing others code Four hours: email/chat communication
+* Four to eight hours: reviewing others code
+
+* Four hours: email/chat communication
 
 
 In total, that's about thirteen to seventeen hours of the week used up for meetings and communication. If you add another few hours on top of that for time spent context switching and unplanned miscellaneous interruptions, quickly you're looking at at best half of a forty-hour work week available for actual focus time. If you're not careful about when meetings are scheduled, then not only will your engineers have only twenty hours left for their core tasks, but also they won't have them in contiguous blocks, further reducing productivity.
