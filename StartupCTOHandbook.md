@@ -1118,22 +1118,20 @@ Providing candidates with existing code repositories that have working build sys
 To be respectful of a candidate's time, I suggest providing a hard time limit for the take-home. The goal of a time limit is not to provide time pressure and force fast-paced delivery, but to ensure candidates are not overinvesting in the challenge and feel that the challenge is a reasonable request. To ensure candidates understand the time limit, you should:
 * Provide ample explanation of the time limit
 * Ensure that the task is readily achievable in the time limit specified
-* Let candidates know how their submission will be evaluated. If your scoring rubric rates the candidate's README file, then let the candidate know they should spend time writing a README. If the code will be run either live with the candidate or by an interviewer asynchronously let them know that runtime will be judged. If you mostly care about architectural decisions and you're less concerned about runtime performance, let them know that, too, so they can spend time in the right way.
+* Let candidates know how their submission will be evaluated. If your scorecard rates the candidate's README file, then let the candidate know they should spend time writing a README. If the code will be run either live with the candidate or by an interviewer asynchronously let them know that runtime will be judged. If you mostly care about architectural decisions and you're less concerned about runtime performance, let them know that, too, so they can spend time in the right way.
 
 
 ### Technical Interviews
 
 As controversial and varied as the methodologies for take-home coding interviews are, technical interviews themselves are even more varied. In general, I encourage you to follow the same fundamentals: ensure you're collecting signals relevant to the actual job, and be respectful and considerate of candidates themselves.
 
-The classic technical interview, practiced by many of the largest tech companies, involves some form of shared whiteboard experience where the candidate is asked to solve a technical problem in real time. The problems range from the academic, sort an array with some special conditions, to high-level/hand-wavy architecture, design a system to handle 100 million users posting news feed updates.
-
-The classic interview approach must work for the big companies, as they continue to use it year after year, but I don't see how they work at a startup. They re often overly broad, or overly narrow, and thus difficult to score fairly. The academic questions are rarely correlated with the types of problems one solves on a daily basis on the job.
+The classic technical interview, practiced by many of the largest tech companies, involves some form of shared whiteboard experience where the candidate is asked to solve a technical problem in real time. The problems range from the academic, sort an array with some special conditions, to high-level/hand-wavy architecture, design a system to handle 100 million users posting news feed updates. The classic interview approach must work for the big companies, as they continue to use it year after year, but I don't see how they work at a startup. They re often overly broad, or overly narrow, and thus difficult to score fairly. The academic questions are rarely correlated with the types of problems one solves on a daily basis on the job.
 
 Most damning, they're not setting candidates up to be successful in the interview environment. After all, I'm sure there are very few engineers at the big companies writing array-sorting algorithms as part of their day job.
 
 The methodology I outline in this chapter represents an alternative approach I've seen and used myself successfully in a startup environment.
 
-#### METHODOLOGY
+#### Methodology
 
 What follows is a methodology I've used, derived from lessons in topgrading, to filter and hire senior software engineering candidates. In the spirit of topgrading, I call it the technical focus interview.
 
@@ -1143,17 +1141,17 @@ To find out where a candidate's strengths and weaknesses are, and how much that 
 
 The sample answers and scoring guide are included to ensure fairness and uniformity in scoring across multiple interviewers and across candidates. You're trying to differentiate where any given candidate has gaps vs. true expertise, so your questions should be designed to elicit one of three kinds of answers: bad, good, and amazing. Thus, they should lend themselves to being scored as such. When it comes to scoring a question, to make the difference between a knowledge gap and true expertise obvious, I recommend that a bad answer gets a score of 0‒2, a good answer gets a score of 3‒6, and only an amazing answer gets between 7‒10.
 
-When I say a bad answer, I mean a response to the question that demonstrates either little to no experience or expertise with the topic at hand. A good answer demonstrates competency, maybe even a very high level of competency, in the topic. An amazing answer demonstrates not only competency but true understanding and intellectual depth on the topic. For example, if the question concerns how the candidate thinks about designing a unit test suite, and their answer is they ve never thought about it, that's a 0 and you've found a gap. If their answer includes a description of some test suites they ve designed and some justification for it, that's good, perhaps a 5 or 6. If their answer includes a full outline of test suite design philosophies and the pros and cons of each and how to apply them in different scenarios, now you're looking at real expertise and a 7‒10 score.
+When I say a bad answer, I mean a response to the question that demonstrates either little to no experience or expertise with the topic at hand. A good answer demonstrates competency, maybe even a very high level of competency, in the topic. An amazing answer demonstrates not only competency but true understanding and intellectual depth on the topic. For example, if the question concerns how the candidate thinks about designing a unit test suite, and their answer is they've never thought about it, that's a 0 and you've found a gap. If their answer includes a description of some test suites they've designed and some justification for it, that's good, perhaps a 5 or 6. If their answer includes a full outline of test suite design philosophies and the pros and cons of each and how to apply them in different scenarios, now you're looking at real expertise and a 7‒10 score.
 
 In the spirit of giving candidates the best chance at success, I don't recommend scoring every question. Instead, provide a score on a topic area. This way you can try multiple questions within a topic, looking for areas of expertise with a candidate and scoring the net result for that topic.
 
 Make no mistake, writing these questions, sample answers, and scoring guides is a lot of work. The good news is that any given question is useful across multiple roles and can be reused over a long period of time. In fact, I encourage you to maintain a central repository of questions (and associated sample answers/scoring guides). When it comes time to write the next technical focus interview guide, you'll find your job much easier by being able to reuse questions from the repository as appropriate.
 
-See https://ctohb.com/templates for an example focus guide from my own question repository.
+See (ctohb.com/templates)[https://ctohb.com/templates] for an example focus guide from my own question repository.
 
 #### Hiring Juniors vs. Seniors
 
-The qualities you're looking for in a junior hire, with say one to two years of coding experience, should be very different from a senior hire with ten-plus years. The ideal junior hire should be curious, eager to learn, and have solid programming fundamentals to work in incremental feature development. A senior hire, by contrast, should come with not just programming fundamentals but deep thinking on architecture, opinions, and best practices across a wide range of tools and problems, and be able to develop trust that they can not only build incremental features but own and make good decisions in architecture for new greenfield projects. Since the key value these two types of roles offer is so different, it should follow that your interviews for them should be different.
+The qualities you're looking for in a junior hire, with say one to two years of coding experience, should be very different from a senior hire with ten-plus years. The ideal junior hire should be curious, eager to learn, and have solid programming fundamentals and be prepared to work on incremental feature development. A senior hire, by contrast, should come with not just programming fundamentals but deep thinking on architecture, opinions, and best practices across a wide range of tools and problems. They should be able to develop trust that they can not only build incremental features but own and make good decisions in architecture for new greenfield projects. Since the key value these two types of roles offer is so different, it should follow that your interviews for them should be different.
 
 For a senior hire, the focus interview where you deeply explore the candidate's decision-making skills, understanding of concepts, and architectural know-how is critical and should be weighed heavily. For a junior role, that knowledge deep-dive should be shorter, and weighed less heavily than a practical coding exercise.
 
@@ -1161,19 +1159,17 @@ For a senior hire, the focus interview where you deeply explore the candidate's 
 
 The senior software engineer technical focus interview is typically a sixty to ninety-minute conversation between the candidate and a lead interviewer, ideally with a primarily silent second interviewer on hand to take notes. Depending on the length of your focus guide and how many subjects you want to cover, you may consider splitting out the subjects into multiple focus interviews.
 
-I emphasize that this interview should be conversational; you're looking to find out which areas of software engineering the candidate is most knowledgeable and passionate about, and in which areas they ve either never been held accountable or have historically delegated. Doing this does not require brainteasers, pair programming, or any problem-solving. Simply ask!
+I emphasize that this interview should be conversational; you're looking to find out which areas of software engineering the candidate is most knowledgeable and passionate about, and in which areas they've either never been held accountable or have historically delegated. Doing this does not require brainteasers, pair programming, or any problem-solving. Simply ask!
 
 Start the interview informally with some light conversation. After a minute or two, begin describing the agenda/plan for the meeting. Let the candidate know you have a document with an interview guide in it, and your goal is to get the candidate to discuss the topics in that guide over the next sixty to seventy-five minutes, leaving fifteen minutes at the end for them to ask you questions.
 
-After the preamble you'll jump into the first section of the interview guide. Your goal in every section of the guide is not to ask every single question. You're looking first to determine which of the three categories the candidate falls into for that subject area bad, good, or amazing and then
-
-to narrow down a score from there. You should have a pretty good idea of where to categorize the candidate after the first question or two, then use follow-up questions to probe further to narrow in on a score.
+After the preamble you'll jump into the first section of the interview guide. Your goal in every section of the guide is not to ask every single question. You're looking first to determine which of the three categories the candidate falls into for that subject area bad, good, or amazing and then to narrow down a score from there. You should have a pretty good idea of where to categorize the candidate after the first question or two, then use follow-up questions to probe further to narrow in on a score.
 
 If a candidate completely misses, or admits they are not familiar with a topic, there is no need to keep going to every question; you've got your score and you can move on.
 
-On the other hand, if a candidate nails the first question, they may well be a true expert in that area, but you likely won't be confident of their mastery until they ve provided insightful answers to multiple questions across the subject. Typically, it takes more time and questioning to identify mastery than a lack of qualification.
+On the other hand, if a candidate nails the first question, they may well be a true expert in that area, but you likely won't be confident of their mastery until they've provided insightful answers to multiple questions across the subject. Typically, it takes more time and questioning to identify mastery than a lack of qualification.
 
-Don't hesitate to politely cut off a candidate's answer and move on to the next category when you know you've heard enough. Your goal is to help the candidate demonstrate their skill and knowledge across all the topics that you've decided are important for this role and chosen to evaluate in this interview. Letting a candidate rabbit-hole and consume time on a single topic when you already have all the information you need for a score robs them of the opportunity to demonstrate their capabilities in other topics if you run out of time in the interview. It is your job, not the candidate s, to manage the pace of the interview.
+Don't hesitate to politely cut off a candidate's answer and move on to the next category when you know you've heard enough. Your goal is to help the candidate demonstrate their skill and knowledge across all the topics that you've decided are important for this role and chosen to evaluate in this interview. Letting a candidate rabbit-hole and consume time on a single topic when you already have all the information you need for a score robs them of the opportunity to demonstrate their capabilities in other topics if you run out of time in the interview. It is your job, not the candidate's, to manage the pace of the interview.
 
 ### Executive interviews
 
@@ -1185,7 +1181,7 @@ If, however, the candidate is applying for a very senior role, or is going to be
 
 With reference checks, you need to strike a balance between scheduling them early enough in the interview process to ensure that they don't create a bottleneck and not wasting time on reference checks for candidates who will not get offers. Keep in mind that candidates, rightfully, may be hesitant to provide references until they're at the end of a process to protect their own relationships with the references.
 
-#### TIMING
+#### Timing
 
 It follows then that reference checks almost always happen last in an interview process. To avoid having to delay an offer on completing reference checks, here are a few tips:
 
@@ -1195,7 +1191,7 @@ It follows then that reference checks almost always happen last in an interview 
 
 * Be flexible on who conducts reference interviews, as it does not have to be a member of technical staff. It does need to be somebody who is highly responsive to email and has considerable availability in their calendar to accommodate references.
 
-#### CONTENT
+#### Content
 
 In general, reference interviews should be brief and respectful of the reference's time and willingness to help. Most reference interviews provide feedback ranging from neutral to enthusiastically positive. Very seldom will you receive overtly negative feedback, so your goal is to quickly differentiate between neutral and enthusiastically positive, confirm any strengths/weaknesses identified in the interview process, and move on. If you do get any overtly negative feedback in a reference interview, pay very close attention and try to get specific details on the criticism to bring back to the hiring manager.
 
@@ -1209,14 +1205,14 @@ Some sample questions for a reference interview:
 
 * What were [name of candidate]'s biggest areas for improvement back then?
 
-* How would you rate their job performance in that job on a 1 10 scale?
+* How would you rate their job performance in that job on a 1-10 scale?
+
 * What about their performance causes you to give that rating?
+
 * [Name of candidate] mentioned that they struggled with \_\_\_\_\_\_\_ in that
 job. Can you tell me more about that?
 
-* In what environment and under what management style would [name
-
-of candidate] be most successful?
+* In what environment and under what management style would [name of candidate] be most successful?
 
 * How does [name of candidate] manage conflict?
 
@@ -1228,15 +1224,15 @@ By the time you're ready to make somebody an offer you should have a strong opin
 
 Once you've calibrated your offer amounts, you should decide how to present the offer. Especially if your offer includes equity compensation, you should seriously consider providing a spreadsheet that provides context to the offer amounts. The value of a number of shares on its own is impossible for a candidate to assess. They need additional data points to value what you're offering, including numbers like total shares outstanding, share strike price, latest company valuation, etc.
 
-I've prepared a sample candidate offer spreadsheet at ctohb.com/ samples.
+I've prepared a sample candidate offer spreadsheet at (ctohb.com/samples)[https://ctohb.com/samples].
 
-#### PRESENTING THE OFFER
+#### Presenting The Offer
 
-The moment when you present the offer is when you need to be in super sales mode. Ideally, you've been selling candidates all along the way so they're already very excited about the company and the opportunity for them. Regardless, this is a big deal for the candidate, so make sure to give the occasion the respect it deserves. roughout the process of explaining the offer, remember to be especially upbeat, congratulate the candidate, and emphasize the fun you'll have and the great things you'll build together. It's also critical that you're transparent and outline all the key points of the offer upfront, especially anything they may not be expecting or used to, such as equity compensation or probation/trial periods.
+The moment when you present the offer is when you need to be in super sales mode. Ideally, you've been selling candidates all along the way so they're already very excited about the company and the opportunity for them. Regardless, this is a big deal for the candidate, so make sure to give the occasion the respect it deserves. Throughout the process of explaining the offer, remember to be especially upbeat, congratulate the candidate, and emphasize the fun you'll have and the great things you'll build together. It's also critical that you're transparent and outline all the key points of the offer upfront, especially anything they may not be expecting or used to, such as equity compensation or probation/trial periods.
 
-I recommend making the offer in three parts: a phone call, an email, and a dinner. For the phone call, I suggest calling the candidate without prior scheduling. At this point you'll have already done a whole bunch of scheduling with the candidate, so There'sno need to build up their anxiety further by scheduling yet another meeting. Alternatively, you could tell them in writing that you intend to extend an offer and schedule from there, but you lose the impact of being on the line with them when they get the news. I find it's just simpler to call the person and share the news all at once.
+I recommend making the offer in three parts: a phone call, an email, and a dinner. For the phone call, I suggest calling the candidate without prior scheduling. At this point you'll have already done a whole bunch of scheduling with the candidate, so there's no need to build up their anxiety further by scheduling yet another meeting. Alternatively, you could tell them in writing that you intend to extend an offer and schedule from there, but you lose the impact of being on the line with them when they get the news. I find it's just simpler to call the person and share the news all at once.
 
-On the call, you should express excitement, convey the key points of the offer, and answer any initial questions. Explain that subsequent to the call you'll email them written materials to help provide context on the equity and, of course, a formal written offer letter will be coming from the company. And finally, if logistically possible, schedule a meal with the candidate to have a more personal, in-depth conversation.
+On the call, you should express excitement, convey the key points of the offer, and answer any initial questions. Explain that, subsequent to the call, you'll email them written materials to help provide context on the equity and, of course, a formal written offer letter will be coming from the company. And finally, if logistically possible, schedule a meal with the candidate to have a more personal, in-depth conversation.
 
 
 ## Onboarding
@@ -1248,7 +1244,6 @@ Onboarding new engineers to the team, in most cases, doesn't strictly require a 
 1. **It builds your culture:** Good onboarding emphasizes a culture of continuous improvement, helping to streamline the process for future hires and enhance the scalability of your overall processes.
 
  There are many right ways to do this. What follows are some relatively simple and inexpensive techniques and practices that I've used myself. Feel free to expand on or deviate from these ideas.
-
 
 
 
@@ -1266,7 +1261,7 @@ That's not to say that the nuts and bolts of onboarding will be identical across
 
 There are two key elements of getting a new engineer onboarded: teaching them about your culture and best practices, and also giving them something to do by way of structure and instructions. I prefer to break these out into two written artifacts: The Engineering Guidebook and the Welcome to [Your Company Name] Engineering, Day 1 Guide.
 
-##### THE ENGINEERING GUIDEBOOK
+##### The Engineering Guidebook
 
 The Engineering Guidebook gathers in a single document all of the opinions, best practices, structural elements, and business operations of your engineering team. It should be the single source any engineer can rely on to learn about choices and decisions that are expected to be consistent across the engineering organization. Be deliberate and thoughtful about exactly what practices should remain uniform across the organization.
 
@@ -1305,7 +1300,7 @@ Software Engineering
 
 The guidebook should be clearly labeled as a living document, with a well-defined process in place for proposing, getting feedback on, and incorporating changes to the guidebook. For example, I've used a Request for Comments (RFC) process for updates.
 
-##### WELCOME TO [YOUR COMPANY NAME] ENGINEERING, DAY 1 GUIDE
+##### Welcome To [Your Company Name] Engineering, Day 1 Guide
 
 Distributing a Day 1 Guide is your opportunity to provide some structure for new employees, giving them a concrete list of things to do on their first day with your organization that will introduce them to the company culture, their teammates, your process, and your software stack. The Day 1 Guide should, of course, reference The Engineering Guidebook as required Day 1 reading. In addition, your Day 1 guide should cover the following:
 
@@ -1333,7 +1328,7 @@ The best way to handle the potential for unsuccessful hires is first to have the
 
 If there is disagreement on whether the employee is being successful, that's a good sign that it's not working out, and you should consider relatively quickly whether there is another spot on the team where the new employee might be a better fit, or if both sides might be better off parting ways.
 
-##### THE SCORECARD
+##### The Scorecard
 
 It is the responsibility of the manager of the new employee to identify and document measurable milestones for any new role *before* the new employee starts. On Day 1 the manager should walk through the milestones with the new employee, collect feedback, and collaborate on those milestones to ensure they are fair and clearly measurable. For some roles, these milestones may be easy and clear, such as in a support role measuring escalation tickets with ticket throughput. For other roles you may need to get more creative, for example, features delivered or story points closed. Regardless of the milestones you choose, the scorecard should do the following:
 
@@ -1345,7 +1340,7 @@ The scorecard doesn't have to be lengthy or highly nuanced. The key thing is tha
 
 A quick word on the ninety-day length: ninety days is a commonly used timeframe for onboarding new employees, but it is not a hard rule. A thirty-day interval is generally too short in engineering, where there is a significant learning curve to mastering your technology, tools, and product. On the contrary, waiting a full performance cycle e.g., six or twelve months leaves a potentially poor fit in the role for too long, preventing them from getting the remediation they need to achieve productivity, and costing the company lost time and productivity. The right answer is likely in between, and the exact amount of time is up to you and your managers.
 
-##### HANDLING A SCORECARD FAILURE
+##### Handling A Scorecard Failure
 
 If, after ninety days, the manager and the employee agree things are not meeting expectations, or there isn't agreement on whether expectations are being met, something has to change. This doesn't mean you have to fire the new employee, but it does mean you have to do something. Consider the following options in this scenario:
 
@@ -1358,7 +1353,7 @@ If, after ninety days, the manager and the employee agree things are not meeting
 * Is it a lack of experience or skill?
   * If you hired someone at a senior level but they're performing at mid-level, you have the option of attempting to down-level them. After all, it's unfair to other employees to keep this person on and pay them as a senior-level performer if they're not delivering at that level. Be warned, however, that down-leveling is very challenging. Unless expectations are very carefully managed, down-leveling will often result in bruised ego and ultimately prove unproductive or even toxic to your team.
 
-##### LETTING A NEW EMPLOYEE GO
+##### Letting A New Employee Go
 
 In general, if it's not clear after ninety days that a hire is going to work out, it likely won't magically become better after 120 or 150 days, and it's best to let them go. You should terminate this employee the same as any other, with a full severance package and as much kindness as possible.
 
@@ -1389,7 +1384,7 @@ Your performance management system should give everyone clarity on exactly where
 
 Performance management and compensation design should not be done entirely by you, the technical leader. There are plenty of ways to make mistakes here that could expose your company to legal liability. These are easily avoided by ensuring that your HR lead is heavily involved in the process. In fact, ideally, your HR lead would do most of the blueprinting and lean on you only for help defining technical competencies. Regardless of who takes the lead, HR is your partner here.
 
-##### OVERVIEW
+##### Overview
 
 The core of a performance management system is a document, spreadsheet, or other workable artifact here I'll call it a competency matrix (sometimes it's also called an impact matrix or an advancement plan) that lists skills and areas of impact for each role. The competency matrix provides granularity, specificity, and expectations for what each skill/ impact area looks like at various levels.
 
@@ -1479,7 +1474,7 @@ The same set of questions can apply to each matrix category:
 
 * Where does this person demonstrate room for improvement in this area? What level do you think this person is performing at in this area?
 
-Note that from an unconscious bias perspective, it's better to ask the reviewer to enumerate the examples before asking for a level. The alternative may encourage reviewers to choose a level, then cherry-pick examples to justify the level they ve already chosen.
+Note that from an unconscious bias perspective, it's better to ask the reviewer to enumerate the examples before asking for a level. The alternative may encourage reviewers to choose a level, then cherry-pick examples to justify the level they've already chosen.
 
 It may make sense to include some higher-level/softer questions at the end:
 
@@ -1720,7 +1715,7 @@ Beyond the efficiency gained by having consistency between design and engineerin
 
 ### PRDs and Specs
 
-A Product Requirements Document (PRD), sometimes also called a product specification, or just a spec, is an essential part of the product development process. Note that a product spec has a different purpose and is a distinct document from a technical spec (see Technical Planning and Specifications, page 164) There are many methodologies and templates for PRDs. Sources like lennysnewsletter.com regularly catalog some of the most common and thorough ones. PRDs have a shared purpose, which is to describe the problem background as well as the why that justifies a project or feature. PRDs often include lists of requirements that need to be met to meet an objective. Most PRDs leave the how of a feature to a technical spec.
+A Product Requirements Document (PRD), sometimes also called a product specification, or just a spec, is an essential part of the product development process. Note that a product spec has a different purpose and is a distinct document from a technical spec (see Technical Planning and Specifications, page 164). There are many methodologies and templates for PRDs. Sources like lennysnewsletter.com regularly catalog some of the most common and thorough ones. PRDs have a shared purpose, which is to describe the problem background as well as the why that justifies a project or feature. PRDs often include lists of requirements that need to be met to meet a business objective. Most PRDs leave the how of a feature to a technical spec.
 
 A PRD, like a technical spec, is a living document. As your team learns more about the problem, or as factors in the outside world change, these documents can and should change and be updated to match. I encourage you and your team to use these documents as a continually updated source of truth to document your considerations and ultimate decisions made during the product development process.
 
@@ -1805,9 +1800,9 @@ Generally speaking, as CTO, your role in fundraising and due diligence is fairly
 * Engineering roadmaps (usually they're looking for short/medium-term roadmaps)
 * A list of major areas of tech debt, what I've labeled a tech debt balance sheet (see Tech Debt, page 145)
 * High-level system architecture diagrams
-* Full description of how software is distributed and updated, either as SaaS or as versioned desktop/mobile software
-* A high-level description of systems, how they're hosting, and your security practices
-* Information about software licensing, including code scans of company code confirming no license violations or unlicensed proprietary software
+* Full description of how software is distributed and updated, either as SaaS or as versioned desktop/mobile software packages
+* A high-level description of systems, how they're hosted, and your security practices
+* Information about software licensing, including code scans of company code confirming no license violations or unlicensed proprietary software are present
 
 It's not uncommon for an investor to hire a third-party firm to conduct a technical diligence audit. These audits may involve interviews or meetings with you and perhaps a few other senior members of the team. Be prepared to discuss your engineering process, assess the general productivity of the team, and do a code walkthrough of parts of your system.
 
@@ -2000,7 +1995,7 @@ If the only benefit of attending a conference were that the employee learned a b
 
 I encourage you to require conference attendees to produce a written document summarizing key things they learned after they return. You should also consider sponsoring the conferences most relevant to your business and having you or one of your team members host a seminar on a particular topic. These seminars and sponsorships provide excellent branding opportunities for your company, getting your name and message in front of a very targeted audience an audience that likely contains candidates you'd like to hire in the future.
 
-In summary, allocating a budget for engineers to attend conferences is good for individual professional development, with a fairly low-effort documentation exercise. This can be good for team learnings and is a great opportunity through networking, sponsorship, or hosting to recruit future members of the team.
+In summary, allocating a budget for engineers to attend conferences is good for individual professional development, good for culture and morale, good for branding, can help with future hiring and with a bit of documentation, an opportunity for continuous education across the team.
 
 *8. Deploy Rubber Duck Debugging*
 
@@ -2336,7 +2331,7 @@ Your tech spec review goals should include the following:
 
 #### Review Process
 
-My recommendation for a lightweight review process is an asynchronous conversation in the document followed by a synchronous conflict resolution meeting (see Meetings and Time Management, page 28, for more on conflict resolution meetings). The author of the technical specification should, once they ve made some progress on the key elements of the project, circulate the document with other engineers who have sufficient context. The idea is for others to read the document and leave comments and questions in their own time. Many of these issues can be resolved quickly and asynchronously by the lead author, but some may be contentious or highly nuanced, requiring higher bandwidth communication.
+My recommendation for a lightweight review process is an asynchronous conversation in the document followed by a synchronous conflict resolution meeting (see Meetings and Time Management, page 28, for more on conflict resolution meetings). The author of the technical specification should, once they've made some progress on the key elements of the project, circulate the document with other engineers who have sufficient context. The idea is for others to read the document and leave comments and questions in their own time. Many of these issues can be resolved quickly and asynchronously by the lead author, but some may be contentious or highly nuanced, requiring higher bandwidth communication.
 
 To close out the process, the author should schedule a meeting whose attendees are only those who have read the document and contributed in advance. The purpose of the meeting is to review open questions and conflicts and come to a resolution. The purpose of the meeting is not for the author to simply read the specification out loud to a bored or disinterested audience. If there are open questions that require further diligence to learn about and resolve, then do that offline and review the results with only the interested parties afterward.
 
