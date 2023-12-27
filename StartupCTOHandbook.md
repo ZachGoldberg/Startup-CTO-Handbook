@@ -2142,7 +2142,7 @@ Some examples of long-term initiatives:
 *Language debt*
 
 - Consolidating usage of programming languages
-- Moving from older to newer versions of languages (Python 2 to 3, or .NET 4 to .Net 5+)
+- Moving from older to newer versions of languages (Python 2 to 3, or .NET 4 to .NET 5+)
 
 *Platform/architecture adoption*
 
@@ -2157,7 +2157,7 @@ Some examples of long-term initiatives:
 
 #### Timeline Communication
 
-Every leader in sales, marketing, product, or support I've worked with has been appreciative of transparency in the technical process and technical roadmap. By contrast, I've spoken to leaders at some companies who describe their technical teams as a black hole. It goes without saying that you don't want to be called a black hole. Not being a black hole is simple; it looks like somewhere in your organization having a regular process to provide transparency to other leaders. Ideally, you're also helping other departments feel heard by having a forum, or a mechanism, to take input and incorporate that into the roadmap process. You can also close the loop and your process communicates back to stakeholders where their request is in the development process and manages expectations for when it will be ready.
+Every leader in sales, marketing, product, or support I've worked with has been appreciative of transparency in the technical process and technical roadmap. By contrast, I've spoken to leaders at some companies who describe their technical teams as a black hole. It goes without saying that you don't want to be called a black hole. Not being a black hole is simple; it looks like somewhere in your organization having a regular process to provide transparency to other leaders. Ideally, you're also helping other departments feel heard by having a forum, or a mechanism, to take input and incorporate that into the roadmap process. You can and should close the loop with other departments in your process by communicating back to stakeholders where their request is in the development process and manage expectations for when it will be completed.
 
 ## Tech Process
 
@@ -2407,9 +2407,9 @@ Another problem teams often face is changing tooling too often. In certain tech 
 
 One of your key responsibilities as a tech leader is to make good decisions on your architecture and tools. Good architecture aligns the strengths of the tools and patterns you choose with the needs of your organization now and in the foreseeable future. That requires understanding the strengths, weaknesses, and tradeoffs inherent in each choice. My goal in this section of the book is to make you aware in general of the landscape of options in various domains, and help you recognize the general tradeoffs that different strategies entail.
 
-One thing to keep in mind when discussing tools and tool choice with your team: engineers can be emotional about tool choice. Tools are reviewed as good and bad, and people have personal likes, dislikes, and biases. As the leader and decision-maker, I strongly caution you against adopting this style of language when discussing tools. Not only can it potentially alienate team members if you're disparaging their personal favorite tool; it's also unproductive and can distract from the goal of identifying a good solution for your problem. Some individual tools are genuinely poorly designed and overshadowed by superior alternatives.
+One thing to keep in mind when discussing tools and tool choice with your team: engineers can be emotional about tool choice. Tools are reviewed as good and bad, and people have personal likes, dislikes, and biases. As the leader and decision-maker, I strongly caution you against adopting this style of language when discussing tools. Not only can it potentially alienate team members if you're disparaging their personal favorite tool; it's also unproductive and can distract from the goal of identifying a good solution for your problem.
 
-More often than not, a more nuanced evaluation will reveal that a given tool isn't inherently bad, but rather appropriate or inappropriate for a particular company or project. Don't let one bad past experience of trying to use a tool that was inappropriate for solving one problem prevent you or your team from using it another time when it may prove a better fit.
+Some individual tools are genuinely poorly designed and overshadowed by superior alternatives. However, more often than not a more nuanced evaluation will reveal that a given tool isn't inherently bad, but rather appropriate or inappropriate for a particular company or project. Don't let one bad past experience of trying to use a tool that was inappropriate for solving one problem prevent you or your team from using it another time when it may prove a better fit.
 
 
 ## Architecture
@@ -2522,7 +2522,7 @@ Per the golden rule of programming, your choice of language should enable your t
 * Do you have particular performance or scaling requirements? Some languages are much faster than others for specific types of tasks. Haskell is famously inefficient at string manipulation, and C is famously fast at most things, though there are other languages that, for certain problems, approach or exceed the speed of C while providing an easier and more friendly coding environment.
 * Is there a particular framework that might be a good starting point in a particular language? React Native, for example, is a powerful cross-platform mobile language that requires JavaScript or TypeScript.
 
-In the enterprise setting, I recommend languages with static type systems, such as Golang, TypeScript, Rust, etc., so that the compiler can do more heavy lifting for ensuring code correctness, so that those constraints are visible to other developers, and so you don't run into that category of issue at runtime. You should strive for a local development environment where the tools are finding errors before your code is executed, called compile time checks. Fixing a compile time check is in general much faster and cheaper than fixing a runtime issue, and also by virtue of the fact that it's automated is better equipped than a runtime check to reliably find problems.
+In the enterprise setting, I recommend languages with static type systems, such as Golang, TypeScript, Rust, etc.  With a static type system the compiler does more of the heavy lifting for ensuring code correctness. You should strive for a local development environment where the tools are finding errors before your code is executed. Fixing a compile time issue is in general much faster and cheaper than fixing a runtime issue.
 
 #### Code Style And Formatting
 
