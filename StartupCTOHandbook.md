@@ -2796,7 +2796,7 @@ Boring Technology is a phrase coined by Dan McKinley and outlined at ctohb.com/b
 
 ### Tool Cost
 
-It's a fact of life that modern startups will spend a lot on SaaS. Your company is likely no exception, so don't be surprised when you find you are spending an entire headcount or more on infrastructure and tools before your Series B fundraise.
+It's a fact of life that modern startups will spend a lot of money on Software As A Service (SaaS). Your company is likely no exception, so don't be surprised when you find you are spending an entire headcount or more on infrastructure and tools before your Series B fundraise.
 
 ### Budget
 
@@ -3240,7 +3240,7 @@ You'll also want to ensure that you have adequate documentation in place, and th
 * Decide where and how often to post updates on the status of the inves tigation, impact estimate, and restoration estimate.
 * Determine what to do once an incident is closed, scheduling a root cause analysis exercise and ensuring the particular incident does not recur.
 
-### ROOT CAUSE ANALYSIS (RCA) EXERCISES
+### Root Cause Analysis (RCA) Exercises
 
 Any time there is a system issue that has measurable user impact, your team should perform some level of root cause analysis (RCA). The goal of
 
