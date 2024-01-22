@@ -1418,7 +1418,7 @@ As for incentivizing high performance, tying compensation to leveling financiall
 
 Translating levels into fair compensation is slightly more nuanced than most might assume. The easiest thing to do is create a transparent spreadsheet that says everyone at Level X gets paid $Y per year, but a few issues arise from such a strict system: cost of living adjustments (also known as local rates) and non-performance-based compensation bonuses.
 
-GitLab published a great blog post explaining why they pay local rates (see ctohb.com/local. eir compensation calculator is also public at ctohb. com/gitlabcompcalc). That said, There'sno one correct way to handle local rates, and you should consider whether or not paying them makes sense for your business. If it does, calculate those rates in a way that is both transparent and data-driven.
+GitLab published a great blog post explaining why they pay local rates (see ctohb.com/local. eir compensation calculator is also public at ctohb. com/gitlabcompcalc). That said, There's no one correct way to handle local rates, and you should consider whether or not paying them makes sense for your business. If it does, calculate those rates in a way that is both transparent and data-driven.
 
 Having a performance level translate to a specific pay range, rather than an exact compensation amount, solves many compensation problems. Any given job will want to be calibrated to market rate, but how are market rates determined? Generally speaking, the tools and data that are available to determine a market rate will be somewhat imprecise, and at best give a range within 10-20 percent. The reason it's not more precise is simple: a software engineering role at your company is unlikely to be 100 percent identical in requirements to the same role at a different company. After all, your codebase and tooling aren't 100 percent the same.
 
@@ -1665,7 +1665,7 @@ There are a sufficient number of successful 100 percent remote software engineer
 
 #### Documentation
 
-Being remote means that There'snobody sitting next to you to answer questions, but that doesn't mean the questions go away. ose questions still get asked, only now social context is lost and so perhaps the question goes unanswered for a while. Or, rather than holding questions until the other person takes a break, now they get asked immediately, prompting various kinds of notifications and distracting from focus work. Having a robust set of internal documentation with an effective search feature can speed up time-to-answer and reduce the number of one-on-one context switches that become barriers to getting work done.
+Being remote means that There's nobody sitting next to you to answer questions, but that doesn't mean the questions go away. ose questions still get asked, only now social context is lost and so perhaps the question goes unanswered for a while. Or, rather than holding questions until the other person takes a break, now they get asked immediately, prompting various kinds of notifications and distracting from focus work. Having a robust set of internal documentation with an effective search feature can speed up time-to-answer and reduce the number of one-on-one context switches that become barriers to getting work done.
 
 #### Asynchronous Work
 
@@ -1887,7 +1887,7 @@ This is perhaps the easiest role for the founder CTO to step into, as they have 
 
 #### Transitioning Between Types
 
-Ideally, a startup CTO will prove adept in all three areas, though most people will specialize in just one or two. If your business needs a focus that isn't your expertise, it may be worth asking yourself if you can execute that task more effectively by delegating it to a coworker. Especially at an early stage startup, most technical cofounder/cofounder CTOs will be internal tech-focused. Usually There'snot much other work to be done at this stage!
+Ideally, a startup CTO will prove adept in all three areas, though most people will specialize in just one or two. If your business needs a focus that isn't your expertise, it may be worth asking yourself if you can execute that task more effectively by delegating it to a coworker. Especially at an early stage startup, most technical cofounder/cofounder CTOs will be internal tech-focused. Usually There's not much other work to be done at this stage!
 
 It's a very common pattern for that person to find themselves stretching into internal people or external focuses as the company grows, and that's not always a desirable transition for that person. It's not a personal failure to admit that your specialty or your motivation is in tech and that people management isn't a great fit, but quite the opposite. Identifying your superpowers and architecting a role in the company to leverage that superpower is how you add the most value, and the company should hire somebody else whose superpower is, for example, people management to fill that role.
 
@@ -2031,7 +2031,7 @@ However you choose to pay down your tech debt, the key to doing so successfully 
 
 #### Defining Tech Debt
 
-Another way to define technical debt is as a technical decision, implementation, or nuance that actively reduces the efficiency or effectiveness of the business today or in the future. The point is that tech debt has a consequence that matters. Some of your code might be objectively ugly or inefficient, but if that inefficiency has no impact on the business and There'sno need to modify that code in the future to maintain quality, performance, or iteration, then that code isn't costly in terms of tech debt. After all, the goal of software development, especially at a startup, is not to write the perfect codebase, but to build software that enables the business.
+Another way to define technical debt is as a technical decision, implementation, or nuance that actively reduces the efficiency or effectiveness of the business today or in the future. The point is that tech debt has a consequence that matters. Some of your code might be objectively ugly or inefficient, but if that inefficiency has no impact on the business and There's no need to modify that code in the future to maintain quality, performance, or iteration, then that code isn't costly in terms of tech debt. After all, the goal of software development, especially at a startup, is not to write the perfect codebase, but to build software that enables the business.
 
 Don't be afraid of debt. It can serve a purpose. For example, when building Version 1 of a product that's not yet been validated in the market, a technical team may decide on an architecture that will not scale past a hundred users. If that decision allows the team to rapidly validate the product and determine whether or not a hundred users will ever use the product, that path may be worthwhile especially given the fact that it may take several versions of these prototypes to find one that users love.
 
@@ -2041,7 +2041,7 @@ There are at least seven types of technical debt:
 1. **Code Debt** accrues when the implementation itself was done without paying attention to best practices, yielding code that's difficult to understand and maintain.
 1. **Test Debt** accumulates when you've run insufficient automated tests to provide the team confidence in the correctness of the codebase.
 1. **Infrastructure Debt** occurs when the infrastructure, observability, and supporting systems are not robust or have been poorly maintained, leading to difficulty scaling or deploying updates, or poor uptime and reliability.
-1. **Documentation Debt** results when There'sinsufficient documentation, or the documentation is stale/inaccurate, which can make it difficult for team members to onboard a project.
+1. **Documentation Debt** results when There's insufficient documentation, or the documentation is stale/inaccurate, which can make it difficult for team members to onboard a project.
 1. **Skill Debt** rises when the team members lack the needed skills to maintain or update the code or surrounding infrastructure.
 1. **Process Debt** accrues when the team is inconsistent in how it solves problems, leading to mistakes, delays, or increased costs.
 
@@ -2062,7 +2062,7 @@ If you've been honest with your peers in leadership (see Delivering Bad News, pa
 
 #### Measuring Debt The Debt Inventory
 
-Unlike with a mortgage or car loan, There'sno website you can visit that will give you a statement of your exact amount of tech debt and remaining payments. Some forms of debt can be measured quantitatively, but most of the analysis is qualitative. For healthy and responsible debt management at scale, I recommend a debt inventory survey.
+Unlike with a mortgage or car loan, There's no website you can visit that will give you a statement of your exact amount of tech debt and remaining payments. Some forms of debt can be measured quantitatively, but most of the analysis is qualitative. For healthy and responsible debt management at scale, I recommend a debt inventory survey.
 
 The survey should be taken at regular intervals. Somewhere from one to four times per year, do a sober analysis across the varying kinds of debt, producing an honest assessment of where the team is operating. Don't take the survey independently; rather, do so in collaboration with other engineers on the team who are working in the code every day and interacting with the debt on a regular basis.
 
@@ -2804,7 +2804,7 @@ There are a handful of published benchmarks for SaaS and tool spend at various c
 
 There's not a single precise benchmark, but it seems that typical SaaS Costs of Goods Sold (COGS) fall somewhere between 10 and 30 percent of revenue.
 
-Know your spend and keep an eye on cost growth. It's very easy to accidentally leave a couple of machines running in AWS and add $10,000 to your annual cloud hosting bills. Most cloud platforms have built-in budgeting features, so There'sno excuse to not use them. If you're using infrastructure as code, it's easy to set up a module that, for every new cloud system deployed, will automatically apply a cloud budget at the same time that will monitor and alert on cost for that particular system.
+Know your spend and keep an eye on cost growth. It's very easy to accidentally leave a couple of machines running in AWS and add $10,000 to your annual cloud hosting bills. Most cloud platforms have built-in budgeting features, so There's no excuse to not use them. If you're using infrastructure as code, it's easy to set up a module that, for every new cloud system deployed, will automatically apply a cloud budget at the same time that will monitor and alert on cost for that particular system.
 
 It's typical for SaaS costs to grow over time, be it because your infrastructure is growing, or because you discover a new SaaS vendor that can save your team time. I recommend not using cost as a reason to avoid adopting a typical SaaS tool (with a cost range in the hundreds per month). Instead, I'd advise factoring regular growth into your SaaS cost forecasts.
 
@@ -2843,7 +2843,7 @@ Reproducibility implies that we have the capability of doing something a second 
 
 ### Containerization
 
-The most common way of explaining the role of containers in the DevOps context is to consider where the name originated: from shipping containers. Prior to the standardization of shipping containers, if you wantedto transport goods across the ocean, you would package your cargo in a variety of forms ranging from placing it on pallets, storing it in boxes or barrels, or simply wrapping it in cloth. Loading and unloading goods that arrived packaged in all these different ways was inefficient and error- prone, mainly because There'sno single kind of crane or wheelbarrow that could effectively move all of the cargo.
+The most common way of explaining the role of containers in the DevOps context is to consider where the name originated: from shipping containers. Prior to the standardization of shipping containers, if you wantedto transport goods across the ocean, you would package your cargo in a variety of forms ranging from placing it on pallets, storing it in boxes or barrels, or simply wrapping it in cloth. Loading and unloading goods that arrived packaged in all these different ways was inefficient and error- prone, mainly because There's no single kind of crane or wheelbarrow that could effectively move all of the cargo.
 
 Compare that haphazard approach to deploying a standardized shipping container where the boat and port operator can work with a single form factor, using standardized equipment and shippers and a single, flexible form of packaging for all of their goods. Historically, the usage of standardized shipping containers unlocked a paradigm shift that reduced costs of global shipping by orders of magnitude. Packaging software in a standardized container that can be run on any system in the same way provides an analogous advancement in capability and efficiency.
 
@@ -2927,7 +2927,7 @@ Some best practices for CI:
 
 ### Continuous Deployment
 
-In the early stages of a project, it's comparatively simple to deploy new code. At that point, There'snot much code or architectural complexity. Before long, however, the need to manage dependencies, dependent services, CDNs, firewalls, build artifacts, build configuration, secrets, and more leads to a complex deploy process. As these requirements accumulate, it's easy to neglect automation, and simply rely on, for example, a dedicated and highly trusted individual as release manager. There are countless teams out there following this pattern, and I guarantee you most of those release managers have release dates circled on their calendar in advance and dread the stress, long hours, and frustration that those days inevitably entail.
+In the early stages of a project, it's comparatively simple to deploy new code. At that point, There's not much code or architectural complexity. Before long, however, the need to manage dependencies, dependent services, CDNs, firewalls, build artifacts, build configuration, secrets, and more leads to a complex deploy process. As these requirements accumulate, it's easy to neglect automation, and simply rely on, for example, a dedicated and highly trusted individual as release manager. There are countless teams out there following this pattern, and I guarantee you most of those release managers have release dates circled on their calendar in advance and dread the stress, long hours, and frustration that those days inevitably entail.
 
 Fortunately There'sa cure for the error-prone stress concentration that is the monthly (or longer!) release day. It's to release every day, or heck, every hour! It follows logically from one of the Ten Pillars of Tech Culture (see page 138), Frequency Reduces Difficulty, that more frequent releases will force your release manager, and team, to automate the hard parts of deployments. With enough iteration, releases can become entirely automated, and with sufficient testing giving you confidence in new changes, you can get to the point of triggering new releases for every code change set, referred to as Continuous Deployment.
 
@@ -2964,7 +2964,7 @@ Knowing how the domain name system (DNS) works, and knowing how to manage DNS an
 
 You should also know how DNS is used for email in your organization. In particular, become familiar with Sender Policy Framework (SPF) records and DKIM/DMARC.
 
-You should also set up your DNS records using Infrastructure as Code (IaC). I've seen countless companies where DNS is managed exclusively by an executive whose two-factor authentication is the only one allowed to update a zone record, and when that person is on vacation There'sno fallback mechanism to manage the site.
+You should also set up your DNS records using Infrastructure as Code (IaC). I've seen countless companies where DNS is managed exclusively by an executive whose two-factor authentication is the only one allowed to update a zone record, and when that person is on vacation There's no fallback mechanism to manage the site.
 
 A better solution is to set up DNS with Terraform (which has integrations with all the major DNS providers) and then manage DNS records with source control, empowering individual developers to add new records in a responsible way that isn't gated on any one individual.
 
