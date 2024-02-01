@@ -1015,7 +1015,7 @@ This may seem redundant to the requirements listed in the job description, and i
 
 If you're inundated with candidates and want to do a bit more filtering at this stage, the questionnaire can also include one or two more interesting or difficult questions. If you include these, be sure to still keep them brief; you don't want to lose candidates in this form because the questions were too arduous. If you're overwhelmed with applicants then bias towards more data to filter with here, otherwise maybe it's best to save more nuanced qualifications for further down the funnel.
 
-Some example questions for an intake form covering broad compatibility and self-identified technical familiarity (I've included a sample at ctohb.com/templates):
+Some example questions for an intake form covering broad compatibility and self-identified technical familiarity (I've included a sample at (ctohb.com/templates)[https://ctohb.com/templates]):
 
 * As a great candidate, you'll receive a ton of offers. Compensation and benefits being equal, what will make you pick one company over another?
 
@@ -1224,7 +1224,7 @@ By the time you're ready to make somebody an offer you should have a strong opin
 
 Once you've calibrated your offer amounts, you should decide how to present the offer. Especially if your offer includes equity compensation, you should seriously consider providing a spreadsheet that provides context to the offer amounts. The value of a number of shares on its own is impossible for a candidate to assess. They need additional data points to value what you're offering, including numbers like total shares outstanding, share strike price, latest company valuation, etc.
 
-I've prepared a sample candidate offer spreadsheet at (ctohb.com/samples)[https://ctohb.com/samples].
+I've prepared a sample candidate offer spreadsheet at (ctohb.com/templates)[https://ctohb.com/templates].
 
 #### Presenting The Offer
 
@@ -1406,7 +1406,7 @@ Aim for at most five general categories, and no more than three areas within tho
 
 Each level should have its rating system and performance expectations clearly described and/or can share a description with an adjacent level, where appropriate.
 
-I've provided a sample advancement plan on my website for this book at ctohb.com/templates. Codeacademy.com also has a great template at ctohb.com/competencies.
+I've provided a sample advancement plan on my website for this book at (ctohb.com/templates)[https://ctohb.com/templates]/templates. Codeacademy.com also has a great template at ctohb.com/competencies.
 
 ##### Compensation and Leveling
 
@@ -1756,7 +1756,7 @@ Given that your department's costs are fairly predictable, and centralized in a 
 * Infrastructure tab
 * Other tab (including travel, hardware) Summary tab
 
-You can find a sample technical department budget spreadsheet on ctohb.com/templates that will get you most of the way there on the actual modeling.
+You can find a sample technical department budget spreadsheet on (ctohb.com/templates)[https://ctohb.com/templates] that will get you most of the way there on the actual modeling.
 
 ### Working with your CFO
 
@@ -2294,7 +2294,7 @@ Often when writing a technical specification you'll have multiple options for ho
 
 ### Tech Spec Content
 
-Having a template that your team uses when starting to write a technical specification is a great way to speed things up and ensure important topics are not neglected. I recommend your template primarily be a sequence of headings with topic areas to be covered, perhaps with a bit of instruction or reminder for tech spec authors. I've included a sample tech spec at ctohb.com/templates.
+Having a template that your team uses when starting to write a technical specification is a great way to speed things up and ensure important topics are not neglected. I recommend your template primarily be a sequence of headings with topic areas to be covered, perhaps with a bit of instruction or reminder for tech spec authors. I've included a sample tech spec at (ctohb.com/templates)[https://ctohb.com/templates].
 
 A quick aside before jumping into content: technical documents can be a bit dry and serious. If it aligns with your culture, I encourage you to inject lightheartedness where it's appropriate and not distracting. A good example is a clever meme at the top of the document that references the subject of the specification. In my experience, it takes only a manager/leader making a meme once in a spec to encourage others on the team (read: open the floodgates) to add their own.
 
