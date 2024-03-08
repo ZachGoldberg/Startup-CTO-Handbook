@@ -1617,7 +1617,7 @@ Here are some rough numbers for team composition based on startup experience:
 
 If you are shipping end-user software, your engineering team has to strike a balance between doing new work and handling support tickets that come in from active customers. Left unchecked, the need to handle support tickets can become a major distraction to the team, hurting efficiency, draining morale, and burning out your best people. There are many right answers to solving this problem; the important thing is that you recognize its effect on your team and architect a solution to help them be productive and drive great customer outcomes.
 
-Microsoft has published a great article on this topic titled Building productive teams (ctohb.com/teams) describing what they call the two crews model. Thetwo crews model outlines a feature crew and a customer crew.
+Microsoft has published a great article on this topic titled Building productive teams (ctohb.com/teams) describing what they call the two crews model. The two crews model outlines a feature crew and a customer crew.
 
 The feature crew focuses on the future, building new features. The customer crew focuses on the present, working on active customer issues, diagnosing bugs, and prioritizing site health.
 
@@ -1665,7 +1665,7 @@ There are a sufficient number of successful 100 percent remote software engineer
 
 #### Documentation
 
-Being remote means that There's nobody sitting next to you to answer questions, but that doesn't mean the questions go away. ose questions still get asked, only now social context is lost and so perhaps the question goes unanswered for a while. Or, rather than holding questions until the other person takes a break, now they get asked immediately, prompting various kinds of notifications and distracting from focus work. Having a robust set of internal documentation with an effective search feature can speed up time-to-answer and reduce the number of one-on-one context switches that become barriers to getting work done.
+Being remote means that there's nobody sitting next to you to answer questions, but that doesn't mean the questions go away. Those questions still get asked, only now social context is lost and so perhaps the question goes unanswered for a while. Or, rather than holding questions until the other person takes a break, now they get asked immediately, prompting various kinds of notifications and distracting from focus work. Having a robust set of internal documentation with an effective search feature can speed up time-to-answer and reduce the number of one-on-one context switches that become barriers to getting work done.
 
 #### Asynchronous Work
 
