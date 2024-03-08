@@ -1520,7 +1520,7 @@ The agenda for the performance review meeting should be simple:
 
 1. Discuss any strengths or weaknesses that were identified that are unexpected or otherwise not regularly covered in 1:1s.
 1. Synthesize a small list of focus areas to work on before the next review period. Many leaders advocate for a single focus area, but I've seen several individuals grow in more than one way during the given period, so two or three focus areas is a reasonable upper limit, as applicable.
-1. Establish a schedule for the manager and employee to regularly check in on those focus areas and ensure There'sadvancement before the next review.
+1. Establish a schedule for the manager and employee to regularly check in on those focus areas and ensure there's advancement before the next review.
 
 ##### Compensation Adjustment Rollout
 
@@ -1538,7 +1538,7 @@ Performance improvement plans, commonly referred to as PIPs, are a tool that pro
 
 * PIPs should allow a reasonable time period to demonstrate improvement say, thirty days for individual contributors and sixty days for senior staff or managers.
 
-PIPs should always include a complete written version, not only toensure clarity between employee and manager but also to provide documentation for HR/legal to have on record for any subsequent inquiries.
+PIPs should always include a complete written version, not only to ensure clarity between employee and manager but also to provide documentation for HR/legal to have on record for any subsequent inquiries.
 
 There are a few situations in which you should bypass a PIP process and proceed straight to termination:
 
@@ -1579,7 +1579,7 @@ The right blend for any given team considers the types of work to be done and st
 
 Your team should be more heavily weighted with senior engineering talent if your codebase is:
 * Very new, requiring lots of architecture and foundational contract creation
-* Is very old, poorly maintained, or poorly thought up and considered difficult to work in in short, a brownfield codebase
+* Is very old, poorly maintained, or poorly thought up and considered difficult to work in - in short, a brownfield codebase
 * Is meaningfully changing in requirements, especially if new requirements do not look very much like old requirements
 * Is using new tools, techniques, or patterns that require validation for your problem
 * Requires establishing new patterns/ways of doing work, especially with ecosystems that don't provide tight guardrails that encourage healthy patterns.
@@ -1591,9 +1591,9 @@ On Day 1 of most startups, the team will consist of a small handful of engineers
 
 So, you've raised a round of funding and you're looking to expand your team for the first time. How do you decide whether you need frontend engineers, backend engineers, DevOps engineers, etc.? Here are some general guidelines:
 
-**Listen to your team:** The people currently doing engineering are very likely to be vocal about where the biggest sources of inefficiency are, and where the most help is needed. Your job as a manager is to take in that perspective and extrapolate going forward. This the team pointing out a problem that will disappear in two months, in which case hiring somebody wouldn't be appropriate? Or is the issue systemic in nature and likely to continue for the long haul?
+**Listen to your team:** The people currently doing engineering are very likely to be vocal about where the biggest sources of inefficiency are, and where the most help is needed. Your job as a manager is to take in that perspective and extrapolate going forward. Is the team pointing out a problem that will disappear in two months, in which case hiring somebody wouldn't be appropriate? Or is the issue systemic in nature and likely to continue for the long haul?
 
-**Look for factors that are hurting produ-ctivity:** If your team is mostly frontend engineers and you're struggling with backend reliability, then that should be a sign that you need backend or DevOps engineering help. This same principle applies to testing, developer experience, etc.
+**Look for factors that are hurting productivity:** If your team is mostly frontend engineers and you're struggling with backend reliability, then that should be a sign that you need backend or DevOps engineering help. This same principle applies to testing, developer experience, etc.
 
 **Specialize with scale:** Until your team is north of a dozen people, chances are high that you're better off with a team of primarily generalists.
 
