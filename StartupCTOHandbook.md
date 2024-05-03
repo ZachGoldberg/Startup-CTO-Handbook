@@ -3237,7 +3237,7 @@ You'll also want to ensure that you have adequate documentation in place, and th
 * Note where the recipient should post an acknowledgment of receipt of the page (maybe in the escalator tool itself or a shared group chat dedicated specifically to handling escalations).
 * Enable easy access to the playbooks that are used to help diagnose particular kinds of problems.
 * Determine whether to, and where to, set up any kind of site down notice (e.g., a company status page needs updating).
-* Decide where and how often to post updates on the status of the inves tigation, impact estimate, and restoration estimate.
+* Decide where and how often to post updates on the status of the investigation, impact estimate, and restoration estimate.
 * Determine what to do once an incident is closed, scheduling a root cause analysis exercise and ensuring the particular incident does not recur.
 
 ### Root Cause Analysis (RCA) Exercises
