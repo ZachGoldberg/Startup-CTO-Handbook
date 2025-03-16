@@ -606,7 +606,7 @@ If you're being promoted into a management role and have invested time in develo
 
 People management is an entirely new skill set from the technical skills that got you your promotion. Technical skills are of course a prerequisite to being a good technical manager, but they're far from sufficient. Understanding this, and developing the additional skill set that your new role requires, will be key to succeeding as a manager.
 
-If you were promoted from backend engineer writing code in C to frontend engineer writing code in TypeScript, what kind of things would you do? You might read a book on TypeScript, do some TypeScript coding exercises, join a TypeScript user group, read some TypeScript blogs, etc.
+If your job role changed from backend engineer writing code in C to frontend engineer writing code in TypeScript, what kind of things would you do? You might read a book on TypeScript, do some TypeScript coding exercises, join a TypeScript user group, read some TypeScript blogs, etc.
 
 Moving from writing C to managing people is actually a larger change than C to TypeScript. Making this transition successfully requires the same level or more of proactive learning. Becoming a great people manager, for most people, is a lifelong journey, and not a skill picked up in a weekend. Embrace the challenge and treat the job as a lifelong learning exercise that starts now.
 
