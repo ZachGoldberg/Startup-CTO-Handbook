@@ -1,0 +1,13 @@
+---
+project:
+  output-dir: output
+filters:
+  - quarto
+disable_justify: true
+papersize: letter
+letterhead_img: bgwhite-cto-book.jpg
+letterhead_img_darkbg: bgdark-cto-book
+cover_illustration_img: coverorg-removebg.png
+cover_illustration_img_darkbg: coverorg-removebg.png
+format: texnative-pdf
+toc-depth: 3
