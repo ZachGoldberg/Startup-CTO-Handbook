@@ -2695,7 +2695,9 @@ Most startups have at least three different kinds of data they use as part of th
 
 * Transactional data
 
-* Analytical business intelligence data Behavioral data
+* Analytical business intelligence data
+
+* Behavioral data
 
 Each of these types of data will come in different volumes, have different read/write patterns, and require different tools to visualize and glean insights.
 
