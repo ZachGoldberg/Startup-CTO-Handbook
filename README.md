@@ -17,6 +17,10 @@ Hi, thanks for checking out the Startup CTO's Handbook!  This repository has the
 # The Author
 [Linkedin](https://www.linkedin.com/in/zachgoldberg/) / [Website](https://zachgoldberg.com) / [Email](mailto:zach@zachgoldberg.com)
 
+# Building the PDF
+
+Execute `./RUNME.sh` for instructions.
+
 # Licensing
 See the LICENSE file, but tl;dr - you're welcome to make copies, changes, redistribute etc. so long as you're not reselling, you keep my name/attribution attached, and you keep future versions open under a similar/the same license.
 
